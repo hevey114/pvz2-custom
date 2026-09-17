@@ -1,0 +1,43 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"PlantCosmicNut": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_PLANT_COSMICNUT": {
+					"type": "PopAnim",
+					"path": "images/full/plant/cosmicnut"
+				},
+				"POPANIM_PLANT_COSMICNUT_TRANSFORM": {
+					"type": "PopAnim",
+					"path": "images/full/plant/cosmicnut_transform"
+				},
+				"POPANIM_PLANT_COSMICTALLNUT": {
+					"type": "PopAnim",
+					"path": "images/full/plant/cosmictallnut"
+				},
+				"POPANIM_PLANT_COSMICTALLNUT_TRANSFORM": {
+					"type": "PopAnim",
+					"path": "images/full/plant/cosmictallnut_transform"
+				},
+				"POPANIM_PLANT_COSMICNUT_TX": {
+					"type": "PopAnim",
+					"path": "images/full/effects/cosmicnut_tx"
+				}
+			}
+		}
+	}
+}

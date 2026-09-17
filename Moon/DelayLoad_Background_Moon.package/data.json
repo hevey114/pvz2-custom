@@ -1,0 +1,42 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"DelayLoad_Background_Moon": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"IMAGE_BACKGROUNDS_MOON_TEXTURE": {
+					"type": "Image",
+					"path": "images/full/backgrounds/Moon/texture.png",
+					"additional": {
+						"x": 555
+					}
+				},
+				"IMAGE_BACKGROUNDS_MOON_TEXTURE_LEFT": {
+					"type": "Image",
+					"path": "images/full/backgrounds/Moon/texture_left.png",
+					"additional": null
+				},
+				"IMAGE_BACKGROUNDS_MOON_TEXTURE_RIGHT": {
+					"type": "Image",
+					"path": "images/full/backgrounds/Moon/texture_right.png",
+					"additional": {
+						"x": 2604
+					}
+				}
+			}
+		}
+	}
+}

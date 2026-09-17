@@ -1,0 +1,811 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"zombie_galactic_imp_bubblegun_bubble_108x106": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_108X106",
+			"dimension": {
+				"width": 108,
+				"height": 106
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_113x101": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_113X101",
+			"dimension": {
+				"width": 113,
+				"height": 101
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_125x123": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_125X123",
+			"dimension": {
+				"width": 125,
+				"height": 123
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_12x12": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_12X12",
+			"dimension": {
+				"width": 12,
+				"height": 12
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_131x131": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_131X131",
+			"dimension": {
+				"width": 131,
+				"height": 131
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_131x131_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_131X131_2",
+			"dimension": {
+				"width": 131,
+				"height": 131
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_131x135": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_131X135",
+			"dimension": {
+				"width": 131,
+				"height": 135
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_133x133": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_133X133",
+			"dimension": {
+				"width": 133,
+				"height": 133
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_134x142": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_134X142",
+			"dimension": {
+				"width": 134,
+				"height": 142
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_137x131": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_137X131",
+			"dimension": {
+				"width": 137,
+				"height": 131
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_138x136": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_138X136",
+			"dimension": {
+				"width": 138,
+				"height": 136
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_13x13": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_13X13",
+			"dimension": {
+				"width": 13,
+				"height": 13
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_13x13_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_13X13_2",
+			"dimension": {
+				"width": 13,
+				"height": 13
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_13x13_3": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_13X13_3",
+			"dimension": {
+				"width": 13,
+				"height": 13
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_13x13_4": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_13X13_4",
+			"dimension": {
+				"width": 13,
+				"height": 13
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_13x13_5": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_13X13_5",
+			"dimension": {
+				"width": 13,
+				"height": 13
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_13x15": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_13X15",
+			"dimension": {
+				"width": 13,
+				"height": 15
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_14x14": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_14X14",
+			"dimension": {
+				"width": 14,
+				"height": 14
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_150x150": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_150X150",
+			"dimension": {
+				"width": 150,
+				"height": 150
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_150x150_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_150X150_2",
+			"dimension": {
+				"width": 150,
+				"height": 150
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_150x150_3": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_150X150_3",
+			"dimension": {
+				"width": 150,
+				"height": 150
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_150x150_4": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_150X150_4",
+			"dimension": {
+				"width": 150,
+				"height": 150
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_150x150_5": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_150X150_5",
+			"dimension": {
+				"width": 150,
+				"height": 150
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_150x150_6": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_150X150_6",
+			"dimension": {
+				"width": 150,
+				"height": 150
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_151x136": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_151X136",
+			"dimension": {
+				"width": 151,
+				"height": 136
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_15x15": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_15X15",
+			"dimension": {
+				"width": 15,
+				"height": 15
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_15x16": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_15X16",
+			"dimension": {
+				"width": 15,
+				"height": 16
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_160x139": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_160X139",
+			"dimension": {
+				"width": 160,
+				"height": 139
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_161x154": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_161X154",
+			"dimension": {
+				"width": 161,
+				"height": 154
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_174x174": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_174X174",
+			"dimension": {
+				"width": 174,
+				"height": 174
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_176x133": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_176X133",
+			"dimension": {
+				"width": 176,
+				"height": 133
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_17x17": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_17X17",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_17x17_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_17X17_2",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_17x17_3": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_17X17_3",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_17x17_4": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_17X17_4",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_17x17_5": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_17X17_5",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_188x160": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_188X160",
+			"dimension": {
+				"width": 188,
+				"height": 160
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_1x1": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_1X1",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_1x1_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_1X1_2",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_1x1_3": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_1X1_3",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_1x1_4": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_1X1_4",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_1x1_5": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_1X1_5",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_1x1_6": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_1X1_6",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_1x1_7": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_1X1_7",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_1x1_8": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_1X1_8",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_1x1_9": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_1X1_9",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_21x21": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_21X21",
+			"dimension": {
+				"width": 21,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_21x21_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_21X21_2",
+			"dimension": {
+				"width": 21,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_21x21_3": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_21X21_3",
+			"dimension": {
+				"width": 21,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_21x21_4": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_21X21_4",
+			"dimension": {
+				"width": 21,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_21x21_5": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_21X21_5",
+			"dimension": {
+				"width": 21,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_21x21_6": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_21X21_6",
+			"dimension": {
+				"width": 21,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_21x21_7": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_21X21_7",
+			"dimension": {
+				"width": 21,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_21x22": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_21X22",
+			"dimension": {
+				"width": 21,
+				"height": 22
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_21x22_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_21X22_2",
+			"dimension": {
+				"width": 21,
+				"height": 22
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_21x25": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_21X25",
+			"dimension": {
+				"width": 21,
+				"height": 25
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_22x23": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_22X23",
+			"dimension": {
+				"width": 22,
+				"height": 23
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_23x24": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_23X24",
+			"dimension": {
+				"width": 23,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_24x24": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_24X24",
+			"dimension": {
+				"width": 24,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_24x24_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_24X24_2",
+			"dimension": {
+				"width": 24,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_24x24_3": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_24X24_3",
+			"dimension": {
+				"width": 24,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_24x24_4": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_24X24_4",
+			"dimension": {
+				"width": 24,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_24x24_5": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_24X24_5",
+			"dimension": {
+				"width": 24,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_24x24_6": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_24X24_6",
+			"dimension": {
+				"width": 24,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_24x25": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_24X25",
+			"dimension": {
+				"width": 24,
+				"height": 25
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_26x28": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_26X28",
+			"dimension": {
+				"width": 26,
+				"height": 28
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_33x39": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_33X39",
+			"dimension": {
+				"width": 33,
+				"height": 39
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_35x36": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_35X36",
+			"dimension": {
+				"width": 35,
+				"height": 36
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_35x36_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_35X36_2",
+			"dimension": {
+				"width": 35,
+				"height": 36
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_35x37": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_35X37",
+			"dimension": {
+				"width": 35,
+				"height": 37
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_35x38": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_35X38",
+			"dimension": {
+				"width": 35,
+				"height": 38
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_35x41": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_35X41",
+			"dimension": {
+				"width": 35,
+				"height": 41
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_35x44": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_35X44",
+			"dimension": {
+				"width": 35,
+				"height": 44
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_36x36": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_36X36",
+			"dimension": {
+				"width": 36,
+				"height": 36
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_36x52": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_36X52",
+			"dimension": {
+				"width": 36,
+				"height": 52
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_37x58": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_37X58",
+			"dimension": {
+				"width": 37,
+				"height": 58
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_40x38": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_40X38",
+			"dimension": {
+				"width": 40,
+				"height": 38
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_40x40": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_40X40",
+			"dimension": {
+				"width": 40,
+				"height": 40
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_45x45": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_45X45",
+			"dimension": {
+				"width": 45,
+				"height": 45
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_47x47": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_47X47",
+			"dimension": {
+				"width": 47,
+				"height": 47
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_47x50": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_47X50",
+			"dimension": {
+				"width": 47,
+				"height": 50
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_63x29": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_63X29",
+			"dimension": {
+				"width": 63,
+				"height": 29
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_69x66": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_69X66",
+			"dimension": {
+				"width": 69,
+				"height": 66
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_69x69": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_69X69",
+			"dimension": {
+				"width": 69,
+				"height": 69
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_71x32": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_71X32",
+			"dimension": {
+				"width": 71,
+				"height": 32
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_79x79": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_79X79",
+			"dimension": {
+				"width": 79,
+				"height": 79
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_7x7": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_7X7",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_7x7_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_7X7_2",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_7x8": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_7X8",
+			"dimension": {
+				"width": 7,
+				"height": 8
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_7x8_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_7X8_2",
+			"dimension": {
+				"width": 7,
+				"height": 8
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_91x91": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_91X91",
+			"dimension": {
+				"width": 91,
+				"height": 91
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_93x49": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_93X49",
+			"dimension": {
+				"width": 93,
+				"height": 49
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_94x55": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_94X55",
+			"dimension": {
+				"width": 94,
+				"height": 55
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_96x96": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_96X96",
+			"dimension": {
+				"width": 96,
+				"height": 96
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_99x95": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_99X95",
+			"dimension": {
+				"width": 99,
+				"height": 95
+			},
+			"additional": null
+		},
+		"zombie_galactic_imp_bubblegun_bubble_9x10": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_ZOMBIE_GALACTIC_IMP_BUBBLEGUN_BUBBLE_9X10",
+			"dimension": {
+				"width": 9,
+				"height": 10
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"001": [
+			"001_1",
+			"001_2"
+		],
+		"boom_02": [
+			"boom_02_1",
+			"boom_02_2"
+		],
+		"boom_03": [
+			"boom_03_1",
+			"boom_03_2"
+		],
+		"mower_spawn_pow": [
+			"mower_spawn_pow_1"
+		],
+		"paopao1": [
+			"paopao1_1",
+			"paopao1_2"
+		],
+		"shanke.cn_1_5_95578": [
+			"shanke.cn_1_5_95578_1",
+			"shanke.cn_1_5_95578_2"
+		],
+		"shanke.cn_1_6_75321": [
+			"shanke.cn_1_6_75321_1",
+			"shanke.cn_1_6_75321_2"
+		],
+		"shanke.cn_1_7_57096": [
+			"shanke.cn_1_7_57096_1",
+			"shanke.cn_1_7_57096_2"
+		]
+	}
+}

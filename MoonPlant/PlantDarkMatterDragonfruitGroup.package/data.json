@@ -1,0 +1,47 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"PlantDarkMatterDragonfruitGroup": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_ATTACK_HIT": {
+					"type": "PopAnim",
+					"path": "images/full/effects/darkmatter_dragonfruit_attack_hit"
+				},
+				"POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_BULLET": {
+					"type": "PopAnim",
+					"path": "images/full/effects/darkmatter_dragonfruit_bullet"
+				},
+				"POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_DRAGON": {
+					"type": "PopAnim",
+					"path": "images/full/effects/darkmatter_dragonfruit_dragon"
+				},
+				"POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_HIT": {
+					"type": "PopAnim",
+					"path": "images/full/effects/darkmatter_dragonfruit_hit"
+				},
+				"POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_PLANTFOOD_HIT": {
+					"type": "PopAnim",
+					"path": "images/full/effects/darkmatter_dragonfruit_plantfood_hit"
+				},
+				"POPANIM_PLANT_DARKMATTER_DRAGONFRUIT": {
+					"type": "PopAnim",
+					"path": "images/full/plant/darkmatter_dragonfruit"
+				}
+			}
+		}
+	}
+}

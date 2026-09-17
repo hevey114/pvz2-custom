@@ -1,0 +1,83 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"pineclone_plantfood_effect_33x35": {
+			"id": "IMAGE_EFFECTS_PINECLONE_PLANTFOOD_EFFECT_PINECLONE_PLANTFOOD_EFFECT_33X35",
+			"dimension": {
+				"width": 33,
+				"height": 35
+			},
+			"additional": null
+		},
+		"pineclone_plantfood_effect_30x30": {
+			"id": "IMAGE_EFFECTS_PINECLONE_PLANTFOOD_EFFECT_PINECLONE_PLANTFOOD_EFFECT_30X30",
+			"dimension": {
+				"width": 30,
+				"height": 30
+			},
+			"additional": null
+		},
+		"pineclone_plantfood_effect_29x34": {
+			"id": "IMAGE_EFFECTS_PINECLONE_PLANTFOOD_EFFECT_PINECLONE_PLANTFOOD_EFFECT_29X34",
+			"dimension": {
+				"width": 29,
+				"height": 34
+			},
+			"additional": null
+		},
+		"pineclone_plantfood_effect_33x30": {
+			"id": "IMAGE_EFFECTS_PINECLONE_PLANTFOOD_EFFECT_PINECLONE_PLANTFOOD_EFFECT_33X30",
+			"dimension": {
+				"width": 33,
+				"height": 30
+			},
+			"additional": null
+		},
+		"pineclone_plantfood_effect_33x30_2": {
+			"id": "IMAGE_EFFECTS_PINECLONE_PLANTFOOD_EFFECT_PINECLONE_PLANTFOOD_EFFECT_33X30_2",
+			"dimension": {
+				"width": 33,
+				"height": 30
+			},
+			"additional": null
+		},
+		"pineclone_plantfood_effect_29x30": {
+			"id": "IMAGE_EFFECTS_PINECLONE_PLANTFOOD_EFFECT_PINECLONE_PLANTFOOD_EFFECT_29X30",
+			"dimension": {
+				"width": 29,
+				"height": 30
+			},
+			"additional": null
+		},
+		"pineclone_plantfood_effect_30x30_2": {
+			"id": "IMAGE_EFFECTS_PINECLONE_PLANTFOOD_EFFECT_PINECLONE_PLANTFOOD_EFFECT_30X30_2",
+			"dimension": {
+				"width": 30,
+				"height": 30
+			},
+			"additional": null
+		},
+		"pineclone_plantfood_effect_29x31": {
+			"id": "IMAGE_EFFECTS_PINECLONE_PLANTFOOD_EFFECT_PINECLONE_PLANTFOOD_EFFECT_29X31",
+			"dimension": {
+				"width": 29,
+				"height": 31
+			},
+			"additional": null
+		},
+		"pineclone_plantfood_effect_32x33": {
+			"id": "IMAGE_EFFECTS_PINECLONE_PLANTFOOD_EFFECT_PINECLONE_PLANTFOOD_EFFECT_32X33",
+			"dimension": {
+				"width": 32,
+				"height": 33
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

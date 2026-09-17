@@ -1,0 +1,27 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"ZombieMoonGargantuarGroup": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_ZOMBIE_MOON_GARGANTUAR": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/moon_gargantuar"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/DarkMatter_Dragonfruit_hit_28x28" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="DarkMatter_Dragonfruit_hit_28x28">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/DarkMatter_Dragonfruit_hit_28x28">
+                                    <matrix>
+                                        <Matrix a="10.089723" b="0.000000" c="0.000000" d="10.089723" tx="-154.300003" ty="-154.300003"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

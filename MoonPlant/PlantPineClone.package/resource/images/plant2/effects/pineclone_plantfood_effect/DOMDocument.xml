@@ -1,0 +1,102 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/pineclone_plantfood_effect_33x35" href="media/pineclone_plantfood_effect_33x35.png"/>
+        <DOMBitmapItem name="media/pineclone_plantfood_effect_30x30" href="media/pineclone_plantfood_effect_30x30.png"/>
+        <DOMBitmapItem name="media/pineclone_plantfood_effect_29x34" href="media/pineclone_plantfood_effect_29x34.png"/>
+        <DOMBitmapItem name="media/pineclone_plantfood_effect_33x30" href="media/pineclone_plantfood_effect_33x30.png"/>
+        <DOMBitmapItem name="media/pineclone_plantfood_effect_33x30_2" href="media/pineclone_plantfood_effect_33x30_2.png"/>
+        <DOMBitmapItem name="media/pineclone_plantfood_effect_29x30" href="media/pineclone_plantfood_effect_29x30.png"/>
+        <DOMBitmapItem name="media/pineclone_plantfood_effect_30x30_2" href="media/pineclone_plantfood_effect_30x30_2.png"/>
+        <DOMBitmapItem name="media/pineclone_plantfood_effect_29x31" href="media/pineclone_plantfood_effect_29x31.png"/>
+        <DOMBitmapItem name="media/pineclone_plantfood_effect_32x33" href="media/pineclone_plantfood_effect_32x33.png"/>
+    </media>
+    <symbols>
+        <Include href="image/pineclone_plantfood_effect_33x35.xml"/>
+        <Include href="image/pineclone_plantfood_effect_30x30.xml"/>
+        <Include href="image/pineclone_plantfood_effect_29x34.xml"/>
+        <Include href="image/pineclone_plantfood_effect_33x30.xml"/>
+        <Include href="image/pineclone_plantfood_effect_33x30_2.xml"/>
+        <Include href="image/pineclone_plantfood_effect_29x30.xml"/>
+        <Include href="image/pineclone_plantfood_effect_30x30_2.xml"/>
+        <Include href="image/pineclone_plantfood_effect_29x31.xml"/>
+        <Include href="image/pineclone_plantfood_effect_32x33.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/loop.xml"/>
+        <Include href="label/dis.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="30" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="30" name="loop" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="30" name="dis" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="59">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="89">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/loop" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/dis" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

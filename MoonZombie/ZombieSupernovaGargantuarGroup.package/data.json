@@ -1,0 +1,35 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"ZombieSupernovaGargantuarGroup": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_EFFECTS_SUPERNOVA_GARGANTUAR_DESTROY": {
+					"type": "PopAnim",
+					"path": "images/full/effects/supernova_gargantuar_effect"
+				},
+				"POPANIM_ZOMBIE_SUPERNOVA_GARGANTUAR": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/supernova_gargantuar"
+				},
+				"POPANIM_ZOMBIE_SUPERNOVA_GARGANTUAR_TELEPORT": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/supernova_gargantuar_teleport"
+				}
+			}
+		}
+	}
+}

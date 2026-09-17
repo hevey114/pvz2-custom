@@ -1,0 +1,620 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"zombie_moon_basic_flag_10x10": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_10X10",
+			"dimension": {
+				"width": 10,
+				"height": 10
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_10x10_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_10X10_2",
+			"dimension": {
+				"width": 10,
+				"height": 10
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_118x107": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_118X107",
+			"dimension": {
+				"width": 118,
+				"height": 107
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_123x95": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_123X95",
+			"dimension": {
+				"width": 123,
+				"height": 95
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_12x12": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_12X12",
+			"dimension": {
+				"width": 12,
+				"height": 12
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_12x13": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_12X13",
+			"dimension": {
+				"width": 12,
+				"height": 13
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_135x8": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_135X8",
+			"dimension": {
+				"width": 135,
+				"height": 8
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_14x15": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_14X15",
+			"dimension": {
+				"width": 14,
+				"height": 15
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_15x16": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_15X16",
+			"dimension": {
+				"width": 15,
+				"height": 16
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_15x23": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_15X23",
+			"dimension": {
+				"width": 15,
+				"height": 23
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_16x12": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_16X12",
+			"dimension": {
+				"width": 16,
+				"height": 12
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_16x14": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_16X14",
+			"dimension": {
+				"width": 16,
+				"height": 14
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_17x18": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_17X18",
+			"dimension": {
+				"width": 17,
+				"height": 18
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_17x19": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_17X19",
+			"dimension": {
+				"width": 17,
+				"height": 19
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_18x17": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_18X17",
+			"dimension": {
+				"width": 18,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_18x40": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_18X40",
+			"dimension": {
+				"width": 18,
+				"height": 40
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_19x19": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_19X19",
+			"dimension": {
+				"width": 19,
+				"height": 19
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_20x18": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_20X18",
+			"dimension": {
+				"width": 20,
+				"height": 18
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_20x30": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_20X30",
+			"dimension": {
+				"width": 20,
+				"height": 30
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_21x16": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_21X16",
+			"dimension": {
+				"width": 21,
+				"height": 16
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_21x18": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_21X18",
+			"dimension": {
+				"width": 21,
+				"height": 18
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_22x18": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_22X18",
+			"dimension": {
+				"width": 22,
+				"height": 18
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_22x24": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_22X24",
+			"dimension": {
+				"width": 22,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_22x39": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_22X39",
+			"dimension": {
+				"width": 22,
+				"height": 39
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_24x48": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_24X48",
+			"dimension": {
+				"width": 24,
+				"height": 48
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_25x19": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_25X19",
+			"dimension": {
+				"width": 25,
+				"height": 19
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_25x24": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_25X24",
+			"dimension": {
+				"width": 25,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_25x45": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_25X45",
+			"dimension": {
+				"width": 25,
+				"height": 45
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_25x60": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_25X60",
+			"dimension": {
+				"width": 25,
+				"height": 60
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_26x38": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_26X38",
+			"dimension": {
+				"width": 26,
+				"height": 38
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_26x43": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_26X43",
+			"dimension": {
+				"width": 26,
+				"height": 43
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_26x61": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_26X61",
+			"dimension": {
+				"width": 26,
+				"height": 61
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_27x25": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_27X25",
+			"dimension": {
+				"width": 27,
+				"height": 25
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_28x21": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_28X21",
+			"dimension": {
+				"width": 28,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_28x219": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_28X219",
+			"dimension": {
+				"width": 28,
+				"height": 219
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_28x33": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_28X33",
+			"dimension": {
+				"width": 28,
+				"height": 33
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_29x28": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_29X28",
+			"dimension": {
+				"width": 29,
+				"height": 28
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_29x36": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_29X36",
+			"dimension": {
+				"width": 29,
+				"height": 36
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_30x24": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_30X24",
+			"dimension": {
+				"width": 30,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_30x48": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_30X48",
+			"dimension": {
+				"width": 30,
+				"height": 48
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_31x238": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_31X238",
+			"dimension": {
+				"width": 31,
+				"height": 238
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_31x28": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_31X28",
+			"dimension": {
+				"width": 31,
+				"height": 28
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_31x39": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_31X39",
+			"dimension": {
+				"width": 31,
+				"height": 39
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_35x24": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_35X24",
+			"dimension": {
+				"width": 35,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_35x39": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_35X39",
+			"dimension": {
+				"width": 35,
+				"height": 39
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_36x45": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_36X45",
+			"dimension": {
+				"width": 36,
+				"height": 45
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_36x45_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_36X45_2",
+			"dimension": {
+				"width": 36,
+				"height": 45
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_38x48": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_38X48",
+			"dimension": {
+				"width": 38,
+				"height": 48
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_47x26": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_47X26",
+			"dimension": {
+				"width": 47,
+				"height": 26
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_47x27": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_47X27",
+			"dimension": {
+				"width": 47,
+				"height": 27
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_52x31": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_52X31",
+			"dimension": {
+				"width": 52,
+				"height": 31
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_56x83": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_56X83",
+			"dimension": {
+				"width": 56,
+				"height": 83
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_6x6": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_6X6",
+			"dimension": {
+				"width": 6,
+				"height": 6
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_6x7": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_6X7",
+			"dimension": {
+				"width": 6,
+				"height": 7
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_70x71": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_70X71",
+			"dimension": {
+				"width": 70,
+				"height": 71
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_74x90": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_74X90",
+			"dimension": {
+				"width": 74,
+				"height": 90
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_78x84": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_78X84",
+			"dimension": {
+				"width": 78,
+				"height": 84
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_79x69": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_79X69",
+			"dimension": {
+				"width": 79,
+				"height": 69
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_7x7": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_7X7",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_7x7_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_7X7_2",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_80x76": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_80X76",
+			"dimension": {
+				"width": 80,
+				"height": 76
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_81x71": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_81X71",
+			"dimension": {
+				"width": 81,
+				"height": 71
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_81x72": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_81X72",
+			"dimension": {
+				"width": 81,
+				"height": 72
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_82x69": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_82X69",
+			"dimension": {
+				"width": 82,
+				"height": 69
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_85x87": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_85X87",
+			"dimension": {
+				"width": 85,
+				"height": 87
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_86x59": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_86X59",
+			"dimension": {
+				"width": 86,
+				"height": 59
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_86x59_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_86X59_2",
+			"dimension": {
+				"width": 86,
+				"height": 59
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_86x78": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_86X78",
+			"dimension": {
+				"width": 86,
+				"height": 78
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_8x8": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_8X8",
+			"dimension": {
+				"width": 8,
+				"height": 8
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_91x71": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_91X71",
+			"dimension": {
+				"width": 91,
+				"height": 71
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_9x8": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_9X8",
+			"dimension": {
+				"width": 9,
+				"height": 8
+			},
+			"additional": null
+		},
+		"zombie_moon_basic_flag_9x9": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_MOON_BASIC_FLAG_ZOMBIE_MOON_BASIC_FLAG_9X9",
+			"dimension": {
+				"width": 9,
+				"height": 9
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"flag_01": [
+			"flag_01_1"
+		],
+		"plant_planted_rock_01": [
+			"plant_planted_rock_01_1"
+		],
+		"plant_planted_rock_02": [
+			"plant_planted_rock_02_1",
+			"plant_planted_rock_02_2",
+			"plant_planted_rock_02_3"
+		],
+		"plant_planted_rock_03": [
+			"plant_planted_rock_03_1",
+			"plant_planted_rock_03_2",
+			"plant_planted_rock_03_3"
+		],
+		"power_up_head_pinch_pop": [
+			"power_up_head_pinch_pop_1"
+		],
+		"rotating_piece5_green": [
+			"rotating_piece5_green_1"
+		],
+		"straburst_piece_green": [
+			"straburst_piece_green_1"
+		],
+		"strawburst_piece2_green": [
+			"strawburst_piece2_green_1",
+			"strawburst_piece2_green_2"
+		],
+		"zombie_foot_inner_heel": [
+			"zombie_foot_inner_heel_1"
+		]
+	}
+}

@@ -1,0 +1,872 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"DarkMatter_Dragonfruit_100x108": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_100X108",
+			"dimension": {
+				"width": 100,
+				"height": 108
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_100x108_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_100X108_2",
+			"dimension": {
+				"width": 100,
+				"height": 108
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_103x103": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_103X103",
+			"dimension": {
+				"width": 103,
+				"height": 103
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_109x120": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_109X120",
+			"dimension": {
+				"width": 109,
+				"height": 120
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_109x121": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_109X121",
+			"dimension": {
+				"width": 109,
+				"height": 121
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_10x6": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_10X6",
+			"dimension": {
+				"width": 10,
+				"height": 6
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_10x8": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_10X8",
+			"dimension": {
+				"width": 10,
+				"height": 8
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_112x332": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_112X332",
+			"dimension": {
+				"width": 112,
+				"height": 332
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_112x332_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_112X332_2",
+			"dimension": {
+				"width": 112,
+				"height": 332
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_117x16": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_117X16",
+			"dimension": {
+				"width": 117,
+				"height": 16
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_117x16_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_117X16_2",
+			"dimension": {
+				"width": 117,
+				"height": 16
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_118x118": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_118X118",
+			"dimension": {
+				"width": 118,
+				"height": 118
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_11x9": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_11X9",
+			"dimension": {
+				"width": 11,
+				"height": 9
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_122x137": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_122X137",
+			"dimension": {
+				"width": 122,
+				"height": 137
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_123x140": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_123X140",
+			"dimension": {
+				"width": 123,
+				"height": 140
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_12x11": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_12X11",
+			"dimension": {
+				"width": 12,
+				"height": 11
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_138x160": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_138X160",
+			"dimension": {
+				"width": 138,
+				"height": 160
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_13x10": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_13X10",
+			"dimension": {
+				"width": 13,
+				"height": 10
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_13x7": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_13X7",
+			"dimension": {
+				"width": 13,
+				"height": 7
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_13x8": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_13X8",
+			"dimension": {
+				"width": 13,
+				"height": 8
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_145x169": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_145X169",
+			"dimension": {
+				"width": 145,
+				"height": 169
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_151x460": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_151X460",
+			"dimension": {
+				"width": 151,
+				"height": 460
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_151x460_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_151X460_2",
+			"dimension": {
+				"width": 151,
+				"height": 460
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_157x88": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_157X88",
+			"dimension": {
+				"width": 157,
+				"height": 88
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_157x88_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_157X88_2",
+			"dimension": {
+				"width": 157,
+				"height": 88
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_15x38": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_15X38",
+			"dimension": {
+				"width": 15,
+				"height": 38
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_203x632": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_203X632",
+			"dimension": {
+				"width": 203,
+				"height": 632
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_203x632_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_203X632_2",
+			"dimension": {
+				"width": 203,
+				"height": 632
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_20x20": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_20X20",
+			"dimension": {
+				"width": 20,
+				"height": 20
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_20x20_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_20X20_2",
+			"dimension": {
+				"width": 20,
+				"height": 20
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_20x21": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_20X21",
+			"dimension": {
+				"width": 20,
+				"height": 21
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_20x32": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_20X32",
+			"dimension": {
+				"width": 20,
+				"height": 32
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_20x32_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_20X32_2",
+			"dimension": {
+				"width": 20,
+				"height": 32
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_21x21": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_21X21",
+			"dimension": {
+				"width": 21,
+				"height": 21
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_22x22": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_22X22",
+			"dimension": {
+				"width": 22,
+				"height": 22
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_22x42": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_22X42",
+			"dimension": {
+				"width": 22,
+				"height": 42
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_22x42_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_22X42_2",
+			"dimension": {
+				"width": 22,
+				"height": 42
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_23x22": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_23X22",
+			"dimension": {
+				"width": 23,
+				"height": 22
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_24x38": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_24X38",
+			"dimension": {
+				"width": 24,
+				"height": 38
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_24x45": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_24X45",
+			"dimension": {
+				"width": 24,
+				"height": 45
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_26x26": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_26X26",
+			"dimension": {
+				"width": 26,
+				"height": 26
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_27x25": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_27X25",
+			"dimension": {
+				"width": 27,
+				"height": 25
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_28x22": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_28X22",
+			"dimension": {
+				"width": 28,
+				"height": 22
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_28x24": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_28X24",
+			"dimension": {
+				"width": 28,
+				"height": 24
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_295x69": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_295X69",
+			"dimension": {
+				"width": 295,
+				"height": 69
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_295x69_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_295X69_2",
+			"dimension": {
+				"width": 295,
+				"height": 69
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_29x15": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_29X15",
+			"dimension": {
+				"width": 29,
+				"height": 15
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_30x18": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_30X18",
+			"dimension": {
+				"width": 30,
+				"height": 18
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_31x51": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_31X51",
+			"dimension": {
+				"width": 31,
+				"height": 51
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_32x19": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_32X19",
+			"dimension": {
+				"width": 32,
+				"height": 19
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_33x54": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_33X54",
+			"dimension": {
+				"width": 33,
+				"height": 54
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_33x54_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_33X54_2",
+			"dimension": {
+				"width": 33,
+				"height": 54
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_35x34": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_35X34",
+			"dimension": {
+				"width": 35,
+				"height": 34
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_38x32": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_38X32",
+			"dimension": {
+				"width": 38,
+				"height": 32
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_38x34": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_38X34",
+			"dimension": {
+				"width": 38,
+				"height": 34
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_40x30": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_40X30",
+			"dimension": {
+				"width": 40,
+				"height": 30
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_41x28": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_41X28",
+			"dimension": {
+				"width": 41,
+				"height": 28
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_41x50": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_41X50",
+			"dimension": {
+				"width": 41,
+				"height": 50
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_42x24": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_42X24",
+			"dimension": {
+				"width": 42,
+				"height": 24
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_44x31": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_44X31",
+			"dimension": {
+				"width": 44,
+				"height": 31
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_46x96": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_46X96",
+			"dimension": {
+				"width": 46,
+				"height": 96
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_47x33": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_47X33",
+			"dimension": {
+				"width": 47,
+				"height": 33
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_47x48": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_47X48",
+			"dimension": {
+				"width": 47,
+				"height": 48
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_49x38": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_49X38",
+			"dimension": {
+				"width": 49,
+				"height": 38
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_49x40": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_49X40",
+			"dimension": {
+				"width": 49,
+				"height": 40
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_50x22": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_50X22",
+			"dimension": {
+				"width": 50,
+				"height": 22
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_51x24": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_51X24",
+			"dimension": {
+				"width": 51,
+				"height": 24
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_51x42": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_51X42",
+			"dimension": {
+				"width": 51,
+				"height": 42
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_52x42": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_52X42",
+			"dimension": {
+				"width": 52,
+				"height": 42
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_536x100": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_536X100",
+			"dimension": {
+				"width": 536,
+				"height": 100
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_536x100_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_536X100_2",
+			"dimension": {
+				"width": 536,
+				"height": 100
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_53x53": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_53X53",
+			"dimension": {
+				"width": 53,
+				"height": 53
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_53x53_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_53X53_2",
+			"dimension": {
+				"width": 53,
+				"height": 53
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_54x83": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_54X83",
+			"dimension": {
+				"width": 54,
+				"height": 83
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_55x46": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_55X46",
+			"dimension": {
+				"width": 55,
+				"height": 46
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_56x55": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_56X55",
+			"dimension": {
+				"width": 56,
+				"height": 55
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_58x26": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_58X26",
+			"dimension": {
+				"width": 58,
+				"height": 26
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_61x61": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_61X61",
+			"dimension": {
+				"width": 61,
+				"height": 61
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_61x90": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_61X90",
+			"dimension": {
+				"width": 61,
+				"height": 90
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_62x36": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_62X36",
+			"dimension": {
+				"width": 62,
+				"height": 36
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_63x25": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_63X25",
+			"dimension": {
+				"width": 63,
+				"height": 25
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_64x64": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_64X64",
+			"dimension": {
+				"width": 64,
+				"height": 64
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_65x40": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_65X40",
+			"dimension": {
+				"width": 65,
+				"height": 40
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_68x39": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_68X39",
+			"dimension": {
+				"width": 68,
+				"height": 39
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_69x69": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_69X69",
+			"dimension": {
+				"width": 69,
+				"height": 69
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_70x110": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_70X110",
+			"dimension": {
+				"width": 70,
+				"height": 110
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_70x41": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_70X41",
+			"dimension": {
+				"width": 70,
+				"height": 41
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_71x114": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_71X114",
+			"dimension": {
+				"width": 71,
+				"height": 114
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_724x128": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_724X128",
+			"dimension": {
+				"width": 724,
+				"height": 128
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_724x128_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_724X128_2",
+			"dimension": {
+				"width": 724,
+				"height": 128
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_72x50": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_72X50",
+			"dimension": {
+				"width": 72,
+				"height": 50
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_72x72": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_72X72",
+			"dimension": {
+				"width": 72,
+				"height": 72
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_74x132": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_74X132",
+			"dimension": {
+				"width": 74,
+				"height": 132
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_7x11": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_7X11",
+			"dimension": {
+				"width": 7,
+				"height": 11
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_7x7": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_7X7",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_80x138": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_80X138",
+			"dimension": {
+				"width": 80,
+				"height": 138
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_84x239": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_84X239",
+			"dimension": {
+				"width": 84,
+				"height": 239
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_84x239_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_84X239_2",
+			"dimension": {
+				"width": 84,
+				"height": 239
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_85x85": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_85X85",
+			"dimension": {
+				"width": 85,
+				"height": 85
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_86x152": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_86X152",
+			"dimension": {
+				"width": 86,
+				"height": 152
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_87x20": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_87X20",
+			"dimension": {
+				"width": 87,
+				"height": 20
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_87x20_2": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_87X20_2",
+			"dimension": {
+				"width": 87,
+				"height": 20
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_89x89": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_89X89",
+			"dimension": {
+				"width": 89,
+				"height": 89
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_8x16": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_8X16",
+			"dimension": {
+				"width": 8,
+				"height": 16
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_90x160": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_90X160",
+			"dimension": {
+				"width": 90,
+				"height": 160
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_91x47": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_91X47",
+			"dimension": {
+				"width": 91,
+				"height": 47
+			},
+			"additional": null
+		},
+		"DarkMatter_Dragonfruit_91x94": {
+			"id": "IMAGE_PLANT_DARKMATTER_DRAGONFRUIT_DARKMATTER_DRAGONFRUIT_91X94",
+			"dimension": {
+				"width": 91,
+				"height": 94
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"": [
+			"sprite",
+			"sprite_2"
+		]
+	}
+}

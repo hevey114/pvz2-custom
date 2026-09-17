@@ -1,0 +1,207 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/Moon_Rocket_100x53" href="media/Moon_Rocket_100x53.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_102x47" href="media/Moon_Rocket_102x47.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_118x116" href="media/Moon_Rocket_118x116.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_136x60" href="media/Moon_Rocket_136x60.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_139x128" href="media/Moon_Rocket_139x128.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_140x70" href="media/Moon_Rocket_140x70.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_148x146" href="media/Moon_Rocket_148x146.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_149x93" href="media/Moon_Rocket_149x93.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_167x158" href="media/Moon_Rocket_167x158.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_173x42" href="media/Moon_Rocket_173x42.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_176x82" href="media/Moon_Rocket_176x82.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_177x176" href="media/Moon_Rocket_177x176.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_181x609" href="media/Moon_Rocket_181x609.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_1x1" href="media/Moon_Rocket_1x1.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_207x206" href="media/Moon_Rocket_207x206.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_20x22" href="media/Moon_Rocket_20x22.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_22x22" href="media/Moon_Rocket_22x22.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_230x230" href="media/Moon_Rocket_230x230.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_245x389" href="media/Moon_Rocket_245x389.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_34x28" href="media/Moon_Rocket_34x28.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_352x357" href="media/Moon_Rocket_352x357.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_38x21" href="media/Moon_Rocket_38x21.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_397x397" href="media/Moon_Rocket_397x397.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_397x397_2" href="media/Moon_Rocket_397x397_2.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_43x35" href="media/Moon_Rocket_43x35.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_49x70" href="media/Moon_Rocket_49x70.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_51x50" href="media/Moon_Rocket_51x50.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_53x54" href="media/Moon_Rocket_53x54.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_57x55" href="media/Moon_Rocket_57x55.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_58x12" href="media/Moon_Rocket_58x12.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_58x55" href="media/Moon_Rocket_58x55.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_59x15" href="media/Moon_Rocket_59x15.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_62x45" href="media/Moon_Rocket_62x45.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_66x64" href="media/Moon_Rocket_66x64.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_72x66" href="media/Moon_Rocket_72x66.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_73x52" href="media/Moon_Rocket_73x52.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_81x16" href="media/Moon_Rocket_81x16.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_82x20" href="media/Moon_Rocket_82x20.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_87x85" href="media/Moon_Rocket_87x85.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_89x64" href="media/Moon_Rocket_89x64.png"/>
+        <DOMBitmapItem name="media/Moon_Rocket_97x93" href="media/Moon_Rocket_97x93.png"/>
+    </media>
+    <symbols>
+        <Include href="image/Moon_Rocket_100x53.xml"/>
+        <Include href="image/Moon_Rocket_102x47.xml"/>
+        <Include href="image/Moon_Rocket_118x116.xml"/>
+        <Include href="image/Moon_Rocket_136x60.xml"/>
+        <Include href="image/Moon_Rocket_139x128.xml"/>
+        <Include href="image/Moon_Rocket_140x70.xml"/>
+        <Include href="image/Moon_Rocket_148x146.xml"/>
+        <Include href="image/Moon_Rocket_149x93.xml"/>
+        <Include href="image/Moon_Rocket_167x158.xml"/>
+        <Include href="image/Moon_Rocket_173x42.xml"/>
+        <Include href="image/Moon_Rocket_176x82.xml"/>
+        <Include href="image/Moon_Rocket_177x176.xml"/>
+        <Include href="image/Moon_Rocket_181x609.xml"/>
+        <Include href="image/Moon_Rocket_1x1.xml"/>
+        <Include href="image/Moon_Rocket_207x206.xml"/>
+        <Include href="image/Moon_Rocket_20x22.xml"/>
+        <Include href="image/Moon_Rocket_22x22.xml"/>
+        <Include href="image/Moon_Rocket_230x230.xml"/>
+        <Include href="image/Moon_Rocket_245x389.xml"/>
+        <Include href="image/Moon_Rocket_34x28.xml"/>
+        <Include href="image/Moon_Rocket_352x357.xml"/>
+        <Include href="image/Moon_Rocket_38x21.xml"/>
+        <Include href="image/Moon_Rocket_397x397.xml"/>
+        <Include href="image/Moon_Rocket_397x397_2.xml"/>
+        <Include href="image/Moon_Rocket_43x35.xml"/>
+        <Include href="image/Moon_Rocket_49x70.xml"/>
+        <Include href="image/Moon_Rocket_51x50.xml"/>
+        <Include href="image/Moon_Rocket_53x54.xml"/>
+        <Include href="image/Moon_Rocket_57x55.xml"/>
+        <Include href="image/Moon_Rocket_58x12.xml"/>
+        <Include href="image/Moon_Rocket_58x55.xml"/>
+        <Include href="image/Moon_Rocket_59x15.xml"/>
+        <Include href="image/Moon_Rocket_62x45.xml"/>
+        <Include href="image/Moon_Rocket_66x64.xml"/>
+        <Include href="image/Moon_Rocket_72x66.xml"/>
+        <Include href="image/Moon_Rocket_73x52.xml"/>
+        <Include href="image/Moon_Rocket_81x16.xml"/>
+        <Include href="image/Moon_Rocket_82x20.xml"/>
+        <Include href="image/Moon_Rocket_87x85.xml"/>
+        <Include href="image/Moon_Rocket_89x64.xml"/>
+        <Include href="image/Moon_Rocket_97x93.xml"/>
+        <Include href="sprite/body.xml"/>
+        <Include href="sprite/close_door.xml"/>
+        <Include href="sprite/cncn_11.xml"/>
+        <Include href="sprite/cncncncncncncn_plantfood_portal_arc_small_frame_01.xml"/>
+        <Include href="sprite/cncncncncncncn_plantfood_portal_arc_small_frame_02.xml"/>
+        <Include href="sprite/cncncncncncncn_plantfood_portal_arc_small_frame_03.xml"/>
+        <Include href="sprite/cncncncncncncn_plantfood_portal_arc_small_frame_04.xml"/>
+        <Include href="sprite/cncncncncncncn_plantfood_portal_arc_small_frame_05.xml"/>
+        <Include href="sprite/cncncncncncncn_plantfood_portal_arc_small_frame_06.xml"/>
+        <Include href="sprite/cncncncncncncn_plantfood_portal_arc_small_frame_07.xml"/>
+        <Include href="sprite/cncncncncncncn_plantfood_portal_arc_small_frame_08.xml"/>
+        <Include href="sprite/decorate.xml"/>
+        <Include href="sprite/eddy.xml"/>
+        <Include href="sprite/lightningreed_spark_01.xml"/>
+        <Include href="sprite/mist.xml"/>
+        <Include href="sprite/mist_cncn.xml"/>
+        <Include href="sprite/mist_copy.xml"/>
+        <Include href="sprite/open_door.xml"/>
+        <Include href="sprite/ring_back_01.xml"/>
+        <Include href="sprite/ring_back_02.xml"/>
+        <Include href="sprite/ring_front_01.xml"/>
+        <Include href="sprite/ring_front_02.xml"/>
+        <Include href="sprite/tomb_dirt__rock_01.xml"/>
+        <Include href="sprite/tomb_dirt_rock_02.xml"/>
+        <Include href="sprite/tomb_dirt_rock_03.xml"/>
+        <Include href="sprite/torchwood_fire_plantfood_blue_t2.xml"/>
+        <Include href="sprite/torchwood_fire_plantfood_white_RAW_t2.xml"/>
+        <Include href="sprite/touying.xml"/>
+        <Include href="sprite/yan1.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/walk.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="1" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="98" name="walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="80">
+                            <elements/>
+                        </DOMFrame>
+						<DOMFrame index="80">
+							<Actionscript>
+								<script>
+									<![CDATA[fscommand("spawn_projectile", "Type:MoonRocketClearGround,mX:0,mY:0,mZ:500,Team:Zombie");
+									fscommand("spawn_projectile", "Type:MoonRocketClearGround,mX:0,mY:0,mZ:600,Team:Zombie");
+									fscommand("spawn_projectile", "Type:MoonRocketClearGround,mX:0,mY:0,mZ:700,Team:Zombie");
+									fscommand("spawn_projectile", "Type:MoonRocketClearGround,mX:0,mY:0,mZ:800,Team:Zombie");
+									fscommand("spawn_projectile", "Type:MoonRocketClearGround,mX:0,mY:0,mZ:900,Team:Zombie");]]>
+								</script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="81" duration="9">
+							<elements/>
+						</DOMFrame>
+                        <DOMFrame index="90">
+                            <Actionscript>
+                                <script>
+								<![CDATA[fscommand("spawn_zombie", "Type:moon_rocket,mX:8,mY:7,mZ:0,Team:Zombie");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+						<DOMFrame index="91" duration="5">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="96">
+							<Actionscript>
+								<script>
+									<![CDATA[fscommand("destroy", "");]]>
+								</script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+                        <DOMFrame index="97">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="98">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="98">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/walk" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

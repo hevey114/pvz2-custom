@@ -1,0 +1,795 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/pineclone_101x113" href="media/pineclone_101x113.png"/>
+        <DOMBitmapItem name="media/pineclone_101x113_2" href="media/pineclone_101x113_2.png"/>
+        <DOMBitmapItem name="media/pineclone_102x57" href="media/pineclone_102x57.png"/>
+        <DOMBitmapItem name="media/pineclone_107x119" href="media/pineclone_107x119.png"/>
+        <DOMBitmapItem name="media/pineclone_107x119_2" href="media/pineclone_107x119_2.png"/>
+        <DOMBitmapItem name="media/pineclone_112x112" href="media/pineclone_112x112.png"/>
+        <DOMBitmapItem name="media/pineclone_112x94" href="media/pineclone_112x94.png"/>
+        <DOMBitmapItem name="media/pineclone_113x113" href="media/pineclone_113x113.png"/>
+        <DOMBitmapItem name="media/pineclone_114x89" href="media/pineclone_114x89.png"/>
+        <DOMBitmapItem name="media/pineclone_115x25" href="media/pineclone_115x25.png"/>
+        <DOMBitmapItem name="media/pineclone_117x94" href="media/pineclone_117x94.png"/>
+        <DOMBitmapItem name="media/pineclone_11x13" href="media/pineclone_11x13.png"/>
+        <DOMBitmapItem name="media/pineclone_11x13_2" href="media/pineclone_11x13_2.png"/>
+        <DOMBitmapItem name="media/pineclone_11x13_3" href="media/pineclone_11x13_3.png"/>
+        <DOMBitmapItem name="media/pineclone_11x14" href="media/pineclone_11x14.png"/>
+        <DOMBitmapItem name="media/pineclone_125x99" href="media/pineclone_125x99.png"/>
+        <DOMBitmapItem name="media/pineclone_126x97" href="media/pineclone_126x97.png"/>
+        <DOMBitmapItem name="media/pineclone_130x152" href="media/pineclone_130x152.png"/>
+        <DOMBitmapItem name="media/pineclone_132x99" href="media/pineclone_132x99.png"/>
+        <DOMBitmapItem name="media/pineclone_133x94" href="media/pineclone_133x94.png"/>
+        <DOMBitmapItem name="media/pineclone_138x73" href="media/pineclone_138x73.png"/>
+        <DOMBitmapItem name="media/pineclone_139x25" href="media/pineclone_139x25.png"/>
+        <DOMBitmapItem name="media/pineclone_13x13" href="media/pineclone_13x13.png"/>
+        <DOMBitmapItem name="media/pineclone_13x17" href="media/pineclone_13x17.png"/>
+        <DOMBitmapItem name="media/pineclone_13x18" href="media/pineclone_13x18.png"/>
+        <DOMBitmapItem name="media/pineclone_143x162" href="media/pineclone_143x162.png"/>
+        <DOMBitmapItem name="media/pineclone_143x99" href="media/pineclone_143x99.png"/>
+        <DOMBitmapItem name="media/pineclone_145x173" href="media/pineclone_145x173.png"/>
+        <DOMBitmapItem name="media/pineclone_148x99" href="media/pineclone_148x99.png"/>
+        <DOMBitmapItem name="media/pineclone_149x100" href="media/pineclone_149x100.png"/>
+        <DOMBitmapItem name="media/pineclone_149x102" href="media/pineclone_149x102.png"/>
+        <DOMBitmapItem name="media/pineclone_149x99" href="media/pineclone_149x99.png"/>
+        <DOMBitmapItem name="media/pineclone_14x13" href="media/pineclone_14x13.png"/>
+        <DOMBitmapItem name="media/pineclone_14x13_2" href="media/pineclone_14x13_2.png"/>
+        <DOMBitmapItem name="media/pineclone_14x13_3" href="media/pineclone_14x13_3.png"/>
+        <DOMBitmapItem name="media/pineclone_151x96" href="media/pineclone_151x96.png"/>
+        <DOMBitmapItem name="media/pineclone_153x148" href="media/pineclone_153x148.png"/>
+        <DOMBitmapItem name="media/pineclone_154x100" href="media/pineclone_154x100.png"/>
+        <DOMBitmapItem name="media/pineclone_156x101" href="media/pineclone_156x101.png"/>
+        <DOMBitmapItem name="media/pineclone_158x102" href="media/pineclone_158x102.png"/>
+        <DOMBitmapItem name="media/pineclone_15x69" href="media/pineclone_15x69.png"/>
+        <DOMBitmapItem name="media/pineclone_161x105" href="media/pineclone_161x105.png"/>
+        <DOMBitmapItem name="media/pineclone_16x11" href="media/pineclone_16x11.png"/>
+        <DOMBitmapItem name="media/pineclone_16x11_2" href="media/pineclone_16x11_2.png"/>
+        <DOMBitmapItem name="media/pineclone_16x11_3" href="media/pineclone_16x11_3.png"/>
+        <DOMBitmapItem name="media/pineclone_16x11_4" href="media/pineclone_16x11_4.png"/>
+        <DOMBitmapItem name="media/pineclone_16x17" href="media/pineclone_16x17.png"/>
+        <DOMBitmapItem name="media/pineclone_185x259" href="media/pineclone_185x259.png"/>
+        <DOMBitmapItem name="media/pineclone_199x199" href="media/pineclone_199x199.png"/>
+        <DOMBitmapItem name="media/pineclone_20x15" href="media/pineclone_20x15.png"/>
+        <DOMBitmapItem name="media/pineclone_20x15_2" href="media/pineclone_20x15_2.png"/>
+        <DOMBitmapItem name="media/pineclone_20x15_3" href="media/pineclone_20x15_3.png"/>
+        <DOMBitmapItem name="media/pineclone_20x16" href="media/pineclone_20x16.png"/>
+        <DOMBitmapItem name="media/pineclone_22x17" href="media/pineclone_22x17.png"/>
+        <DOMBitmapItem name="media/pineclone_24x28" href="media/pineclone_24x28.png"/>
+        <DOMBitmapItem name="media/pineclone_251x253" href="media/pineclone_251x253.png"/>
+        <DOMBitmapItem name="media/pineclone_25x24" href="media/pineclone_25x24.png"/>
+        <DOMBitmapItem name="media/pineclone_25x24_2" href="media/pineclone_25x24_2.png"/>
+        <DOMBitmapItem name="media/pineclone_25x24_3" href="media/pineclone_25x24_3.png"/>
+        <DOMBitmapItem name="media/pineclone_25x25" href="media/pineclone_25x25.png"/>
+        <DOMBitmapItem name="media/pineclone_25x26" href="media/pineclone_25x26.png"/>
+        <DOMBitmapItem name="media/pineclone_25x28" href="media/pineclone_25x28.png"/>
+        <DOMBitmapItem name="media/pineclone_26x18" href="media/pineclone_26x18.png"/>
+        <DOMBitmapItem name="media/pineclone_26x18_2" href="media/pineclone_26x18_2.png"/>
+        <DOMBitmapItem name="media/pineclone_26x18_3" href="media/pineclone_26x18_3.png"/>
+        <DOMBitmapItem name="media/pineclone_26x20" href="media/pineclone_26x20.png"/>
+        <DOMBitmapItem name="media/pineclone_26x20_2" href="media/pineclone_26x20_2.png"/>
+        <DOMBitmapItem name="media/pineclone_26x28" href="media/pineclone_26x28.png"/>
+        <DOMBitmapItem name="media/pineclone_26x29" href="media/pineclone_26x29.png"/>
+        <DOMBitmapItem name="media/pineclone_26x29_2" href="media/pineclone_26x29_2.png"/>
+        <DOMBitmapItem name="media/pineclone_26x29_3" href="media/pineclone_26x29_3.png"/>
+        <DOMBitmapItem name="media/pineclone_27x26" href="media/pineclone_27x26.png"/>
+        <DOMBitmapItem name="media/pineclone_27x27" href="media/pineclone_27x27.png"/>
+        <DOMBitmapItem name="media/pineclone_27x27_2" href="media/pineclone_27x27_2.png"/>
+        <DOMBitmapItem name="media/pineclone_27x30" href="media/pineclone_27x30.png"/>
+        <DOMBitmapItem name="media/pineclone_28x27" href="media/pineclone_28x27.png"/>
+        <DOMBitmapItem name="media/pineclone_28x41" href="media/pineclone_28x41.png"/>
+        <DOMBitmapItem name="media/pineclone_29x16" href="media/pineclone_29x16.png"/>
+        <DOMBitmapItem name="media/pineclone_29x21" href="media/pineclone_29x21.png"/>
+        <DOMBitmapItem name="media/pineclone_29x21_2" href="media/pineclone_29x21_2.png"/>
+        <DOMBitmapItem name="media/pineclone_30x34" href="media/pineclone_30x34.png"/>
+        <DOMBitmapItem name="media/pineclone_30x36" href="media/pineclone_30x36.png"/>
+        <DOMBitmapItem name="media/pineclone_32x32" href="media/pineclone_32x32.png"/>
+        <DOMBitmapItem name="media/pineclone_32x35" href="media/pineclone_32x35.png"/>
+        <DOMBitmapItem name="media/pineclone_33x16" href="media/pineclone_33x16.png"/>
+        <DOMBitmapItem name="media/pineclone_33x29" href="media/pineclone_33x29.png"/>
+        <DOMBitmapItem name="media/pineclone_33x29_2" href="media/pineclone_33x29_2.png"/>
+        <DOMBitmapItem name="media/pineclone_33x35" href="media/pineclone_33x35.png"/>
+        <DOMBitmapItem name="media/pineclone_33x35_2" href="media/pineclone_33x35_2.png"/>
+        <DOMBitmapItem name="media/pineclone_34x33" href="media/pineclone_34x33.png"/>
+        <DOMBitmapItem name="media/pineclone_34x37" href="media/pineclone_34x37.png"/>
+        <DOMBitmapItem name="media/pineclone_35x25" href="media/pineclone_35x25.png"/>
+        <DOMBitmapItem name="media/pineclone_35x25_2" href="media/pineclone_35x25_2.png"/>
+        <DOMBitmapItem name="media/pineclone_35x30" href="media/pineclone_35x30.png"/>
+        <DOMBitmapItem name="media/pineclone_35x36" href="media/pineclone_35x36.png"/>
+        <DOMBitmapItem name="media/pineclone_37x23" href="media/pineclone_37x23.png"/>
+        <DOMBitmapItem name="media/pineclone_37x23_2" href="media/pineclone_37x23_2.png"/>
+        <DOMBitmapItem name="media/pineclone_37x33" href="media/pineclone_37x33.png"/>
+        <DOMBitmapItem name="media/pineclone_37x37" href="media/pineclone_37x37.png"/>
+        <DOMBitmapItem name="media/pineclone_384x392" href="media/pineclone_384x392.png"/>
+        <DOMBitmapItem name="media/pineclone_38x40" href="media/pineclone_38x40.png"/>
+        <DOMBitmapItem name="media/pineclone_39x29" href="media/pineclone_39x29.png"/>
+        <DOMBitmapItem name="media/pineclone_39x34" href="media/pineclone_39x34.png"/>
+        <DOMBitmapItem name="media/pineclone_39x39" href="media/pineclone_39x39.png"/>
+        <DOMBitmapItem name="media/pineclone_40x26" href="media/pineclone_40x26.png"/>
+        <DOMBitmapItem name="media/pineclone_40x30" href="media/pineclone_40x30.png"/>
+        <DOMBitmapItem name="media/pineclone_41x27" href="media/pineclone_41x27.png"/>
+        <DOMBitmapItem name="media/pineclone_41x31" href="media/pineclone_41x31.png"/>
+        <DOMBitmapItem name="media/pineclone_41x41" href="media/pineclone_41x41.png"/>
+        <DOMBitmapItem name="media/pineclone_41x49" href="media/pineclone_41x49.png"/>
+        <DOMBitmapItem name="media/pineclone_42x19" href="media/pineclone_42x19.png"/>
+        <DOMBitmapItem name="media/pineclone_42x19_2" href="media/pineclone_42x19_2.png"/>
+        <DOMBitmapItem name="media/pineclone_42x31" href="media/pineclone_42x31.png"/>
+        <DOMBitmapItem name="media/pineclone_42x45" href="media/pineclone_42x45.png"/>
+        <DOMBitmapItem name="media/pineclone_42x68" href="media/pineclone_42x68.png"/>
+        <DOMBitmapItem name="media/pineclone_43x19" href="media/pineclone_43x19.png"/>
+        <DOMBitmapItem name="media/pineclone_43x19_2" href="media/pineclone_43x19_2.png"/>
+        <DOMBitmapItem name="media/pineclone_43x34" href="media/pineclone_43x34.png"/>
+        <DOMBitmapItem name="media/pineclone_43x37" href="media/pineclone_43x37.png"/>
+        <DOMBitmapItem name="media/pineclone_43x60" href="media/pineclone_43x60.png"/>
+        <DOMBitmapItem name="media/pineclone_44x32" href="media/pineclone_44x32.png"/>
+        <DOMBitmapItem name="media/pineclone_44x38" href="media/pineclone_44x38.png"/>
+        <DOMBitmapItem name="media/pineclone_44x65" href="media/pineclone_44x65.png"/>
+        <DOMBitmapItem name="media/pineclone_44x65_2" href="media/pineclone_44x65_2.png"/>
+        <DOMBitmapItem name="media/pineclone_45x53" href="media/pineclone_45x53.png"/>
+        <DOMBitmapItem name="media/pineclone_46x23" href="media/pineclone_46x23.png"/>
+        <DOMBitmapItem name="media/pineclone_46x45" href="media/pineclone_46x45.png"/>
+        <DOMBitmapItem name="media/pineclone_46x45_2" href="media/pineclone_46x45_2.png"/>
+        <DOMBitmapItem name="media/pineclone_46x45_3" href="media/pineclone_46x45_3.png"/>
+        <DOMBitmapItem name="media/pineclone_46x46" href="media/pineclone_46x46.png"/>
+        <DOMBitmapItem name="media/pineclone_46x48" href="media/pineclone_46x48.png"/>
+        <DOMBitmapItem name="media/pineclone_46x57" href="media/pineclone_46x57.png"/>
+        <DOMBitmapItem name="media/pineclone_46x65" href="media/pineclone_46x65.png"/>
+        <DOMBitmapItem name="media/pineclone_47x23" href="media/pineclone_47x23.png"/>
+        <DOMBitmapItem name="media/pineclone_47x50" href="media/pineclone_47x50.png"/>
+        <DOMBitmapItem name="media/pineclone_48x59" href="media/pineclone_48x59.png"/>
+        <DOMBitmapItem name="media/pineclone_48x69" href="media/pineclone_48x69.png"/>
+        <DOMBitmapItem name="media/pineclone_48x70" href="media/pineclone_48x70.png"/>
+        <DOMBitmapItem name="media/pineclone_48x77" href="media/pineclone_48x77.png"/>
+        <DOMBitmapItem name="media/pineclone_49x32" href="media/pineclone_49x32.png"/>
+        <DOMBitmapItem name="media/pineclone_50x21" href="media/pineclone_50x21.png"/>
+        <DOMBitmapItem name="media/pineclone_50x39" href="media/pineclone_50x39.png"/>
+        <DOMBitmapItem name="media/pineclone_50x49" href="media/pineclone_50x49.png"/>
+        <DOMBitmapItem name="media/pineclone_50x49_2" href="media/pineclone_50x49_2.png"/>
+        <DOMBitmapItem name="media/pineclone_527x575" href="media/pineclone_527x575.png"/>
+        <DOMBitmapItem name="media/pineclone_52x56" href="media/pineclone_52x56.png"/>
+        <DOMBitmapItem name="media/pineclone_534x543" href="media/pineclone_534x543.png"/>
+        <DOMBitmapItem name="media/pineclone_53x116" href="media/pineclone_53x116.png"/>
+        <DOMBitmapItem name="media/pineclone_53x119" href="media/pineclone_53x119.png"/>
+        <DOMBitmapItem name="media/pineclone_54x26" href="media/pineclone_54x26.png"/>
+        <DOMBitmapItem name="media/pineclone_56x26" href="media/pineclone_56x26.png"/>
+        <DOMBitmapItem name="media/pineclone_56x70" href="media/pineclone_56x70.png"/>
+        <DOMBitmapItem name="media/pineclone_57x43" href="media/pineclone_57x43.png"/>
+        <DOMBitmapItem name="media/pineclone_58x43" href="media/pineclone_58x43.png"/>
+        <DOMBitmapItem name="media/pineclone_59x59" href="media/pineclone_59x59.png"/>
+        <DOMBitmapItem name="media/pineclone_61x61" href="media/pineclone_61x61.png"/>
+        <DOMBitmapItem name="media/pineclone_66x88" href="media/pineclone_66x88.png"/>
+        <DOMBitmapItem name="media/pineclone_716x697" href="media/pineclone_716x697.png"/>
+        <DOMBitmapItem name="media/pineclone_73x71" href="media/pineclone_73x71.png"/>
+        <DOMBitmapItem name="media/pineclone_75x79" href="media/pineclone_75x79.png"/>
+        <DOMBitmapItem name="media/pineclone_768x766" href="media/pineclone_768x766.png"/>
+        <DOMBitmapItem name="media/pineclone_78x49" href="media/pineclone_78x49.png"/>
+        <DOMBitmapItem name="media/pineclone_78x49_2" href="media/pineclone_78x49_2.png"/>
+        <DOMBitmapItem name="media/pineclone_80x83" href="media/pineclone_80x83.png"/>
+        <DOMBitmapItem name="media/pineclone_80x83" href="media/pineclone_80x83.png"/>
+        <DOMBitmapItem name="media/pineclone_822x757" href="media/pineclone_822x757.png"/>
+        <DOMBitmapItem name="media/pineclone_82x84" href="media/pineclone_82x84.png"/>
+        <DOMBitmapItem name="media/pineclone_83x83" href="media/pineclone_83x83.png"/>
+        <DOMBitmapItem name="media/pineclone_83x85" href="media/pineclone_83x85.png"/>
+        <DOMBitmapItem name="media/pineclone_84x89" href="media/pineclone_84x89.png"/>
+        <DOMBitmapItem name="media/pineclone_89x89" href="media/pineclone_89x89.png"/>
+        <DOMBitmapItem name="media/pineclone_8x8" href="media/pineclone_8x8.png"/>
+        <DOMBitmapItem name="media/pineclone_98x32" href="media/pineclone_98x32.png"/>
+        <DOMBitmapItem name="media/../../effects/pineclone_projectile/pineclone_projectile_15x16" href="media/../../effects/pineclone_projectile/pineclone_projectile_15x16.png"/>
+        <DOMBitmapItem name="media/../../effects/pineclone_projectile/pineclone_projectile_41x21" href="media/../../effects/pineclone_projectile/pineclone_projectile_41x21.png"/>
+    </media>
+    <symbols>
+        <Include href="image/pineclone_101x113.xml"/>
+        <Include href="image/pineclone_101x113_2.xml"/>
+        <Include href="image/pineclone_102x57.xml"/>
+        <Include href="image/pineclone_107x119.xml"/>
+        <Include href="image/pineclone_107x119_2.xml"/>
+        <Include href="image/pineclone_112x112.xml"/>
+        <Include href="image/pineclone_112x94.xml"/>
+        <Include href="image/pineclone_113x113.xml"/>
+        <Include href="image/pineclone_114x89.xml"/>
+        <Include href="image/pineclone_115x25.xml"/>
+        <Include href="image/pineclone_117x94.xml"/>
+        <Include href="image/pineclone_11x13.xml"/>
+        <Include href="image/pineclone_11x13_2.xml"/>
+        <Include href="image/pineclone_11x13_3.xml"/>
+        <Include href="image/pineclone_11x14.xml"/>
+        <Include href="image/pineclone_125x99.xml"/>
+        <Include href="image/pineclone_126x97.xml"/>
+        <Include href="image/pineclone_130x152.xml"/>
+        <Include href="image/pineclone_132x99.xml"/>
+        <Include href="image/pineclone_133x94.xml"/>
+        <Include href="image/pineclone_138x73.xml"/>
+        <Include href="image/pineclone_139x25.xml"/>
+        <Include href="image/pineclone_13x13.xml"/>
+        <Include href="image/pineclone_13x17.xml"/>
+        <Include href="image/pineclone_13x18.xml"/>
+        <Include href="image/pineclone_143x162.xml"/>
+        <Include href="image/pineclone_143x99.xml"/>
+        <Include href="image/pineclone_145x173.xml"/>
+        <Include href="image/pineclone_148x99.xml"/>
+        <Include href="image/pineclone_149x100.xml"/>
+        <Include href="image/pineclone_149x102.xml"/>
+        <Include href="image/pineclone_149x99.xml"/>
+        <Include href="image/pineclone_14x13.xml"/>
+        <Include href="image/pineclone_14x13_2.xml"/>
+        <Include href="image/pineclone_14x13_3.xml"/>
+        <Include href="image/pineclone_151x96.xml"/>
+        <Include href="image/pineclone_153x148.xml"/>
+        <Include href="image/pineclone_154x100.xml"/>
+        <Include href="image/pineclone_156x101.xml"/>
+        <Include href="image/pineclone_158x102.xml"/>
+        <Include href="image/pineclone_15x69.xml"/>
+        <Include href="image/pineclone_161x105.xml"/>
+        <Include href="image/pineclone_16x11.xml"/>
+        <Include href="image/pineclone_16x11_2.xml"/>
+        <Include href="image/pineclone_16x11_3.xml"/>
+        <Include href="image/pineclone_16x11_4.xml"/>
+        <Include href="image/pineclone_16x17.xml"/>
+        <Include href="image/pineclone_185x259.xml"/>
+        <Include href="image/pineclone_199x199.xml"/>
+        <Include href="image/pineclone_20x15.xml"/>
+        <Include href="image/pineclone_20x15_2.xml"/>
+        <Include href="image/pineclone_20x15_3.xml"/>
+        <Include href="image/pineclone_20x16.xml"/>
+        <Include href="image/pineclone_22x17.xml"/>
+        <Include href="image/pineclone_24x28.xml"/>
+        <Include href="image/pineclone_251x253.xml"/>
+        <Include href="image/pineclone_25x24.xml"/>
+        <Include href="image/pineclone_25x24_2.xml"/>
+        <Include href="image/pineclone_25x24_3.xml"/>
+        <Include href="image/pineclone_25x25.xml"/>
+        <Include href="image/pineclone_25x26.xml"/>
+        <Include href="image/pineclone_25x28.xml"/>
+        <Include href="image/pineclone_26x18.xml"/>
+        <Include href="image/pineclone_26x18_2.xml"/>
+        <Include href="image/pineclone_26x18_3.xml"/>
+        <Include href="image/pineclone_26x20.xml"/>
+        <Include href="image/pineclone_26x20_2.xml"/>
+        <Include href="image/pineclone_26x28.xml"/>
+        <Include href="image/pineclone_26x29.xml"/>
+        <Include href="image/pineclone_26x29_2.xml"/>
+        <Include href="image/pineclone_26x29_3.xml"/>
+        <Include href="image/pineclone_27x26.xml"/>
+        <Include href="image/pineclone_27x27.xml"/>
+        <Include href="image/pineclone_27x27_2.xml"/>
+        <Include href="image/pineclone_27x30.xml"/>
+        <Include href="image/pineclone_28x27.xml"/>
+        <Include href="image/pineclone_28x41.xml"/>
+        <Include href="image/pineclone_29x16.xml"/>
+        <Include href="image/pineclone_29x21.xml"/>
+        <Include href="image/pineclone_29x21_2.xml"/>
+        <Include href="image/pineclone_30x34.xml"/>
+        <Include href="image/pineclone_30x36.xml"/>
+        <Include href="image/pineclone_32x32.xml"/>
+        <Include href="image/pineclone_32x35.xml"/>
+        <Include href="image/pineclone_33x16.xml"/>
+        <Include href="image/pineclone_33x29.xml"/>
+        <Include href="image/pineclone_33x29_2.xml"/>
+        <Include href="image/pineclone_33x35.xml"/>
+        <Include href="image/pineclone_33x35_2.xml"/>
+        <Include href="image/pineclone_34x33.xml"/>
+        <Include href="image/pineclone_34x37.xml"/>
+        <Include href="image/pineclone_35x25.xml"/>
+        <Include href="image/pineclone_35x25_2.xml"/>
+        <Include href="image/pineclone_35x30.xml"/>
+        <Include href="image/pineclone_35x36.xml"/>
+        <Include href="image/pineclone_37x23.xml"/>
+        <Include href="image/pineclone_37x23_2.xml"/>
+        <Include href="image/pineclone_37x33.xml"/>
+        <Include href="image/pineclone_37x37.xml"/>
+        <Include href="image/pineclone_384x392.xml"/>
+        <Include href="image/pineclone_38x40.xml"/>
+        <Include href="image/pineclone_39x29.xml"/>
+        <Include href="image/pineclone_39x34.xml"/>
+        <Include href="image/pineclone_39x39.xml"/>
+        <Include href="image/pineclone_40x26.xml"/>
+        <Include href="image/pineclone_40x30.xml"/>
+        <Include href="image/pineclone_41x27.xml"/>
+        <Include href="image/pineclone_41x31.xml"/>
+        <Include href="image/pineclone_41x41.xml"/>
+        <Include href="image/pineclone_41x49.xml"/>
+        <Include href="image/pineclone_42x19.xml"/>
+        <Include href="image/pineclone_42x19_2.xml"/>
+        <Include href="image/pineclone_42x31.xml"/>
+        <Include href="image/pineclone_42x45.xml"/>
+        <Include href="image/pineclone_42x68.xml"/>
+        <Include href="image/pineclone_43x19.xml"/>
+        <Include href="image/pineclone_43x19_2.xml"/>
+        <Include href="image/pineclone_43x34.xml"/>
+        <Include href="image/pineclone_43x37.xml"/>
+        <Include href="image/pineclone_43x60.xml"/>
+        <Include href="image/pineclone_44x32.xml"/>
+        <Include href="image/pineclone_44x38.xml"/>
+        <Include href="image/pineclone_44x65.xml"/>
+        <Include href="image/pineclone_44x65_2.xml"/>
+        <Include href="image/pineclone_45x53.xml"/>
+        <Include href="image/pineclone_46x23.xml"/>
+        <Include href="image/pineclone_46x45.xml"/>
+        <Include href="image/pineclone_46x45_2.xml"/>
+        <Include href="image/pineclone_46x45_3.xml"/>
+        <Include href="image/pineclone_46x46.xml"/>
+        <Include href="image/pineclone_46x48.xml"/>
+        <Include href="image/pineclone_46x57.xml"/>
+        <Include href="image/pineclone_46x65.xml"/>
+        <Include href="image/pineclone_47x23.xml"/>
+        <Include href="image/pineclone_47x50.xml"/>
+        <Include href="image/pineclone_48x59.xml"/>
+        <Include href="image/pineclone_48x69.xml"/>
+        <Include href="image/pineclone_48x70.xml"/>
+        <Include href="image/pineclone_48x77.xml"/>
+        <Include href="image/pineclone_49x32.xml"/>
+        <Include href="image/pineclone_50x21.xml"/>
+        <Include href="image/pineclone_50x39.xml"/>
+        <Include href="image/pineclone_50x49.xml"/>
+        <Include href="image/pineclone_50x49_2.xml"/>
+        <Include href="image/pineclone_527x575.xml"/>
+        <Include href="image/pineclone_52x56.xml"/>
+        <Include href="image/pineclone_534x543.xml"/>
+        <Include href="image/pineclone_53x116.xml"/>
+        <Include href="image/pineclone_53x119.xml"/>
+        <Include href="image/pineclone_54x26.xml"/>
+        <Include href="image/pineclone_56x26.xml"/>
+        <Include href="image/pineclone_56x70.xml"/>
+        <Include href="image/pineclone_57x43.xml"/>
+        <Include href="image/pineclone_58x43.xml"/>
+        <Include href="image/pineclone_59x59.xml"/>
+        <Include href="image/pineclone_61x61.xml"/>
+        <Include href="image/pineclone_66x88.xml"/>
+        <Include href="image/pineclone_716x697.xml"/>
+        <Include href="image/pineclone_73x71.xml"/>
+        <Include href="image/pineclone_75x79.xml"/>
+        <Include href="image/pineclone_768x766.xml"/>
+        <Include href="image/pineclone_78x49.xml"/>
+        <Include href="image/pineclone_78x49_2.xml"/>
+        <Include href="image/pineclone_80x83.xml"/>
+        <Include href="image/pineclone_80x83_0.xml"/>
+        <Include href="image/pineclone_822x757.xml"/>
+        <Include href="image/pineclone_82x84.xml"/>
+        <Include href="image/pineclone_83x83.xml"/>
+        <Include href="image/pineclone_83x85.xml"/>
+        <Include href="image/pineclone_84x89.xml"/>
+        <Include href="image/pineclone_89x89.xml"/>
+        <Include href="image/pineclone_8x8.xml"/>
+        <Include href="image/pineclone_98x32.xml"/>
+        <Include href="image/pineclone_projectile_15x16.xml"/>
+        <Include href="image/pineclone_projectile_41x21.xml"/>
+        <Include href="sprite/ASFAWECVXCtrtyr.xml"/>
+        <Include href="sprite/Pineclone_Copy_antenna02.xml"/>
+        <Include href="sprite/Pineclone_Copy_antenna03.xml"/>
+        <Include href="sprite/Pineclone_Copy_antenna04.xml"/>
+        <Include href="sprite/Pineclone_Copy_bady.xml"/>
+        <Include href="sprite/Pineclone_Copy_bady02.xml"/>
+        <Include href="sprite/Pineclone_Copy_eyeclose01.xml"/>
+        <Include href="sprite/Pineclone_Copy_eyeclose02.xml"/>
+        <Include href="sprite/Pineclone_Copy_food03.xml"/>
+        <Include href="sprite/Pineclone_Copy_foot01.xml"/>
+        <Include href="sprite/Pineclone_Copy_foot02.xml"/>
+        <Include href="sprite/Pineclone_Copy_mouth.xml"/>
+        <Include href="sprite/Pineclone_antenna02.xml"/>
+        <Include href="sprite/Pineclone_antenna03.xml"/>
+        <Include href="sprite/Pineclone_antenna04.xml"/>
+        <Include href="sprite/Pineclone_bady.xml"/>
+        <Include href="sprite/Pineclone_bady02.xml"/>
+        <Include href="sprite/Pineclone_eyeclose01.xml"/>
+        <Include href="sprite/Pineclone_eyeclose02.xml"/>
+        <Include href="sprite/Pineclone_food03.xml"/>
+        <Include href="sprite/Pineclone_foot01.xml"/>
+        <Include href="sprite/Pineclone_foot02.xml"/>
+        <Include href="sprite/Pineclone_mouth.xml"/>
+        <Include href="sprite/Pineclone_mouth_pf.xml"/>
+        <Include href="sprite/Pineclone_mouth_pf2.xml"/>
+        <Include href="sprite/Pineclone_sclera01.xml"/>
+        <Include href="sprite/Pineclone_sclera01_pf.xml"/>
+        <Include href="sprite/Pineclone_small_antenna02.xml"/>
+        <Include href="sprite/Pineclone_small_bady.xml"/>
+        <Include href="sprite/Pineclone_small_bady_xiantiao.xml"/>
+        <Include href="sprite/Pineclone_small_food03.xml"/>
+        <Include href="sprite/Pineclone_small_foot01.xml"/>
+        <Include href="sprite/Pineclone_small_foot02.xml"/>
+        <Include href="sprite/Pineclone_small_sclera02.xml"/>
+        <Include href="sprite/_Pineclone_Copy_antenna01.xml"/>
+        <Include href="sprite/_Pineclone_antenna01.xml"/>
+        <Include href="sprite/_Pineclone_eyeball.xml"/>
+        <Include href="sprite/_custom_01.xml"/>
+        <Include href="sprite/asfdqwreqfsadsdggj.xml"/>
+        <Include href="sprite/asfsaczxvxbfgjfj.xml"/>
+        <Include href="sprite/custom_01.xml"/>
+        <Include href="sprite/electricity2_lightning.xml"/>
+        <Include href="sprite/erwewempeach_arc_01.xml"/>
+        <Include href="sprite/qwreqfsdgsdfbfdgj.xml"/>
+        <Include href="sprite/qwrqafsdgvsdgsg.xml"/>
+        <Include href="sprite/qwrqfsdgdfhfdgdj.xml"/>
+        <Include href="sprite/qwrqfsdgfsdghsdfhh.xml"/>
+        <Include href="sprite/qwrqfsdvsdfhdhgj.xml"/>
+        <Include href="sprite/sdfgdsgcvbdgsgfhdf.xml"/>
+        <Include href="sprite/sfsavbfghfjgfjkk57277.xml"/>
+        <Include href="sprite/shanke.cn_1_679_63733.xml"/>
+        <Include href="sprite/tx001.xml"/>
+        <Include href="label/idle_normal.xml"/>
+        <Include href="label/idle2_normal.xml"/>
+        <Include href="label/attack_normal.xml"/>
+        <Include href="label/copy_A.xml"/>
+        <Include href="label/plantfood_normal.xml"/>
+        <Include href="label/water_normal.xml"/>
+        <Include href="label/drill.xml"/>
+        <Include href="label/idle2.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/attack.xml"/>
+        <Include href="label/plantfood.xml"/>
+        <Include href="label/plantfood2_unused.xml"/>
+        <Include href="label/water.xml"/>
+        <Include href="label/die.xml"/>
+        <Include href="label/small_idle.xml"/>
+        <Include href="label/copy_B.xml"/>
+        <Include href="label/small_disappear.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="50" name="idle_normal" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="50" duration="50" name="idle2_normal" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="100" duration="40" name="attack_normal" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="140" duration="55" name="copy_A" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="195" duration="70" name="plantfood_normal" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="265" duration="55" name="water_normal" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="320" duration="30" name="drill" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="350" duration="1" name="idle2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="351" duration="49" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="400" duration="40" name="attack" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="440" duration="70" name="plantfood" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="510" duration="40" name="plantfood2_unused" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="550" duration="55" name="water" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="605" duration="15" name="die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="620" duration="50" name="small_idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="670" duration="45" name="copy_B" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="715" duration="36" name="small_disappear" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="49">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="49">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="50" duration="49">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="99">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="100" duration="21">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="121">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_action", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="122" duration="17">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="139">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="140" duration="22">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="162">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("copy", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="163" duration="31">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="194">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="195" duration="30">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="225">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("plantfood", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="226" duration="38">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="264">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="265" duration="54">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="319">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="320">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:CloneAnim,mX:0,mY:0,mZ:100");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="321" duration="27">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="348">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("transform", "TransformArgs[Plant,pineclone_clone,KeepHP,KeepConditions],Include[pineclone_clone_intro]");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="349">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="350" duration="49">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="399">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="400" duration="21">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="421">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_action", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="422" duration="17">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="439">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="440" duration="30">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="470">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("plantfood", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="471" duration="38">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="509">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="510" duration="39">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="549">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="550" duration="54">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="604">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="605" duration="14">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="619">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="620" duration="49">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="669">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="670" duration="13">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="683">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("copy", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="684" duration="30">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="714">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="715" duration="35">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="750">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="50">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle_normal" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="50" duration="50">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle2_normal" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="100" duration="40">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/attack_normal" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="140" duration="55">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/copy_A" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="195" duration="70">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood_normal" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="265" duration="55">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/water_normal" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="320" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/drill" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="350" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="351" duration="49">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="400" duration="40">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/attack" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="440" duration="70">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="510" duration="40">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood2_unused" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="550" duration="55">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/water" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="605" duration="15">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="620" duration="50">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/small_idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="670" duration="45">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/copy_B" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="715" duration="36">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/small_disappear" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

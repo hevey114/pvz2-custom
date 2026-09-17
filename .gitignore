@@ -1,0 +1,55 @@
+# ===== 探女秘制小月球基地 ~ =====
+
+# --- 工作备份 / 临时文件 ---
+*.bak
+*.bak_*
+_备份_*/
+_bak_*/
+_废料_*/
+_trash_*/
+*.orig
+*.rej
+*.tmp
+*.temp
+*~
+~$*
+*.log
+*.swp
+*.swo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- 工具 / 编辑器 ---
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+node_modules/
+
+# --- 打包产物 / 密钥（绝对不要公开）---
+*.exe
+*.apk
+*.idsig
+*.zip
+*.7z
+*.rar
+_keystore/
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+
+# --- 游戏本体大件 ---
+*.obb
+*.obb.bundle/
+
+# --- 视频（152MB，见下）---
+# ★想放进仓库 → 这行前面加个 #
+Some vedio/
+
+# ！！千万不要写： *.pam   *.xfl/

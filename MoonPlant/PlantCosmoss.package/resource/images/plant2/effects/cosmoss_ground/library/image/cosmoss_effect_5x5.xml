@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/cosmoss_effect_5x5" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="cosmoss_effect_5x5">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/cosmoss_effect_5x5">
+                                    <matrix>
+                                        <Matrix a="3.966484" b="0.000000" c="0.000000" d="3.966484" tx="-10.400000" ty="-10.400000"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

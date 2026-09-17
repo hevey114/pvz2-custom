@@ -1,0 +1,120 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/idle" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="idle">
+            <layers>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/pineclone_plantfood_projectile_50x50" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.274048" b="0.000000" c="0.000000" d="0.274048" tx="182.750000" ty="182.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/pineclone_plantfood_projectile_50x50" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.284302" b="0.000000" c="0.000000" d="0.284302" tx="182.300003" ty="182.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/pineclone_plantfood_projectile_50x50" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.294556" b="0.000000" c="0.000000" d="0.294556" tx="181.850006" ty="181.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/pineclone_plantfood_projectile_50x50" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.304810" b="0.000000" c="0.000000" d="0.304810" tx="181.350006" ty="181.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/pineclone_plantfood_projectile_50x50" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.315048" b="0.000000" c="0.000000" d="0.315048" tx="180.899994" ty="180.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/pineclone_plantfood_projectile_50x50" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.309921" b="0.000000" c="0.000000" d="0.309921" tx="181.149994" ty="181.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/pineclone_plantfood_projectile_50x50" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.294022" b="0.000000" c="0.000000" d="0.294022" tx="181.899994" ty="181.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/pineclone_plantfood_projectile_50x50" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.279053" b="0.000000" c="0.000000" d="0.279053" tx="182.550003" ty="182.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/pineclone_plantfood_projectile_50x50" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.274048" b="0.000000" c="0.000000" d="0.274048" tx="182.750000" ty="182.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,55 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"PlantCosmicShroom": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_PLANT_COSMICPUFFSHROOM": {
+					"type": "PopAnim",
+					"path": "images/full/plant/cosmicpuffshroom"
+				},
+				"POPANIM_PLANT_COSMICPUFFSHROOM_NORMAL": {
+					"type": "PopAnim",
+					"path": "images/full/plant/cosmicpuffshroom_normal"
+				},
+				"POPANIM_PLANT_COSMICSCAREDYSHROOM": {
+					"type": "PopAnim",
+					"path": "images/full/plant/cosmicscaredyshroom"
+				},
+				"POPANIM_PLANT_COSMICSCAREDYSHROOM_NORMAL": {
+					"type": "PopAnim",
+					"path": "images/full/plant/cosmicscaredyshroom_normal"
+				},
+				"POPANIM_PLANT_COSMICFUMESHROOM": {
+					"type": "PopAnim",
+					"path": "images/full/plant/cosmicfumeshroom"
+				},
+				"POPANIM_PLANT_COSMICFUMESHROOM_NORMAL": {
+					"type": "PopAnim",
+					"path": "images/full/plant/cosmicfumeshroom_normal"
+				},
+				"POPANIM_EFFECT_COSMICSHROOM_BULLET": {
+					"type": "PopAnim",
+					"path": "images/full/effects/cosmicshroom_bullet"
+				},
+				"POPANIM_EFFECT_COSMICSHROOM_BULLET_LV5": {
+					"type": "PopAnim",
+					"path": "images/full/effects/cosmicshroom_bullet_lv5"
+				}
+			}
+		}
+	}
+}

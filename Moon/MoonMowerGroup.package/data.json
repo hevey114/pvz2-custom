@@ -1,0 +1,27 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"MoonMowerGroup": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 1
+			},
+			"resource": {
+				"POPANIM_MOWERS_MOWER_MOON": {
+					"type": "PopAnim",
+					"path": "images/moon/mowers/mower_moon"
+				}
+			}
+		}
+	}
+}

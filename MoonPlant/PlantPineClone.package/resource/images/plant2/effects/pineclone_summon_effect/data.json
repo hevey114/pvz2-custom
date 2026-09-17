@@ -1,0 +1,51 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"pineclone_summon_effect_82x82": {
+			"id": "IMAGE_EFFECTS_PINECLONE_SUMMON_EFFECT_PINECLONE_SUMMON_EFFECT_82X82",
+			"dimension": {
+				"width": 82,
+				"height": 82
+			},
+			"additional": null
+		},
+		"pineclone_summon_effect_50x50": {
+			"id": "IMAGE_EFFECTS_PINECLONE_SUMMON_EFFECT_PINECLONE_SUMMON_EFFECT_50X50",
+			"dimension": {
+				"width": 50,
+				"height": 50
+			},
+			"additional": null
+		},
+		"pineclone_summon_effect_56x56": {
+			"id": "IMAGE_EFFECTS_PINECLONE_SUMMON_EFFECT_PINECLONE_SUMMON_EFFECT_56X56",
+			"dimension": {
+				"width": 56,
+				"height": 56
+			},
+			"additional": null
+		},
+		"pineclone_summon_effect_252x47": {
+			"id": "IMAGE_EFFECTS_PINECLONE_SUMMON_EFFECT_PINECLONE_SUMMON_EFFECT_252X47",
+			"dimension": {
+				"width": 252,
+				"height": 47
+			},
+			"additional": null
+		},
+		"pineclone_summon_effect_96x121": {
+			"id": "IMAGE_EFFECTS_PINECLONE_SUMMON_EFFECT_PINECLONE_SUMMON_EFFECT_96X121",
+			"dimension": {
+				"width": 96,
+				"height": 121
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

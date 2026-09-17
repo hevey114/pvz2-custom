@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/Cosmicpea_bullet_hit_8x8_2" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="Cosmicpea_bullet_hit_8x8_2">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/Cosmicpea_bullet_hit_8x8_2">
+                                    <matrix>
+                                        <Matrix a="18.758994" b="0.000000" c="0.000000" d="18.758994" tx="-115.250000" ty="-114.050003"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

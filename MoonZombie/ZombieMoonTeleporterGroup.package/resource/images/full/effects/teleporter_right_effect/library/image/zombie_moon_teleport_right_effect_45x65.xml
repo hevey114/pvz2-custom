@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/zombie_moon_teleport_right_effect_45x65" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="zombie_moon_teleport_right_effect_45x65">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/zombie_moon_teleport_right_effect_45x65">
+                                    <matrix>
+                                        <Matrix a="3.298562" b="0.000000" c="0.000000" d="3.298562" tx="-95.900002" ty="-138.399994"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

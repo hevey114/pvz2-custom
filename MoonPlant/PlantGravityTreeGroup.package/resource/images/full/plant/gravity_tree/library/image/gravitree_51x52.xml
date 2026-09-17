@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/gravitree_51x52" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="gravitree_51x52">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/gravitree_51x52">
+                                    <matrix>
+                                        <Matrix a="3.671573" b="0.000000" c="0.000000" d="3.671573" tx="-60.849998" ty="-60.849998"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

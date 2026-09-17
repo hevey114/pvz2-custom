@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/cosmicMushroom_lv5_projectile_6x8" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="cosmicMushroom_lv5_projectile_6x8">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/cosmicMushroom_lv5_projectile_6x8">
+                                    <matrix>
+                                        <Matrix a="8.488058" b="0.000000" c="0.000000" d="8.488058" tx="-22.450001" ty="-22.450001"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

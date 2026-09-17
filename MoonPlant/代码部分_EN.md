@@ -1,0 +1,9061 @@
+> **⚠️ AI-Translated document**
+> This file is an **AI-generated English translation** of the original Chinese file “MoonPlant/代码部分.md” (by the same author). It is provided for convenience only; please treat the original Chinese as authoritative. Code/IDs in “code” documents are kept untouched.
+>
+> _这份文档是对原中文《MoonPlant/代码部分.md》的 AI 英译版，仅供参考，内容以原文为准。_
+
+## PlantTypes
+        {
+			"#comment": "Pineclone main-body intro",
+			"objclass": "PlantType",
+			"aliases": [
+				"pineclone_intro"
+			],
+			"objdata": {
+				"TypeName": "pineclone_intro",
+				"PlantFramework": "PlantOlivePit",
+				"PlantResourceGroups": [
+					"PlantPineClone",
+					"PlantPineCloneAudio",
+					"PlantElectricPeashooterAudio"
+				],
+				"Properties": "RTID(PineCloneIntroDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_OlivePit",
+				"PopAnim": "POPANIM_PLANT_PINECLONE_INTRO",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"#comment": "Pineclone main body",
+			"objclass": "PlantType",
+			"aliases": [
+				"pineclone"
+			],
+			"objdata": {
+				"TypeName": "pineclone",
+				"PlantFramework": "PlantCabbagepult",
+				"PlantResourceGroups": [
+					"PlantPineClone",
+					"PlantPineCloneAudio",
+					"PlantElectricPeashooterAudio"
+				],
+				"Properties": "RTID(PineCloneDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig",
+				"HideInPlantViewers": true,
+				"PopAnim": "POPANIM_PLANT_PINECLONE",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"#comment": "Pineclone-clone intro",
+			"objclass": "PlantType",
+			"aliases": [
+				"pineclone_clone_intro"
+			],
+			"objdata": {
+				"TypeName": "pineclone_clone_intro",
+				"PlantFramework": "PlantOlivePit",
+				"PlantResourceGroups": [
+					"PlantPineClone",
+					"PlantPineCloneAudio",
+					"PlantElectricPeashooterAudio"
+				],
+				"Properties": "RTID(PineCloneCloneIntroDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_OlivePit",
+				"HideInPlantViewers": true,
+				"PopAnim": "POPANIM_PLANT_PINECLONE_CLONE_INTRO",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"#comment": "Pineclone clone",
+			"objclass": "PlantType",
+			"aliases": [
+				"pineclone_clone"
+			],
+			"objdata": {
+				"TypeName": "pineclone_clone",
+				"PlantFramework": "PlantCabbagepult",
+				"PlantResourceGroups": [
+					"PlantPineClone",
+					"PlantPineCloneAudio",
+					"PlantElectricPeashooterAudio"
+				],
+				"Properties": "RTID(PineCloneCloneDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig",
+				"HideInPlantViewers": true,
+				"PopAnim": "POPANIM_PLANT_PINECLONE_CLONE",
+				"HomeWorld": "moon"
+			}
+		},
+        {
+			"objclass": "PlantTypeGoldLeaf",
+			"aliases": [
+				"cosmos"
+			],
+			"objdata": {
+				"TypeName": "cosmos",
+				"PlantFramework": "PlantGoldLeaf",
+				"PlantResourceGroups": [
+					"PlantCosmoss",
+					"PlantCosmossAudio"
+				],
+				"Properties": "RTID(CosmossDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig",
+				"PopAnim": "POPANIM_PLANT_COSMOSS",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmos_ground"
+			],
+			"objdata": {
+				"TypeName": "cosmos_ground",
+				"PlantFramework": "PlantPumpkin",
+				"PlantResourceGroups": [
+					"PlantCosmoss",
+					"PlantCosmossAudio"
+				],
+				"Properties": "RTID(CosmosGroundDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Pumpkin",
+				"PopAnim": "POPANIM_PLANT_COSMOSS_GROUND",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicnut"
+			],
+			"objdata": {
+				"TypeName": "cosmicnut",
+				"PlantFramework": "PlantSunflower",
+				"PlantResourceGroups": [
+					"PlantCosmicNut",
+					"PlantCosmicNutAudio",
+					"PlantWallnut",
+					"PlantPrimalWallnut",
+					"PlantHolonut",
+					"PlantHolonut",
+					"PlantTallnut",
+					"PlantEndurian",
+					"PlantPeanut",
+					"PlantExplodeONut",
+					"PlantExplodeONutAudio",
+					"PlantPeanutAudio",
+					"PlantBowlingNut",
+					"PlantWallnutAudio",
+					"PlantBowlingBulbAudio",
+					"PlantHolonut",
+					"PlantPecanolith",
+					"PlantStalliaEffects",
+					"PlantCherryBombAudio",
+					"PlantGraveBusterAudio",
+					"PlantWitchHazelAudio"
+				],
+				"Properties": "RTID(CosmicNutDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Sunflower",
+				"PopAnim": "POPANIM_PLANT_COSMICNUT",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicnut_transform"
+			],
+			"objdata": {
+				"TypeName": "cosmicnut_transform",
+				"PlantFramework": "PlantSprout",
+				"PlantResourceGroups": [
+					"PlantCosmicNut",
+					"PlantCosmicNutAudio",
+					"PlantWitchHazelAudio"
+				],
+				"Properties": "RTID(CosmicNutTransformDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig",
+				"PopAnim": "POPANIM_PLANT_COSMICNUT_TRANSFORM",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmictallnut"
+			],
+			"objdata": {
+				"TypeName": "cosmictallnut",
+				"PlantFramework": "PlantSunflower",
+				"PlantResourceGroups": [
+					"PlantCosmicNut",
+					"PlantCosmicNutAudio",
+					"PlantWallnut",
+					"PlantPrimalWallnut",
+					"PlantHolonut",
+					"PlantHolonut",
+					"PlantTallnut",
+					"PlantEndurian",
+					"PlantPeanut",
+					"PlantExplodeONut",
+					"PlantExplodeONutAudio",
+					"PlantPeanutAudio",
+					"PlantBowlingNut",
+					"PlantWallnutAudio",
+					"PlantBowlingBulbAudio",
+					"PlantHolonut",
+					"PlantPecanolith",
+					"PlantStalliaEffects",
+					"PlantCherryBombAudio",
+					"PlantGraveBusterAudio",
+					"PlantWitchHazelAudio"
+				],
+				"Properties": "RTID(CosmicTallNutDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Sunflower",
+				"PopAnim": "POPANIM_PLANT_COSMICTALLNUT",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmictallnut_transform"
+			],
+			"objdata": {
+				"TypeName": "cosmictallnut_transform",
+				"PlantFramework": "PlantSprout",
+				"PlantResourceGroups": [
+					"PlantCosmicNut",
+					"PlantCosmicNutAudio",
+					"PlantWitchHazelAudio"
+				],
+				"Properties": "RTID(CosmicTallNutTransformDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig",
+				"PopAnim": "POPANIM_PLANT_COSMICTALLNUT_TRANSFORM",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicpea_intro"
+			],
+			"objdata": {
+				"TypeName": "cosmicpea_intro",
+				"PlantFramework": "PlantOlivePit",
+				"PlantResourceGroups": [
+					"PlantCosmicPea",
+					"PlantCosmicPeaAudio",
+					"PlantPeashooter",
+					"PlantPeashooterAudio",
+					"PeaEffects",
+					"PlantRepeater",
+					"PlantRepeaterAudio",
+                    "PlantPeanut",
+                    "PlantPeanutAudio",
+                    "PlantIceQueenPea",
+                    "PlantSnowPea",
+                    "PlantSnowPeaAudio",
+                    "PlantGatlingPea",
+                    "PlantFirePeashooter",
+                    "FirePeaEffects",
+                    "PlantFirePeaShooterAudio",
+                    "PlantCharcoalPeashooter",
+                    "PlantPoisonPeashooterAudio",
+                    "PlantPoisonPeashooter",
+                    "PlantStalliaEffects",
+                    "PlantBananaAudio",
+                    "PlantPeapodAudio",
+                    "PlantPrimalPeashooter",
+                    "PlantPrimalPeaShooterAudio",
+					"PlantSweetPotato",
+					"ZombieMoonYanMieGroup",
+					"PlantTorchwood",
+					"EffectsJalapeno",
+					"PlantTorchwoodAudio"
+				],
+				"Properties": "RTID(CosmicPeaIntroDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_OlivePit",
+				"PopAnim": "POPANIM_PLANT_COSMICPEA_INTRO",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicpea"
+			],
+			"objdata": {
+				"TypeName": "cosmicpea",
+				"PlantFramework": "PlantSkyshooter",
+				"PlantResourceGroups": [
+					"PlantCosmicPea",
+					"PlantCosmicPeaAudio",
+					"PlantPeashooter",
+					"PlantPeashooterAudio",
+					"PeaEffects",
+					"PlantRepeater",
+					"PlantRepeaterAudio",
+                    "PlantPeanut",
+                    "PlantPeanutAudio",
+                    "PlantIceQueenPea",
+                    "PlantSnowPea",
+                    "PlantSnowPeaAudio",
+                    "PlantGatlingPea",
+                    "PlantFirePeashooter",
+                    "FirePeaEffects",
+                    "PlantFirePeaShooterAudio",
+                    "PlantCharcoalPeashooter",
+                    "PlantPoisonPeashooterAudio",
+                    "PlantPoisonPeashooter",
+                    "PlantStalliaEffects",
+                    "PlantBananaAudio",
+                    "PlantPeapodAudio",
+                    "PlantPrimalPeashooter",
+                    "PlantPrimalPeaShooterAudio",
+					"PlantSweetPotato",
+					"ZombieMoonYanMieGroup",
+					"PlantTorchwood",
+					"EffectsJalapeno",
+					"PlantTorchwoodAudio"
+				],
+				"Properties": "RTID(CosmicPeaDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Skyshooter",
+				"PopAnim": "POPANIM_PLANT_COSMICPEA",
+				"HideInPlantViewers":true,
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicrepeater_intro"
+			],
+			"objdata": {
+				"TypeName": "cosmicrepeater_intro",
+				"PlantFramework": "PlantOlivePit",
+				"PlantResourceGroups": [
+					"PlantCosmicPea",
+					"PlantCosmicPeaAudio",
+					"PlantPeashooter",
+					"PlantPeashooterAudio",
+					"PeaEffects",
+					"PlantRepeater",
+					"PlantRepeaterAudio",
+                    "PlantPeanut",
+                    "PlantPeanutAudio",
+                    "PlantIceQueenPea",
+                    "PlantSnowPea",
+                    "PlantSnowPeaAudio",
+                    "PlantGatlingPea",
+                    "PlantFirePeashooter",
+                    "FirePeaEffects",
+                    "PlantFirePeaShooterAudio",
+                    "PlantCharcoalPeashooter",
+                    "PlantPoisonPeashooterAudio",
+                    "PlantPoisonPeashooter",
+                    "PlantStalliaEffects",
+                    "PlantBananaAudio",
+                    "PlantPeapodAudio",
+                    "PlantPrimalPeashooter",
+                    "PlantPrimalPeaShooterAudio",
+					"PlantSweetPotato",
+					"ZombieMoonYanMieGroup",
+					"PlantTorchwood",
+					"EffectsJalapeno",
+					"PlantTorchwoodAudio"
+				],
+				"Properties": "RTID(CosmicRepeaterIntroDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_OlivePit",
+				"PopAnim": "POPANIM_PLANT_COSMICREPEATER_INTRO",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicrepeater"
+			],
+			"objdata": {
+				"TypeName": "cosmicrepeater",
+				"PlantFramework": "PlantSkyshooter",
+				"PlantResourceGroups": [
+					"PlantCosmicPea",
+					"PlantPeashooter",
+					"PlantCosmicPeaAudio",
+					"PlantPeashooterAudio",
+					"PeaEffects",
+					"PlantRepeater",
+					"PlantRepeaterAudio",
+                    "PlantPeanut",
+                    "PlantPeanutAudio",
+                    "PlantIceQueenPea",
+                    "PlantSnowPea",
+                    "PlantSnowPeaAudio",
+                    "PlantGatlingPea",
+                    "PlantFirePeashooter",
+                    "FirePeaEffects",
+                    "PlantFirePeaShooterAudio",
+                    "PlantCharcoalPeashooter",
+                    "PlantPoisonPeashooterAudio",
+                    "PlantPoisonPeashooter",
+                    "PlantStalliaEffects",
+                    "PlantBananaAudio",
+                    "PlantPeapodAudio",
+                    "PlantPrimalPeashooter",
+                    "PlantPrimalPeaShooterAudio",
+					"PlantSweetPotato",
+					"ZombieMoonYanMieGroup",
+					"PlantTorchwood",
+					"EffectsJalapeno",
+					"PlantTorchwoodAudio"
+				],
+				"Properties": "RTID(CosmicRepeaterDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Skyshooter",
+				"PopAnim": "POPANIM_PLANT_COSMICREPEATER",
+				"HideInPlantViewers":true,
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicgatling_intro"
+			],
+			"objdata": {
+				"TypeName": "cosmicgatling_intro",
+				"PlantFramework": "PlantOlivePit",
+				"PlantResourceGroups": [
+					"PlantCosmicPea",
+					"PlantCosmicPeaAudio",
+					"PlantPeashooter",
+					"PlantPeashooterAudio",
+					"PeaEffects",
+					"PlantRepeater",
+					"PlantRepeaterAudio",
+                    "PlantPeanut",
+                    "PlantPeanutAudio",
+                    "PlantIceQueenPea",
+                    "PlantSnowPea",
+                    "PlantSnowPeaAudio",
+                    "PlantGatlingPea",
+                    "PlantFirePeashooter",
+                    "FirePeaEffects",
+                    "PlantFirePeaShooterAudio",
+                    "PlantCharcoalPeashooter",
+                    "PlantPoisonPeashooterAudio",
+                    "PlantPoisonPeashooter",
+                    "PlantStalliaEffects",
+                    "PlantBananaAudio",
+                    "PlantPeapodAudio",
+                    "PlantPrimalPeashooter",
+                    "PlantPrimalPeaShooterAudio",
+					"PlantSweetPotato",
+					"ZombieMoonYanMieGroup",
+					"PlantTorchwood",
+					"EffectsJalapeno",
+					"PlantTorchwoodAudio"
+				],
+				"Properties": "RTID(CosmicGatlingIntroDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_OlivePit",
+				"PopAnim": "POPANIM_PLANT_COSMICGATLING_INTRO",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicgatling"
+			],
+			"objdata": {
+				"TypeName": "cosmicgatling",
+				"PlantFramework": "PlantSkyshooter",
+				"PlantResourceGroups": [
+					"PlantCosmicPea",
+					"PlantCosmicPeaAudio",
+					"PlantPeashooter",
+					"PlantPeashooterAudio",
+					"PeaEffects",
+					"PlantRepeater",
+					"PlantRepeaterAudio",
+                    "PlantPeanut",
+                    "PlantPeanutAudio",
+                    "PlantIceQueenPea",
+                    "PlantSnowPea",
+                    "PlantSnowPeaAudio",
+                    "PlantGatlingPea",
+                    "PlantFirePeashooter",
+                    "FirePeaEffects",
+                    "PlantFirePeaShooterAudio",
+                    "PlantCharcoalPeashooter",
+                    "PlantPoisonPeashooterAudio",
+                    "PlantPoisonPeashooter",
+                    "PlantStalliaEffects",
+                    "PlantBananaAudio",
+                    "PlantPeapodAudio",
+                    "PlantPrimalPeashooter",
+                    "PlantPrimalPeaShooterAudio",
+					"PlantSweetPotato",
+					"ZombieMoonYanMieGroup",
+					"PlantTorchwood",
+					"EffectsJalapeno",
+					"PlantTorchwoodAudio"
+				],
+				"Properties": "RTID(CosmicGatlingDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Skyshooter",
+				"HideInPlantViewers":true,
+				"PopAnim": "POPANIM_PLANT_COSMICGATLING",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"sweetpotato_tool"
+			],
+			"objdata": {
+				"TypeName": "sweetpotato_tool",
+				"PlantFramework": "PlantSweetPotato",
+				"PlantResourceGroups": [
+					"PlantSweetPotato"
+				],
+				"Properties": "RTID(SweetPotatoToolDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_SweetPotato",
+				"PopAnim": "POPANIM_PLANT_SWEETPOTATO_TOOL",
+				"HideInPlantViewers":true,
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicpuffshroom"
+			],
+			"objdata": {
+				"TypeName": "cosmicpuffshroom",
+				"PlantFramework": "PlantPuffshroom",
+				"PlantResourceGroups": [
+					"PlantCosmicShroom",
+					"PlantCosmicShroomAudio",
+					"PlantPuffshroom",
+					"PlantPuffShroomAudio",
+                    "PlantFumeshroom",
+                    "PlantFumeShroomAudio",
+                    "PlantScaredyShroom",
+                    "PlantScaredyShroomAudio",
+                    "PlantSunshroom",
+                    "PlantSunShroomAudio",
+                    "PlantSeashroom",
+                    "ZombieModernBalloonAudio",
+                    "PlantMagnetShroom",
+                    "PlantMagnetShroomAudio",
+                    "PlantHypnoShroom",
+                    "PlantHypnoShroomAudio",
+                    "HypnoShroomEffects",
+                    "PlantSporeshroom",
+                    "PlantSporeshroomAudio",
+                    "PlantGatlingPuff",
+                    "PlantCosmicPea",
+                    "ZombieMoonYanMieGroup"
+				],
+				"Properties": "RTID(CosmicPuffshroomDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Puffshroom",
+				"PopAnim": "POPANIM_PLANT_COSMICPUFFSHROOM",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicpuffshroom_normal"
+			],
+			"objdata": {
+				"TypeName": "cosmicpuffshroom_normal",
+				"PlantFramework": "PlantPuffshroom",
+				"PlantResourceGroups": [
+					"PlantCosmicShroom",
+					"PlantCosmicShroomAudio",
+					"PlantPuffshroom",
+					"PlantPuffShroomAudio",
+                    "PlantFumeshroom",
+                    "PlantFumeShroomAudio",
+                    "PlantScaredyShroom",
+                    "PlantScaredyShroomAudio",
+                    "PlantSunshroom",
+                    "PlantSunShroomAudio",
+                    "PlantSeashroom",
+                    "ZombieModernBalloonAudio",
+                    "PlantMagnetShroom",
+                    "PlantMagnetShroomAudio",
+                    "PlantHypnoShroom",
+                    "PlantHypnoShroomAudio",
+                    "HypnoShroomEffects",
+                    "PlantSporeshroom",
+                    "PlantSporeshroomAudio",
+                    "PlantGatlingPuff",
+                    "PlantCosmicPea",
+                    "ZombieMoonYanMieGroup"
+				],
+				"Properties": "RTID(CosmicPuffshroomDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Puffshroom",
+				"PopAnim": "POPANIM_PLANT_COSMICPUFFSHROOM_NORMAL",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicscaredyshroom"
+			],
+			"objdata": {
+				"TypeName": "cosmicscaredyshroom",
+				"PlantFramework": "PlantCactus",
+				"PlantResourceGroups": [
+					"PlantCosmicShroom",
+					"PlantCosmicShroomAudio",
+					"PlantPuffshroom",
+					"PlantPuffShroomAudio",
+                    "PlantFumeshroom",
+                    "PlantFumeShroomAudio",
+                    "PlantScaredyShroom",
+                    "PlantScaredyShroomAudio",
+                    "PlantSunshroom",
+                    "PlantSunShroomAudio",
+                    "PlantSeashroom",
+                    "ZombieModernBalloonAudio",
+                    "PlantMagnetShroom",
+                    "PlantMagnetShroomAudio",
+                    "PlantHypnoShroom",
+                    "PlantHypnoShroomAudio",
+                    "HypnoShroomEffects",
+                    "PlantSporeshroom",
+                    "PlantSporeshroomAudio",
+                    "PlantGatlingPuff",
+                    "PlantCosmicPea",
+                    "ZombieMoonYanMieGroup"
+				],
+				"Properties": "RTID(CosmicScaredyShroomDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Cactus",
+				"PopAnim": "POPANIM_PLANT_COSMICSCAREDYSHROOM",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicscaredyshroom_normal"
+			],
+			"objdata": {
+				"TypeName": "cosmicscaredyshroom_normal",
+				"PlantFramework": "PlantCactus",
+				"PlantResourceGroups": [
+					"PlantCosmicShroom",
+					"PlantCosmicShroomAudio",
+					"PlantPuffshroom",
+					"PlantPuffShroomAudio",
+                    "PlantFumeshroom",
+                    "PlantFumeShroomAudio",
+                    "PlantScaredyShroom",
+                    "PlantScaredyShroomAudio",
+                    "PlantSunshroom",
+                    "PlantSunShroomAudio",
+                    "PlantSeashroom",
+                    "ZombieModernBalloonAudio",
+                    "PlantMagnetShroom",
+                    "PlantMagnetShroomAudio",
+                    "PlantHypnoShroom",
+                    "PlantHypnoShroomAudio",
+                    "HypnoShroomEffects",
+                    "PlantSporeshroom",
+                    "PlantSporeshroomAudio",
+                    "PlantGatlingPuff",
+                    "PlantCosmicPea",
+                    "ZombieMoonYanMieGroup"
+				],
+				"Properties": "RTID(CosmicScaredyShroomDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Cactus",
+				"PopAnim": "POPANIM_PLANT_COSMICSCAREDYSHROOM_NORMAL",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicfumeshroom"
+			],
+			"objdata": {
+				"TypeName": "cosmicfumeshroom",
+				"PlantFramework": "PlantPuffshroom",
+				"PlantResourceGroups": [
+					"PlantCosmicShroom",
+					"PlantCosmicShroomAudio",
+					"PlantPuffshroom",
+					"PlantPuffShroomAudio",
+                    "PlantFumeshroom",
+                    "PlantFumeShroomAudio",
+                    "PlantScaredyShroom",
+                    "PlantScaredyShroomAudio",
+                    "PlantSunshroom",
+                    "PlantSunShroomAudio",
+                    "PlantSeashroom",
+                    "ZombieModernBalloonAudio",
+                    "PlantMagnetShroom",
+                    "PlantMagnetShroomAudio",
+                    "PlantHypnoShroom",
+                    "PlantHypnoShroomAudio",
+                    "HypnoShroomEffects",
+                    "PlantSporeshroom",
+                    "PlantSporeshroomAudio",
+                    "PlantGatlingPuff",
+                    "PlantCosmicPea",
+                    "ZombieMoonYanMieGroup"
+				],
+				"Properties": "RTID(CosmicFumeshroomDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Puffshroom",
+				"PopAnim": "POPANIM_PLANT_COSMICFUMESHROOM",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicfumeshroom_normal"
+			],
+			"objdata": {
+				"TypeName": "cosmicfumeshroom_normal",
+				"PlantFramework": "PlantPuffshroom",
+				"PlantResourceGroups": [
+					"PlantCosmicShroom",
+					"PlantCosmicShroomAudio",
+					"PlantPuffshroom",
+					"PlantPuffShroomAudio",
+                    "PlantFumeshroom",
+                    "PlantFumeShroomAudio",
+                    "PlantScaredyShroom",
+                    "PlantScaredyShroomAudio",
+                    "PlantSunshroom",
+                    "PlantSunShroomAudio",
+                    "PlantSeashroom",
+                    "ZombieModernBalloonAudio",
+                    "PlantMagnetShroom",
+                    "PlantMagnetShroomAudio",
+                    "PlantHypnoShroom",
+                    "PlantHypnoShroomAudio",
+                    "HypnoShroomEffects",
+                    "PlantSporeshroom",
+                    "PlantSporeshroomAudio",
+                    "PlantGatlingPuff",
+                    "PlantCosmicPea",
+                    "ZombieMoonYanMieGroup"
+				],
+				"Properties": "RTID(CosmicFumeshroomDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Puffshroom",
+				"PopAnim": "POPANIM_PLANT_COSMICFUMESHROOM_NORMAL",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"darkmatter_dragonfruit"
+			],
+			"objdata": {
+				"TypeName": "darkmatter_dragonfruit",
+				"PlantFramework": "PlantKernelpult",
+				"PlantResourceGroups": [
+					"PlantDarkMatterDragonfruitGroup",
+					"PlantDarkMatterDragonfruitAudio",
+					"PlantStalliaEffects"
+				],
+				"Properties": "RTID(DarkMatterDragonFruitDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Kernelpult",
+				"PopAnim": "POPANIM_PLANT_DARKMATTER_DRAGONFRUIT",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"darkmatter_dragon"
+			],
+			"objdata": {
+				"TypeName": "darkmatter_dragon",
+				"PlantFramework": "PlantHomingThistle",
+				"PlantResourceGroups": [
+					"PlantDarkMatterDragonfruitGroup",
+					"PlantDarkMatterDragonfruitAudio",
+					"PlantStalliaEffects"
+				],
+				"Properties": "RTID(DarkMatterDragonDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_HomingThistle",
+				"PopAnim": "POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_DRAGON",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"gravitytree"
+			],
+			"objdata": {
+				"TypeName": "gravitytree",
+				"PlantFramework": "PlantSweetPotato",
+				"PlantResourceGroups": [
+					"PlantGravityTreeGroup",
+					"PlantGravityTreeAudio",
+					"PlantAppleMortar",
+					"PlantCoconutCannonAudio"
+				],
+				"Properties": "RTID(GravityTreeDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_SweetPotato",
+				"PopAnim": "POPANIM_PLANT_GRAVITY_TREE",
+				"HomeWorld": "moon"
+			}
+		}
+
+## PlantProperties
+{
+			"objclass": "OlivePitProps",
+			"aliases": [
+				"PineCloneIntroDefault"
+			],
+			"objdata": {
+				"Cost": 200,
+				"BeghouledCost": 5000,
+				"Hitpoints": 300,
+				"PacketCooldown": 20,
+				"PlantFoodDurationSeconds": 0,
+				"PlantFoodActivationSound": "",
+				"CanLiveOnWaves": true,
+				"PlantGridType": "ground",
+				"Height": "normal",
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"CursorPreviewOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"Actions": [
+					{
+						"# Zombie eat check": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					},
+					{
+						"# PF Zombie eat check": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					},
+					{
+						"# PF Oil Spit": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect_grid",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					}
+				],
+				"PitCapacity": 0,
+				"ChewTime": 999999,
+				"OilItemName": "nothing",
+				"OilSpitRecharge": 0,
+				"OilDuration": 0,
+				"ZombieFallTime": 99999,
+				"PFZombiePullTime": 0,
+				"PFZombieFallTime": 0,
+				"OilCondition": "speeddown2",
+				"OilSpitRange": {
+					"mX": 0,
+					"mY": 0,
+					"mWidth": 0,
+					"mHeight": 0
+				},
+				"PitExcludelist": {
+					"ListType": "excludelist",
+					"List": []
+				},
+				"PitCapacityExcludelist": {
+					"ListType": "excludelist",
+					"List": []
+				},
+				"CanBeTargetedByList": {
+					"ListType": "includelist",
+					"List": []
+				},
+				"PlantingOffsetY": -15,
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage2"
+					},
+					{
+						"Type": "area",
+						"Value": "square"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 12,
+				"ZenGardenDurationOverrideSeconds": 18000,
+				"ZenGardenOffset": {
+					"x": 0,
+					"y": 10
+				},
+				"Boosts": [],
+				"SuggestionAlts": [
+					"spikerock",
+					"cherry_bomb",
+					"potatomine"
+				]
+			}
+		},
+		{
+			"objclass": "CabbagepultProps",
+			"aliases": [
+				"PineCloneDefault"
+			],
+			"objdata": {
+				"Cost": 200,
+				"Hitpoints": 300,
+				"PacketCooldown": 7.500000,
+				"PlantGridType": "ground",
+				"CanLiveOnWaves": true,
+				"PlantFoodPlayCount": 1,
+				"PlantFoodActivationSound": "Play_Plant_ElectricPeashooter_PlantFood_Start",
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"PlantfoodLaunchProps": {
+					"LobHeight": 0,
+					"LobHeightVariance": 0,
+					"TimeOfFlight": 0,
+					"TimeOfFlightVariance": 0
+				},
+				"NormalLaunchProps": {
+					"LobHeight": 0,
+					"LobHeightVariance": 0.000000,
+					"TimeOfFlight": 0.000000,
+					"TimeOfFlightVariance": 0.000000
+				},
+				"Actions": [
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(PineCloneNormal@ProjectileTypes)",
+						"InitialMinCooldownTime": 1,
+						"CooldownTimeMin": 2.000000,
+						"CooldownTimeMax": 2.000000,
+						"TriggerType": "rect_grid",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 20,
+							"mHeight": 1
+						},
+						"SpawnOffset": {
+							"x": 35,
+							"y": -32
+						}
+					},
+					{
+						"Type": "special",
+						"Projectile": "RTID(TwoBullet,SeePAM@ProjectileTypes)",
+						"SpawnOffset": {
+							"x": 0,
+							"y": -40
+						}
+					}
+				],
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage2"
+					},
+					{
+						"Type": "range",
+						"Value": "lobbed"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 10,
+				"ZenGardenDurationOverrideSeconds": 12600,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"SuggestionAlts": [
+					"bloominghearts",
+					"melonpult",
+					"kernelpult"
+				]
+			}
+		},
+		{
+			"objclass": "OlivePitProps",
+			"aliases": [
+				"PineCloneCloneIntroDefault"
+			],
+			"objdata": {
+				"Cost": 0,
+				"BeghouledCost": 5000,
+				"Hitpoints": 300,
+				"PacketCooldown": 20,
+				"PlantFoodDurationSeconds": 0,
+				"PlantFoodActivationSound": "",
+				"CanLiveOnWaves": true,
+				"PlantGridType": "ground",
+				"MultiPlantLayer": "armor",
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"CursorPreviewOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"Actions": [
+					{
+						"# Zombie eat check": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					},
+					{
+						"# PF Zombie eat check": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					},
+					{
+						"# PF Oil Spit": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect_grid",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					}
+				],
+				"PitCapacity": 0,
+				"ChewTime": 999999,
+				"OilItemName": "nothing",
+				"OilSpitRecharge": 0,
+				"OilDuration": 0,
+				"ZombieFallTime": 99999,
+				"PFZombiePullTime": 0,
+				"PFZombieFallTime": 0,
+				"OilCondition": "speeddown2",
+				"OilSpitRange": {
+					"mX": 0,
+					"mY": 0,
+					"mWidth": 0,
+					"mHeight": 0
+				},
+				"PitExcludelist": {
+					"ListType": "excludelist",
+					"List": []
+				},
+				"PitCapacityExcludelist": {
+					"ListType": "excludelist",
+					"List": []
+				},
+				"CanBeTargetedByList": {
+					"ListType": "includelist",
+					"List": []
+				},
+				"PlantingOffsetY": -15,
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage2"
+					},
+					{
+						"Type": "area",
+						"Value": "square"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 12,
+				"ZenGardenDurationOverrideSeconds": 18000,
+				"ZenGardenOffset": {
+					"x": 0,
+					"y": 10
+				},
+				"Boosts": [],
+				"SuggestionAlts": [
+					"spikerock",
+					"cherry_bomb",
+					"potatomine"
+				]
+			}
+		},
+		{
+			"objclass": "CabbagepultProps",
+			"aliases": [
+				"PineCloneCloneDefault"
+			],
+			"objdata": {
+				"Cost": 0,
+				"Hitpoints": 300,
+				"PacketCooldown": 7.500000,
+				"PlantGridType": "ground",
+				"MultiPlantLayer": "armor",
+				"CanLiveOnWaves": true,
+				"PlantFoodPlayCount": 1,
+				"PlantFoodActivationSound": "Play_Plant_ElectricPeashooter_PlantFood_Start",
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"PlantfoodLaunchProps": {
+					"LobHeight": 0,
+					"LobHeightVariance": 0,
+					"TimeOfFlight": 0,
+					"TimeOfFlightVariance": 0
+				},
+				"NormalLaunchProps": {
+					"LobHeight": 0,
+					"LobHeightVariance": 0.000000,
+					"TimeOfFlight": 0.000000,
+					"TimeOfFlightVariance": 0.000000
+				},
+				"Actions": [
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(PineCloneNormal_Clone@ProjectileTypes)",
+						"InitialMinCooldownTime": 1,
+						"CooldownTimeMin": 2.000000,
+						"CooldownTimeMax": 2.000000,
+						"TriggerType": "rect_grid",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 20,
+							"mHeight": 1
+						},
+						"SpawnOffset": {
+							"x": 35,
+							"y": -32
+						}
+					},
+					{
+						"Type": "special",
+						"Projectile": "RTID(TwoBullet,SeePAM@ProjectileTypes)",
+						"SpawnOffset": {
+							"x": 0,
+							"y": -40
+						}
+					}
+				],
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage2"
+					},
+					{
+						"Type": "range",
+						"Value": "lobbed"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 10,
+				"ZenGardenDurationOverrideSeconds": 12600,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"SuggestionAlts": [
+					"bloominghearts",
+					"melonpult",
+					"kernelpult"
+				]
+			}
+		},
+		{
+			"objclass": "SunflowerProps",
+			"aliases": [
+				"CosmicNutDefault"
+			],
+			"objdata": {
+				"Cost": 125,
+				"BeghouledCost": 3500,
+				"Hitpoints": 6000,
+				"PacketCooldown": 40.000000,
+				"PlantGridType": "ground",
+				"PlantFoodPlayCount": 1,
+				"PlantFoodActivationSound": "",
+				"PlantFoodSunCount": 0,
+				"Powers": {
+					"List": [
+						{
+							"Type": "SunProducer",
+							"Props": "SunProducer50"
+						}
+					]
+				},
+				"Actions": [
+					{
+						"Type": "sun",
+						"CooldownTimeMin": 120,
+						"CooldownTimeMax": 120,
+						"SpawnOffset": {
+							"x": 0,
+							"y": -52
+						}
+					},
+					{
+						"Type": "special"
+					}
+				],
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"PlantStats": [
+					{
+						"Type": "armor",
+						"Value": "armor0"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 12,
+				"ZenGardenDurationOverrideSeconds": 18000,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"SuggestionAlts": [
+					"primalsunflower",
+					"moonflower",
+					"twinsunflower"
+				]
+			}
+		},
+		{
+			"objclass": "SproutProps",
+			"aliases": [
+				"CosmicNutTransformDefault"
+			],
+			"objdata": {
+				"Cost": 250,
+				"BeghouledCost": 3000,
+				"Hitpoints": 2000,
+				"PacketCooldown": 5,
+				"Height": "normal",
+				"PlantGridType": "ground",
+				"PlantFoodPlayCount": 0,
+				"PlantFoodActivationSound": "Play_Plant_WitchHazel_Attack",
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"IsZenGardenTreasurePlant": false,
+				"PlantStats": [],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenDurationOverrideSeconds": 27000,
+				"TimeToGerminate": 3,
+				"PlantWeights": [
+					[
+						{
+							"PlantTypeName": "wallnut",
+							"Weight": 80
+						},
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 25
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "peanut",
+							"Weight": 60
+						},
+						{
+							"PlantTypeName": "holonut",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 40
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						}
+					],
+					[
+						{
+							"PlantTypeName": "wallnut",
+							"Weight": 80
+						},
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 25
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "peanut",
+							"Weight": 60
+						},
+						{
+							"PlantTypeName": "holonut",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 40
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						}
+					],
+					[
+						{
+							"PlantTypeName": "wallnut",
+							"Weight": 80
+						},
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 25
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "peanut",
+							"Weight": 60
+						},
+						{
+							"PlantTypeName": "holonut",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 40
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						}
+					],
+					[
+						{
+							"PlantTypeName": "wallnut",
+							"Weight": 80
+						},
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 25
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "peanut",
+							"Weight": 60
+						},
+						{
+							"PlantTypeName": "holonut",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 40
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						}
+					],
+					[
+						{
+							"PlantTypeName": "wallnut",
+							"Weight": 80
+						},
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 25
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "peanut",
+							"Weight": 60
+						},
+						{
+							"PlantTypeName": "holonut",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 40
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						}
+					],
+					[
+						{
+							"PlantTypeName": "wallnut",
+							"Weight": 80
+						},
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 25
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "peanut",
+							"Weight": 60
+						},
+						{
+							"PlantTypeName": "holonut",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 40
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						}
+					],
+					[
+						{
+							"PlantTypeName": "wallnut",
+							"Weight": 80
+						},
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 25
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "peanut",
+							"Weight": 60
+						},
+						{
+							"PlantTypeName": "holonut",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 40
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						}
+					],
+					[
+						{
+							"PlantTypeName": "wallnut",
+							"Weight": 80
+						},
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 25
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "peanut",
+							"Weight": 60
+						},
+						{
+							"PlantTypeName": "holonut",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 40
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						}
+					],
+					[
+						{
+							"PlantTypeName": "wallnut",
+							"Weight": 80
+						},
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 25
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "peanut",
+							"Weight": 60
+						},
+						{
+							"PlantTypeName": "holonut",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 40
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						}
+					]
+				]
+			}
+		},
+        {
+			"objclass": "GoldLeafProps",
+			"aliases": [
+				"CosmossDefault"
+			],
+			"objdata": {
+				"Cost": 25,
+				"Hitpoints": 300,
+				"PacketCooldown": 7.5,
+				"StartingCooldown": 0.001,
+				"PlantGridType": "ground",
+				"MultiPlantLayer": "ground",
+				"ArtCenter": {
+					"x": 97,
+					"y": 115
+				},
+				"PlantStats": [
+					{
+						"Type": "recharge",
+						"Value": "recharge1"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 12,
+				"ZenGardenDurationOverrideSeconds": 18000,
+				"IsConsumable": true,
+				"IsInstant": true,
+				"CanLiveOnWaves": false
+			}
+		},
+		{
+			"objclass": "PlantPropertySheet",
+			"aliases": [
+				"CosmosGroundDefault"
+			],
+			"objdata": {
+				"Cost": 25,
+				"BeghouledCost": 100,
+				"Hitpoints": 300,
+				"PacketCooldown": 5,
+				"StartingCooldown": 5,
+				"PlantGridType": "ground",
+				"MultiPlantLayer": "ground",
+				"CanReceiveFirstAid": false,
+				"PlantFoodPlayCount": 0,
+				"CanPlantfood": false,
+				"PlantFoodActivationSound": "Play_Plant_WallNut_Nitro",
+				"ArtCenter": {
+					"x": 100,
+					"y": 112
+				},
+				"PlantStats": [
+					{
+						"Type": "armor",
+						"Value": "armor2"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge2"
+					}
+				],
+				"Powers": {
+					"List": [
+						{
+							"Type": "Shield",
+							"Props": "Shield8000"
+						}
+					]
+				},
+				"HitRectAdjust": {
+					"mX": 15,
+					"mY": 25,
+					"mWidth": -35,
+					"mHeight": -10
+				},
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 10,
+				"ZenGardenPlantDurationOverrideSeconds": 12600,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"SuggestionAlts": [
+					"peanut",
+					"primalwallnut",
+					"tallnut"
+				]
+			}
+		},
+		{
+			"objclass": "SunflowerProps",
+			"aliases": [
+				"CosmicTallNutDefault"
+			],
+			"objdata": {
+				"Cost": 250,
+				"BeghouledCost": 3500,
+				"Hitpoints": 10000,
+				"PacketCooldown": 40.000000,
+				"PlantGridType": "ground",
+				"PlantFoodPlayCount": 1,
+				"Height": "tall",
+				"PlantFoodActivationSound": "",
+				"PlantFoodSunCount": 0,
+				"Powers": {
+					"List": [
+						{
+							"Type": "SunProducer",
+							"Props": "SunProducer50"
+						}
+					]
+				},
+				"Actions": [
+					{
+						"Type": "sun",
+						"CooldownTimeMin": 120,
+						"CooldownTimeMax": 120,
+						"SpawnOffset": {
+							"x": 0,
+							"y": -52
+						}
+					},
+					{
+						"Type": "special"
+					}
+				],
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"PlantStats": [
+					{
+						"Type": "armor",
+						"Value": "armor0"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 12,
+				"ZenGardenDurationOverrideSeconds": 18000,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"SuggestionAlts": [
+					"primalsunflower",
+					"moonflower",
+					"twinsunflower"
+				]
+			}
+		},
+		{
+			"objclass": "SproutProps",
+			"aliases": [
+				"CosmicTallNutTransformDefault"
+			],
+			"objdata": {
+				"Cost": 250,
+				"BeghouledCost": 3000,
+				"Hitpoints": 2000,
+				"PacketCooldown": 5,
+				"Height": "normal",
+				"PlantGridType": "ground",
+				"PlantFoodPlayCount": 0,
+				"PlantFoodActivationSound": "Play_Plant_WitchHazel_Attack",
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"IsZenGardenTreasurePlant": false,
+				"PlantStats": [],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenDurationOverrideSeconds": 27000,
+				"TimeToGerminate": 3,
+				"PlantWeights": [
+					[
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "pecanolith",
+							"Weight": 30
+						},
+						{
+							"PlantTypeName": "cosmicnut",
+							"Weight": 10
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "explodeonut",
+							"Weight": 30
+						}
+					],
+					[
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "pecanolith",
+							"Weight": 30
+						},
+						{
+							"PlantTypeName": "cosmicnut",
+							"Weight": 10
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "explodeonut",
+							"Weight": 30
+						}
+					],
+					[
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "pecanolith",
+							"Weight": 30
+						},
+						{
+							"PlantTypeName": "cosmicnut",
+							"Weight": 10
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "explodeonut",
+							"Weight": 30
+						}
+					],
+					[
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "pecanolith",
+							"Weight": 30
+						},
+						{
+							"PlantTypeName": "cosmicnut",
+							"Weight": 10
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "explodeonut",
+							"Weight": 30
+						}
+					],
+					[
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "pecanolith",
+							"Weight": 30
+						},
+						{
+							"PlantTypeName": "cosmicnut",
+							"Weight": 10
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "explodeonut",
+							"Weight": 30
+						}
+					],
+					[
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "pecanolith",
+							"Weight": 30
+						},
+						{
+							"PlantTypeName": "cosmicnut",
+							"Weight": 10
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "explodeonut",
+							"Weight": 30
+						}
+					],
+					[
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "pecanolith",
+							"Weight": 30
+						},
+						{
+							"PlantTypeName": "cosmicnut",
+							"Weight": 10
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "explodeonut",
+							"Weight": 30
+						}
+					],
+					[
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "pecanolith",
+							"Weight": 30
+						},
+						{
+							"PlantTypeName": "cosmicnut",
+							"Weight": 10
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "explodeonut",
+							"Weight": 30
+						}
+					],
+					[
+						{
+							"PlantTypeName": "tallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "bowlingnut",
+							"Weight": 1
+						},
+						{
+							"PlantTypeName": "endurian",
+							"Weight": 35
+						},
+						{
+							"PlantTypeName": "pecanolith",
+							"Weight": 30
+						},
+						{
+							"PlantTypeName": "cosmicnut",
+							"Weight": 10
+						},
+						{
+							"PlantTypeName": "primalwallnut",
+							"Weight": 50
+						},
+						{
+							"PlantTypeName": "explodeonut",
+							"Weight": 30
+						}
+					]
+				]
+			}
+		},
+		{
+			"objclass": "OlivePitProps",
+			"aliases": [
+				"CosmicPeaIntroDefault"
+			],
+			"objdata": {
+				"Cost": 175,
+				"BeghouledCost": 3000,
+				"Hitpoints": 300,
+				"PacketCooldown": 20,
+				"PlantFoodDurationSeconds": 0,
+				"# Should be at least PFZombiePullTime + PFZombieFallTime": 0,
+				"PlantFoodActivationSound": "",
+				"PlantGridType": "ground",
+				"Height": "normal",
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"CursorPreviewOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"Actions": [
+					{
+						"# Zombie eat check": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					},
+					{
+						"# PF Zombie eat check": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					},
+					{
+						"# PF Oil Spit": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect_grid",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					}
+				],
+				"PitCapacity": 0,
+				"ChewTime": 999999,
+				"OilItemName": "nothing",
+				"OilSpitRecharge": 0,
+				"OilDuration": 0,
+				"ZombieFallTime": 99999,
+				"PFZombiePullTime": 0,
+				"PFZombieFallTime": 0,
+				"OilCondition": "speeddown2",
+				"OilSpitRange": {
+					"mX": 0,
+					"mY": 0,
+					"mWidth": 0,
+					"mHeight": 0
+				},
+				"PitExcludelist": {
+					"ListType": "excludelist",
+					"List": []
+				},
+				"PitCapacityExcludelist": {
+					"ListType": "excludelist",
+					"List": []
+				},
+				"CanBeTargetedByList": {
+					"ListType": "includelist",
+					"List": []
+				},
+				"PlantingOffsetY": -15,
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage2"
+					},
+					{
+						"Type": "area",
+						"Value": "square"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 12,
+				"ZenGardenDurationOverrideSeconds": 18000,
+				"ZenGardenOffset": {
+					"x": 0,
+					"y": 10
+				},
+				"Boosts": [],
+				"SuggestionAlts": [
+					"spikerock",
+					"cherry_bomb",
+					"potatomine"
+				]
+			}
+		},
+		{
+			"objclass": "SkyshooterProps",
+			"aliases": [
+				"CosmicPeaDefault"
+			],
+			"objdata": {
+				"Cost": 175,
+				"BeghouledCost": 3000,
+				"Hitpoints": 300,
+				"PacketCooldown": 20,
+				"StartingCooldown": 20,
+				"PlantGridType": "ground",
+				"PlantFoodPlayCount": 1,
+				"ManualCooldownTime": 25,
+				"EscapesWhenDamaged": false,
+				"RageBaitable": false,
+				"AngeredTapRequirement": 99999,
+				"AngeredTimeLimit": 1,
+				"Actions": [
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicPeaBullet@ProjectileTypes)",
+						"ProjectileLaunchSound": "Play_Throw",
+						"CooldownTimeMin": 1.500000,
+						"CooldownTimeMax": 1.500000,
+						"SpawnOffset": {
+							"x": 15,
+							"y": -32
+						}
+					},
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicPeaBullet_Galaxy@ProjectileTypes)",
+						"ProjectileLaunchSound": "Play_Throw",
+						"CooldownTimeMin": 10,
+						"CooldownTimeMax": 10,
+						"SpawnOffset": {
+							"x": 15,
+							"y": -32
+						},
+						"TriggerType": "manual"
+					},
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicpeaPFBullet@ProjectileTypes)",
+						"ProjectileLaunchSound": "Play_Throw",
+						"CooldownTimeMin": 1.350000,
+						"CooldownTimeMax": 1.500000,
+						"SpawnOffset": {
+							"x": 15,
+							"y": -32
+						}
+					}
+				],
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 2,
+				"ZenGardenDurationOverrideSeconds": 12600,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"IsConsumable": false
+			}
+		},
+		{
+			"objclass": "OlivePitProps",
+			"aliases": [
+				"CosmicRepeaterIntroDefault"
+			],
+			"objdata": {
+				"Cost": 125,
+				"BeghouledCost": 3000,
+				"Hitpoints": 300,
+				"PacketCooldown": 20,
+				"PlantFoodDurationSeconds": 0,
+				"# Should be at least PFZombiePullTime + PFZombieFallTime": 0,
+				"PlantFoodActivationSound": "",
+				"PlantGridType": "ground",
+				"Height": "normal",
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"CursorPreviewOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"Actions": [
+					{
+						"# Zombie eat check": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					},
+					{
+						"# PF Zombie eat check": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					},
+					{
+						"# PF Oil Spit": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect_grid",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					}
+				],
+				"PitCapacity": 0,
+				"ChewTime": 999999,
+				"OilItemName": "nothing",
+				"OilSpitRecharge": 0,
+				"OilDuration": 0,
+				"ZombieFallTime": 99999,
+				"PFZombiePullTime": 0,
+				"PFZombieFallTime": 0,
+				"OilCondition": "speeddown2",
+				"OilSpitRange": {
+					"mX": 0,
+					"mY": 0,
+					"mWidth": 0,
+					"mHeight": 0
+				},
+				"PitExcludelist": {
+					"ListType": "excludelist",
+					"List": []
+				},
+				"PitCapacityExcludelist": {
+					"ListType": "excludelist",
+					"List": []
+				},
+				"CanBeTargetedByList": {
+					"ListType": "includelist",
+					"List": []
+				},
+				"PlantingOffsetY": -15,
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage2"
+					},
+					{
+						"Type": "area",
+						"Value": "square"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 12,
+				"ZenGardenDurationOverrideSeconds": 18000,
+				"ZenGardenOffset": {
+					"x": 0,
+					"y": 10
+				},
+				"Boosts": [],
+				"SuggestionAlts": [
+					"spikerock",
+					"cherry_bomb",
+					"potatomine"
+				]
+			}
+		},
+		{
+			"objclass": "SkyshooterProps",
+			"aliases": [
+				"CosmicRepeaterDefault"
+			],
+			"objdata": {
+				"Cost": 300,
+				"BeghouledCost": 3000,
+				"Hitpoints": 300,
+				"PacketCooldown": 30,
+				"StartingCooldown": 30,
+				"PlantGridType": "ground",
+				"PlantFoodPlayCount": 1,
+				"ManualCooldownTime": 25,
+				"EscapesWhenDamaged": false,
+				"RageBaitable": false,
+				"AngeredTapRequirement": 99999,
+				"AngeredTimeLimit": 1,
+				"Actions": [
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicPeaBullet@ProjectileTypes)",
+						"ProjectileLaunchSound": "Play_Throw",
+						"CooldownTimeMin": 1.500000,
+						"CooldownTimeMax": 1.500000,
+						"SpawnOffset": {
+							"x": 15,
+							"y": -32
+						}
+					},
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicPeaBullet_Galaxy@ProjectileTypes)",
+						"ProjectileLaunchSound": "Play_Throw",
+						"CooldownTimeMin": 10,
+						"CooldownTimeMax": 10,
+						"SpawnOffset": {
+							"x": 15,
+							"y": -32
+						},
+						"TriggerType": "manual"
+					},
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicpeaPFBullet@ProjectileTypes)",
+						"ProjectileLaunchSound": "Play_Throw",
+						"CooldownTimeMin": 1.350000,
+						"CooldownTimeMax": 1.500000,
+						"SpawnOffset": {
+							"x": 15,
+							"y": -32
+						}
+					}
+				],
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 2,
+				"ZenGardenDurationOverrideSeconds": 12600,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"IsConsumable": false
+			}
+		},
+		{
+			"objclass": "OlivePitProps",
+			"aliases": [
+				"CosmicGatlingIntroDefault"
+			],
+			"objdata": {
+				"Cost": 200,
+				"BeghouledCost": 3000,
+				"Hitpoints": 600,
+				"PacketCooldown": 40,
+				"PlantFoodDurationSeconds": 0,
+				"# Should be at least PFZombiePullTime + PFZombieFallTime": 0,
+				"PlantFoodActivationSound": "",
+				"PlantGridType": "ground",
+				"Height": "normal",
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"CursorPreviewOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"Actions": [
+					{
+						"# Zombie eat check": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					},
+					{
+						"# PF Zombie eat check": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					},
+					{
+						"# PF Oil Spit": 0,
+						"Type": "special",
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "rect_grid",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 0,
+							"mHeight": 0
+						}
+					}
+				],
+				"PitCapacity": 0,
+				"ChewTime": 999999,
+				"OilItemName": "nothing",
+				"OilSpitRecharge": 0,
+				"OilDuration": 0,
+				"ZombieFallTime": 99999,
+				"PFZombiePullTime": 0,
+				"PFZombieFallTime": 0,
+				"OilCondition": "speeddown2",
+				"OilSpitRange": {
+					"mX": 0,
+					"mY": 0,
+					"mWidth": 0,
+					"mHeight": 0
+				},
+				"PitExcludelist": {
+					"ListType": "excludelist",
+					"List": []
+				},
+				"PitCapacityExcludelist": {
+					"ListType": "excludelist",
+					"List": []
+				},
+				"CanBeTargetedByList": {
+					"ListType": "includelist",
+					"List": []
+				},
+				"PlantingOffsetY": -15,
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage2"
+					},
+					{
+						"Type": "area",
+						"Value": "square"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 12,
+				"ZenGardenDurationOverrideSeconds": 18000,
+				"ZenGardenOffset": {
+					"x": 0,
+					"y": 10
+				},
+				"Boosts": [],
+				"SuggestionAlts": [
+					"spikerock",
+					"cherry_bomb",
+					"potatomine"
+				]
+			}
+		},
+		{
+			"objclass": "SkyshooterProps",
+			"aliases": [
+				"CosmicGatlingDefault"
+			],
+			"objdata": {
+				"Cost": 500,
+				"BeghouledCost": 3000,
+				"Hitpoints": 600,
+				"PacketCooldown": 40,
+				"StartingCooldown": 40,
+				"PlantGridType": "ground",
+				"PlantFoodPlayCount": 1,
+				"ManualCooldownTime": 25,
+				"EscapesWhenDamaged": false,
+				"RageBaitable": false,
+				"AngeredTapRequirement": 99999,
+				"AngeredTimeLimit": 1,
+				"Actions": [
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicPeaBullet@ProjectileTypes)",
+						"ProjectileLaunchSound": "Play_Throw",
+						"CooldownTimeMin": 1.500000,
+						"CooldownTimeMax": 1.500000,
+						"SpawnOffset": {
+							"x": 15,
+							"y": -32
+						}
+					},
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicPeaBullet_Galaxy@ProjectileTypes)",
+						"ProjectileLaunchSound": "Play_Throw",
+						"CooldownTimeMin": 10,
+						"CooldownTimeMax": 10,
+						"SpawnOffset": {
+							"x": 15,
+							"y": -32
+						},
+						"TriggerType": "manual"
+					},
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicpeaPFBullet@ProjectileTypes)",
+						"ProjectileLaunchSound": "Play_Throw",
+						"CooldownTimeMin": 1.350000,
+						"CooldownTimeMax": 1.500000,
+						"SpawnOffset": {
+							"x": 15,
+							"y": -32
+						}
+					}
+				],
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 2,
+				"ZenGardenDurationOverrideSeconds": 12600,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"IsConsumable": false
+			}
+		},
+		{
+			"objclass": "SweetPotatoProps",
+			"aliases": [
+				"SweetPotatoToolDefault"
+			],
+			"objdata": {
+				"Cost": 0,
+				"BeghouledCost": 0,
+				"Hitpoints": 9999999,
+				"PacketCooldown": 0.0001,
+				"StartingCooldown": 0,
+				"PlantGridType": "ground",
+				"CanLiveOnWaves":true,
+				"PlantFoodDurationSeconds": 0.00001,
+				"PlantFoodActivationSound": "",
+				"ArtCenter": {
+					"x": 99999,
+					"y": 99999
+				},
+				"CanReceiveFirstAid": false,
+				"MovableZombies": {
+					"ListType": "excludelist",
+					"List": [
+						"west_bull",
+						"pirate_barrel",
+						"birthday_barrel",
+						"barrelroller",
+						"pirate_captain_parrot",
+						"cannon",
+						"future_jetpack",
+						"future_jetpack_disco",
+						"hero_barrel",
+						"bighead_barrel",
+						"roman_ballista"
+					]
+				},
+				"PlantfoodAttractRect": {
+					"mX": -120,
+					"mY": -110,
+					"mWidth": 240,
+					"mHeight": 200
+				},
+				"NormalAttractRect": {
+					"mX": -120,
+					"mY": -110,
+					"mWidth": 240,
+					"mHeight": 200
+				},
+				"DrawAttractRects": false,
+				"LaneChangeTime": 0.200000,
+				"TimeBetweenLaneChanges": 0.0001,
+				"PlantStats": [
+					{
+						"Type": "armor",
+						"Value": "armor2"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge2"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 15,
+				"ZenGardenDurationOverrideSeconds": 27000,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"SuggestionAlts": [
+					"garlic",
+					"primalwallnut",
+					"wallnut"
+				]
+			}
+		},
+		{
+			"objclass": "PuffshroomProps",
+			"aliases": [
+				"CosmicPuffshroomDefault"
+			],
+			"objdata": {
+				"Cost": 50,
+				"Hitpoints": 300,
+				"PacketCooldown": 10,
+				"PlantGridType": "ground",
+				"PlantFoodDurationSeconds": 0.5,
+				"PlantFoodProjectileCount": 0,
+				"PlantfoodPropagationDelayBaseSeconds": 0.100000,
+				"PlantfoodPropagationDelayPerTileDistanceSeconds": 0.200000,
+				"PlantfoodResetsDecayForAllPuffshrooms": true,
+				"ExpirationDurationSeconds": 1145141919,
+				"ExpirationBlinkTime": 0,
+				"Actions": [
+					{
+						"Type": "projectile",
+						"# [projectile, explode, sun, special]": 0,
+						"Projectile": "RTID(CosmicShroomBulletShort@ProjectileTypes)",
+						"ProjectileLaunchSound": "",
+						"InitialMinCooldownTime": 0,
+						"CooldownTimeMin": 3.0000,
+						"CooldownTimeMax": 3.0000,
+						"SpawnOffset": {
+							"x": 10,
+							"y": -10
+						},
+						"TriggerType": "rect_grid",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 5,
+							"mHeight": 1
+						}
+					},
+					{
+						"Type": "projectile",
+						"# [projectile, explode, sun, special]": 0,
+						"Projectile": "RTID(CosmicShroomBulletPF@ProjectileTypes)",
+						"ProjectileLaunchSound": "",
+						"InitialMinCooldownTime": 0,
+						"CooldownTimeMin": 3.0000,
+						"CooldownTimeMax": 3.0000,
+						"SpawnOffset": {
+							"x": 10,
+							"y": -10
+						},
+						"TriggerType": "rect_grid",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 5,
+							"mHeight": 1
+						}
+					}
+				],
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage2"
+					},
+					{
+						"Type": "range",
+						"Value": "3tiles"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 15,
+				"ZenGardenDurationOverrideSeconds": 27000,
+				"SuggestionAlts": [
+					"jackolantern",
+					"xshot",
+					"peashooter"
+				]
+			}
+		},
+		{
+			"objclass": "CactusProps",
+			"aliases": [
+				"CosmicScaredyShroomDefault"
+			],
+			"objdata": {
+				"Cost": 75,
+				"BeghouledCost": 2000,
+				"Hitpoints": 300,
+				"PacketCooldown": 13.5,
+				"PlantGridType": "ground",
+				"PlantFoodDurationSeconds": 3,
+				"Actions": [
+					{
+						"Type": "projectile",
+						"# [projectile, explode, sun, special]": 0,
+						"Projectile": "RTID(CosmicShroomBullet@ProjectileTypes)",
+						"ProjectileLaunchSound": "",
+						"InitialMinCooldownTime": 0,
+						"CooldownTimeMin": 3.0000,
+						"CooldownTimeMax": 3.0000,
+						"SpawnOffset": {
+							"x": 35,
+							"y": -14
+						}
+					},
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicShroomBulletPF@ProjectileTypes)",
+						"ProjectileLaunchSound": "",
+						"InitialMinCooldownTime": 0,
+						"CooldownTimeMin": 3.0000,
+						"CooldownTimeMax": 3.0000,
+						"SpawnOffset": {
+							"x": 35,
+							"y": -14
+						}
+					}
+				],
+				"ZombiesWhichDoNotCauseCower": {
+					"ListType": "includelist",
+					"List": []
+				},
+				"DuckAndCoverRange": {
+					"mX": -100,
+					"mY": -130,
+					"mWidth": 210,
+					"mHeight": 260
+				},
+				"StayDuckedRange": {
+					"mX": -100,
+					"mY": -130,
+					"mWidth": 210,
+					"mHeight": 260
+				},
+				"SpikeRange": {
+					"mX": -45,
+					"mY": -39,
+					"mWidth": 95,
+					"mHeight": 60
+				},
+				"SpikeDamage": 0,
+				"SpikeCooldown": 99999,
+				"PFSpikeDamage": 0,
+				"PFSpikeCooldown": 99999,
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage2"
+					},
+					{
+						"Type": "range",
+						"Value": "multihit"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 12,
+				"ZenGardenDurationOverrideSeconds": 18000,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"SuggestionAlts": [
+					"melonpult",
+					"laser_bean",
+					"cabbagepult"
+				]
+			}
+		},
+		{
+			"objclass": "PuffshroomProps",
+			"aliases": [
+				"CosmicFumeshroomDefault"
+			],
+			"objdata": {
+				"Cost": 125,
+				"Hitpoints": 300,
+				"PacketCooldown": 20,
+				"PlantGridType": "ground",
+				"PlantFoodDurationSeconds": 3.76,
+				"PlantFoodProjectileCount": 0,
+				"PlantfoodPropagationDelayBaseSeconds": 0.100000,
+				"PlantfoodPropagationDelayPerTileDistanceSeconds": 0.200000,
+				"PlantfoodResetsDecayForAllPuffshrooms": true,
+				"ExpirationDurationSeconds": 1145141919,
+				"ExpirationBlinkTime": 0,
+				"Actions": [
+					{
+						"Type": "projectile",
+						"# [projectile, explode, sun, special]": 0,
+						"Projectile": "RTID(CosmicFume@ProjectileTypes)",
+						"ProjectileLaunchSound": "",
+						"InitialMinCooldownTime": 0,
+						"CooldownTimeMin": 3.250000,
+						"CooldownTimeMax": 3.250000,
+						"SpawnOffset": {
+							"x": 35,
+							"y": -15
+						},
+						"TriggerType": "rect_grid",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 6,
+							"mHeight": 1
+						}
+					},
+					{
+						"Type": "projectile",
+						"# [projectile, explode, sun, special]": 0,
+						"Projectile": "RTID(CosmicFumePF@ProjectileTypes)",
+						"ProjectileLaunchSound": "",
+						"InitialMinCooldownTime": 0,
+						"CooldownTimeMin": 3.250000,
+						"CooldownTimeMax": 3.250000,
+						"SpawnOffset": {
+							"x": 55,
+							"y": -15
+						},
+						"TriggerType": "rect_grid",
+						"RectTriggerRange": {
+							"mX": 0,
+							"mY": 0,
+							"mWidth": 6,
+							"mHeight": 1
+						}
+					}
+				],
+				"ArtCenter": {
+					"x": 99,
+					"y": 110
+				},
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage2"
+					},
+					{
+						"Type": "range",
+						"Value": "3tiles"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 15,
+				"ZenGardenDurationOverrideSeconds": 27000,
+				"SuggestionAlts": [
+					"jackolantern",
+					"xshot",
+					"peashooter"
+				]
+			}
+		},
+		{
+			"objclass": "KernelpultProps",
+			"aliases": [
+				"DarkMatterDragonFruitDefault"
+			],
+			"objdata": {
+				"Cost": 400,
+				"BeghouledCost": 5000,
+				"Hitpoints": 600.000000,
+				"PacketCooldown": 25.000000,
+				"PlantGridType": "ground",
+				"CanLiveOnWaves": true,
+				"PlantFoodPlayCount": 1,
+				"PlantFoodActivationSound": "",
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"ButterChance": 0.200000,
+				"ButterStormDelay": 0.000000,
+				"ButterStormDuration": 0.000000,
+				"AdditionalButterStormMissiles": 0,
+				"ButterStormMissileSpeed": 0.000000,
+				"ButterDuration": 0.000000,
+				"Actions": [
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(DarkMatter_Normal@ProjectileTypes)",
+						"InitialMinCooldownTime": 0.000000,
+						"CooldownTimeMin": 3.0,
+						"CooldownTimeMax": 3.0,
+						"SpawnOffset": {
+							"x": 35,
+							"y": -32
+						}
+					},
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(DarkMatter_Special@ProjectileTypes)",
+						"SpawnOffset": {
+							"x": 35,
+							"y": -32
+						}
+					},
+					{
+						"Type": "special",
+						"Projectile": "RTID(Spawn_A_Dragon@ProjectileTypes)"
+					}
+				],
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage1"
+					},
+					{
+						"Type": "range",
+						"Value": "lobbed"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge4"
+					}
+				],
+				"ScaledProps": [
+					{
+						"Key": "MasteryBoostChance",
+						"Formula": "boost_mastery",
+						"Arg1": 10,
+						"Arg2": 0.010000,
+						"comment": "arg2 every arg1 levels"
+					},
+					{
+						"Key": "MasteryResistancePiercing",
+						"Formula": "flat",
+						"Arg1": 0.010000
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 12,
+				"ZenGardenDurationOverrideSeconds": 18000,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"SuggestionAlts": [
+					"akee",
+					"melonpult",
+					"cabbagepult"
+				]
+			}
+		},
+		{
+			"objclass": "HomingThistleProps",
+			"aliases": [
+				"DarkMatterDragonDefault"
+			],
+			"objdata": {
+				"Cost": 0,
+				"BeghouledCost": 0,
+				"Hitpoints": 999000,
+				"PacketCooldown": 99999,
+				"StartingCooldown": 99999,
+				"PlantGridType": "ground",
+				"PlantFoodDurationSeconds": 0,
+				"PlantFoodActivationSound": "",
+				"ArtCenter": {
+					"x": 0,
+					"y": 0
+				},
+				"ThistlePlantfoodMinTargets": 0,
+				"ThistlePlantfoodUnaimedRepeatCount": 0,
+				"ThistleUnaimedOffsetStart": -8,
+				"ThistleAimedOffsetStart": -4,
+				"ThistleUnaimedSlotDegrees": 15,
+				"PlantStats": [
+					{
+						"Type": "damage",
+						"Value": "damage3"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge3"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 15,
+				"ZenGardenDurationOverrideSeconds": 27000,
+				"Actions": [
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(DarkMatter_PlantFood@ProjectileTypes)",
+						"ProjectileLaunchSound": "",
+						"InitialMinCooldownTime": 99999,
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"TriggerType": "board",
+						"SpawnOffset": {
+							"x": 0,
+							"y": 0
+						}
+					},
+					{
+						"Type": "plantfood",
+						"Projectile": "RTID(DarkMatter_PlantFood@ProjectileTypes)",
+						"ProjectileLaunchSound": "",
+						"InitialMinCooldownTime": 99999,
+						"CooldownTimeMin": 99999,
+						"CooldownTimeMax": 99999,
+						"SpawnOffset": {
+							"x": 0,
+							"y": 0
+						}
+					}
+				],
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 0,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"SuggestionAlts": [
+					"dandelion",
+					"laser_bean",
+					"peashooter"
+				]
+			}
+		},
+		{
+			"objclass": "SweetPotatoProps",
+			"aliases": [
+				"GravityTreeDefault"
+			],
+			"objdata": {
+				"Cost": 175,
+				"BeghouledCost": 3000,
+				"Hitpoints": 6000,
+				"PacketCooldown": 50,
+				"StartingCooldown": 25,
+				"PlantGridType": "ground",
+				"Height": "tall",
+				"PlantFoodDurationSeconds": 4,
+				"PlantFoodActivationSound": "",
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"CanReceiveFirstAid": true,
+				"MovableZombies": {
+					"ListType": "excludelist",
+					"List": [
+						"west_bull",
+						"pirate_barrel",
+						"birthday_barrel",
+						"barrelroller",
+						"pirate_captain_parrot",
+						"cannon",
+						"future_jetpack",
+						"future_jetpack_disco",
+						"hero_barrel",
+						"bighead_barrel",
+						"roman_ballista"
+					]
+				},
+				"PlantfoodAttractRect": {
+					"mX": -120,
+					"mY": -220,
+					"mWidth": 320,
+					"mHeight": 400
+				},
+				"NormalAttractRect": {
+					"mX": 0,
+					"mY": -110,
+					"mWidth": 80,
+					"mHeight": 200
+				},
+				"DrawAttractRects": false,
+				"LaneChangeTime": 0.25,
+				"TimeBetweenLaneChanges": 2,
+				"PlantStats": [
+					{
+						"Type": "armor",
+						"Value": "armor2"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge2"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 15,
+				"ZenGardenDurationOverrideSeconds": 27000,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"SuggestionAlts": [
+					"garlic",
+					"primalwallnut",
+					"wallnut"
+				]
+			}
+		}
+
+## PlantLevels
+{
+			"aliases": [
+				"pineclone_intro"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							250
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							25
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"TypeName": "pineclone_intro",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicnut"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							125
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							40.000000
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							6000
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1,
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Name": "SunflowerSunProduction",
+						"SubType": "SunProducer",
+						"Type": "Power",
+						"Values": [
+							"SunProducer50",
+							"SunProducer50"
+						]
+					}
+				],
+				"TypeName": "cosmicnut",
+				"UsesLeveling": false
+			}
+		},
+        {
+			"aliases": [
+				"cosmos"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							25,
+							25
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							10,
+							10
+						]
+					},
+					{
+						"Name": "StartingCooldown",
+						"Values": [
+							0.00001,
+							0.00001
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [],
+				"TypeName": "cosmos",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmos_ground"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							25,
+							25
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							5,
+							5
+						]
+					},
+					{
+						"Name": "StartingCooldown",
+						"Values": [
+							0,
+							0
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300,
+							300
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1,
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Context": "Normal",
+						"Name": "PumpkinShield",
+						"SubType": "Shield",
+						"Type": "Power",
+						"Values": [
+							"Shield1000",
+							"Shield1000"
+						]
+					}
+				],
+				"TypeName": "cosmos_ground",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmictallnut"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							250
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							50.000000
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							10000
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1,
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Name": "SunflowerSunProduction",
+						"SubType": "SunProducer",
+						"Type": "Power",
+						"Values": [
+							"SunProducer50",
+							"SunProducer50"
+						]
+					}
+				],
+				"TypeName": "cosmictallnut",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicpea_intro"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							175
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							20
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"TypeName": "cosmicpea_intro",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicrepeater_intro"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							125
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							30
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"TypeName": "cosmicrepeater_intro",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicgatling_intro"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							200
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							600
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							40
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"TypeName": "cosmicgatling_intro",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicpea"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							175
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							20
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "ActionDamageNormal",
+						"SubType": "0",
+						"Type": "ActionDamage",
+						"Values": [
+							30
+						]
+					},
+					{
+						"Name": "ActionDamageNormal",
+						"SubType": "1",
+						"Type": "ActionDamage",
+						"Values": [
+							200
+						]
+					},
+					{
+						"Name": "ActionXVelocity",
+						"SubType": "0",
+						"Values": [
+							333
+						]
+					},
+					{
+						"Name": "ActionXVelocity",
+						"SubType": "1",
+						"Values": [
+							200
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1
+						]
+					}
+				],
+				"LevelCap": 3,
+				"LevelCoins": [
+					0,
+					0
+				],
+				"LevelXP": [
+					5,
+					5
+				],
+				"PlantTier": [
+					1,
+					2,
+					3
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							"",
+							"",
+							""
+						]
+					}
+				],
+				"TypeName": "cosmicpea",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicrepeater"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							30
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "ActionDamageNormal",
+						"SubType": "0",
+						"Type": "ActionDamage",
+						"Values": [
+							30
+						]
+					},
+					{
+						"Name": "ActionDamageNormal",
+						"SubType": "1",
+						"Type": "ActionDamage",
+						"Values": [
+							200
+						]
+					},
+					{
+						"Name": "ActionXVelocity",
+						"SubType": "0",
+						"Values": [
+							333
+						]
+					},
+					{
+						"Name": "ActionXVelocity",
+						"SubType": "1",
+						"Values": [
+							200
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1
+						]
+					}
+				],
+				"LevelCap": 3,
+				"LevelCoins": [
+					0,
+					0
+				],
+				"LevelXP": [
+					5,
+					5
+				],
+				"PlantTier": [
+					1,
+					2,
+					3
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							"",
+							"",
+							""
+						]
+					}
+				],
+				"TypeName": "cosmicrepeater",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicgatling"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							500
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							40
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							600
+						]
+					},
+					{
+						"Name": "ActionDamageNormal",
+						"SubType": "0",
+						"Type": "ActionDamage",
+						"Values": [
+							30
+						]
+					},
+					{
+						"Name": "ActionDamageNormal",
+						"SubType": "1",
+						"Type": "ActionDamage",
+						"Values": [
+							200
+						]
+					},
+					{
+						"Name": "ActionXVelocity",
+						"SubType": "0",
+						"Values": [
+							333
+						]
+					},
+					{
+						"Name": "ActionXVelocity",
+						"SubType": "1",
+						"Values": [
+							200
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1
+						]
+					}
+				],
+				"LevelCap": 3,
+				"LevelCoins": [
+					0,
+					0
+				],
+				"LevelXP": [
+					5,
+					5
+				],
+				"PlantTier": [
+					1,
+					2,
+					3
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							"",
+							"",
+							""
+						]
+					}
+				],
+				"TypeName": "cosmicgatling",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicpuffshroom"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							50
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							10
+						]
+					},
+					{
+						"Name": "Puffshroom_ExpirationDurationSeconds",
+						"Values": [
+							999999999
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							"",
+							""
+						]
+					}
+				],
+				"TypeName": "cosmicpuffshroom",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicpuffshroom_normal"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							50
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							10
+						]
+					},
+					{
+						"Name": "Puffshroom_ExpirationDurationSeconds",
+						"Values": [
+							999999999
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1,
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							"",
+							""
+						]
+					}
+				],
+				"TypeName": "cosmicpuffshroom_normal",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicscaredyshroom"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							50
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							12.5
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1,
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							"",
+							""
+						]
+					}
+				],
+				"TypeName": "cosmicscaredyshroom",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicscaredyshroom_normal"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							50
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							12.5
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1,
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							"",
+							""
+						]
+					}
+				],
+				"TypeName": "cosmicscaredyshroom_normal",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicfumeshroom"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							125
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							20
+						]
+					},
+					{
+						"Name": "Puffshroom_ExpirationDurationSeconds",
+						"Values": [
+							999999999
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1,
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							"",
+							""
+						]
+					}
+				],
+				"TypeName": "cosmicfumeshroom",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"cosmicfumeshroom_normal"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							125
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							20
+						]
+					},
+					{
+						"Name": "Puffshroom_ExpirationDurationSeconds",
+						"Values": [
+							999999999
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							"",
+							""
+						]
+					}
+				],
+				"TypeName": "cosmicfumeshroom_normal",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"darkmatter_dragonfruit"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							425
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							30
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							600
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1,
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							"",
+							""
+						]
+					}
+				],
+				"TypeName": "darkmatter_dragonfruit",
+				"UsesLeveling": false
+			}
+		},
+		{
+			"aliases": [
+				"gravitytree"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							175
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							6000
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							50
+						]
+					},
+					{
+						"Name": "StartingCooldown",
+						"Values": [
+							25
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [
+					999999999
+				],
+				"LevelXP": [
+					999999999
+				],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							"",
+							""
+						]
+					}
+				],
+				"TypeName": "gravitytree",
+				"UsesLeveling": false
+			}
+		}
+
+## ProjectileTypes
+{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"PineCloneNormal"
+			],
+			"objdata": {
+				"BaseDamage": 10,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 2000000000,
+				"PierceChanceReductionPerHit": 1,
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 9999,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"HasShadow": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_1,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_2,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_3,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_4,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					}
+				],
+				"DamageFlags": [
+					"shooter",
+					"lightning"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 220,
+						"Max": 220
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE",
+				"AttachedPAMAnimationToPlay": [
+					"idle"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -97
+				},
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_PineClone_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit01"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "CactusProjectileProps",
+			"aliases": [
+				"PineClone_Second_1"
+			],
+			"objdata": {
+				"ClassName": "CactusProjectile",
+				"BaseDamage": 10,
+				"HasShadow": false,
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 300,
+						"Max": 300
+					},
+					{
+						"Min": 200,
+						"Max": 200
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"DiesOnImpact": false,
+				"InitialPierceChance": 99990,
+				"PierceChanceReductionPerHit": 1,
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit02"
+				],
+				"ImpactSoundEvent": "",
+				"CollisionRect": {
+					"mX": -10,
+					"mY": -15,
+					"mWidth": 22,
+					"mHeight": 20
+				}
+			}
+		},
+		{
+			"objclass": "CactusProjectileProps",
+			"aliases": [
+				"PineClone_Second_2"
+			],
+			"objdata": {
+				"ClassName": "CactusProjectile",
+				"BaseDamage": 10,
+				"HasShadow": false,
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 300,
+						"Max": 300
+					},
+					{
+						"Min": -200,
+						"Max": -200
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"DiesOnImpact": false,
+				"InitialPierceChance": 99990,
+				"PierceChanceReductionPerHit": 1,
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit02"
+				],
+				"ImpactSoundEvent": "",
+				"CollisionRect": {
+					"mX": -10,
+					"mY": -15,
+					"mWidth": 22,
+					"mHeight": 20
+				}
+			}
+		},
+		{
+			"objclass": "CactusProjectileProps",
+			"aliases": [
+				"PineClone_Second_3"
+			],
+			"objdata": {
+				"ClassName": "CactusProjectile",
+				"BaseDamage": 10,
+				"HasShadow": false,
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": -300,
+						"Max": -300
+					},
+					{
+						"Min": -200,
+						"Max": -200
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"DiesOnImpact": false,
+				"InitialPierceChance": 99990,
+				"PierceChanceReductionPerHit": 1,
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit02"
+				],
+				"ImpactSoundEvent": "",
+				"CollisionRect": {
+					"mX": -10,
+					"mY": -15,
+					"mWidth": 22,
+					"mHeight": 20
+				}
+			}
+		},
+		{
+			"objclass": "CactusProjectileProps",
+			"aliases": [
+				"PineClone_Second_4"
+			],
+			"objdata": {
+				"ClassName": "CactusProjectile",
+				"BaseDamage": 10,
+				"HasShadow": false,
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": -300,
+						"Max": -300
+					},
+					{
+						"Min": 200,
+						"Max": 200
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"DiesOnImpact": false,
+				"InitialPierceChance": 99990,
+				"PierceChanceReductionPerHit": 1,
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit02"
+				],
+				"ImpactSoundEvent": "",
+				"CollisionRect": {
+					"mX": -10,
+					"mY": -15,
+					"mWidth": 22,
+					"mHeight": 20
+				}
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"PineCloneNormal_Clone"
+			],
+			"objdata": {
+				"BaseDamage": 5,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 2000000000,
+				"PierceChanceReductionPerHit": 1,
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 9999,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"HasShadow": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_1_clone,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_2_clone,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_3_clone,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_4_clone,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					}
+				],
+				"DamageFlags": [
+					"shooter",
+					"lightning"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 220,
+						"Max": 220
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE",
+				"AttachedPAMAnimationToPlay": [
+					"idle"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -97
+				},
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_PineClone_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit01"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "CactusProjectileProps",
+			"aliases": [
+				"PineClone_Second_1_clone"
+			],
+			"objdata": {
+				"ClassName": "CactusProjectile",
+				"BaseDamage": 7,
+				"HasShadow": false,
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 300,
+						"Max": 300
+					},
+					{
+						"Min": 200,
+						"Max": 200
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"DiesOnImpact": false,
+				"InitialPierceChance": 99990,
+				"PierceChanceReductionPerHit": 1,
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit02"
+				],
+				"ImpactSoundEvent": "",
+				"CollisionRect": {
+					"mX": -10,
+					"mY": -15,
+					"mWidth": 22,
+					"mHeight": 20
+				}
+			}
+		},
+		{
+			"objclass": "CactusProjectileProps",
+			"aliases": [
+				"PineClone_Second_2_clone"
+			],
+			"objdata": {
+				"ClassName": "CactusProjectile",
+				"BaseDamage": 7,
+				"HasShadow": false,
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 300,
+						"Max": 300
+					},
+					{
+						"Min": -200,
+						"Max": -200
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"DiesOnImpact": false,
+				"InitialPierceChance": 99990,
+				"PierceChanceReductionPerHit": 1,
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit02"
+				],
+				"ImpactSoundEvent": "",
+				"CollisionRect": {
+					"mX": -10,
+					"mY": -15,
+					"mWidth": 22,
+					"mHeight": 20
+				}
+			}
+		},
+		{
+			"objclass": "CactusProjectileProps",
+			"aliases": [
+				"PineClone_Second_3_clone"
+			],
+			"objdata": {
+				"ClassName": "CactusProjectile",
+				"BaseDamage": 7,
+				"HasShadow": false,
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": -300,
+						"Max": -300
+					},
+					{
+						"Min": -200,
+						"Max": -200
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"DiesOnImpact": false,
+				"InitialPierceChance": 99990,
+				"PierceChanceReductionPerHit": 1,
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit02"
+				],
+				"ImpactSoundEvent": "",
+				"CollisionRect": {
+					"mX": -10,
+					"mY": -15,
+					"mWidth": 22,
+					"mHeight": 20
+				}
+			}
+		},
+		{
+			"objclass": "CactusProjectileProps",
+			"aliases": [
+				"PineClone_Second_4_clone"
+			],
+			"objdata": {
+				"ClassName": "CactusProjectile",
+				"BaseDamage": 7,
+				"HasShadow": false,
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": -300,
+						"Max": -300
+					},
+					{
+						"Min": 200,
+						"Max": 200
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"DiesOnImpact": false,
+				"InitialPierceChance": 99990,
+				"PierceChanceReductionPerHit": 1,
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit02"
+				],
+				"ImpactSoundEvent": "",
+				"CollisionRect": {
+					"mX": -10,
+					"mY": -15,
+					"mWidth": 22,
+					"mHeight": 20
+				}
+			}
+		},
+		{
+			"objclass": "ProjectilePropertySheet",
+			"aliases": [
+				"CloneAnim"
+			],
+			"objdata": {
+				"BaseDamage": 0,
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"ground"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -1000,
+						"Max": -1000
+					}
+				],
+				"InitialScale": {
+					"Min": 1.0,
+					"Max": 1.0
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -112.5,
+					"y": -111.5
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_SUMMON_EFFECT",
+				"ImpactPAMAnimationToPlay": [
+					"idle"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"PineClonePlantFood_Up"
+			],
+			"objdata": {
+				"BaseDamage": 20,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 2000000000,
+				"PierceChanceReductionPerHit": 1,
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 2,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"HasShadow": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_1,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_2,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_3,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_4,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClonePlantFood_Down",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter",
+					"lightning"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 175,
+						"Max": 175
+					},
+					{
+						"Min": 100,
+						"Max": 100
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -100,
+						"Max": -100
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE",
+				"AttachedPAMAnimationToPlay": [
+					"idle"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -97
+				},
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_PineClone_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit01"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"PineClonePlantFood_Down"
+			],
+			"objdata": {
+				"BaseDamage": 20,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 2000000000,
+				"PierceChanceReductionPerHit": 1,
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 2,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"HasShadow": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_1,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_2,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_3,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_4,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClonePlantFood_Up",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter",
+					"lightning"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 175,
+						"Max": 175
+					},
+					{
+						"Min": -100,
+						"Max": -100
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 100,
+						"Max": 100
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE",
+				"AttachedPAMAnimationToPlay": [
+					"idle"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -97
+				},
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_PineClone_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit01"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"PineClonePlantFood_Up_Clone"
+			],
+			"objdata": {
+				"BaseDamage": 20,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 2000000000,
+				"PierceChanceReductionPerHit": 1,
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 2,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"HasShadow": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_1_clone,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_2_clone,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_3_clone,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_4_clone,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClonePlantFood_Down_Clone",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter",
+					"lightning"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 175,
+						"Max": 175
+					},
+					{
+						"Min": 100,
+						"Max": 100
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -100,
+						"Max": -100
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE",
+				"AttachedPAMAnimationToPlay": [
+					"idle"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -97
+				},
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_PineClone_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit01"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"PineClonePlantFood_Down_Clone"
+			],
+			"objdata": {
+				"BaseDamage": 20,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 2000000000,
+				"PierceChanceReductionPerHit": 1,
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 2,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"HasShadow": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_1,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_2,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_3,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClone_Second_4,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:PineClonePlantFood_Up_Clone",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter",
+					"lightning"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 175,
+						"Max": 175
+					},
+					{
+						"Min": -100,
+						"Max": -100
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 100,
+						"Max": 100
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE",
+				"AttachedPAMAnimationToPlay": [
+					"idle"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -97
+				},
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_PineClone_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_PINECLONE_PROJECTILE_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"hit01"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+        {
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"CosmicPeaBullet"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 30,
+				"DiesOnImpact": true,
+				"LifeTime": -1,
+				"Pierces": false,
+				"InitialPierceChance": 200,
+				"PierceChanceReductionPerHit": 100,
+				"HasShadow": true,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:CosmicPeaBoom_Check, Team:Plant",
+						"ActionOwner": "Target",
+						"ActivateOn": "Collision"
+					}
+				],
+				"InitialVelocity": [
+					{
+						"Min": 333,
+						"Max": 333
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": -30,
+					"mY": -30,
+					"mWidth": 60,
+					"mHeight": 60
+				},
+				"InitialScale": {
+					"Min": 1.0,
+					"Max": 1.0
+				},
+				"AttachedPAM": "POPANIM_EFFECT_COSMICPEA_BULLET",
+				"AttachedPAMAnimationToPlay": [
+					"zd"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"ImpactSoundEvent": "Play_CosmicPea_Splat",
+				"ImpactPAM": "POPANIM_EFFECT_COSMICPEA_BULLET_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"lv5_hit_01"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"CosmicpeaPFBullet"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 50,
+				"DiesOnImpact": true,
+				"LifeTime": -1,
+				"Pierces": false,
+				"InitialPierceChance": 200,
+				"PierceChanceReductionPerHit": 100,
+				"HasShadow": true,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:CosmicPeaBoom_Check, Team:Plant",
+						"ActionOwner": "Target",
+						"ActivateOn": "Collision"
+					}
+				],
+				"InitialVelocity": [
+					{
+						"Min": 200,
+						"Max": 350
+					},
+					{
+						"Min": -100,
+						"Max": 100
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": -30,
+					"mY": -30,
+					"mWidth": 60,
+					"mHeight": 60
+				},
+				"InitialScale": {
+					"Min": 1.0,
+					"Max": 1.0
+				},
+				"AttachedPAM": "POPANIM_EFFECT_COSMICPEA_BULLET",
+				"AttachedPAMAnimationToPlay": [
+					"zd"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"ImpactSoundEvent": "Play_CosmicPea_Splat",
+				"ImpactPAM": "POPANIM_EFFECT_COSMICPEA_BULLET_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"lv5_hit_01"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"#comment": "Detects whether the enemy is dead; spawns a tool zombie built from the annihilation effect",
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"CosmicPeaBoom_Check"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 0.0001,
+				"DiesOnImpact": true,
+				"LifeTime": 0.1,
+				"Pierces": true,
+				"InitialPierceChance": 0,
+				"PierceChanceReductionPerHit": 0,
+				"HasShadow": false,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"all_zombies",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter",
+					"no_flash"
+				],
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:CosmicPeaBoom,IfDead,Team:Plant",
+						"ActionOwner": "Target",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "transform",
+						"ActionArgs": "TransformArgs[Zombie, YanMie], IfDead, Team: Plant",
+						"ActionOwner": "Target",
+						"ActivateOn": "Collision"
+					}
+				],
+				"InitialVelocity": [
+					{
+						"Min": 125,
+						"Max": 125
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": -30,
+					"mY": -30,
+					"mWidth": 60,
+					"mHeight": 60
+				},
+				"InitialScale": {
+					"Min": 1e-06,
+					"Max": 1e-06
+				},
+				"AttachedPAM": "POPANIM_EFFECT_COSMICPEA_BULLET",
+				"AttachedPAMAnimationToPlay": [
+					"zd"
+				],
+				"AttachedPAMOffset": {
+					"x": -95,
+					"y": -130
+				},
+				"ImpactSoundEvent": "",
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "ProjectilePropertySheet",
+			"aliases": [
+				"CosmicPeaBoom"
+			],
+			"objdata": {
+				"ImpactSoundForce": true,
+				"BaseDamage": 0,
+				"SplashDamage": 200,
+				"SplashRadius": 3,
+				"CollisionFlags": [
+					"ground",
+					"all_zombies",
+					"griditems"
+				],
+				"DamageFlags": [
+					"shooter",
+					"ash_death"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -500,
+						"Max": -500
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -98,
+					"y": -105
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactSoundEvent": "Play_Plant_Banana_Explosion",
+				"ImpactPAM": "POPANIM_EFFECT_COSMICPEA_BULLET_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"lv5_03"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -20,
+						"Max": -20
+					}
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				}
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"CosmicPeaBullet_Galaxy"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 200,
+				"SplashDamage": 200,
+				"SplashRadius": 3,
+				"DiesOnImpact": true,
+				"LifeTime": -1,
+				"Pierces": false,
+				"InitialPierceChance": 0,
+				"PierceChanceReductionPerHit": 0,
+				"FollowsGround": true,
+				"HasShadow": true,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"all_zombies",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter",
+					"no_flash"
+				],
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_plant",
+						"ActionArgs": "Type:sweetpotato_tool,Team:Plant,IgnoreGridLayers",
+						"ActionOwner": "Target",
+						"ActivateOn": "Collision"
+					}
+				],
+				"Conditions": [
+					{
+						"Condition": "stalled",
+						"Duration": {
+							"Min": 5,
+							"Max": 5
+						}
+					}
+				],
+				"InitialVelocity": [
+					{
+						"Min": 500,
+						"Max": 500
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": -30,
+					"mY": -30,
+					"mWidth": 60,
+					"mHeight": 60
+				},
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "POPANIM_EFFECT_COSMICPEA_BULLET",
+				"AttachedPAMAnimationToPlay": [
+					"lv5_01"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -85
+				},
+				"ImpactSoundEvent": "Play_CosmicPea_Splat_Special",
+				"ImpactPAM": "POPANIM_PLANT_COSMICNUT_TX",
+				"ImpactPAMAnimationToPlay": [
+					"lv2"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"CosmicShroomBulletShort"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 50,
+				"DiesOnImpact": true,
+				"LifeTime": 1,
+				"Pierces": false,
+				"InitialPierceChance": 200,
+				"PierceChanceReductionPerHit": 100,
+				"HasShadow": true,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:CosmicPeaBoom_Check, Team:Plant",
+						"ActionOwner": "Target",
+						"ActivateOn": "Collision"
+					}
+				],
+				"InitialVelocity": [
+					{
+						"Min": 500,
+						"Max": 500
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": -30,
+					"mY": -30,
+					"mWidth": 60,
+					"mHeight": 60
+				},
+				"InitialScale": {
+					"Min": 1.0,
+					"Max": 1.0
+				},
+				"AttachedPAM": "POPANIM_EFFECT_COSMICSHROOM_BULLET",
+				"AttachedPAMAnimationToPlay": [
+					"animation"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"ImpactSoundEvent": "Play_CosmicPea_Splat",
+				"ImpactPAM": "POPANIM_EFFECT_COSMICSHROOM_BULLET_LV5",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 10,
+						"Max": 10
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"CosmicShroomBullet"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 70,
+				"DiesOnImpact": true,
+				"LifeTime": -1,
+				"Pierces": false,
+				"InitialPierceChance": 200,
+				"PierceChanceReductionPerHit": 100,
+				"HasShadow": true,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:CosmicPeaBoom_Check, Team:Plant",
+						"ActionOwner": "Target",
+						"ActivateOn": "Collision"
+					}
+				],
+				"InitialVelocity": [
+					{
+						"Min": 333,
+						"Max": 333
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": -30,
+					"mY": -30,
+					"mWidth": 60,
+					"mHeight": 60
+				},
+				"InitialScale": {
+					"Min": 1.0,
+					"Max": 1.0
+				},
+				"AttachedPAM": "POPANIM_EFFECT_COSMICSHROOM_BULLET",
+				"AttachedPAMAnimationToPlay": [
+					"animation1"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"ImpactSoundEvent": "Play_CosmicPea_Splat",
+				"ImpactPAM": "POPANIM_EFFECT_COSMICSHROOM_BULLET_LV5",
+				"ImpactPAMAnimationToPlay": [
+					"anmation_02"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 5,
+						"Max": 5
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"CosmicShroomBulletPF"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 60,
+				"DiesOnImpact": true,
+				"LifeTime": -1,
+				"Pierces": false,
+				"InitialPierceChance": 200,
+				"PierceChanceReductionPerHit": 100,
+				"HasShadow": true,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:CosmicPeaBoom_Check, Team:Plant",
+						"ActionOwner": "Target",
+						"ActivateOn": "Collision"
+					}
+				],
+				"InitialVelocity": [
+					{
+						"Min": 300,
+						"Max": 400
+					},
+					{
+						"Min": -25,
+						"Max": 25
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": -30,
+					"mY": -30,
+					"mWidth": 60,
+					"mHeight": 60
+				},
+				"InitialScale": {
+					"Min": 1.0,
+					"Max": 1.0
+				},
+				"AttachedPAM": "POPANIM_EFFECT_COSMICSHROOM_BULLET",
+				"AttachedPAMAnimationToPlay": [
+					"animation1"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"ImpactSoundEvent": "Play_CosmicPea_Splat",
+				"ImpactPAM": "POPANIM_EFFECT_COSMICSHROOM_BULLET_LV5",
+				"ImpactPAMAnimationToPlay": [
+					"anmation_02"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"CosmicFume"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 80,
+				"DiesOnImpact": false,
+				"LifeTime": 1.15,
+				"Pierces": true,
+				"InitialPierceChance": 200,
+				"PierceChanceReductionPerHit": 0,
+				"HasShadow": false,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:CosmicPeaBoom_Check, Team:Plant",
+						"ActionOwner": "Target",
+						"ActivateOn": "Collision"
+					}
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": 0,
+					"mY": 0,
+					"mWidth": 320,
+					"mHeight": 0
+				},
+				"InitialScale": {
+					"Min": 1.0,
+					"Max": 1.0
+				},
+				"AttachedPAM": "POPANIM_EFFECT_COSMICSHROOM_BULLET",
+				"AttachedPAMAnimationToPlay": [
+					"animation3"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"ImpactSoundEvent": "",
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"CosmicFumeSFX"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 0.0001,
+				"DiesOnImpact": false,
+				"LifeTime": 0.5,
+				"Pierces": true,
+				"InitialPierceChance": 200,
+				"PierceChanceReductionPerHit": 0,
+				"HasShadow": false,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"no_flash",
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"EntitiesToSpawn": [],
+				"InitialVelocity": [
+					{
+						"Min": 1625,
+						"Max": 1625
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": -30,
+					"mY": -30,
+					"mWidth": 60,
+					"mHeight": 60
+				},
+				"InitialScale": {
+					"Min": 1e-06,
+					"Max": 1e-06
+				},
+				"AttachedPAM": "",
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"ImpactSoundEvent": "",
+				"ImpactPAM": "POPANIM_EFFECT_COSMICSHROOM_BULLET_LV5",
+				"ImpactPAMAnimationToPlay": [
+					"animation_03"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"CosmicFumePF"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 0.5,
+				"DiesOnImpact": false,
+				"LifeTime": 3.76,
+				"Pierces": false,
+				"InitialPierceChance": 200,
+				"PierceChanceReductionPerHit": 0,
+				"HasShadow": false,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:CosmicPeaBoom_Check, Team:Plant",
+						"ActionOwner": "Target",
+						"ActivateOn": "Collision"
+					}
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": 0,
+					"mY": 0,
+					"mWidth": 2400,
+					"mHeight": 0
+				},
+				"InitialScale": {
+					"Min": 1.0,
+					"Max": 1.0
+				},
+				"AttachedPAM": "POPANIM_EFFECT_COSMICSHROOM_BULLET",
+				"AttachedPAMAnimationToPlay": [
+					"animation4"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"ImpactSoundEvent": "",
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"DarkMatter_Normal"
+			],
+			"objdata": {
+				"BaseDamage": 20,
+				"ImpactSoundForce": true,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 2000000000,
+				"PierceChanceReductionPerHit": 1,
+				"FriendlyFire": false,
+				"ShakeBoardOnSplash": true,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": -1,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"HasShadow": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:DarkMatter_Pierce,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:shakescreenhelper,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					}
+				],
+				"DamageFlags": [
+					"shooter",
+					"ash_death",
+					"no_flash"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 300,
+						"Max": 300
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_BULLET",
+				"AttachedPAMAnimationToPlay": [
+					"attack"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -97
+				},
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_DarkMatter_Bullet_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"lv3"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"DarkMatter_Pierce"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 70,
+				"DiesOnImpact": false,
+				"LifeTime": 0.2,
+				"Pierces": true,
+				"InitialPierceChance": 200,
+				"PierceChanceReductionPerHit": 0,
+				"HasShadow": false,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter",
+					"ash_death"
+				],
+				"EntitiesToSpawn": [],
+				"InitialVelocity": [
+					{
+						"Min": 625,
+						"Max": 625
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": -30,
+					"mY": -30,
+					"mWidth": 60,
+					"mHeight": 60
+				},
+				"InitialScale": {
+					"Min": 1e-06,
+					"Max": 1e-06
+				},
+				"AttachedPAM": "",
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"ImpactSoundEvent": "",
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"DarkMatter_Special"
+			],
+			"objdata": {
+				"BaseDamage": 20,
+				"ImpactSoundForce": true,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 2000000000,
+				"PierceChanceReductionPerHit": 1,
+				"FriendlyFire": false,
+				"ShakeBoardOnSplash": true,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": -1,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"HasShadow": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:DarkMatter_Pierce_stall,OffsetByGrid,mX:0,mY:1,mZ:0,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:DarkMatter_Pierce_stall,OffsetByGrid,mX:0,mY:0,mZ:0,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:DarkMatter_Pierce_stall,OffsetByGrid,mX:0,mY:-1,mZ:0,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:shakescreenhelper,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					}
+				],
+				"DamageFlags": [
+					"shooter",
+					"ash_death",
+					"no_flash"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 300,
+						"Max": 300
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.2,
+					"Max": 1.2
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_BULLET",
+				"AttachedPAMAnimationToPlay": [
+					"attack"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -97
+				},
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_DarkMatter_Bullet_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_HIT",
+				"ImpactPAMAnimationToPlay": [
+					"lv4"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"DarkMatter_Pierce_stall"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 100,
+				"DiesOnImpact": false,
+				"LifeTime": 0.2,
+				"Pierces": true,
+				"InitialPierceChance": 200,
+				"PierceChanceReductionPerHit": 0,
+				"HasShadow": false,
+				"FriendlyFire": false,
+				"CollisionFlags": [
+					"griditems",
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"DamageFlags": [
+					"shooter",
+					"ash_death"
+				],
+				"Conditions": [
+					{
+						"Condition": "stalled",
+						"Duration": {
+							"Min": 5,
+							"Max": 5
+						}
+					}
+				],
+				"EntitiesToSpawn": [],
+				"InitialVelocity": [
+					{
+						"Min": 625,
+						"Max": 625
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": -30,
+					"mY": -30,
+					"mWidth": 60,
+					"mHeight": 60
+				},
+				"InitialScale": {
+					"Min": 1e-06,
+					"Max": 1e-06
+				},
+				"AttachedPAM": "",
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"ImpactSoundEvent": "",
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"darkmatter_PF_check"
+			],
+			"objdata": {
+				"BaseDamage": 1e-05,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"DiesOnImpact": true,
+				"HasShadow": false,
+				"EntitiesToSpawn": [
+					{
+						"ActionArgs": "Type:DarkMatter_PlantFood, Team:Plant, mX:20, mY:0,mZ:2000",
+						"ActionType": "spawn_projectile",
+						"ActivateOn": "Collision",
+						"ActionOwner": "Projectile"
+					}
+				],
+				"DamageFlags": [
+					"shooter",
+					"no_flash"
+				],
+				"CollisionFlags": [
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 1000,
+						"Max": 1000
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"CollisionRect": {
+					"mX": -15.0,
+					"mY": -15.0,
+					"mWidth": 30.0,
+					"mHeight": 30.0
+				},
+				"ImpactSoundEvent": "",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"DarkMatter_PlantFood"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"DiesOnImpact": true,
+				"HasShadow": false,
+				"BaseDamage": 200,
+				"SplashDamage": 200,
+				"SplashRadius": 2.7,
+				"ImpactSoundForce": true,
+				"ShakeBoardOnSplash": true,
+				"hasshadow": false,
+				"EntitiesToSpawn": [
+					{
+						"ActionArgs": "Type:DarkMatter_PlantFood_SFX, Team:Plant, mX:0, mY:0,mZ:0",
+						"ActionType": "spawn_projectile",
+						"ActivateOn": "Collision",
+						"ActionOwner": "Projectile"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"ground"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -1000,
+						"Max": -1000
+					}
+				],
+				"InitialScale": {
+					"Min": 1.0,
+					"Max": 1.0
+				},
+				"InitialRotation": {
+					"Min": -1.571,
+					"Max": -1.571
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_BULLET",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -87.5
+				},
+				"AttachedPAMAnimationToPlay": [
+					"plf"
+				],
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactSoundEvent": "Play_DarkMatter_Bullet_Splat",
+				"CollisionRect": {
+					"mX": -20,
+					"mY": -10,
+					"mWidth": 40,
+					"mHeight": 40
+				},
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "HomingThistleLeafProps",
+			"aliases": [
+				"DarkMatter_PlantFood_SFX"
+			],
+			"objdata": {
+				"ClassName": "HomingThistleLeaf",
+				"BaseDamage": 0,
+				"DamageFlags": [
+					"shooter",
+					"no_flash",
+					"ash_death",
+					"fire"
+				],
+				"CollisionFlags": [
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"HasShadow": false,
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 5e-05,
+						"Max": 5e-05
+					}
+				],
+				"DiesOnImpact": false,
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"CollisionRect": {
+					"mX": -90,
+					"mY": -30,
+					"mWidth": 250,
+					"mHeight": 60
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_HIT",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"AttachedPAMAnimationToPlay": [
+					"pf_andboom"
+				],
+				"ImpactSoundEvent": "",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [],
+				"MaxRotationsPerSecond": 1.4,
+				"Lifetime": 4.2
+			}
+		},
+		{
+			"objclass": "HomingThistleLeafProps",
+			"aliases": [
+				"DarkMatter_PF_Fire"
+			],
+			"objdata": {
+				"ClassName": "HomingThistleLeaf",
+				"BaseDamage": 2,
+				"DamageFlags": [
+					"shooter",
+					"hits_submerged",
+					"ash_death",
+					"fire"
+				],
+				"CollisionFlags": [
+					"ground_zombies",
+					"off_ground_zombies"
+				],
+				"HasShadow": false,
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 5e-05,
+						"Max": 5e-05
+					}
+				],
+				"DiesOnImpact": false,
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"CollisionRect": {
+					"mX": -90,
+					"mY": -30,
+					"mWidth": 125,
+					"mHeight": 60
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_PLANT_DARKMATTER_DRAGONFRUIT_PLANTFOOD_HIT",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"AttachedPAMAnimationToPlay": [
+					"plf"
+				],
+				"ImpactSoundEvent": "",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [],
+				"MaxRotationsPerSecond": 1.4,
+				"Lifetime": 1.15
+			}
+		},
+		{
+			"objclass": "ProjectilePropertySheet",
+			"aliases": [
+				"shakescreenhelper"
+			],
+			"objdata": {
+				"BaseDamage": 1e-06,
+				"SplashDamage": 1e-05,
+				"SplashRadius": 1,
+				"ShakeBoardOnSplash": true,
+				"HasShadow": false,
+				"DiesOnImpact": true,
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"ground"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -1000,
+						"Max": -1000
+					}
+				],
+				"InitialScale": {
+					"Min": 1e-05,
+					"Max": 1e-05
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -112.5,
+					"y": -111.5
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_1"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 200,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_2",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"griditems",
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 170,
+						"Max": 170
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": -75,
+						"Max": -75
+					},
+					{
+						"Min": -279,
+						"Max": -279
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_2"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 100,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_3",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 147,
+						"Max": 147
+					},
+					{
+						"Min": -85,
+						"Max": -85
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": -204,
+						"Max": -204
+					},
+					{
+						"Min": -204,
+						"Max": -204
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_3"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 100,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_4",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 85,
+						"Max": 85
+					},
+					{
+						"Min": -147,
+						"Max": -147
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": -279,
+						"Max": -279
+					},
+					{
+						"Min": -75,
+						"Max": -75
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_4"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 100,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_5",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -170,
+						"Max": -170
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": -279,
+						"Max": -279
+					},
+					{
+						"Min": 75,
+						"Max": 75
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_5"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 100,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_6",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": -85,
+						"Max": -85
+					},
+					{
+						"Min": -147,
+						"Max": -147
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": -204,
+						"Max": -204
+					},
+					{
+						"Min": 204,
+						"Max": 204
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_6"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 100,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_7",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": -147,
+						"Max": -147
+					},
+					{
+						"Min": -85,
+						"Max": -85
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": -75,
+						"Max": -75
+					},
+					{
+						"Min": 279,
+						"Max": 279
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_7"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 100,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_8",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": -170,
+						"Max": -170
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 75,
+						"Max": 75
+					},
+					{
+						"Min": 279,
+						"Max": 279
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_8"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 100,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_9",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": -147,
+						"Max": -147
+					},
+					{
+						"Min": 85,
+						"Max": 85
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 204,
+						"Max": 204
+					},
+					{
+						"Min": 204,
+						"Max": 204
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_9"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 100,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_10",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": -85,
+						"Max": -85
+					},
+					{
+						"Min": 147,
+						"Max": 147
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 279,
+						"Max": 279
+					},
+					{
+						"Min": 75,
+						"Max": 75
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_10"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 100,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_11",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 170,
+						"Max": 170
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 279,
+						"Max": 279
+					},
+					{
+						"Min": -75,
+						"Max": -75
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_11"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 100,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_12",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 85,
+						"Max": 85
+					},
+					{
+						"Min": 147,
+						"Max": 147
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 204,
+						"Max": 204
+					},
+					{
+						"Min": -204,
+						"Max": -204
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"apple_12"
+			],
+			"objdata": {
+				"HasShadow": false,
+				"BaseDamage": 100,
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 20,
+				"ClassName": "SnowieProjectile",
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 0.308,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:apple_1",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					},
+					{
+						"ActionType": "destroy",
+						"ActionArgs": "",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "LifeTimeEnded"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"all_zombies",
+					"griditems"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 147,
+						"Max": 147
+					},
+					{
+						"Min": 85,
+						"Max": 85
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 75,
+						"Max": 75
+					},
+					{
+						"Min": -279,
+						"Max": -279
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.5,
+					"Max": 1.5
+				},
+				"RenderImage": "IMAGE_EFFECTS_GRAVITY_TREE_BULLET",
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "Play_Splat",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_EFFECTS_T_APPLEMORTAR_EXPLOSION",
+				"ImpactPAMAnimationToPlay": [
+					"animation"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "HomingThistleLeafProps",
+			"aliases": [
+				"Gravity_PF_SFX"
+			],
+			"objdata": {
+				"ClassName": "HomingThistleLeaf",
+				"BaseDamage": 0,
+				"SplashDamage": 0,
+				"SplashRadius": 0,
+				"HasShadow": false,
+				"CollisionFlags": [
+					"none"
+				],
+				"DamageFlags": [
+					"lobbed"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					}
+				],
+				"InitialScale": {
+					"Min": 2.0,
+					"Max": 2.0
+				},
+				"ImpactOffset": [
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": 0,
+						"Max": 0.0
+					}
+				],
+				"DiesOnImpact": true,
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_GRAVITY_TX",
+				"AttachedPAMAnimationToPlay": [
+					"tx02"
+				],
+				"MaxRotationsPerSecond": 0,
+				"LifeTime": 3.53,
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactSoundEvent": "",
+				"CollisionRect": {
+					"mX": -10.0,
+					"mY": -15.0,
+					"mWidth": 22.0,
+					"mHeight": 20.0
+				}
+			}
+		},
+		{
+			"objclass": "ProjectilePropertySheet",
+			"aliases": [
+				"Gravity_PF_Damage"
+			],
+			"objdata": {
+				"ImpactSoundForce": true,
+				"HasShadow": false,
+				"BaseDamage": 0,
+				"SplashDamage": 200,
+				"SplashRadius": 8,
+				"CollisionFlags": [
+					"ground"
+				],
+				"DamageFlags": [
+					"lobbed"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": -300.0,
+						"Max": -300.0
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					}
+				],
+				"InitialScale": {
+					"Min": 1.0,
+					"Max": 1.0
+				},
+				"ImpactOffset": [
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": 0,
+						"Max": 0.0
+					}
+				],
+				"Conditions": [
+					{
+						"Condition": "stun",
+						"Duration": {
+							"Min": 10,
+							"Max": 10
+						}
+					},
+					{
+						"Condition": "blockolistunned",
+						"Duration": {
+							"Min": 10,
+							"Max": 10
+						}
+					}
+				],
+				"DiesOnImpact": true,
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAM": "",
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactSoundEvent": "Play_PVZ_CoconutCannon_PF_Impact",
+				"CollisionRect": {
+					"mX": -10.0,
+					"mY": -15.0,
+					"mWidth": 22.0,
+					"mHeight": 20.0
+				}
+			}
+		},
+
+## CollectableTypes
+{
+			"#commit": "Cosmic Nut production pool — same pool as its transform",
+			"objclass": "CollectableSeedPacketType",
+			"objdata": {
+				"TypeName": "cosmicnut_spawn",
+				"CollectableClass": "CollectableSeedPacketPlantable",
+				"GroundSound": "Play_UI_Game_Reward_SeedPacket_Drop",
+				"CollectSound": "Play_UI_Game_Reward_SeedPacket",
+				"PlantTypes": [
+					{
+						"TypeName": "wallnut",
+						"Weight": 80
+					},
+					{
+						"TypeName": "tallnut",
+						"Weight": 25
+					},
+					{
+						"TypeName": "bowlingnut",
+						"Weight": 1
+					},
+					{
+						"TypeName": "endurian",
+						"Weight": 35
+					},
+					{
+						"TypeName": "peanut",
+						"Weight": 60
+					},
+					{
+						"TypeName": "holonut",
+						"Weight": 35
+					},
+					{
+						"TypeName": "primalwallnut",
+						"Weight": 40
+					}
+				],
+				"Dimensions": {
+					"x": 70,
+					"y": 50
+				},
+				"Scale": 0.800000,
+				"ExpireDuration": 25.000000,
+				"BlinkOutDuration": 5.000000,
+				"FadeOutDuration": 1.000000
+			}
+		},
+		{
+			"#commit": "Cosmic Tall-nut production pool — same pool as its transform",
+			"objclass": "CollectableSeedPacketType",
+			"objdata": {
+				"TypeName": "cosmictallnut_spawn",
+				"CollectableClass": "CollectableSeedPacketPlantable",
+				"GroundSound": "Play_UI_Game_Reward_SeedPacket_Drop",
+				"CollectSound": "Play_UI_Game_Reward_SeedPacket",
+				"PlantTypes": [
+					{
+						"TypeName": "tallnut",
+						"Weight": 50
+					},
+					{
+						"TypeName": "bowlingnut",
+						"Weight": 1
+					},
+					{
+						"TypeName": "endurian",
+						"Weight": 35
+					},
+					{
+						"TypeName": "pecanolith",
+						"Weight": 30
+					},
+					{
+						"TypeName": "explodeonut",
+						"Weight": 10
+					},
+					{
+						"TypeName": "cosmicnut",
+						"Weight": 10
+					},
+					{
+						"TypeName": "primalwallnut",
+						"Weight": 50
+					}
+				],
+				"Dimensions": {
+					"x": 70,
+					"y": 50
+				},
+				"Scale": 0.800000,
+				"ExpireDuration": 25.000000,
+				"BlinkOutDuration": 5.000000,
+				"FadeOutDuration": 1.000000
+			}
+		},
+		{
+			"#commit": "Cosmic Pea production pool",
+			"objclass": "CollectableSeedPacketType",
+			"objdata": {
+				"TypeName": "cosmicpea_spawn",
+				"CollectableClass": "CollectableSeedPacketPlantable",
+				"GroundSound": "Play_UI_Game_Reward_SeedPacket_Drop",
+				"CollectSound": "Play_UI_Game_Reward_SeedPacket",
+				"PlantTypes": [
+					{
+						"TypeName": "peashooter",
+						"Weight": 20
+					},
+					{
+						"TypeName": "repeater",
+						"Weight": 30
+					},
+					{
+						"TypeName": "snowpea",
+						"Weight": 15
+					},
+					{
+						"TypeName": "peanut",
+						"Weight": 20
+					},
+					{
+						"TypeName": "firepeashooter",
+						"Weight": 20
+					},
+					{
+						"TypeName": "primalpeashooter",
+						"Weight": 20
+					}
+				],
+				"Dimensions": {
+					"x": 70,
+					"y": 50
+				},
+				"Scale": 0.800000,
+				"ExpireDuration": 25.000000,
+				"BlinkOutDuration": 5.000000,
+				"FadeOutDuration": 1.000000
+			}
+		},
+		{
+			"#commit": "Cosmic Repeater production pool",
+			"objclass": "CollectableSeedPacketType",
+			"objdata": {
+				"TypeName": "cosmicrepeater_spawn",
+				"CollectableClass": "CollectableSeedPacketPlantable",
+				"GroundSound": "Play_UI_Game_Reward_SeedPacket_Drop",
+				"CollectSound": "Play_UI_Game_Reward_SeedPacket",
+				"PlantTypes": [
+					{
+						"TypeName": "repeater",
+						"Weight": 30
+					},
+					{
+						"TypeName": "snowpea",
+						"Weight": 25
+					},
+					{
+						"TypeName": "gatlingpea_signal",
+						"Weight": 5
+					},
+					{
+						"TypeName": "firepeashooter",
+						"Weight": 30
+					},
+					{
+						"TypeName": "primalpeashooter",
+						"Weight": 25
+					},
+					{
+						"TypeName": "poisonpeashooter",
+						"Weight": 30
+					}
+				],
+				"Dimensions": {
+					"x": 70,
+					"y": 50
+				},
+				"Scale": 0.800000,
+				"ExpireDuration": 25.000000,
+				"BlinkOutDuration": 5.000000,
+				"FadeOutDuration": 1.000000
+			}
+		},
+		{
+			"#commit": "Cosmic Gatling production pool",
+			"objclass": "CollectableSeedPacketType",
+			"objdata": {
+				"TypeName": "cosmicgatling_spawn",
+				"CollectableClass": "CollectableSeedPacketPlantable",
+				"GroundSound": "Play_UI_Game_Reward_SeedPacket_Drop",
+				"CollectSound": "Play_UI_Game_Reward_SeedPacket",
+				"PlantTypes": [
+					{
+						"TypeName": "snowpea",
+						"Weight": 10
+					},
+					{
+						"TypeName": "gatlingpea_signal",
+						"Weight": 30
+					},
+					{
+						"TypeName": "charcoalpeashooter",
+						"Weight": 20
+					},
+					{
+						"TypeName": "primalpeashooter",
+						"Weight": 10
+					},
+					{
+						"TypeName": "poisonpeashooter",
+						"Weight": 30
+					},
+					{
+						"TypeName": "icequeenpea",
+						"Weight": 15
+					}
+				],
+				"Dimensions": {
+					"x": 70,
+					"y": 50
+				},
+				"Scale": 0.800000,
+				"ExpireDuration": 25.000000,
+				"BlinkOutDuration": 5.000000,
+				"FadeOutDuration": 1.000000
+			}
+		},
+		{
+			"#commit": "Cosmic Puff-shroom production pool",
+			"objclass": "CollectableSeedPacketType",
+			"objdata": {
+				"TypeName": "cosmicpuffshroom_spawn",
+				"CollectableClass": "CollectableSeedPacketPlantable",
+				"GroundSound": "Play_UI_Game_Reward_SeedPacket_Drop",
+				"CollectSound": "Play_UI_Game_Reward_SeedPacket",
+				"PlantTypes": [
+					{
+						"TypeName": "puffshroom",
+						"Weight": 25
+					},
+					{
+						"TypeName": "fumeshroom",
+						"Weight": 10
+					},
+					{
+						"TypeName": "scaredyshroom",
+						"Weight": 15
+					},
+					{
+						"TypeName": "sunshroom",
+						"Weight": 10
+					},
+					{
+						"TypeName": "seashroom",
+						"Weight": 30
+					}
+				],
+				"Dimensions": {
+					"x": 70,
+					"y": 50
+				},
+				"Scale": 0.800000,
+				"ExpireDuration": 25.000000,
+				"BlinkOutDuration": 5.000000,
+				"FadeOutDuration": 1.000000
+			}
+		},
+		{
+			"#commit": "Cosmic Scaredy-shroom production pool",
+			"objclass": "CollectableSeedPacketType",
+			"objdata": {
+				"TypeName": "cosmicscaredyshroom_spawn",
+				"CollectableClass": "CollectableSeedPacketPlantable",
+				"GroundSound": "Play_UI_Game_Reward_SeedPacket_Drop",
+				"CollectSound": "Play_UI_Game_Reward_SeedPacket",
+				"PlantTypes": [
+					{
+						"TypeName": "magnetshroom",
+						"Weight": 15
+					},
+					{
+						"TypeName": "fumeshroom",
+						"Weight": 15
+					},
+					{
+						"TypeName": "scaredyshroom",
+						"Weight": 25
+					},
+					{
+						"TypeName": "hypnoshroom",
+						"Weight": 15
+					},
+					{
+						"TypeName": "puffshroom",
+						"Weight": 5
+					},
+					{
+						"TypeName": "sporeshroom",
+						"Weight": 15
+					}
+				],
+				"Dimensions": {
+					"x": 70,
+					"y": 50
+				},
+				"Scale": 0.800000,
+				"ExpireDuration": 25.000000,
+				"BlinkOutDuration": 5.000000,
+				"FadeOutDuration": 1.000000
+			}
+		},
+		{
+			"#commit": "Cosmic Fume-shroom production pool",
+			"objclass": "CollectableSeedPacketType",
+			"objdata": {
+				"TypeName": "cosmicfumeshroom_spawn",
+				"CollectableClass": "CollectableSeedPacketPlantable",
+				"GroundSound": "Play_UI_Game_Reward_SeedPacket_Drop",
+				"CollectSound": "Play_UI_Game_Reward_SeedPacket",
+				"PlantTypes": [
+					{
+						"TypeName": "magnetshroom",
+						"Weight": 10
+					},
+					{
+						"TypeName": "fumeshroom",
+						"Weight": 20
+					},
+					{
+						"TypeName": "megapuff",
+						"Weight": 10
+					},
+					{
+						"TypeName": "hypnoshroom",
+						"Weight": 15
+					},
+					{
+						"TypeName": "cosmicpuffshroom",
+						"Weight": 10
+					},
+					{
+						"TypeName": "sporeshroom",
+						"Weight": 15
+					}
+				],
+				"Dimensions": {
+					"x": 70,
+					"y": 50
+				},
+				"Scale": 0.800000,
+				"ExpireDuration": 25.000000,
+				"BlinkOutDuration": 5.000000,
+				"FadeOutDuration": 1.000000
+			}
+		},

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/zombie_galactic_imp_bubblegun_16x16_5" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="zombie_galactic_imp_bubblegun_16x16_5">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/zombie_galactic_imp_bubblegun_16x16_5">
+                                    <matrix>
+                                        <Matrix a="10.776379" b="0.000000" c="0.000000" d="10.776379" tx="-114.500000" ty="-114.550003"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

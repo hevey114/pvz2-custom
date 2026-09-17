@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/cosmicPea_5x5_2" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="cosmicPea_5x5_2">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/cosmicPea_5x5_2">
+                                    <matrix>
+                                        <Matrix a="41.594768" b="0.000000" c="0.000000" d="41.594768" tx="-106.449997" ty="-106.449997"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

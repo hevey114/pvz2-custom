@@ -1,0 +1,1062 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"cosmicPea_101x80": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_101X80",
+			"dimension": {
+				"width": 101,
+				"height": 80
+			},
+			"additional": null
+		},
+		"cosmicPea_102x80": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_102X80",
+			"dimension": {
+				"width": 102,
+				"height": 80
+			},
+			"additional": null
+		},
+		"cosmicPea_103x82": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_103X82",
+			"dimension": {
+				"width": 103,
+				"height": 82
+			},
+			"additional": null
+		},
+		"cosmicPea_108x72": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_108X72",
+			"dimension": {
+				"width": 108,
+				"height": 72
+			},
+			"additional": null
+		},
+		"cosmicPea_10x10": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_10X10",
+			"dimension": {
+				"width": 10,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicPea_10x11": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_10X11",
+			"dimension": {
+				"width": 10,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_10x11_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_10X11_2",
+			"dimension": {
+				"width": 10,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_10x7": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_10X7",
+			"dimension": {
+				"width": 10,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicPea_10x7_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_10X7_2",
+			"dimension": {
+				"width": 10,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicPea_10x7_3": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_10X7_3",
+			"dimension": {
+				"width": 10,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicPea_10x7_4": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_10X7_4",
+			"dimension": {
+				"width": 10,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicPea_10x7_5": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_10X7_5",
+			"dimension": {
+				"width": 10,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicPea_10x7_6": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_10X7_6",
+			"dimension": {
+				"width": 10,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicPea_11x14": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_11X14",
+			"dimension": {
+				"width": 11,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicPea_11x15": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_11X15",
+			"dimension": {
+				"width": 11,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicPea_11x7": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_11X7",
+			"dimension": {
+				"width": 11,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicPea_11x7_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_11X7_2",
+			"dimension": {
+				"width": 11,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicPea_12x12_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_12X12_2",
+			"dimension": {
+				"width": 12,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicPea_12x15_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_12X15_2",
+			"dimension": {
+				"width": 12,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicPea_12x15_3": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_12X15_3",
+			"dimension": {
+				"width": 12,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicPea_12x9": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_12X9",
+			"dimension": {
+				"width": 12,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicPea_13x14": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_13X14",
+			"dimension": {
+				"width": 13,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicPea_13x15": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_13X15",
+			"dimension": {
+				"width": 13,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicPea_13x9": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_13X9",
+			"dimension": {
+				"width": 13,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicPea_13x9_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_13X9_2",
+			"dimension": {
+				"width": 13,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicPea_13x9_3": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_13X9_3",
+			"dimension": {
+				"width": 13,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicPea_13x9_4": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_13X9_4",
+			"dimension": {
+				"width": 13,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicPea_13x9_5": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_13X9_5",
+			"dimension": {
+				"width": 13,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicPea_14x18": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_14X18",
+			"dimension": {
+				"width": 14,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicPea_14x19": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_14X19",
+			"dimension": {
+				"width": 14,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicPea_14x43": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_14X43",
+			"dimension": {
+				"width": 14,
+				"height": 43
+			},
+			"additional": null
+		},
+		"cosmicPea_14x9": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_14X9",
+			"dimension": {
+				"width": 14,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicPea_14x9_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_14X9_2",
+			"dimension": {
+				"width": 14,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicPea_15x11": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_15X11",
+			"dimension": {
+				"width": 15,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_15x15": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_15X15",
+			"dimension": {
+				"width": 15,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicPea_15x15_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_15X15_2",
+			"dimension": {
+				"width": 15,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicPea_15x19": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_15X19",
+			"dimension": {
+				"width": 15,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicPea_15x19_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_15X19_2",
+			"dimension": {
+				"width": 15,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicPea_16x13": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_16X13",
+			"dimension": {
+				"width": 16,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicPea_16x17": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_16X17",
+			"dimension": {
+				"width": 16,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicPea_16x18": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_16X18",
+			"dimension": {
+				"width": 16,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicPea_17x11": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_17X11",
+			"dimension": {
+				"width": 17,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_17x11_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_17X11_2",
+			"dimension": {
+				"width": 17,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_17x11_3": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_17X11_3",
+			"dimension": {
+				"width": 17,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_17x11_4": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_17X11_4",
+			"dimension": {
+				"width": 17,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_17x11_5": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_17X11_5",
+			"dimension": {
+				"width": 17,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_17x13": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_17X13",
+			"dimension": {
+				"width": 17,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicPea_17x7": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_17X7",
+			"dimension": {
+				"width": 17,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicPea_18x11": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_18X11",
+			"dimension": {
+				"width": 18,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_18x11_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_18X11_2",
+			"dimension": {
+				"width": 18,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_18x20": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_18X20",
+			"dimension": {
+				"width": 18,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicPea_20x12": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_20X12",
+			"dimension": {
+				"width": 20,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicPea_20x20": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_20X20",
+			"dimension": {
+				"width": 20,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicPea_20x22": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_20X22",
+			"dimension": {
+				"width": 20,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicPea_20x22_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_20X22_2",
+			"dimension": {
+				"width": 20,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicPea_21x10": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_21X10",
+			"dimension": {
+				"width": 21,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicPea_21x20": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_21X20",
+			"dimension": {
+				"width": 21,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicPea_22x32": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_22X32",
+			"dimension": {
+				"width": 22,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicPea_23x17": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_23X17",
+			"dimension": {
+				"width": 23,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicPea_23x17_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_23X17_2",
+			"dimension": {
+				"width": 23,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicPea_23x32_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_23X32_2",
+			"dimension": {
+				"width": 23,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicPea_24x32": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_24X32",
+			"dimension": {
+				"width": 24,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicPea_24x32_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_24X32_2",
+			"dimension": {
+				"width": 24,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicPea_25x18": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_25X18",
+			"dimension": {
+				"width": 25,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicPea_25x19": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_25X19",
+			"dimension": {
+				"width": 25,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicPea_25x32": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_25X32",
+			"dimension": {
+				"width": 25,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicPea_27x28": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_27X28",
+			"dimension": {
+				"width": 27,
+				"height": 28
+			},
+			"additional": null
+		},
+		"cosmicPea_27x31": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_27X31",
+			"dimension": {
+				"width": 27,
+				"height": 31
+			},
+			"additional": null
+		},
+		"cosmicPea_28x17": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_28X17",
+			"dimension": {
+				"width": 28,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicPea_28x17_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_28X17_2",
+			"dimension": {
+				"width": 28,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicPea_28x17_3": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_28X17_3",
+			"dimension": {
+				"width": 28,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicPea_28x17_4": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_28X17_4",
+			"dimension": {
+				"width": 28,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicPea_28x17_5": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_28X17_5",
+			"dimension": {
+				"width": 28,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicPea_28x30": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_28X30",
+			"dimension": {
+				"width": 28,
+				"height": 30
+			},
+			"additional": null
+		},
+		"cosmicPea_29x10": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_29X10",
+			"dimension": {
+				"width": 29,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicPea_29x28": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_29X28",
+			"dimension": {
+				"width": 29,
+				"height": 28
+			},
+			"additional": null
+		},
+		"cosmicPea_30x18": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_30X18",
+			"dimension": {
+				"width": 30,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicPea_31x18": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_31X18",
+			"dimension": {
+				"width": 31,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicPea_34x36": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_34X36",
+			"dimension": {
+				"width": 34,
+				"height": 36
+			},
+			"additional": null
+		},
+		"cosmicPea_36x30": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_36X30",
+			"dimension": {
+				"width": 36,
+				"height": 30
+			},
+			"additional": null
+		},
+		"cosmicPea_36x31": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_36X31",
+			"dimension": {
+				"width": 36,
+				"height": 31
+			},
+			"additional": null
+		},
+		"cosmicPea_37x44": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_37X44",
+			"dimension": {
+				"width": 37,
+				"height": 44
+			},
+			"additional": null
+		},
+		"cosmicPea_37x45_2": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_37X45_2",
+			"dimension": {
+				"width": 37,
+				"height": 45
+			},
+			"additional": null
+		},
+		"cosmicPea_38x36": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_38X36",
+			"dimension": {
+				"width": 38,
+				"height": 36
+			},
+			"additional": null
+		},
+		"cosmicPea_39x28": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_39X28",
+			"dimension": {
+				"width": 39,
+				"height": 28
+			},
+			"additional": null
+		},
+		"cosmicPea_41x41": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_41X41",
+			"dimension": {
+				"width": 41,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicPea_41x41_2": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_41X41_2",
+			"dimension": {
+				"width": 41,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicPea_41x41_3": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_41X41_3",
+			"dimension": {
+				"width": 41,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicPea_43x43": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_43X43",
+			"dimension": {
+				"width": 43,
+				"height": 43
+			},
+			"additional": null
+		},
+		"cosmicPea_44x38": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_44X38",
+			"dimension": {
+				"width": 44,
+				"height": 38
+			},
+			"additional": null
+		},
+		"cosmicPea_44x57": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_44X57",
+			"dimension": {
+				"width": 44,
+				"height": 57
+			},
+			"additional": null
+		},
+		"cosmicPea_46x36": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_46X36",
+			"dimension": {
+				"width": 46,
+				"height": 36
+			},
+			"additional": null
+		},
+		"cosmicPea_46x59": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_46X59",
+			"dimension": {
+				"width": 46,
+				"height": 59
+			},
+			"additional": null
+		},
+		"cosmicPea_49x34": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_49X34",
+			"dimension": {
+				"width": 49,
+				"height": 34
+			},
+			"additional": null
+		},
+		"cosmicPea_50x41": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_50X41",
+			"dimension": {
+				"width": 50,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicPea_50x41_2": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_50X41_2",
+			"dimension": {
+				"width": 50,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicPea_50x41_3": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_50X41_3",
+			"dimension": {
+				"width": 50,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicPea_50x41_4": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_50X41_4",
+			"dimension": {
+				"width": 50,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicPea_51x48": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_51X48",
+			"dimension": {
+				"width": 51,
+				"height": 48
+			},
+			"additional": null
+		},
+		"cosmicPea_55x65": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_55X65",
+			"dimension": {
+				"width": 55,
+				"height": 65
+			},
+			"additional": null
+		},
+		"cosmicPea_5x5_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_5X5_2",
+			"dimension": {
+				"width": 5,
+				"height": 5
+			},
+			"additional": null
+		},
+		"cosmicPea_5x8": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_5X8",
+			"dimension": {
+				"width": 5,
+				"height": 8
+			},
+			"additional": null
+		},
+		"cosmicPea_60x41": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_60X41",
+			"dimension": {
+				"width": 60,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicPea_61x30_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_61X30_2",
+			"dimension": {
+				"width": 61,
+				"height": 30
+			},
+			"additional": null
+		},
+		"cosmicPea_61x30_3": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_61X30_3",
+			"dimension": {
+				"width": 61,
+				"height": 30
+			},
+			"additional": null
+		},
+		"cosmicPea_64x28": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_64X28",
+			"dimension": {
+				"width": 64,
+				"height": 28
+			},
+			"additional": null
+		},
+		"cosmicPea_6x6": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_6X6",
+			"dimension": {
+				"width": 6,
+				"height": 6
+			},
+			"additional": null
+		},
+		"cosmicPea_6x6_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_6X6_2",
+			"dimension": {
+				"width": 6,
+				"height": 6
+			},
+			"additional": null
+		},
+		"cosmicPea_70x63_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_70X63_2",
+			"dimension": {
+				"width": 70,
+				"height": 63
+			},
+			"additional": null
+		},
+		"cosmicPea_76x35": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_76X35",
+			"dimension": {
+				"width": 76,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicPea_78x35": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_78X35",
+			"dimension": {
+				"width": 78,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicPea_79x35": {
+			"id": "IMAGE_PLANT_COSMICGATLING_COSMICPEA_79X35",
+			"dimension": {
+				"width": 79,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicPea_7x12": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_7X12",
+			"dimension": {
+				"width": 7,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicPea_7x7": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_7X7",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicPea_82x54": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_82X54",
+			"dimension": {
+				"width": 82,
+				"height": 54
+			},
+			"additional": null
+		},
+		"cosmicPea_83x62": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_83X62",
+			"dimension": {
+				"width": 83,
+				"height": 62
+			},
+			"additional": null
+		},
+		"cosmicPea_83x62_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_83X62_2",
+			"dimension": {
+				"width": 83,
+				"height": 62
+			},
+			"additional": null
+		},
+		"cosmicPea_87x52": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_87X52",
+			"dimension": {
+				"width": 87,
+				"height": 52
+			},
+			"additional": null
+		},
+		"cosmicPea_8x15": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_8X15",
+			"dimension": {
+				"width": 8,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicPea_8x8": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_8X8",
+			"dimension": {
+				"width": 8,
+				"height": 8
+			},
+			"additional": null
+		},
+		"cosmicPea_90x40": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_90X40",
+			"dimension": {
+				"width": 90,
+				"height": 40
+			},
+			"additional": null
+		},
+		"cosmicPea_92x60": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_92X60",
+			"dimension": {
+				"width": 92,
+				"height": 60
+			},
+			"additional": null
+		},
+		"cosmicPea_9x11": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_9X11",
+			"dimension": {
+				"width": 9,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_9x11_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_9X11_2",
+			"dimension": {
+				"width": 9,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicPea_9x12_2": {
+			"id": "IMAGE_PLANT_COSMICPEA_COSMICPEA_9X12_2",
+			"dimension": {
+				"width": 9,
+				"height": 12
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"cosmicgatling__circle": [
+			"cosmicgatling__circle_1",
+			"cosmicgatling__circle_2",
+			"cosmicgatling__circle_3"
+		],
+		"cosmicgatling__star": [
+			"cosmicgatling__star_1",
+			"cosmicgatling__star_2"
+		],
+		"cosmicgatling_gatlingpea_eye": [
+			"cosmicgatling_gatlingpea_eye_1"
+		],
+		"cosmicgatling_gatlingpea_eye_closed": [
+			"cosmicgatling_gatlingpea_eye_closed_1"
+		],
+		"cosmicgatling_gatlingpea_helmet_screw": [
+			"cosmicgatling_gatlingpea_helmet_screw_1"
+		],
+		"cosmicgatling_gatlingpea_muzzle_blast": [
+			"cosmicgatling_gatlingpea_muzzle_blast_1",
+			"cosmicgatling_gatlingpea_muzzle_blast_2",
+			"cosmicgatling_gatlingpea_muzzle_blast_3"
+		],
+		"cosmicgatling_gatlingpea_muzzle_blast_1": [
+			"cosmicgatling_gatlingpea_muzzle_blast_1_1"
+		],
+		"cosmicgatling_peashooter_eye": [
+			"cosmicgatling_peashooter_eye_1"
+		],
+		"cosmicgatling_peashooter_eye_copy": [
+			"cosmicgatling_peashooter_eye_copy_1"
+		],
+		"cosmicgatling_peashooter_eye_lid": [
+			"cosmicgatling_peashooter_eye_lid_1"
+		],
+		"cosmicgatling_peashooter_eye_lid_low": [
+			"cosmicgatling_peashooter_eye_lid_low_1"
+		],
+		"cosmicgatling_peashooter_lips03": [
+			"cosmicgatling_peashooter_lips03_1",
+			"cosmicgatling_peashooter_lips03_2",
+			"cosmicgatling_peashooter_lips03_3"
+		],
+		"cosmicgatling_peashooter_lips_dimple": [
+			"cosmicgatling_peashooter_lips_dimple_1",
+			"cosmicgatling_peashooter_lips_dimple_2"
+		],
+		"cosmicgatling_peashooter_stem_pea": [
+			"cosmicgatling_peashooter_stem_pea_1"
+		]
+	}
+}
