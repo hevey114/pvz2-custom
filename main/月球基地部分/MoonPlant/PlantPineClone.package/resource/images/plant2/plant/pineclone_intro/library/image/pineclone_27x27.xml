@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/pineclone_27x27" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="pineclone_27x27">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/pineclone_27x27">
+                                    <matrix>
+                                        <Matrix a="4.464208" b="0.000000" c="0.000000" d="4.464208" tx="-36.849998" ty="-36.849998"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,87 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"zombie_moon_ship5000_shield_102x95": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_MOON_SHIP5000_SHIELD_ZOMBIE_MOON_SHIP5000_SHIELD_102X95",
+			"dimension": {
+				"width": 102,
+				"height": 95
+			},
+			"additional": null
+		},
+		"zombie_moon_ship5000_shield_102x95_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_MOON_SHIP5000_SHIELD_ZOMBIE_MOON_SHIP5000_SHIELD_102X95_2",
+			"dimension": {
+				"width": 102,
+				"height": 95
+			},
+			"additional": null
+		},
+		"zombie_moon_ship5000_shield_132x121": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_MOON_SHIP5000_SHIELD_ZOMBIE_MOON_SHIP5000_SHIELD_132X121",
+			"dimension": {
+				"width": 132,
+				"height": 121
+			},
+			"additional": null
+		},
+		"zombie_moon_ship5000_shield_132x121_2": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_MOON_SHIP5000_SHIELD_ZOMBIE_MOON_SHIP5000_SHIELD_132X121_2",
+			"dimension": {
+				"width": 132,
+				"height": 121
+			},
+			"additional": null
+		},
+		"zombie_moon_ship5000_shield_292x162": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_MOON_SHIP5000_SHIELD_ZOMBIE_MOON_SHIP5000_SHIELD_292X162",
+			"dimension": {
+				"width": 292,
+				"height": 162
+			},
+			"additional": null
+		},
+		"zombie_moon_ship5000_shield_517x267": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_MOON_SHIP5000_SHIELD_ZOMBIE_MOON_SHIP5000_SHIELD_517X267",
+			"dimension": {
+				"width": 517,
+				"height": 267
+			},
+			"additional": null
+		},
+		"zombie_moon_ship5000_shield_76x72": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_MOON_SHIP5000_SHIELD_ZOMBIE_MOON_SHIP5000_SHIELD_76X72",
+			"dimension": {
+				"width": 76,
+				"height": 72
+			},
+			"additional": null
+		},
+		"zombie_moon_ship5000_shield_77x73": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_MOON_SHIP5000_SHIELD_ZOMBIE_MOON_SHIP5000_SHIELD_77X73",
+			"dimension": {
+				"width": 77,
+				"height": 73
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"shield_hexagon": [
+			"shield_hexagon_1",
+			"shield_hexagon_2"
+		],
+		"shield_hexagon_flash": [
+			"shield_hexagon_flash_1"
+		],
+		"shield_hexagon_glow": [
+			"shield_hexagon_glow_1",
+			"shield_hexagon_glow_2"
+		]
+	}
+}

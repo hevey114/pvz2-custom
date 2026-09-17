@@ -1,0 +1,1515 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"Cosmicnut_107x38": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_107X38",
+			"dimension": {
+				"width": 107,
+				"height": 38
+			},
+			"additional": null
+		},
+		"Cosmicnut_108x107": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_108X107",
+			"dimension": {
+				"width": 108,
+				"height": 107
+			},
+			"additional": null
+		},
+		"Cosmicnut_108x127": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_108X127",
+			"dimension": {
+				"width": 108,
+				"height": 127
+			},
+			"additional": null
+		},
+		"Cosmicnut_108x42": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_108X42",
+			"dimension": {
+				"width": 108,
+				"height": 42
+			},
+			"additional": null
+		},
+		"Cosmicnut_110x47": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_110X47",
+			"dimension": {
+				"width": 110,
+				"height": 47
+			},
+			"additional": null
+		},
+		"Cosmicnut_111x143": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_111X143",
+			"dimension": {
+				"width": 111,
+				"height": 143
+			},
+			"additional": null
+		},
+		"Cosmicnut_116x49": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_116X49",
+			"dimension": {
+				"width": 116,
+				"height": 49
+			},
+			"additional": null
+		},
+		"Cosmicnut_116x50": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_116X50",
+			"dimension": {
+				"width": 116,
+				"height": 50
+			},
+			"additional": null
+		},
+		"Cosmicnut_117x53": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_117X53",
+			"dimension": {
+				"width": 117,
+				"height": 53
+			},
+			"additional": null
+		},
+		"Cosmicnut_118x133": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_118X133",
+			"dimension": {
+				"width": 118,
+				"height": 133
+			},
+			"additional": null
+		},
+		"Cosmicnut_125x194": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_125X194",
+			"dimension": {
+				"width": 125,
+				"height": 194
+			},
+			"additional": null
+		},
+		"Cosmicnut_12x11": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_12X11",
+			"dimension": {
+				"width": 12,
+				"height": 11
+			},
+			"additional": null
+		},
+		"Cosmicnut_12x11_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_12X11_2",
+			"dimension": {
+				"width": 12,
+				"height": 11
+			},
+			"additional": null
+		},
+		"Cosmicnut_134x68": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_134X68",
+			"dimension": {
+				"width": 134,
+				"height": 68
+			},
+			"additional": null
+		},
+		"Cosmicnut_135x66": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_135X66",
+			"dimension": {
+				"width": 135,
+				"height": 66
+			},
+			"additional": null
+		},
+		"Cosmicnut_136x67": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_136X67",
+			"dimension": {
+				"width": 136,
+				"height": 67
+			},
+			"additional": null
+		},
+		"Cosmicnut_137x149": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_137X149",
+			"dimension": {
+				"width": 137,
+				"height": 149
+			},
+			"additional": null
+		},
+		"Cosmicnut_139x62": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_139X62",
+			"dimension": {
+				"width": 139,
+				"height": 62
+			},
+			"additional": null
+		},
+		"Cosmicnut_13x13": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_13X13",
+			"dimension": {
+				"width": 13,
+				"height": 13
+			},
+			"additional": null
+		},
+		"Cosmicnut_13x13_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_13X13_2",
+			"dimension": {
+				"width": 13,
+				"height": 13
+			},
+			"additional": null
+		},
+		"Cosmicnut_146x96": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_146X96",
+			"dimension": {
+				"width": 146,
+				"height": 96
+			},
+			"additional": null
+		},
+		"Cosmicnut_148x52": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_148X52",
+			"dimension": {
+				"width": 148,
+				"height": 52
+			},
+			"additional": null
+		},
+		"Cosmicnut_148x67": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_148X67",
+			"dimension": {
+				"width": 148,
+				"height": 67
+			},
+			"additional": null
+		},
+		"Cosmicnut_150x57": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_150X57",
+			"dimension": {
+				"width": 150,
+				"height": 57
+			},
+			"additional": null
+		},
+		"Cosmicnut_150x98": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_150X98",
+			"dimension": {
+				"width": 150,
+				"height": 98
+			},
+			"additional": null
+		},
+		"Cosmicnut_151x199": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_151X199",
+			"dimension": {
+				"width": 151,
+				"height": 199
+			},
+			"additional": null
+		},
+		"Cosmicnut_151x98": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_151X98",
+			"dimension": {
+				"width": 151,
+				"height": 98
+			},
+			"additional": null
+		},
+		"Cosmicnut_152x66": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_152X66",
+			"dimension": {
+				"width": 152,
+				"height": 66
+			},
+			"additional": null
+		},
+		"Cosmicnut_152x96": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_152X96",
+			"dimension": {
+				"width": 152,
+				"height": 96
+			},
+			"additional": null
+		},
+		"Cosmicnut_152x97": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_152X97",
+			"dimension": {
+				"width": 152,
+				"height": 97
+			},
+			"additional": null
+		},
+		"Cosmicnut_155x94": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_155X94",
+			"dimension": {
+				"width": 155,
+				"height": 94
+			},
+			"additional": null
+		},
+		"Cosmicnut_156x164": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_156X164",
+			"dimension": {
+				"width": 156,
+				"height": 164
+			},
+			"additional": null
+		},
+		"Cosmicnut_158x80": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_158X80",
+			"dimension": {
+				"width": 158,
+				"height": 80
+			},
+			"additional": null
+		},
+		"Cosmicnut_160x97": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_160X97",
+			"dimension": {
+				"width": 160,
+				"height": 97
+			},
+			"additional": null
+		},
+		"Cosmicnut_161x182": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_161X182",
+			"dimension": {
+				"width": 161,
+				"height": 182
+			},
+			"additional": null
+		},
+		"Cosmicnut_161x93": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_161X93",
+			"dimension": {
+				"width": 161,
+				"height": 93
+			},
+			"additional": null
+		},
+		"Cosmicnut_161x93_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_161X93_2",
+			"dimension": {
+				"width": 161,
+				"height": 93
+			},
+			"additional": null
+		},
+		"Cosmicnut_161x94": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_161X94",
+			"dimension": {
+				"width": 161,
+				"height": 94
+			},
+			"additional": null
+		},
+		"Cosmicnut_161x94_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_161X94_2",
+			"dimension": {
+				"width": 161,
+				"height": 94
+			},
+			"additional": null
+		},
+		"Cosmicnut_161x96": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_161X96",
+			"dimension": {
+				"width": 161,
+				"height": 96
+			},
+			"additional": null
+		},
+		"Cosmicnut_162x93": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_162X93",
+			"dimension": {
+				"width": 162,
+				"height": 93
+			},
+			"additional": null
+		},
+		"Cosmicnut_162x93_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_162X93_2",
+			"dimension": {
+				"width": 162,
+				"height": 93
+			},
+			"additional": null
+		},
+		"Cosmicnut_162x93_3": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_162X93_3",
+			"dimension": {
+				"width": 162,
+				"height": 93
+			},
+			"additional": null
+		},
+		"Cosmicnut_162x97": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_162X97",
+			"dimension": {
+				"width": 162,
+				"height": 97
+			},
+			"additional": null
+		},
+		"Cosmicnut_167x69": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_167X69",
+			"dimension": {
+				"width": 167,
+				"height": 69
+			},
+			"additional": null
+		},
+		"Cosmicnut_168x71": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_168X71",
+			"dimension": {
+				"width": 168,
+				"height": 71
+			},
+			"additional": null
+		},
+		"Cosmicnut_16x15": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_16X15",
+			"dimension": {
+				"width": 16,
+				"height": 15
+			},
+			"additional": null
+		},
+		"Cosmicnut_16x9": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_16X9",
+			"dimension": {
+				"width": 16,
+				"height": 9
+			},
+			"additional": null
+		},
+		"Cosmicnut_173x77": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_173X77",
+			"dimension": {
+				"width": 173,
+				"height": 77
+			},
+			"additional": null
+		},
+		"Cosmicnut_17x16": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_17X16",
+			"dimension": {
+				"width": 17,
+				"height": 16
+			},
+			"additional": null
+		},
+		"Cosmicnut_17x17": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_17X17",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"Cosmicnut_17x17_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_17X17_2",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"Cosmicnut_188x79": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_188X79",
+			"dimension": {
+				"width": 188,
+				"height": 79
+			},
+			"additional": null
+		},
+		"Cosmicnut_193x98": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_193X98",
+			"dimension": {
+				"width": 193,
+				"height": 98
+			},
+			"additional": null
+		},
+		"Cosmicnut_195x94": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_195X94",
+			"dimension": {
+				"width": 195,
+				"height": 94
+			},
+			"additional": null
+		},
+		"Cosmicnut_196x95": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_196X95",
+			"dimension": {
+				"width": 196,
+				"height": 95
+			},
+			"additional": null
+		},
+		"Cosmicnut_19x25": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_19X25",
+			"dimension": {
+				"width": 19,
+				"height": 25
+			},
+			"additional": null
+		},
+		"Cosmicnut_19x6": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_19X6",
+			"dimension": {
+				"width": 19,
+				"height": 6
+			},
+			"additional": null
+		},
+		"Cosmicnut_1x1": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_1X1",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"Cosmicnut_1x1_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_1X1_2",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"Cosmicnut_1x1_3": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_1X1_3",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"Cosmicnut_200x84": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_200X84",
+			"dimension": {
+				"width": 200,
+				"height": 84
+			},
+			"additional": null
+		},
+		"Cosmicnut_200x89": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_200X89",
+			"dimension": {
+				"width": 200,
+				"height": 89
+			},
+			"additional": null
+		},
+		"Cosmicnut_210x127": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_210X127",
+			"dimension": {
+				"width": 210,
+				"height": 127
+			},
+			"additional": null
+		},
+		"Cosmicnut_21x21": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_21X21",
+			"dimension": {
+				"width": 21,
+				"height": 21
+			},
+			"additional": null
+		},
+		"Cosmicnut_21x27": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_21X27",
+			"dimension": {
+				"width": 21,
+				"height": 27
+			},
+			"additional": null
+		},
+		"Cosmicnut_22x20": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_22X20",
+			"dimension": {
+				"width": 22,
+				"height": 20
+			},
+			"additional": null
+		},
+		"Cosmicnut_22x9": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_22X9",
+			"dimension": {
+				"width": 22,
+				"height": 9
+			},
+			"additional": null
+		},
+		"Cosmicnut_232x139": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_232X139",
+			"dimension": {
+				"width": 232,
+				"height": 139
+			},
+			"additional": null
+		},
+		"Cosmicnut_233x138": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_233X138",
+			"dimension": {
+				"width": 233,
+				"height": 138
+			},
+			"additional": null
+		},
+		"Cosmicnut_234x135": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_234X135",
+			"dimension": {
+				"width": 234,
+				"height": 135
+			},
+			"additional": null
+		},
+		"Cosmicnut_234x136": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_234X136",
+			"dimension": {
+				"width": 234,
+				"height": 136
+			},
+			"additional": null
+		},
+		"Cosmicnut_236x129": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_236X129",
+			"dimension": {
+				"width": 236,
+				"height": 129
+			},
+			"additional": null
+		},
+		"Cosmicnut_246x128": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_246X128",
+			"dimension": {
+				"width": 246,
+				"height": 128
+			},
+			"additional": null
+		},
+		"Cosmicnut_246x134": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_246X134",
+			"dimension": {
+				"width": 246,
+				"height": 134
+			},
+			"additional": null
+		},
+		"Cosmicnut_247x128": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_247X128",
+			"dimension": {
+				"width": 247,
+				"height": 128
+			},
+			"additional": null
+		},
+		"Cosmicnut_247x134": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_247X134",
+			"dimension": {
+				"width": 247,
+				"height": 134
+			},
+			"additional": null
+		},
+		"Cosmicnut_248x128": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_248X128",
+			"dimension": {
+				"width": 248,
+				"height": 128
+			},
+			"additional": null
+		},
+		"Cosmicnut_248x129": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_248X129",
+			"dimension": {
+				"width": 248,
+				"height": 129
+			},
+			"additional": null
+		},
+		"Cosmicnut_248x129_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_248X129_2",
+			"dimension": {
+				"width": 248,
+				"height": 129
+			},
+			"additional": null
+		},
+		"Cosmicnut_248x129_3": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_248X129_3",
+			"dimension": {
+				"width": 248,
+				"height": 129
+			},
+			"additional": null
+		},
+		"Cosmicnut_248x129_4": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_248X129_4",
+			"dimension": {
+				"width": 248,
+				"height": 129
+			},
+			"additional": null
+		},
+		"Cosmicnut_248x134": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_248X134",
+			"dimension": {
+				"width": 248,
+				"height": 134
+			},
+			"additional": null
+		},
+		"Cosmicnut_24x24": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_24X24",
+			"dimension": {
+				"width": 24,
+				"height": 24
+			},
+			"additional": null
+		},
+		"Cosmicnut_24x26": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_24X26",
+			"dimension": {
+				"width": 24,
+				"height": 26
+			},
+			"additional": null
+		},
+		"Cosmicnut_25x22": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_25X22",
+			"dimension": {
+				"width": 25,
+				"height": 22
+			},
+			"additional": null
+		},
+		"Cosmicnut_25x25": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_25X25",
+			"dimension": {
+				"width": 25,
+				"height": 25
+			},
+			"additional": null
+		},
+		"Cosmicnut_26x28": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_26X28",
+			"dimension": {
+				"width": 26,
+				"height": 28
+			},
+			"additional": null
+		},
+		"Cosmicnut_26x28_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_26X28_2",
+			"dimension": {
+				"width": 26,
+				"height": 28
+			},
+			"additional": null
+		},
+		"Cosmicnut_26x34": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_26X34",
+			"dimension": {
+				"width": 26,
+				"height": 34
+			},
+			"additional": null
+		},
+		"Cosmicnut_27x37": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_27X37",
+			"dimension": {
+				"width": 27,
+				"height": 37
+			},
+			"additional": null
+		},
+		"Cosmicnut_28x25": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_28X25",
+			"dimension": {
+				"width": 28,
+				"height": 25
+			},
+			"additional": null
+		},
+		"Cosmicnut_28x38": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_28X38",
+			"dimension": {
+				"width": 28,
+				"height": 38
+			},
+			"additional": null
+		},
+		"Cosmicnut_29x33": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_29X33",
+			"dimension": {
+				"width": 29,
+				"height": 33
+			},
+			"additional": null
+		},
+		"Cosmicnut_31x14": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_31X14",
+			"dimension": {
+				"width": 31,
+				"height": 14
+			},
+			"additional": null
+		},
+		"Cosmicnut_31x30": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_31X30",
+			"dimension": {
+				"width": 31,
+				"height": 30
+			},
+			"additional": null
+		},
+		"Cosmicnut_31x9": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_31X9",
+			"dimension": {
+				"width": 31,
+				"height": 9
+			},
+			"additional": null
+		},
+		"Cosmicnut_33x23": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_33X23",
+			"dimension": {
+				"width": 33,
+				"height": 23
+			},
+			"additional": null
+		},
+		"Cosmicnut_33x30": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_33X30",
+			"dimension": {
+				"width": 33,
+				"height": 30
+			},
+			"additional": null
+		},
+		"Cosmicnut_33x33": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_33X33",
+			"dimension": {
+				"width": 33,
+				"height": 33
+			},
+			"additional": null
+		},
+		"Cosmicnut_33x38": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_33X38",
+			"dimension": {
+				"width": 33,
+				"height": 38
+			},
+			"additional": null
+		},
+		"Cosmicnut_34x18": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_34X18",
+			"dimension": {
+				"width": 34,
+				"height": 18
+			},
+			"additional": null
+		},
+		"Cosmicnut_35x47": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_35X47",
+			"dimension": {
+				"width": 35,
+				"height": 47
+			},
+			"additional": null
+		},
+		"Cosmicnut_36x37": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_36X37",
+			"dimension": {
+				"width": 36,
+				"height": 37
+			},
+			"additional": null
+		},
+		"Cosmicnut_36x49": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_36X49",
+			"dimension": {
+				"width": 36,
+				"height": 49
+			},
+			"additional": null
+		},
+		"Cosmicnut_36x50": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_36X50",
+			"dimension": {
+				"width": 36,
+				"height": 50
+			},
+			"additional": null
+		},
+		"Cosmicnut_37x41": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_37X41",
+			"dimension": {
+				"width": 37,
+				"height": 41
+			},
+			"additional": null
+		},
+		"Cosmicnut_37x41_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_37X41_2",
+			"dimension": {
+				"width": 37,
+				"height": 41
+			},
+			"additional": null
+		},
+		"Cosmicnut_38x23": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_38X23",
+			"dimension": {
+				"width": 38,
+				"height": 23
+			},
+			"additional": null
+		},
+		"Cosmicnut_38x37": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_38X37",
+			"dimension": {
+				"width": 38,
+				"height": 37
+			},
+			"additional": null
+		},
+		"Cosmicnut_38x54": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_38X54",
+			"dimension": {
+				"width": 38,
+				"height": 54
+			},
+			"additional": null
+		},
+		"Cosmicnut_39x37": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_39X37",
+			"dimension": {
+				"width": 39,
+				"height": 37
+			},
+			"additional": null
+		},
+		"Cosmicnut_40x40": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_40X40",
+			"dimension": {
+				"width": 40,
+				"height": 40
+			},
+			"additional": null
+		},
+		"Cosmicnut_41x37": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_41X37",
+			"dimension": {
+				"width": 41,
+				"height": 37
+			},
+			"additional": null
+		},
+		"Cosmicnut_43x51": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_43X51",
+			"dimension": {
+				"width": 43,
+				"height": 51
+			},
+			"additional": null
+		},
+		"Cosmicnut_44x20": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_44X20",
+			"dimension": {
+				"width": 44,
+				"height": 20
+			},
+			"additional": null
+		},
+		"Cosmicnut_44x39": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_44X39",
+			"dimension": {
+				"width": 44,
+				"height": 39
+			},
+			"additional": null
+		},
+		"Cosmicnut_45x45": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_45X45",
+			"dimension": {
+				"width": 45,
+				"height": 45
+			},
+			"additional": null
+		},
+		"Cosmicnut_46x43": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_46X43",
+			"dimension": {
+				"width": 46,
+				"height": 43
+			},
+			"additional": null
+		},
+		"Cosmicnut_46x46": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_46X46",
+			"dimension": {
+				"width": 46,
+				"height": 46
+			},
+			"additional": null
+		},
+		"Cosmicnut_48x178": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_48X178",
+			"dimension": {
+				"width": 48,
+				"height": 178
+			},
+			"additional": null
+		},
+		"Cosmicnut_48x29": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_48X29",
+			"dimension": {
+				"width": 48,
+				"height": 29
+			},
+			"additional": null
+		},
+		"Cosmicnut_49x29": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_49X29",
+			"dimension": {
+				"width": 49,
+				"height": 29
+			},
+			"additional": null
+		},
+		"Cosmicnut_4x4": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_4X4",
+			"dimension": {
+				"width": 4,
+				"height": 4
+			},
+			"additional": null
+		},
+		"Cosmicnut_4x4_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_4X4_2",
+			"dimension": {
+				"width": 4,
+				"height": 4
+			},
+			"additional": null
+		},
+		"Cosmicnut_4x5": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_4X5",
+			"dimension": {
+				"width": 4,
+				"height": 5
+			},
+			"additional": null
+		},
+		"Cosmicnut_51x25": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_51X25",
+			"dimension": {
+				"width": 51,
+				"height": 25
+			},
+			"additional": null
+		},
+		"Cosmicnut_51x25_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_51X25_2",
+			"dimension": {
+				"width": 51,
+				"height": 25
+			},
+			"additional": null
+		},
+		"Cosmicnut_51x56": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_51X56",
+			"dimension": {
+				"width": 51,
+				"height": 56
+			},
+			"additional": null
+		},
+		"Cosmicnut_51x72": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_51X72",
+			"dimension": {
+				"width": 51,
+				"height": 72
+			},
+			"additional": null
+		},
+		"Cosmicnut_52x61": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_52X61",
+			"dimension": {
+				"width": 52,
+				"height": 61
+			},
+			"additional": null
+		},
+		"Cosmicnut_53x16": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_53X16",
+			"dimension": {
+				"width": 53,
+				"height": 16
+			},
+			"additional": null
+		},
+		"Cosmicnut_53x38": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_53X38",
+			"dimension": {
+				"width": 53,
+				"height": 38
+			},
+			"additional": null
+		},
+		"Cosmicnut_53x74": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_53X74",
+			"dimension": {
+				"width": 53,
+				"height": 74
+			},
+			"additional": null
+		},
+		"Cosmicnut_54x53": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_54X53",
+			"dimension": {
+				"width": 54,
+				"height": 53
+			},
+			"additional": null
+		},
+		"Cosmicnut_56x15": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_56X15",
+			"dimension": {
+				"width": 56,
+				"height": 15
+			},
+			"additional": null
+		},
+		"Cosmicnut_56x15_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_56X15_2",
+			"dimension": {
+				"width": 56,
+				"height": 15
+			},
+			"additional": null
+		},
+		"Cosmicnut_59x16": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_59X16",
+			"dimension": {
+				"width": 59,
+				"height": 16
+			},
+			"additional": null
+		},
+		"Cosmicnut_59x67": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_59X67",
+			"dimension": {
+				"width": 59,
+				"height": 67
+			},
+			"additional": null
+		},
+		"Cosmicnut_5x5": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_5X5",
+			"dimension": {
+				"width": 5,
+				"height": 5
+			},
+			"additional": null
+		},
+		"Cosmicnut_5x5_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_5X5_2",
+			"dimension": {
+				"width": 5,
+				"height": 5
+			},
+			"additional": null
+		},
+		"Cosmicnut_5x7": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_5X7",
+			"dimension": {
+				"width": 5,
+				"height": 7
+			},
+			"additional": null
+		},
+		"Cosmicnut_5x8": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_5X8",
+			"dimension": {
+				"width": 5,
+				"height": 8
+			},
+			"additional": null
+		},
+		"Cosmicnut_65x23": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_65X23",
+			"dimension": {
+				"width": 65,
+				"height": 23
+			},
+			"additional": null
+		},
+		"Cosmicnut_67x74": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_67X74",
+			"dimension": {
+				"width": 67,
+				"height": 74
+			},
+			"additional": null
+		},
+		"Cosmicnut_69x41": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_69X41",
+			"dimension": {
+				"width": 69,
+				"height": 41
+			},
+			"additional": null
+		},
+		"Cosmicnut_6x10": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_6X10",
+			"dimension": {
+				"width": 6,
+				"height": 10
+			},
+			"additional": null
+		},
+		"Cosmicnut_6x6": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_6X6",
+			"dimension": {
+				"width": 6,
+				"height": 6
+			},
+			"additional": null
+		},
+		"Cosmicnut_6x6_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_6X6_2",
+			"dimension": {
+				"width": 6,
+				"height": 6
+			},
+			"additional": null
+		},
+		"Cosmicnut_71x31": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_71X31",
+			"dimension": {
+				"width": 71,
+				"height": 31
+			},
+			"additional": null
+		},
+		"Cosmicnut_71x41": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_71X41",
+			"dimension": {
+				"width": 71,
+				"height": 41
+			},
+			"additional": null
+		},
+		"Cosmicnut_73x36": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_73X36",
+			"dimension": {
+				"width": 73,
+				"height": 36
+			},
+			"additional": null
+		},
+		"Cosmicnut_73x41": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_73X41",
+			"dimension": {
+				"width": 73,
+				"height": 41
+			},
+			"additional": null
+		},
+		"Cosmicnut_74x35": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_74X35",
+			"dimension": {
+				"width": 74,
+				"height": 35
+			},
+			"additional": null
+		},
+		"Cosmicnut_74x72": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_74X72",
+			"dimension": {
+				"width": 74,
+				"height": 72
+			},
+			"additional": null
+		},
+		"Cosmicnut_76x21": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_76X21",
+			"dimension": {
+				"width": 76,
+				"height": 21
+			},
+			"additional": null
+		},
+		"Cosmicnut_76x54": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_76X54",
+			"dimension": {
+				"width": 76,
+				"height": 54
+			},
+			"additional": null
+		},
+		"Cosmicnut_79x36": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_79X36",
+			"dimension": {
+				"width": 79,
+				"height": 36
+			},
+			"additional": null
+		},
+		"Cosmicnut_7x7": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_7X7",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"Cosmicnut_7x7_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_7X7_2",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"Cosmicnut_81x20": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_81X20",
+			"dimension": {
+				"width": 81,
+				"height": 20
+			},
+			"additional": null
+		},
+		"Cosmicnut_81x20_2": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_81X20_2",
+			"dimension": {
+				"width": 81,
+				"height": 20
+			},
+			"additional": null
+		},
+		"Cosmicnut_83x36": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_83X36",
+			"dimension": {
+				"width": 83,
+				"height": 36
+			},
+			"additional": null
+		},
+		"Cosmicnut_84x21": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_84X21",
+			"dimension": {
+				"width": 84,
+				"height": 21
+			},
+			"additional": null
+		},
+		"Cosmicnut_84x46": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_84X46",
+			"dimension": {
+				"width": 84,
+				"height": 46
+			},
+			"additional": null
+		},
+		"Cosmicnut_85x185": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_85X185",
+			"dimension": {
+				"width": 85,
+				"height": 185
+			},
+			"additional": null
+		},
+		"Cosmicnut_86x37": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_86X37",
+			"dimension": {
+				"width": 86,
+				"height": 37
+			},
+			"additional": null
+		},
+		"Cosmicnut_88x40": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_88X40",
+			"dimension": {
+				"width": 88,
+				"height": 40
+			},
+			"additional": null
+		},
+		"Cosmicnut_89x41": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_89X41",
+			"dimension": {
+				"width": 89,
+				"height": 41
+			},
+			"additional": null
+		},
+		"Cosmicnut_8x39": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_8X39",
+			"dimension": {
+				"width": 8,
+				"height": 39
+			},
+			"additional": null
+		},
+		"Cosmicnut_8x7": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_8X7",
+			"dimension": {
+				"width": 8,
+				"height": 7
+			},
+			"additional": null
+		},
+		"Cosmicnut_93x39": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_93X39",
+			"dimension": {
+				"width": 93,
+				"height": 39
+			},
+			"additional": null
+		},
+		"Cosmicnut_94x32": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_94X32",
+			"dimension": {
+				"width": 94,
+				"height": 32
+			},
+			"additional": null
+		},
+		"Cosmicnut_95x49": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_95X49",
+			"dimension": {
+				"width": 95,
+				"height": 49
+			},
+			"additional": null
+		},
+		"Cosmicnut_96x187": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_96X187",
+			"dimension": {
+				"width": 96,
+				"height": 187
+			},
+			"additional": null
+		},
+		"Cosmicnut_99x49": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_99X49",
+			"dimension": {
+				"width": 99,
+				"height": 49
+			},
+			"additional": null
+		},
+		"Cosmicnut_9x53": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_9X53",
+			"dimension": {
+				"width": 9,
+				"height": 53
+			},
+			"additional": null
+		},
+		"Cosmicnut_9x9": {
+			"id": "IMAGE_PLANT_COSMICNUT_COSMICNUT_9X9",
+			"dimension": {
+				"width": 9,
+				"height": 9
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"cosmicnut_aperture01": [
+			"cosmicnut_aperture01_1"
+		],
+		"cosmicnut_aperture02": [
+			"cosmicnut_aperture02_1"
+		],
+		"cosmicnut_aperture_01": [
+			"cosmicnut_aperture_01_1"
+		],
+		"cosmicnut_aperture_02": [
+			"cosmicnut_aperture_02_1"
+		],
+		"cosmicnut_dian00_": [
+			"cosmicnut_dian00__1",
+			"cosmicnut_dian00__2",
+			"cosmicnut_dian00__3"
+		],
+		"cosmicnut_dian01_": [
+			"cosmicnut_dian01__1"
+		],
+		"cosmicnut_drop_long": [
+			"cosmicnut_drop_long_1",
+			"cosmicnut_drop_long_2",
+			"cosmicnut_drop_long_3"
+		],
+		"cosmicnut_lighe_cc_h": [
+			"cosmicnut_lighe_cc_h_1",
+			"cosmicnut_lighe_cc_h_2"
+		],
+		"cosmicnut_light": [
+			"cosmicnut_light_1"
+		],
+		"cosmicnut_shuidi2": [
+			"cosmicnut_shuidi2_1",
+			"cosmicnut_shuidi2_2"
+		],
+		"cosmicnut_smear_darkgreen": [
+			"cosmicnut_smear_darkgreen_1",
+			"cosmicnut_smear_darkgreen_2"
+		],
+		"cosmicnut_smear_darkgreen-": [
+			"cosmicnut_smear_darkgreen-_1",
+			"cosmicnut_smear_darkgreen-_2",
+			"cosmicnut_smear_darkgreen-_3"
+		],
+		"cosmicnut_splat_pea_alt 3": [
+			"cosmicnut_splat_pea_alt 3_1",
+			"cosmicnut_splat_pea_alt 3_2"
+		],
+		"cosmicnut_splat_pea_particle": [
+			"cosmicnut_splat_pea_particle_1",
+			"cosmicnut_splat_pea_particle_2"
+		],
+		"cosmicnut_threepeater_spinShine": [
+			"cosmicnut_threepeater_spinShine_1",
+			"cosmicnut_threepeater_spinShine_2",
+			"cosmicnut_threepeater_spinShine_3",
+			"cosmicnut_threepeater_spinShine_4"
+		],
+		"cosmicnut_xz_": [
+			"cosmicnut_xz__1",
+			"cosmicnut_xz__2",
+			"cosmicnut_xz__3",
+			"cosmicnut_xz__4"
+		],
+		"shanguang": [
+			"shanguang_1",
+			"shanguang_2",
+			"shanguang_3",
+			"shanguang_4",
+			"shanguang_5",
+			"shanguang_6"
+		],
+		"wallnut_eye": [
+			"wallnut_eye_1"
+		],
+		"wallnut_eye_smail": [
+			"wallnut_eye_smail_1"
+		]
+	}
+}

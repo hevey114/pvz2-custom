@@ -1,0 +1,85 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_156x186" href="media/LunarMine_Ore_Raw_156x186.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_20x22" href="media/LunarMine_Ore_Raw_20x22.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_22x22" href="media/LunarMine_Ore_Raw_22x22.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_34x28" href="media/LunarMine_Ore_Raw_34x28.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_43x72" href="media/LunarMine_Ore_Raw_43x72.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_50x74" href="media/LunarMine_Ore_Raw_50x74.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_56x91" href="media/LunarMine_Ore_Raw_56x91.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_57x83" href="media/LunarMine_Ore_Raw_57x83.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_61x165" href="media/LunarMine_Ore_Raw_61x165.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_61x53" href="media/LunarMine_Ore_Raw_61x53.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_75x28" href="media/LunarMine_Ore_Raw_75x28.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_86x28" href="media/LunarMine_Ore_Raw_86x28.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_89x84" href="media/LunarMine_Ore_Raw_89x84.png"/>
+    </media>
+    <symbols>
+        <Include href="image/LunarMine_Ore_Raw_156x186.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_20x22.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_22x22.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_34x28.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_43x72.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_50x74.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_56x91.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_57x83.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_61x165.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_61x53.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_75x28.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_86x28.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_89x84.xml"/>
+        <Include href="sprite/rock back.xml"/>
+        <Include href="sprite/rock front.xml"/>
+        <Include href="sprite/shard_01.xml"/>
+        <Include href="sprite/shard_02.xml"/>
+        <Include href="sprite/shard_03.xml"/>
+        <Include href="sprite/shard_04.xml"/>
+        <Include href="sprite/shard_05.xml"/>
+        <Include href="sprite/shard_06.xml"/>
+        <Include href="sprite/tomb_dirt_ rock_01.xml"/>
+        <Include href="sprite/tomb_dirt_rock_02.xml"/>
+        <Include href="sprite/tomb_dirt_rock_03.xml"/>
+        <Include href="label/animation4.xml"/>
+        <Include href="main_sprite.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="15" name="animation" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="14">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="14">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="15">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="main_sprite" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

@@ -1,0 +1,823 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/gravitree_106x63" href="media/gravitree_106x63.png"/>
+        <DOMBitmapItem name="media/gravitree_108x112" href="media/gravitree_108x112.png"/>
+        <DOMBitmapItem name="media/gravitree_10x10" href="media/gravitree_10x10.png"/>
+        <DOMBitmapItem name="media/gravitree_10x11" href="media/gravitree_10x11.png"/>
+        <DOMBitmapItem name="media/gravitree_10x6" href="media/gravitree_10x6.png"/>
+        <DOMBitmapItem name="media/gravitree_10x67" href="media/gravitree_10x67.png"/>
+        <DOMBitmapItem name="media/gravitree_110x101" href="media/gravitree_110x101.png"/>
+        <DOMBitmapItem name="media/gravitree_113x37" href="media/gravitree_113x37.png"/>
+        <DOMBitmapItem name="media/gravitree_113x37_2" href="media/gravitree_113x37_2.png"/>
+        <DOMBitmapItem name="media/gravitree_113x37_3" href="media/gravitree_113x37_3.png"/>
+        <DOMBitmapItem name="media/gravitree_115x110" href="media/gravitree_115x110.png"/>
+        <DOMBitmapItem name="media/gravitree_115x157" href="media/gravitree_115x157.png"/>
+        <DOMBitmapItem name="media/gravitree_118x111" href="media/gravitree_118x111.png"/>
+        <DOMBitmapItem name="media/gravitree_118x86" href="media/gravitree_118x86.png"/>
+        <DOMBitmapItem name="media/gravitree_118x86_2" href="media/gravitree_118x86_2.png"/>
+        <DOMBitmapItem name="media/gravitree_11x106" href="media/gravitree_11x106.png"/>
+        <DOMBitmapItem name="media/gravitree_11x106_2" href="media/gravitree_11x106_2.png"/>
+        <DOMBitmapItem name="media/gravitree_11x11" href="media/gravitree_11x11.png"/>
+        <DOMBitmapItem name="media/gravitree_11x11_2" href="media/gravitree_11x11_2.png"/>
+        <DOMBitmapItem name="media/gravitree_11x11_3" href="media/gravitree_11x11_3.png"/>
+        <DOMBitmapItem name="media/gravitree_11x7" href="media/gravitree_11x7.png"/>
+        <DOMBitmapItem name="media/gravitree_123x123" href="media/gravitree_123x123.png"/>
+        <DOMBitmapItem name="media/gravitree_126x70" href="media/gravitree_126x70.png"/>
+        <DOMBitmapItem name="media/gravitree_126x70_2" href="media/gravitree_126x70_2.png"/>
+        <DOMBitmapItem name="media/gravitree_126x70_3" href="media/gravitree_126x70_3.png"/>
+        <DOMBitmapItem name="media/gravitree_127x121" href="media/gravitree_127x121.png"/>
+        <DOMBitmapItem name="media/gravitree_127x86" href="media/gravitree_127x86.png"/>
+        <DOMBitmapItem name="media/gravitree_127x86_2" href="media/gravitree_127x86_2.png"/>
+        <DOMBitmapItem name="media/gravitree_129x46" href="media/gravitree_129x46.png"/>
+        <DOMBitmapItem name="media/gravitree_12x12" href="media/gravitree_12x12.png"/>
+        <DOMBitmapItem name="media/gravitree_12x12_2" href="media/gravitree_12x12_2.png"/>
+        <DOMBitmapItem name="media/gravitree_12x7" href="media/gravitree_12x7.png"/>
+        <DOMBitmapItem name="media/gravitree_12x8" href="media/gravitree_12x8.png"/>
+        <DOMBitmapItem name="media/gravitree_130x115" href="media/gravitree_130x115.png"/>
+        <DOMBitmapItem name="media/gravitree_130x46" href="media/gravitree_130x46.png"/>
+        <DOMBitmapItem name="media/gravitree_132x50" href="media/gravitree_132x50.png"/>
+        <DOMBitmapItem name="media/gravitree_132x50_2" href="media/gravitree_132x50_2.png"/>
+        <DOMBitmapItem name="media/gravitree_133x134" href="media/gravitree_133x134.png"/>
+        <DOMBitmapItem name="media/gravitree_134x64" href="media/gravitree_134x64.png"/>
+        <DOMBitmapItem name="media/gravitree_134x64_2" href="media/gravitree_134x64_2.png"/>
+        <DOMBitmapItem name="media/gravitree_136x133" href="media/gravitree_136x133.png"/>
+        <DOMBitmapItem name="media/gravitree_138x133" href="media/gravitree_138x133.png"/>
+        <DOMBitmapItem name="media/gravitree_13x10" href="media/gravitree_13x10.png"/>
+        <DOMBitmapItem name="media/gravitree_13x11" href="media/gravitree_13x11.png"/>
+        <DOMBitmapItem name="media/gravitree_13x8" href="media/gravitree_13x8.png"/>
+        <DOMBitmapItem name="media/gravitree_142x105" href="media/gravitree_142x105.png"/>
+        <DOMBitmapItem name="media/gravitree_142x53" href="media/gravitree_142x53.png"/>
+        <DOMBitmapItem name="media/gravitree_142x53_2" href="media/gravitree_142x53_2.png"/>
+        <DOMBitmapItem name="media/gravitree_143x68" href="media/gravitree_143x68.png"/>
+        <DOMBitmapItem name="media/gravitree_143x68_2" href="media/gravitree_143x68_2.png"/>
+        <DOMBitmapItem name="media/gravitree_144x118" href="media/gravitree_144x118.png"/>
+        <DOMBitmapItem name="media/gravitree_148x154" href="media/gravitree_148x154.png"/>
+        <DOMBitmapItem name="media/gravitree_14x135" href="media/gravitree_14x135.png"/>
+        <DOMBitmapItem name="media/gravitree_14x135_2" href="media/gravitree_14x135_2.png"/>
+        <DOMBitmapItem name="media/gravitree_14x14" href="media/gravitree_14x14.png"/>
+        <DOMBitmapItem name="media/gravitree_14x18" href="media/gravitree_14x18.png"/>
+        <DOMBitmapItem name="media/gravitree_14x5" href="media/gravitree_14x5.png"/>
+        <DOMBitmapItem name="media/gravitree_15x120" href="media/gravitree_15x120.png"/>
+        <DOMBitmapItem name="media/gravitree_15x13" href="media/gravitree_15x13.png"/>
+        <DOMBitmapItem name="media/gravitree_15x15" href="media/gravitree_15x15.png"/>
+        <DOMBitmapItem name="media/gravitree_15x7" href="media/gravitree_15x7.png"/>
+        <DOMBitmapItem name="media/gravitree_15x7_2" href="media/gravitree_15x7_2.png"/>
+        <DOMBitmapItem name="media/gravitree_15x7_3" href="media/gravitree_15x7_3.png"/>
+        <DOMBitmapItem name="media/gravitree_15x8" href="media/gravitree_15x8.png"/>
+        <DOMBitmapItem name="media/gravitree_169x164" href="media/gravitree_169x164.png"/>
+        <DOMBitmapItem name="media/gravitree_16x10" href="media/gravitree_16x10.png"/>
+        <DOMBitmapItem name="media/gravitree_16x16" href="media/gravitree_16x16.png"/>
+        <DOMBitmapItem name="media/gravitree_16x164" href="media/gravitree_16x164.png"/>
+        <DOMBitmapItem name="media/gravitree_16x164_2" href="media/gravitree_16x164_2.png"/>
+        <DOMBitmapItem name="media/gravitree_170x162" href="media/gravitree_170x162.png"/>
+        <DOMBitmapItem name="media/gravitree_175x14" href="media/gravitree_175x14.png"/>
+        <DOMBitmapItem name="media/gravitree_175x22" href="media/gravitree_175x22.png"/>
+        <DOMBitmapItem name="media/gravitree_177x157" href="media/gravitree_177x157.png"/>
+        <DOMBitmapItem name="media/gravitree_178x169" href="media/gravitree_178x169.png"/>
+        <DOMBitmapItem name="media/gravitree_182x171" href="media/gravitree_182x171.png"/>
+        <DOMBitmapItem name="media/gravitree_186x65" href="media/gravitree_186x65.png"/>
+        <DOMBitmapItem name="media/gravitree_187x65" href="media/gravitree_187x65.png"/>
+        <DOMBitmapItem name="media/gravitree_18x14" href="media/gravitree_18x14.png"/>
+        <DOMBitmapItem name="media/gravitree_19x17" href="media/gravitree_19x17.png"/>
+        <DOMBitmapItem name="media/gravitree_200x193" href="media/gravitree_200x193.png"/>
+        <DOMBitmapItem name="media/gravitree_201x192" href="media/gravitree_201x192.png"/>
+        <DOMBitmapItem name="media/gravitree_209x34" href="media/gravitree_209x34.png"/>
+        <DOMBitmapItem name="media/gravitree_20x173" href="media/gravitree_20x173.png"/>
+        <DOMBitmapItem name="media/gravitree_211x209" href="media/gravitree_211x209.png"/>
+        <DOMBitmapItem name="media/gravitree_212x230" href="media/gravitree_212x230.png"/>
+        <DOMBitmapItem name="media/gravitree_215x544" href="media/gravitree_215x544.png"/>
+        <DOMBitmapItem name="media/gravitree_21x21" href="media/gravitree_21x21.png"/>
+        <DOMBitmapItem name="media/gravitree_21x225" href="media/gravitree_21x225.png"/>
+        <DOMBitmapItem name="media/gravitree_21x225_2" href="media/gravitree_21x225_2.png"/>
+        <DOMBitmapItem name="media/gravitree_21x225_3" href="media/gravitree_21x225_3.png"/>
+        <DOMBitmapItem name="media/gravitree_21x225_4" href="media/gravitree_21x225_4.png"/>
+        <DOMBitmapItem name="media/gravitree_222x547" href="media/gravitree_222x547.png"/>
+        <DOMBitmapItem name="media/gravitree_227x560" href="media/gravitree_227x560.png"/>
+        <DOMBitmapItem name="media/gravitree_22x22" href="media/gravitree_22x22.png"/>
+        <DOMBitmapItem name="media/gravitree_22x47" href="media/gravitree_22x47.png"/>
+        <DOMBitmapItem name="media/gravitree_236x564" href="media/gravitree_236x564.png"/>
+        <DOMBitmapItem name="media/gravitree_239x571" href="media/gravitree_239x571.png"/>
+        <DOMBitmapItem name="media/gravitree_23x10" href="media/gravitree_23x10.png"/>
+        <DOMBitmapItem name="media/gravitree_23x18" href="media/gravitree_23x18.png"/>
+        <DOMBitmapItem name="media/gravitree_240x47" href="media/gravitree_240x47.png"/>
+        <DOMBitmapItem name="media/gravitree_241x229" href="media/gravitree_241x229.png"/>
+        <DOMBitmapItem name="media/gravitree_243x240" href="media/gravitree_243x240.png"/>
+        <DOMBitmapItem name="media/gravitree_247x231" href="media/gravitree_247x231.png"/>
+        <DOMBitmapItem name="media/gravitree_24x10" href="media/gravitree_24x10.png"/>
+        <DOMBitmapItem name="media/gravitree_24x24" href="media/gravitree_24x24.png"/>
+        <DOMBitmapItem name="media/gravitree_24x30" href="media/gravitree_24x30.png"/>
+        <DOMBitmapItem name="media/gravitree_24x8" href="media/gravitree_24x8.png"/>
+        <DOMBitmapItem name="media/gravitree_250x580" href="media/gravitree_250x580.png"/>
+        <DOMBitmapItem name="media/gravitree_251x583" href="media/gravitree_251x583.png"/>
+        <DOMBitmapItem name="media/gravitree_252x540" href="media/gravitree_252x540.png"/>
+        <DOMBitmapItem name="media/gravitree_252x541" href="media/gravitree_252x541.png"/>
+        <DOMBitmapItem name="media/gravitree_255x518" href="media/gravitree_255x518.png"/>
+        <DOMBitmapItem name="media/gravitree_255x518_2" href="media/gravitree_255x518_2.png"/>
+        <DOMBitmapItem name="media/gravitree_257x243" href="media/gravitree_257x243.png"/>
+        <DOMBitmapItem name="media/gravitree_25x25" href="media/gravitree_25x25.png"/>
+        <DOMBitmapItem name="media/gravitree_262x523" href="media/gravitree_262x523.png"/>
+        <DOMBitmapItem name="media/gravitree_263x523" href="media/gravitree_263x523.png"/>
+        <DOMBitmapItem name="media/gravitree_264x252" href="media/gravitree_264x252.png"/>
+        <DOMBitmapItem name="media/gravitree_264x253" href="media/gravitree_264x253.png"/>
+        <DOMBitmapItem name="media/gravitree_266x600" href="media/gravitree_266x600.png"/>
+        <DOMBitmapItem name="media/gravitree_267x600" href="media/gravitree_267x600.png"/>
+        <DOMBitmapItem name="media/gravitree_26x30" href="media/gravitree_26x30.png"/>
+        <DOMBitmapItem name="media/gravitree_276x539" href="media/gravitree_276x539.png"/>
+        <DOMBitmapItem name="media/gravitree_276x540" href="media/gravitree_276x540.png"/>
+        <DOMBitmapItem name="media/gravitree_278x273" href="media/gravitree_278x273.png"/>
+        <DOMBitmapItem name="media/gravitree_28x21" href="media/gravitree_28x21.png"/>
+        <DOMBitmapItem name="media/gravitree_28x22" href="media/gravitree_28x22.png"/>
+        <DOMBitmapItem name="media/gravitree_28x30" href="media/gravitree_28x30.png"/>
+        <DOMBitmapItem name="media/gravitree_28x30_2" href="media/gravitree_28x30_2.png"/>
+        <DOMBitmapItem name="media/gravitree_29x21" href="media/gravitree_29x21.png"/>
+        <DOMBitmapItem name="media/gravitree_29x24" href="media/gravitree_29x24.png"/>
+        <DOMBitmapItem name="media/gravitree_30x34" href="media/gravitree_30x34.png"/>
+        <DOMBitmapItem name="media/gravitree_329x313" href="media/gravitree_329x313.png"/>
+        <DOMBitmapItem name="media/gravitree_32x27" href="media/gravitree_32x27.png"/>
+        <DOMBitmapItem name="media/gravitree_338x330" href="media/gravitree_338x330.png"/>
+        <DOMBitmapItem name="media/gravitree_344x324" href="media/gravitree_344x324.png"/>
+        <DOMBitmapItem name="media/gravitree_34x22" href="media/gravitree_34x22.png"/>
+        <DOMBitmapItem name="media/gravitree_34x32" href="media/gravitree_34x32.png"/>
+        <DOMBitmapItem name="media/gravitree_34x34" href="media/gravitree_34x34.png"/>
+        <DOMBitmapItem name="media/gravitree_35x31" href="media/gravitree_35x31.png"/>
+        <DOMBitmapItem name="media/gravitree_376x352" href="media/gravitree_376x352.png"/>
+        <DOMBitmapItem name="media/gravitree_37x29" href="media/gravitree_37x29.png"/>
+        <DOMBitmapItem name="media/gravitree_37x29_2" href="media/gravitree_37x29_2.png"/>
+        <DOMBitmapItem name="media/gravitree_37x82" href="media/gravitree_37x82.png"/>
+        <DOMBitmapItem name="media/gravitree_38x24" href="media/gravitree_38x24.png"/>
+        <DOMBitmapItem name="media/gravitree_38x53" href="media/gravitree_38x53.png"/>
+        <DOMBitmapItem name="media/gravitree_39x9" href="media/gravitree_39x9.png"/>
+        <DOMBitmapItem name="media/gravitree_41x12" href="media/gravitree_41x12.png"/>
+        <DOMBitmapItem name="media/gravitree_41x42" href="media/gravitree_41x42.png"/>
+        <DOMBitmapItem name="media/gravitree_41x53" href="media/gravitree_41x53.png"/>
+        <DOMBitmapItem name="media/gravitree_42x34" href="media/gravitree_42x34.png"/>
+        <DOMBitmapItem name="media/gravitree_431x412" href="media/gravitree_431x412.png"/>
+        <DOMBitmapItem name="media/gravitree_433x432" href="media/gravitree_433x432.png"/>
+        <DOMBitmapItem name="media/gravitree_439x427" href="media/gravitree_439x427.png"/>
+        <DOMBitmapItem name="media/gravitree_452x426" href="media/gravitree_452x426.png"/>
+        <DOMBitmapItem name="media/gravitree_458x434" href="media/gravitree_458x434.png"/>
+        <DOMBitmapItem name="media/gravitree_45x29" href="media/gravitree_45x29.png"/>
+        <DOMBitmapItem name="media/gravitree_45x61" href="media/gravitree_45x61.png"/>
+        <DOMBitmapItem name="media/gravitree_47x37" href="media/gravitree_47x37.png"/>
+        <DOMBitmapItem name="media/gravitree_519x486" href="media/gravitree_519x486.png"/>
+        <DOMBitmapItem name="media/gravitree_51x52" href="media/gravitree_51x52.png"/>
+        <DOMBitmapItem name="media/gravitree_52x50" href="media/gravitree_52x50.png"/>
+        <DOMBitmapItem name="media/gravitree_53x118" href="media/gravitree_53x118.png"/>
+        <DOMBitmapItem name="media/gravitree_544x526" href="media/gravitree_544x526.png"/>
+        <DOMBitmapItem name="media/gravitree_54x51" href="media/gravitree_54x51.png"/>
+        <DOMBitmapItem name="media/gravitree_57x16" href="media/gravitree_57x16.png"/>
+        <DOMBitmapItem name="media/gravitree_57x51" href="media/gravitree_57x51.png"/>
+        <DOMBitmapItem name="media/gravitree_586x536" href="media/gravitree_586x536.png"/>
+        <DOMBitmapItem name="media/gravitree_58x32" href="media/gravitree_58x32.png"/>
+        <DOMBitmapItem name="media/gravitree_58x73" href="media/gravitree_58x73.png"/>
+        <DOMBitmapItem name="media/gravitree_594x592" href="media/gravitree_594x592.png"/>
+        <DOMBitmapItem name="media/gravitree_59x53" href="media/gravitree_59x53.png"/>
+        <DOMBitmapItem name="media/gravitree_59x75" href="media/gravitree_59x75.png"/>
+        <DOMBitmapItem name="media/gravitree_5x14" href="media/gravitree_5x14.png"/>
+        <DOMBitmapItem name="media/gravitree_5x22" href="media/gravitree_5x22.png"/>
+        <DOMBitmapItem name="media/gravitree_601x568" href="media/gravitree_601x568.png"/>
+        <DOMBitmapItem name="media/gravitree_604x554" href="media/gravitree_604x554.png"/>
+        <DOMBitmapItem name="media/gravitree_60x55" href="media/gravitree_60x55.png"/>
+        <DOMBitmapItem name="media/gravitree_62x64" href="media/gravitree_62x64.png"/>
+        <DOMBitmapItem name="media/gravitree_656x616" href="media/gravitree_656x616.png"/>
+        <DOMBitmapItem name="media/gravitree_67x95" href="media/gravitree_67x95.png"/>
+        <DOMBitmapItem name="media/gravitree_68x13" href="media/gravitree_68x13.png"/>
+        <DOMBitmapItem name="media/gravitree_69x85" href="media/gravitree_69x85.png"/>
+        <DOMBitmapItem name="media/gravitree_72x27" href="media/gravitree_72x27.png"/>
+        <DOMBitmapItem name="media/gravitree_73x27" href="media/gravitree_73x27.png"/>
+        <DOMBitmapItem name="media/gravitree_756x759" href="media/gravitree_756x759.png"/>
+        <DOMBitmapItem name="media/gravitree_75x53" href="media/gravitree_75x53.png"/>
+        <DOMBitmapItem name="media/gravitree_75x73" href="media/gravitree_75x73.png"/>
+        <DOMBitmapItem name="media/gravitree_7x11" href="media/gravitree_7x11.png"/>
+        <DOMBitmapItem name="media/gravitree_7x4" href="media/gravitree_7x4.png"/>
+        <DOMBitmapItem name="media/gravitree_7x7" href="media/gravitree_7x7.png"/>
+        <DOMBitmapItem name="media/gravitree_7x8" href="media/gravitree_7x8.png"/>
+        <DOMBitmapItem name="media/gravitree_82x73" href="media/gravitree_82x73.png"/>
+        <DOMBitmapItem name="media/gravitree_84x81" href="media/gravitree_84x81.png"/>
+        <DOMBitmapItem name="media/gravitree_84x87" href="media/gravitree_84x87.png"/>
+        <DOMBitmapItem name="media/gravitree_85x79" href="media/gravitree_85x79.png"/>
+        <DOMBitmapItem name="media/gravitree_85x86" href="media/gravitree_85x86.png"/>
+        <DOMBitmapItem name="media/gravitree_86x100" href="media/gravitree_86x100.png"/>
+        <DOMBitmapItem name="media/gravitree_86x79" href="media/gravitree_86x79.png"/>
+        <DOMBitmapItem name="media/gravitree_87x82" href="media/gravitree_87x82.png"/>
+        <DOMBitmapItem name="media/gravitree_8x10" href="media/gravitree_8x10.png"/>
+        <DOMBitmapItem name="media/gravitree_96x136" href="media/gravitree_96x136.png"/>
+        <DOMBitmapItem name="media/gravitree_97x18" href="media/gravitree_97x18.png"/>
+        <DOMBitmapItem name="media/gravitree_9x12" href="media/gravitree_9x12.png"/>
+        <DOMBitmapItem name="media/gravitree_9x13" href="media/gravitree_9x13.png"/>
+        <DOMBitmapItem name="media/gravitree_9x16" href="media/gravitree_9x16.png"/>
+        <DOMBitmapItem name="media/gravitree_9x4" href="media/gravitree_9x4.png"/>
+        <DOMBitmapItem name="media/gravitree_9x5" href="media/gravitree_9x5.png"/>
+        <DOMBitmapItem name="media/gravitree_9x6" href="media/gravitree_9x6.png"/>
+        <DOMBitmapItem name="media/gravitree_9x7" href="media/gravitree_9x7.png"/>
+        <DOMBitmapItem name="media/gravitree_9x8" href="media/gravitree_9x8.png"/>
+        <DOMBitmapItem name="media/gravitree_9x9" href="media/gravitree_9x9.png"/>
+        <DOMBitmapItem name="media/gravitree_9x9_2" href="media/gravitree_9x9_2.png"/>
+    </media>
+    <symbols>
+        <Include href="image/gravitree_106x63.xml"/>
+        <Include href="image/gravitree_108x112.xml"/>
+        <Include href="image/gravitree_10x10.xml"/>
+        <Include href="image/gravitree_10x11.xml"/>
+        <Include href="image/gravitree_10x6.xml"/>
+        <Include href="image/gravitree_10x67.xml"/>
+        <Include href="image/gravitree_110x101.xml"/>
+        <Include href="image/gravitree_113x37.xml"/>
+        <Include href="image/gravitree_113x37_2.xml"/>
+        <Include href="image/gravitree_113x37_3.xml"/>
+        <Include href="image/gravitree_115x110.xml"/>
+        <Include href="image/gravitree_115x157.xml"/>
+        <Include href="image/gravitree_118x111.xml"/>
+        <Include href="image/gravitree_118x86.xml"/>
+        <Include href="image/gravitree_118x86_2.xml"/>
+        <Include href="image/gravitree_11x106.xml"/>
+        <Include href="image/gravitree_11x106_2.xml"/>
+        <Include href="image/gravitree_11x11.xml"/>
+        <Include href="image/gravitree_11x11_2.xml"/>
+        <Include href="image/gravitree_11x11_3.xml"/>
+        <Include href="image/gravitree_11x7.xml"/>
+        <Include href="image/gravitree_123x123.xml"/>
+        <Include href="image/gravitree_126x70.xml"/>
+        <Include href="image/gravitree_126x70_2.xml"/>
+        <Include href="image/gravitree_126x70_3.xml"/>
+        <Include href="image/gravitree_127x121.xml"/>
+        <Include href="image/gravitree_127x86.xml"/>
+        <Include href="image/gravitree_127x86_2.xml"/>
+        <Include href="image/gravitree_129x46.xml"/>
+        <Include href="image/gravitree_12x12.xml"/>
+        <Include href="image/gravitree_12x12_2.xml"/>
+        <Include href="image/gravitree_12x7.xml"/>
+        <Include href="image/gravitree_12x8.xml"/>
+        <Include href="image/gravitree_130x115.xml"/>
+        <Include href="image/gravitree_130x46.xml"/>
+        <Include href="image/gravitree_132x50.xml"/>
+        <Include href="image/gravitree_132x50_2.xml"/>
+        <Include href="image/gravitree_133x134.xml"/>
+        <Include href="image/gravitree_134x64.xml"/>
+        <Include href="image/gravitree_134x64_2.xml"/>
+        <Include href="image/gravitree_136x133.xml"/>
+        <Include href="image/gravitree_138x133.xml"/>
+        <Include href="image/gravitree_13x10.xml"/>
+        <Include href="image/gravitree_13x11.xml"/>
+        <Include href="image/gravitree_13x8.xml"/>
+        <Include href="image/gravitree_142x105.xml"/>
+        <Include href="image/gravitree_142x53.xml"/>
+        <Include href="image/gravitree_142x53_2.xml"/>
+        <Include href="image/gravitree_143x68.xml"/>
+        <Include href="image/gravitree_143x68_2.xml"/>
+        <Include href="image/gravitree_144x118.xml"/>
+        <Include href="image/gravitree_148x154.xml"/>
+        <Include href="image/gravitree_14x135.xml"/>
+        <Include href="image/gravitree_14x135_2.xml"/>
+        <Include href="image/gravitree_14x14.xml"/>
+        <Include href="image/gravitree_14x18.xml"/>
+        <Include href="image/gravitree_14x5.xml"/>
+        <Include href="image/gravitree_15x120.xml"/>
+        <Include href="image/gravitree_15x13.xml"/>
+        <Include href="image/gravitree_15x15.xml"/>
+        <Include href="image/gravitree_15x7.xml"/>
+        <Include href="image/gravitree_15x7_2.xml"/>
+        <Include href="image/gravitree_15x7_3.xml"/>
+        <Include href="image/gravitree_15x8.xml"/>
+        <Include href="image/gravitree_169x164.xml"/>
+        <Include href="image/gravitree_16x10.xml"/>
+        <Include href="image/gravitree_16x16.xml"/>
+        <Include href="image/gravitree_16x164.xml"/>
+        <Include href="image/gravitree_16x164_2.xml"/>
+        <Include href="image/gravitree_170x162.xml"/>
+        <Include href="image/gravitree_175x14.xml"/>
+        <Include href="image/gravitree_175x22.xml"/>
+        <Include href="image/gravitree_177x157.xml"/>
+        <Include href="image/gravitree_178x169.xml"/>
+        <Include href="image/gravitree_182x171.xml"/>
+        <Include href="image/gravitree_186x65.xml"/>
+        <Include href="image/gravitree_187x65.xml"/>
+        <Include href="image/gravitree_18x14.xml"/>
+        <Include href="image/gravitree_19x17.xml"/>
+        <Include href="image/gravitree_200x193.xml"/>
+        <Include href="image/gravitree_201x192.xml"/>
+        <Include href="image/gravitree_209x34.xml"/>
+        <Include href="image/gravitree_20x173.xml"/>
+        <Include href="image/gravitree_211x209.xml"/>
+        <Include href="image/gravitree_212x230.xml"/>
+        <Include href="image/gravitree_215x544.xml"/>
+        <Include href="image/gravitree_21x21.xml"/>
+        <Include href="image/gravitree_21x225.xml"/>
+        <Include href="image/gravitree_21x225_2.xml"/>
+        <Include href="image/gravitree_21x225_3.xml"/>
+        <Include href="image/gravitree_21x225_4.xml"/>
+        <Include href="image/gravitree_222x547.xml"/>
+        <Include href="image/gravitree_227x560.xml"/>
+        <Include href="image/gravitree_22x22.xml"/>
+        <Include href="image/gravitree_22x47.xml"/>
+        <Include href="image/gravitree_236x564.xml"/>
+        <Include href="image/gravitree_239x571.xml"/>
+        <Include href="image/gravitree_23x10.xml"/>
+        <Include href="image/gravitree_23x18.xml"/>
+        <Include href="image/gravitree_240x47.xml"/>
+        <Include href="image/gravitree_241x229.xml"/>
+        <Include href="image/gravitree_243x240.xml"/>
+        <Include href="image/gravitree_247x231.xml"/>
+        <Include href="image/gravitree_24x10.xml"/>
+        <Include href="image/gravitree_24x24.xml"/>
+        <Include href="image/gravitree_24x30.xml"/>
+        <Include href="image/gravitree_24x8.xml"/>
+        <Include href="image/gravitree_250x580.xml"/>
+        <Include href="image/gravitree_251x583.xml"/>
+        <Include href="image/gravitree_252x540.xml"/>
+        <Include href="image/gravitree_252x541.xml"/>
+        <Include href="image/gravitree_255x518.xml"/>
+        <Include href="image/gravitree_255x518_2.xml"/>
+        <Include href="image/gravitree_257x243.xml"/>
+        <Include href="image/gravitree_25x25.xml"/>
+        <Include href="image/gravitree_262x523.xml"/>
+        <Include href="image/gravitree_263x523.xml"/>
+        <Include href="image/gravitree_264x252.xml"/>
+        <Include href="image/gravitree_264x253.xml"/>
+        <Include href="image/gravitree_266x600.xml"/>
+        <Include href="image/gravitree_267x600.xml"/>
+        <Include href="image/gravitree_26x30.xml"/>
+        <Include href="image/gravitree_276x539.xml"/>
+        <Include href="image/gravitree_276x540.xml"/>
+        <Include href="image/gravitree_278x273.xml"/>
+        <Include href="image/gravitree_28x21.xml"/>
+        <Include href="image/gravitree_28x22.xml"/>
+        <Include href="image/gravitree_28x30.xml"/>
+        <Include href="image/gravitree_28x30_2.xml"/>
+        <Include href="image/gravitree_29x21.xml"/>
+        <Include href="image/gravitree_29x24.xml"/>
+        <Include href="image/gravitree_30x34.xml"/>
+        <Include href="image/gravitree_329x313.xml"/>
+        <Include href="image/gravitree_32x27.xml"/>
+        <Include href="image/gravitree_338x330.xml"/>
+        <Include href="image/gravitree_344x324.xml"/>
+        <Include href="image/gravitree_34x22.xml"/>
+        <Include href="image/gravitree_34x32.xml"/>
+        <Include href="image/gravitree_34x34.xml"/>
+        <Include href="image/gravitree_35x31.xml"/>
+        <Include href="image/gravitree_376x352.xml"/>
+        <Include href="image/gravitree_37x29.xml"/>
+        <Include href="image/gravitree_37x29_2.xml"/>
+        <Include href="image/gravitree_37x82.xml"/>
+        <Include href="image/gravitree_38x24.xml"/>
+        <Include href="image/gravitree_38x53.xml"/>
+        <Include href="image/gravitree_39x9.xml"/>
+        <Include href="image/gravitree_41x12.xml"/>
+        <Include href="image/gravitree_41x42.xml"/>
+        <Include href="image/gravitree_41x53.xml"/>
+        <Include href="image/gravitree_42x34.xml"/>
+        <Include href="image/gravitree_431x412.xml"/>
+        <Include href="image/gravitree_433x432.xml"/>
+        <Include href="image/gravitree_439x427.xml"/>
+        <Include href="image/gravitree_452x426.xml"/>
+        <Include href="image/gravitree_458x434.xml"/>
+        <Include href="image/gravitree_45x29.xml"/>
+        <Include href="image/gravitree_45x61.xml"/>
+        <Include href="image/gravitree_47x37.xml"/>
+        <Include href="image/gravitree_519x486.xml"/>
+        <Include href="image/gravitree_51x52.xml"/>
+        <Include href="image/gravitree_52x50.xml"/>
+        <Include href="image/gravitree_53x118.xml"/>
+        <Include href="image/gravitree_544x526.xml"/>
+        <Include href="image/gravitree_54x51.xml"/>
+        <Include href="image/gravitree_57x16.xml"/>
+        <Include href="image/gravitree_57x51.xml"/>
+        <Include href="image/gravitree_586x536.xml"/>
+        <Include href="image/gravitree_58x32.xml"/>
+        <Include href="image/gravitree_58x73.xml"/>
+        <Include href="image/gravitree_594x592.xml"/>
+        <Include href="image/gravitree_59x53.xml"/>
+        <Include href="image/gravitree_59x75.xml"/>
+        <Include href="image/gravitree_5x14.xml"/>
+        <Include href="image/gravitree_5x22.xml"/>
+        <Include href="image/gravitree_601x568.xml"/>
+        <Include href="image/gravitree_604x554.xml"/>
+        <Include href="image/gravitree_60x55.xml"/>
+        <Include href="image/gravitree_62x64.xml"/>
+        <Include href="image/gravitree_656x616.xml"/>
+        <Include href="image/gravitree_67x95.xml"/>
+        <Include href="image/gravitree_68x13.xml"/>
+        <Include href="image/gravitree_69x85.xml"/>
+        <Include href="image/gravitree_72x27.xml"/>
+        <Include href="image/gravitree_73x27.xml"/>
+        <Include href="image/gravitree_756x759.xml"/>
+        <Include href="image/gravitree_75x53.xml"/>
+        <Include href="image/gravitree_75x73.xml"/>
+        <Include href="image/gravitree_7x11.xml"/>
+        <Include href="image/gravitree_7x4.xml"/>
+        <Include href="image/gravitree_7x7.xml"/>
+        <Include href="image/gravitree_7x8.xml"/>
+        <Include href="image/gravitree_82x73.xml"/>
+        <Include href="image/gravitree_84x81.xml"/>
+        <Include href="image/gravitree_84x87.xml"/>
+        <Include href="image/gravitree_85x79.xml"/>
+        <Include href="image/gravitree_85x86.xml"/>
+        <Include href="image/gravitree_86x100.xml"/>
+        <Include href="image/gravitree_86x79.xml"/>
+        <Include href="image/gravitree_87x82.xml"/>
+        <Include href="image/gravitree_8x10.xml"/>
+        <Include href="image/gravitree_96x136.xml"/>
+        <Include href="image/gravitree_97x18.xml"/>
+        <Include href="image/gravitree_9x12.xml"/>
+        <Include href="image/gravitree_9x13.xml"/>
+        <Include href="image/gravitree_9x16.xml"/>
+        <Include href="image/gravitree_9x4.xml"/>
+        <Include href="image/gravitree_9x5.xml"/>
+        <Include href="image/gravitree_9x6.xml"/>
+        <Include href="image/gravitree_9x7.xml"/>
+        <Include href="image/gravitree_9x8.xml"/>
+        <Include href="image/gravitree_9x9.xml"/>
+        <Include href="image/gravitree_9x9_2.xml"/>
+        <Include href="sprite/Apple.xml"/>
+        <Include href="sprite/apple b_01.xml"/>
+        <Include href="sprite/apple b_02.xml"/>
+        <Include href="sprite/apple b_03.xml"/>
+        <Include href="sprite/apple b_04.xml"/>
+        <Include href="sprite/apple b_05.xml"/>
+        <Include href="sprite/apple b_06.xml"/>
+        <Include href="sprite/apple b_07.xml"/>
+        <Include href="sprite/apple b_08.xml"/>
+        <Include href="sprite/apple_3.xml"/>
+        <Include href="sprite/apple_3 复制.xml"/>
+        <Include href="sprite/apple_3 复制 2.xml"/>
+        <Include href="sprite/apple_white_02.xml"/>
+        <Include href="sprite/apple_white_03.xml"/>
+        <Include href="sprite/apple_white_1.xml"/>
+        <Include href="sprite/body.xml"/>
+        <Include href="sprite/boom.xml"/>
+        <Include href="sprite/boom 复制.xml"/>
+        <Include href="sprite/boom 复制_1.xml"/>
+        <Include href="sprite/boom 复制_2.xml"/>
+        <Include href="sprite/boom 复制_3.xml"/>
+        <Include href="sprite/boom 复制_4.xml"/>
+        <Include href="sprite/boom_1.xml"/>
+        <Include href="sprite/boom_2.xml"/>
+        <Include href="sprite/boom_3.xml"/>
+        <Include href="sprite/boom_4.xml"/>
+        <Include href="sprite/boomballoon_explosion_chuck.xml"/>
+        <Include href="sprite/boomballoon_explosion_chuck_1.xml"/>
+        <Include href="sprite/custom_01.xml"/>
+        <Include href="sprite/effect_01.xml"/>
+        <Include href="sprite/effect_02 复制.xml"/>
+        <Include href="sprite/effect_03.xml"/>
+        <Include href="sprite/effect_03_1.xml"/>
+        <Include href="sprite/effect_03_a.xml"/>
+        <Include href="sprite/effect_03_a 复制.xml"/>
+        <Include href="sprite/effect_03_b.xml"/>
+        <Include href="sprite/effect_03_b 复制.xml"/>
+        <Include href="sprite/effect_04_a.xml"/>
+        <Include href="sprite/effect_04_a 复制.xml"/>
+        <Include href="sprite/effect_04_b.xml"/>
+        <Include href="sprite/effect_04_b 复制.xml"/>
+        <Include href="sprite/eye l.xml"/>
+        <Include href="sprite/eye l 复制.xml"/>
+        <Include href="sprite/eye l_02.xml"/>
+        <Include href="sprite/eye l_02_1.xml"/>
+        <Include href="sprite/eye l_03.xml"/>
+        <Include href="sprite/eye l_03_1.xml"/>
+        <Include href="sprite/eye l_1.xml"/>
+        <Include href="sprite/eye r.xml"/>
+        <Include href="sprite/eye r 复制.xml"/>
+        <Include href="sprite/eye r_1.xml"/>
+        <Include href="sprite/goggles.xml"/>
+        <Include href="sprite/hand l.xml"/>
+        <Include href="sprite/hand l_1.xml"/>
+        <Include href="sprite/hand r.xml"/>
+        <Include href="sprite/leaf behind.xml"/>
+        <Include href="sprite/leaf front.xml"/>
+        <Include href="sprite/leaf front 复制.xml"/>
+        <Include href="sprite/leaf front 复制 2.xml"/>
+        <Include href="sprite/leaf hand l.xml"/>
+        <Include href="sprite/leaf hand l_1.xml"/>
+        <Include href="sprite/leaf hand l_2.xml"/>
+        <Include href="sprite/leaf hand r.xml"/>
+        <Include href="sprite/leaf hand r_1.xml"/>
+        <Include href="sprite/leaf_01.xml"/>
+        <Include href="sprite/leaf_02.xml"/>
+        <Include href="sprite/leaf_B.xml"/>
+        <Include href="sprite/leaf_a.xml"/>
+        <Include href="sprite/mouth.xml"/>
+        <Include href="sprite/mouth 复制.xml"/>
+        <Include href="sprite/mouth 复制 2.xml"/>
+        <Include href="sprite/mouth_1.xml"/>
+        <Include href="sprite/sprite.xml"/>
+        <Include href="sprite/starburst.xml"/>
+        <Include href="sprite/starburst_1.xml"/>
+        <Include href="sprite/starfruit_plantfood_spin_blur_leaves_small.xml"/>
+        <Include href="sprite/starfruit_plantfood_spin_blur_specular.xml"/>
+        <Include href="sprite/starfruit_plantfood_spin_blur_star_medium.xml"/>
+        <Include href="sprite/vortex_02.xml"/>
+        <Include href="sprite/water_drop_anim.xml"/>
+        <Include href="sprite/元件 1.xml"/>
+        <Include href="sprite/元件 12.xml"/>
+        <Include href="sprite/元件 2.xml"/>
+        <Include href="sprite/元件 4.xml"/>
+        <Include href="sprite/元件 4_1.xml"/>
+        <Include href="sprite/元件 4_2.xml"/>
+        <Include href="sprite/元件 4_3.xml"/>
+        <Include href="sprite/元件 5.xml"/>
+        <Include href="sprite/元件 5 复制.xml"/>
+        <Include href="sprite/元件 5 复制 2.xml"/>
+        <Include href="sprite/元件 5 复制 2_1.xml"/>
+        <Include href="sprite/元件 5 复制 3.xml"/>
+        <Include href="sprite/元件 5 复制 3_1.xml"/>
+        <Include href="sprite/元件 5 复制_1.xml"/>
+        <Include href="sprite/元件 5_1.xml"/>
+        <Include href="sprite/元件 6 复制.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/idle2.xml"/>
+        <Include href="label/idle_damage.xml"/>
+        <Include href="label/idle2_damage.xml"/>
+        <Include href="label/idle_damage2.xml"/>
+        <Include href="label/idle2_damage2.xml"/>
+        <Include href="label/idle_damage3.xml"/>
+        <Include href="label/idle2_damage3.xml"/>
+        <Include href="label/apple.xml"/>
+        <Include href="label/unused.xml"/>
+        <Include href="label/unused_2.xml"/>
+        <Include href="label/plantfood.xml"/>
+        <Include href="label/plantfood_unused.xml"/>
+        <Include href="label/water.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="1" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1" name="idle2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1" name="idle_damage" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1" name="idle2_damage" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1" name="idle_damage2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1" name="idle2_damage2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1" name="idle_damage3" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="473" name="idle2_damage3" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="480" duration="44" name="apple" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="524" duration="86" name="unused" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="610" duration="86" name="unused_2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="696" duration="119" name="plantfood_unused" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="815" duration="122" name="plantfood" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="937" duration="115" name="water" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="478">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="478">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("play_anim", "Type:apple");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="479">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+						<DOMFrame index="480">
+							<Actionscript>
+								<script><![CDATA[fscommand("PlaySample", "Play_GravityTree_Attack");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+                        <DOMFrame index="481" duration="19">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="500">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:apple_2,mX:60,mY:105,mZ:25");
+fscommand("spawn_projectile", "Type:apple_6,mX:64,mY:-80,mZ:25");
+fscommand("spawn_projectile", "Type:apple_10,mX:-105,mY:0,mZ:25");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="501" duration="22">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="523">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="524" duration="41">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="565">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("action_1", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="566" duration="43">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="609">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="610" duration="41">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="651">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("action_2", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="652" duration="43">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="695">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="696" duration="65">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="761">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:Gravity_PF,mX:0,mY:20,mZ:0");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="762" duration="51">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="813">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("play_anim", "Type:apple");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="814">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="815" duration="26">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="841">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("action_5", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="842" duration="37">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="879">
+                            <Actionscript>
+                                <script>
+								<![CDATA[fscommand("spawn_projectile", "Type:Gravity_PF_SFX,mX:-192,mY:-220,mZ:0");
+								fscommand("spawn_projectile", "Type:Gravity_PF_Damage,mX:0,mY:20,mZ:0");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="880" duration="55">
+                            <elements/>
+                        </DOMFrame>
+						<DOMFrame index="935">
+							<Actionscript>
+								<script><![CDATA[fscommand("play_anim", "Type:apple");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+                        <DOMFrame index="936">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="937" duration="114">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1051">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle_damage" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle2_damage" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle_damage2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle2_damage2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle_damage3" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="473">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle2_damage3" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="480" duration="44">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/apple" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="524" duration="86">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/unused" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="610" duration="86">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/unused_2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="696" duration="119">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="815" duration="122">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood_unused" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="937" duration="115">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/water" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

@@ -1,0 +1,220 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_135x8" href="media/zombie_moon_ship5000_135x8.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_15x23" href="media/zombie_moon_ship5000_15x23.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_15x25" href="media/zombie_moon_ship5000_15x25.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_15x25_2" href="media/zombie_moon_ship5000_15x25_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_16x28" href="media/zombie_moon_ship5000_16x28.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_17x26" href="media/zombie_moon_ship5000_17x26.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_18x25" href="media/zombie_moon_ship5000_18x25.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_18x25_2" href="media/zombie_moon_ship5000_18x25_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_18x26" href="media/zombie_moon_ship5000_18x26.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_19x14" href="media/zombie_moon_ship5000_19x14.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_20x15" href="media/zombie_moon_ship5000_20x15.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_20x21" href="media/zombie_moon_ship5000_20x21.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_21x21" href="media/zombie_moon_ship5000_21x21.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_52x31" href="media/zombie_moon_ship5000_52x31.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_62x36" href="media/zombie_moon_ship5000_62x36.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_66x33" href="media/zombie_moon_ship5000_66x33.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_67x68_2" href="media/zombie_moon_ship5000_67x68_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_6x6" href="media/zombie_moon_ship5000_6x6.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_70x71" href="media/zombie_moon_ship5000_70x71.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_75x54" href="media/zombie_moon_ship5000_75x54.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_7x7" href="media/zombie_moon_ship5000_7x7.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_85x73" href="media/zombie_moon_ship5000_85x73.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zombie_moon_ship5000_135x8.xml"/>
+        <Include href="image/zombie_moon_ship5000_15x23.xml"/>
+        <Include href="image/zombie_moon_ship5000_15x25.xml"/>
+        <Include href="image/zombie_moon_ship5000_15x25_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_16x28.xml"/>
+        <Include href="image/zombie_moon_ship5000_17x26.xml"/>
+        <Include href="image/zombie_moon_ship5000_18x25.xml"/>
+        <Include href="image/zombie_moon_ship5000_18x25_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_18x26.xml"/>
+        <Include href="image/zombie_moon_ship5000_19x14.xml"/>
+        <Include href="image/zombie_moon_ship5000_20x15.xml"/>
+        <Include href="image/zombie_moon_ship5000_20x21.xml"/>
+        <Include href="image/zombie_moon_ship5000_21x21.xml"/>
+        <Include href="image/zombie_moon_ship5000_52x31.xml"/>
+        <Include href="image/zombie_moon_ship5000_62x36.xml"/>
+        <Include href="image/zombie_moon_ship5000_66x33.xml"/>
+        <Include href="image/zombie_moon_ship5000_67x68_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_6x6.xml"/>
+        <Include href="image/zombie_moon_ship5000_70x71.xml"/>
+        <Include href="image/zombie_moon_ship5000_75x54.xml"/>
+        <Include href="image/zombie_moon_ship5000_7x7.xml"/>
+        <Include href="image/zombie_moon_ship5000_85x73.xml"/>
+        <Include href="sprite/_particles.xml"/>
+        <Include href="sprite/_zombie_imp_head_top.xml"/>
+        <Include href="sprite/butter.xml"/>
+        <Include href="sprite/ground_swatch.xml"/>
+        <Include href="sprite/ground_swatch_plane.xml"/>
+        <Include href="sprite/ink.xml"/>
+        <Include href="sprite/particle_arm.xml"/>
+        <Include href="sprite/particle_head.xml"/>
+        <Include href="sprite/zombie_imp_arm_inner_lower.xml"/>
+        <Include href="sprite/zombie_imp_arm_inner_upper.xml"/>
+        <Include href="sprite/zombie_imp_arm_outer_lower.xml"/>
+        <Include href="sprite/zombie_imp_arm_outer_upper_01.xml"/>
+        <Include href="sprite/zombie_imp_arms_outer_upper.xml"/>
+        <Include href="sprite/zombie_imp_hand_inner.xml"/>
+        <Include href="sprite/zombie_imp_hand_outer.xml"/>
+        <Include href="sprite/zombie_imp_jaw.xml"/>
+        <Include href="sprite/zombie_imp_leg_inner_lower.xml"/>
+        <Include href="sprite/zombie_imp_leg_inner_upper.xml"/>
+        <Include href="sprite/zombie_imp_leg_outer_lower.xml"/>
+        <Include href="sprite/zombie_imp_leg_outer_upper.xml"/>
+        <Include href="sprite/zombie_imp_pupil.xml"/>
+        <Include href="sprite/zombie_imp_skull.xml"/>
+        <Include href="sprite/zombie_imp_toe_inner.xml"/>
+        <Include href="sprite/zombie_imp_toe_outer.xml"/>
+        <Include href="sprite/zombie_imp_torso.xml"/>
+        <Include href="sprite/zombie_imp_waist.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/walk.xml"/>
+        <Include href="label/eat.xml"/>
+        <Include href="label/die.xml"/>
+        <Include href="label/particles.xml"/>
+        <Include href="label/land.xml"/>
+        <Include href="label/fly.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="60" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="60" name="walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="128" name="eat" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="248" duration="36" name="die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="284" duration="1" name="particles" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="285" duration="30" name="land" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="315" duration="1" name="fly" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="59">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="119">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="127">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="247">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="248" duration="35">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="283">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="284">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="285" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="314">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="315">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/walk" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="128">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/eat" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="248" duration="36">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="284" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/particles" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="285" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/land" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="315" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/fly" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

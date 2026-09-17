@@ -1,0 +1,2886 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"cosmicMushroom_lv5_projectile_101x75": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_101X75",
+			"dimension": {
+				"width": 101,
+				"height": 75
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_101x75_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_101X75_2",
+			"dimension": {
+				"width": 101,
+				"height": 75
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_101x75_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_101X75_3",
+			"dimension": {
+				"width": 101,
+				"height": 75
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_102x79": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_102X79",
+			"dimension": {
+				"width": 102,
+				"height": 79
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_103x105": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_103X105",
+			"dimension": {
+				"width": 103,
+				"height": 105
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_103x31": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_103X31",
+			"dimension": {
+				"width": 103,
+				"height": 31
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_103x38": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_103X38",
+			"dimension": {
+				"width": 103,
+				"height": 38
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_108x35": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_108X35",
+			"dimension": {
+				"width": 108,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_108x35_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_108X35_2",
+			"dimension": {
+				"width": 108,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_10x10": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_10X10",
+			"dimension": {
+				"width": 10,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_10x11": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_10X11",
+			"dimension": {
+				"width": 10,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_10x11_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_10X11_2",
+			"dimension": {
+				"width": 10,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_10x12": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_10X12",
+			"dimension": {
+				"width": 10,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_10x14": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_10X14",
+			"dimension": {
+				"width": 10,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_10x15": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_10X15",
+			"dimension": {
+				"width": 10,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_10x16": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_10X16",
+			"dimension": {
+				"width": 10,
+				"height": 16
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_10x17": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_10X17",
+			"dimension": {
+				"width": 10,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_10x17_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_10X17_2",
+			"dimension": {
+				"width": 10,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_10x25": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_10X25",
+			"dimension": {
+				"width": 10,
+				"height": 25
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_10x9": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_10X9",
+			"dimension": {
+				"width": 10,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_112x67": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_112X67",
+			"dimension": {
+				"width": 112,
+				"height": 67
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_113x79": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_113X79",
+			"dimension": {
+				"width": 113,
+				"height": 79
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_119x33": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_119X33",
+			"dimension": {
+				"width": 119,
+				"height": 33
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x10": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X10",
+			"dimension": {
+				"width": 11,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x10_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X10_2",
+			"dimension": {
+				"width": 11,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x11": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X11",
+			"dimension": {
+				"width": 11,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x11_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X11_2",
+			"dimension": {
+				"width": 11,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x11_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X11_3",
+			"dimension": {
+				"width": 11,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x11_4": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X11_4",
+			"dimension": {
+				"width": 11,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x12": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X12",
+			"dimension": {
+				"width": 11,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x12_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X12_2",
+			"dimension": {
+				"width": 11,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x15": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X15",
+			"dimension": {
+				"width": 11,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x15_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X15_2",
+			"dimension": {
+				"width": 11,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x21": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X21",
+			"dimension": {
+				"width": 11,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x21_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X21_2",
+			"dimension": {
+				"width": 11,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_11x25": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_11X25",
+			"dimension": {
+				"width": 11,
+				"height": 25
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_129x123": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_129X123",
+			"dimension": {
+				"width": 129,
+				"height": 123
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_12x10": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_12X10",
+			"dimension": {
+				"width": 12,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_12x11": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_12X11",
+			"dimension": {
+				"width": 12,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_12x11_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_12X11_2",
+			"dimension": {
+				"width": 12,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_12x11_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_12X11_3",
+			"dimension": {
+				"width": 12,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_12x12": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_12X12",
+			"dimension": {
+				"width": 12,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_12x22": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_12X22",
+			"dimension": {
+				"width": 12,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_135x135": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_135X135",
+			"dimension": {
+				"width": 135,
+				"height": 135
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_137x102": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_137X102",
+			"dimension": {
+				"width": 137,
+				"height": 102
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_13x12": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_13X12",
+			"dimension": {
+				"width": 13,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_13x13": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_13X13",
+			"dimension": {
+				"width": 13,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_13x13_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_13X13_2",
+			"dimension": {
+				"width": 13,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_13x13_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_13X13_3",
+			"dimension": {
+				"width": 13,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_13x14": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_13X14",
+			"dimension": {
+				"width": 13,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_13x14_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_13X14_2",
+			"dimension": {
+				"width": 13,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_13x16": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_13X16",
+			"dimension": {
+				"width": 13,
+				"height": 16
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_13x9": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_13X9",
+			"dimension": {
+				"width": 13,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_13x9_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_13X9_2",
+			"dimension": {
+				"width": 13,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_14x14": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_14X14",
+			"dimension": {
+				"width": 14,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_14x16": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_14X16",
+			"dimension": {
+				"width": 14,
+				"height": 16
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_14x16_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_14X16_2",
+			"dimension": {
+				"width": 14,
+				"height": 16
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_14x19": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_14X19",
+			"dimension": {
+				"width": 14,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_14x25": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_14X25",
+			"dimension": {
+				"width": 14,
+				"height": 25
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_14x25_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_14X25_2",
+			"dimension": {
+				"width": 14,
+				"height": 25
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_14x9": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_14X9",
+			"dimension": {
+				"width": 14,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_152x41": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_152X41",
+			"dimension": {
+				"width": 152,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_154x39": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_154X39",
+			"dimension": {
+				"width": 154,
+				"height": 39
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_154x40": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_154X40",
+			"dimension": {
+				"width": 154,
+				"height": 40
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_15x11": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_15X11",
+			"dimension": {
+				"width": 15,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_15x12": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_15X12",
+			"dimension": {
+				"width": 15,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_15x14": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_15X14",
+			"dimension": {
+				"width": 15,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_15x21": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_15X21",
+			"dimension": {
+				"width": 15,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_15x23": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_15X23",
+			"dimension": {
+				"width": 15,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_15x29": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_15X29",
+			"dimension": {
+				"width": 15,
+				"height": 29
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_160x115": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_160X115",
+			"dimension": {
+				"width": 160,
+				"height": 115
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_16x10": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_16X10",
+			"dimension": {
+				"width": 16,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_16x11": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_16X11",
+			"dimension": {
+				"width": 16,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_16x16": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_16X16",
+			"dimension": {
+				"width": 16,
+				"height": 16
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_16x20": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_16X20",
+			"dimension": {
+				"width": 16,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_16x23": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_16X23",
+			"dimension": {
+				"width": 16,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_16x28": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_16X28",
+			"dimension": {
+				"width": 16,
+				"height": 28
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_16x28_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_16X28_2",
+			"dimension": {
+				"width": 16,
+				"height": 28
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x13": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X13",
+			"dimension": {
+				"width": 17,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x15": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X15",
+			"dimension": {
+				"width": 17,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x15_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X15_2",
+			"dimension": {
+				"width": 17,
+				"height": 15
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x17": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X17",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x17_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X17_2",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x17_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X17_3",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x22": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X22",
+			"dimension": {
+				"width": 17,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x22_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X22_2",
+			"dimension": {
+				"width": 17,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x22_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X22_3",
+			"dimension": {
+				"width": 17,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x23": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X23",
+			"dimension": {
+				"width": 17,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x23_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X23_2",
+			"dimension": {
+				"width": 17,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x33": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X33",
+			"dimension": {
+				"width": 17,
+				"height": 33
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x33_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X33_2",
+			"dimension": {
+				"width": 17,
+				"height": 33
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x39": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X39",
+			"dimension": {
+				"width": 17,
+				"height": 39
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_17x39_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_17X39_2",
+			"dimension": {
+				"width": 17,
+				"height": 39
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_186x127": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_186X127",
+			"dimension": {
+				"width": 186,
+				"height": 127
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_18x10": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_18X10",
+			"dimension": {
+				"width": 18,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_18x12": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_18X12",
+			"dimension": {
+				"width": 18,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_18x17": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_18X17",
+			"dimension": {
+				"width": 18,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_18x18": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_18X18",
+			"dimension": {
+				"width": 18,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_18x19": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_18X19",
+			"dimension": {
+				"width": 18,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_18x20": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_18X20",
+			"dimension": {
+				"width": 18,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_18x24": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_18X24",
+			"dimension": {
+				"width": 18,
+				"height": 24
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_18x27": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_18X27",
+			"dimension": {
+				"width": 18,
+				"height": 27
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_18x33": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_18X33",
+			"dimension": {
+				"width": 18,
+				"height": 33
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_18x33_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_18X33_2",
+			"dimension": {
+				"width": 18,
+				"height": 33
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_18x8": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_18X8",
+			"dimension": {
+				"width": 18,
+				"height": 8
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_192x127": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_192X127",
+			"dimension": {
+				"width": 192,
+				"height": 127
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_194x58": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_194X58",
+			"dimension": {
+				"width": 194,
+				"height": 58
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_19x12": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_19X12",
+			"dimension": {
+				"width": 19,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_19x20": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_19X20",
+			"dimension": {
+				"width": 19,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_19x38": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_19X38",
+			"dimension": {
+				"width": 19,
+				"height": 38
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_19x9": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_19X9",
+			"dimension": {
+				"width": 19,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_205x44": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_205X44",
+			"dimension": {
+				"width": 205,
+				"height": 44
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_205x45": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_205X45",
+			"dimension": {
+				"width": 205,
+				"height": 45
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_20x11": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_20X11",
+			"dimension": {
+				"width": 20,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_20x20": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_20X20",
+			"dimension": {
+				"width": 20,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_20x26": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_20X26",
+			"dimension": {
+				"width": 20,
+				"height": 26
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_20x26_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_20X26_2",
+			"dimension": {
+				"width": 20,
+				"height": 26
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_20x32": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_20X32",
+			"dimension": {
+				"width": 20,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_20x32_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_20X32_2",
+			"dimension": {
+				"width": 20,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_21x12": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_21X12",
+			"dimension": {
+				"width": 21,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_21x20": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_21X20",
+			"dimension": {
+				"width": 21,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_21x20_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_21X20_2",
+			"dimension": {
+				"width": 21,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_21x37": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_21X37",
+			"dimension": {
+				"width": 21,
+				"height": 37
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_21x37_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_21X37_2",
+			"dimension": {
+				"width": 21,
+				"height": 37
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x10": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X10",
+			"dimension": {
+				"width": 22,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x12": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X12",
+			"dimension": {
+				"width": 22,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x21": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X21",
+			"dimension": {
+				"width": 22,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x22": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X22",
+			"dimension": {
+				"width": 22,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x23": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X23",
+			"dimension": {
+				"width": 22,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x28": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X28",
+			"dimension": {
+				"width": 22,
+				"height": 28
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x28_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X28_2",
+			"dimension": {
+				"width": 22,
+				"height": 28
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x31": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X31",
+			"dimension": {
+				"width": 22,
+				"height": 31
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x31_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X31_2",
+			"dimension": {
+				"width": 22,
+				"height": 31
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x51": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X51",
+			"dimension": {
+				"width": 22,
+				"height": 51
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x51_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X51_2",
+			"dimension": {
+				"width": 22,
+				"height": 51
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_22x9": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_22X9",
+			"dimension": {
+				"width": 22,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_24x11": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_24X11",
+			"dimension": {
+				"width": 24,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_24x14": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_24X14",
+			"dimension": {
+				"width": 24,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_24x22": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_24X22",
+			"dimension": {
+				"width": 24,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_24x23": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_24X23",
+			"dimension": {
+				"width": 24,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_24x23_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_24X23_2",
+			"dimension": {
+				"width": 24,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_24x29": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_24X29",
+			"dimension": {
+				"width": 24,
+				"height": 29
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_24x29_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_24X29_2",
+			"dimension": {
+				"width": 24,
+				"height": 29
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_25x21": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_25X21",
+			"dimension": {
+				"width": 25,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_25x21_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_25X21_2",
+			"dimension": {
+				"width": 25,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_25x24": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_25X24",
+			"dimension": {
+				"width": 25,
+				"height": 24
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_25x43": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_25X43",
+			"dimension": {
+				"width": 25,
+				"height": 43
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_25x43_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_25X43_2",
+			"dimension": {
+				"width": 25,
+				"height": 43
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_25x46": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_25X46",
+			"dimension": {
+				"width": 25,
+				"height": 46
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_25x46_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_25X46_2",
+			"dimension": {
+				"width": 25,
+				"height": 46
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_25x53": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_25X53",
+			"dimension": {
+				"width": 25,
+				"height": 53
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_26x20": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_26X20",
+			"dimension": {
+				"width": 26,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_26x27": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_26X27",
+			"dimension": {
+				"width": 26,
+				"height": 27
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_26x34": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_26X34",
+			"dimension": {
+				"width": 26,
+				"height": 34
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_26x34_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_26X34_2",
+			"dimension": {
+				"width": 26,
+				"height": 34
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_26x43": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_26X43",
+			"dimension": {
+				"width": 26,
+				"height": 43
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_26x43_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_26X43_2",
+			"dimension": {
+				"width": 26,
+				"height": 43
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_27x10": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_27X10",
+			"dimension": {
+				"width": 27,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_27x18": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_27X18",
+			"dimension": {
+				"width": 27,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_27x23": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_27X23",
+			"dimension": {
+				"width": 27,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_27x24": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_27X24",
+			"dimension": {
+				"width": 27,
+				"height": 24
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_27x26": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_27X26",
+			"dimension": {
+				"width": 27,
+				"height": 26
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_27x26_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_27X26_2",
+			"dimension": {
+				"width": 27,
+				"height": 26
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_289x53": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_289X53",
+			"dimension": {
+				"width": 289,
+				"height": 53
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_289x54": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_289X54",
+			"dimension": {
+				"width": 289,
+				"height": 54
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_28x41": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_28X41",
+			"dimension": {
+				"width": 28,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_28x41_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_28X41_2",
+			"dimension": {
+				"width": 28,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_28x49": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_28X49",
+			"dimension": {
+				"width": 28,
+				"height": 49
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_28x49_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_28X49_2",
+			"dimension": {
+				"width": 28,
+				"height": 49
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_28x57": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_28X57",
+			"dimension": {
+				"width": 28,
+				"height": 57
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_28x57_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_28X57_2",
+			"dimension": {
+				"width": 28,
+				"height": 57
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_28x57_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_28X57_3",
+			"dimension": {
+				"width": 28,
+				"height": 57
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_28x9": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_28X9",
+			"dimension": {
+				"width": 28,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_29x19": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_29X19",
+			"dimension": {
+				"width": 29,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_29x27": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_29X27",
+			"dimension": {
+				"width": 29,
+				"height": 27
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_29x31": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_29X31",
+			"dimension": {
+				"width": 29,
+				"height": 31
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_29x31_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_29X31_2",
+			"dimension": {
+				"width": 29,
+				"height": 31
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_29x38": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_29X38",
+			"dimension": {
+				"width": 29,
+				"height": 38
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_29x38_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_29X38_2",
+			"dimension": {
+				"width": 29,
+				"height": 38
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_29x68": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_29X68",
+			"dimension": {
+				"width": 29,
+				"height": 68
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_30x14": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_30X14",
+			"dimension": {
+				"width": 30,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_30x19": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_30X19",
+			"dimension": {
+				"width": 30,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_30x26": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_30X26",
+			"dimension": {
+				"width": 30,
+				"height": 26
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_30x30": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_30X30",
+			"dimension": {
+				"width": 30,
+				"height": 30
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_31x14": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_31X14",
+			"dimension": {
+				"width": 31,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_31x41": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_31X41",
+			"dimension": {
+				"width": 31,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_32x26": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_32X26",
+			"dimension": {
+				"width": 32,
+				"height": 26
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_32x30": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_32X30",
+			"dimension": {
+				"width": 32,
+				"height": 30
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_32x38": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_32X38",
+			"dimension": {
+				"width": 32,
+				"height": 38
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_32x38_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_32X38_2",
+			"dimension": {
+				"width": 32,
+				"height": 38
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_33x21": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_33X21",
+			"dimension": {
+				"width": 33,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_33x21_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_33X21_2",
+			"dimension": {
+				"width": 33,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_33x23": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_33X23",
+			"dimension": {
+				"width": 33,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_33x27": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_33X27",
+			"dimension": {
+				"width": 33,
+				"height": 27
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_33x27_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_33X27_2",
+			"dimension": {
+				"width": 33,
+				"height": 27
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_33x57": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_33X57",
+			"dimension": {
+				"width": 33,
+				"height": 57
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_33x57_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_33X57_2",
+			"dimension": {
+				"width": 33,
+				"height": 57
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_33x62": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_33X62",
+			"dimension": {
+				"width": 33,
+				"height": 62
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_33x62_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_33X62_2",
+			"dimension": {
+				"width": 33,
+				"height": 62
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_34x34": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_34X34",
+			"dimension": {
+				"width": 34,
+				"height": 34
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_34x34_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_34X34_2",
+			"dimension": {
+				"width": 34,
+				"height": 34
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_35x16": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_35X16",
+			"dimension": {
+				"width": 35,
+				"height": 16
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_35x25": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_35X25",
+			"dimension": {
+				"width": 35,
+				"height": 25
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_35x35": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_35X35",
+			"dimension": {
+				"width": 35,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_36x22": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_36X22",
+			"dimension": {
+				"width": 36,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_36x23": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_36X23",
+			"dimension": {
+				"width": 36,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_36x23_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_36X23_2",
+			"dimension": {
+				"width": 36,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_36x27": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_36X27",
+			"dimension": {
+				"width": 36,
+				"height": 27
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_36x36": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_36X36",
+			"dimension": {
+				"width": 36,
+				"height": 36
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_36x54": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_36X54",
+			"dimension": {
+				"width": 36,
+				"height": 54
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_36x54_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_36X54_2",
+			"dimension": {
+				"width": 36,
+				"height": 54
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_36x65": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_36X65",
+			"dimension": {
+				"width": 36,
+				"height": 65
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_37x28": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_37X28",
+			"dimension": {
+				"width": 37,
+				"height": 28
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_37x65": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_37X65",
+			"dimension": {
+				"width": 37,
+				"height": 65
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_38x34": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_38X34",
+			"dimension": {
+				"width": 38,
+				"height": 34
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_38x41": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_38X41",
+			"dimension": {
+				"width": 38,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_38x41_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_38X41_2",
+			"dimension": {
+				"width": 38,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_38x51": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_38X51",
+			"dimension": {
+				"width": 38,
+				"height": 51
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_38x51_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_38X51_2",
+			"dimension": {
+				"width": 38,
+				"height": 51
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_40x17": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_40X17",
+			"dimension": {
+				"width": 40,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_40x18": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_40X18",
+			"dimension": {
+				"width": 40,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_40x32": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_40X32",
+			"dimension": {
+				"width": 40,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_40x48": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_40X48",
+			"dimension": {
+				"width": 40,
+				"height": 48
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_41x26": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_41X26",
+			"dimension": {
+				"width": 41,
+				"height": 26
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_41x39": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_41X39",
+			"dimension": {
+				"width": 41,
+				"height": 39
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_42x38": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_42X38",
+			"dimension": {
+				"width": 42,
+				"height": 38
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_42x38_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_42X38_2",
+			"dimension": {
+				"width": 42,
+				"height": 38
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_43x35": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_43X35",
+			"dimension": {
+				"width": 43,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_44x27": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_44X27",
+			"dimension": {
+				"width": 44,
+				"height": 27
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_44x27_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_44X27_2",
+			"dimension": {
+				"width": 44,
+				"height": 27
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_44x45": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_44X45",
+			"dimension": {
+				"width": 44,
+				"height": 45
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_44x50": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_44X50",
+			"dimension": {
+				"width": 44,
+				"height": 50
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_45x14": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_45X14",
+			"dimension": {
+				"width": 45,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_45x45": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_45X45",
+			"dimension": {
+				"width": 45,
+				"height": 45
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_45x46": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_45X46",
+			"dimension": {
+				"width": 45,
+				"height": 46
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_45x46_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_45X46_2",
+			"dimension": {
+				"width": 45,
+				"height": 46
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_46x45": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_46X45",
+			"dimension": {
+				"width": 46,
+				"height": 45
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_47x33": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_47X33",
+			"dimension": {
+				"width": 47,
+				"height": 33
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_47x36": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_47X36",
+			"dimension": {
+				"width": 47,
+				"height": 36
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_48x45": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_48X45",
+			"dimension": {
+				"width": 48,
+				"height": 45
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_49x76": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_49X76",
+			"dimension": {
+				"width": 49,
+				"height": 76
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_50x24": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_50X24",
+			"dimension": {
+				"width": 50,
+				"height": 24
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_51x45": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_51X45",
+			"dimension": {
+				"width": 51,
+				"height": 45
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_51x49": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_51X49",
+			"dimension": {
+				"width": 51,
+				"height": 49
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_51x53": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_51X53",
+			"dimension": {
+				"width": 51,
+				"height": 53
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_52x52": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_52X52",
+			"dimension": {
+				"width": 52,
+				"height": 52
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_53x35": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_53X35",
+			"dimension": {
+				"width": 53,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_53x47": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_53X47",
+			"dimension": {
+				"width": 53,
+				"height": 47
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_53x54": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_53X54",
+			"dimension": {
+				"width": 53,
+				"height": 54
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_54x32": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_54X32",
+			"dimension": {
+				"width": 54,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_54x33": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_54X33",
+			"dimension": {
+				"width": 54,
+				"height": 33
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_54x36": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_54X36",
+			"dimension": {
+				"width": 54,
+				"height": 36
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_55x32": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_55X32",
+			"dimension": {
+				"width": 55,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_55x62": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_55X62",
+			"dimension": {
+				"width": 55,
+				"height": 62
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_55x62_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_55X62_2",
+			"dimension": {
+				"width": 55,
+				"height": 62
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_56x62": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_56X62",
+			"dimension": {
+				"width": 56,
+				"height": 62
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_57x35": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_57X35",
+			"dimension": {
+				"width": 57,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_58x48": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_58X48",
+			"dimension": {
+				"width": 58,
+				"height": 48
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_58x52": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_58X52",
+			"dimension": {
+				"width": 58,
+				"height": 52
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_58x95": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_58X95",
+			"dimension": {
+				"width": 58,
+				"height": 95
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_5x5": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_5X5",
+			"dimension": {
+				"width": 5,
+				"height": 5
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_5x5_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_5X5_2",
+			"dimension": {
+				"width": 5,
+				"height": 5
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_5x6": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_5X6",
+			"dimension": {
+				"width": 5,
+				"height": 6
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_60x50": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_60X50",
+			"dimension": {
+				"width": 60,
+				"height": 50
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_62x58": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_62X58",
+			"dimension": {
+				"width": 62,
+				"height": 58
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_62x59": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_62X59",
+			"dimension": {
+				"width": 62,
+				"height": 59
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_63x48": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_63X48",
+			"dimension": {
+				"width": 63,
+				"height": 48
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_65x23": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_65X23",
+			"dimension": {
+				"width": 65,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_65x57": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_65X57",
+			"dimension": {
+				"width": 65,
+				"height": 57
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_66x51": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_66X51",
+			"dimension": {
+				"width": 66,
+				"height": 51
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_67x52": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_67X52",
+			"dimension": {
+				"width": 67,
+				"height": 52
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_67x53": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_67X53",
+			"dimension": {
+				"width": 67,
+				"height": 53
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_67x53_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_67X53_2",
+			"dimension": {
+				"width": 67,
+				"height": 53
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_67x53_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_67X53_3",
+			"dimension": {
+				"width": 67,
+				"height": 53
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_67x63": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_67X63",
+			"dimension": {
+				"width": 67,
+				"height": 63
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_68x47": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_68X47",
+			"dimension": {
+				"width": 68,
+				"height": 47
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_69x48": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_69X48",
+			"dimension": {
+				"width": 69,
+				"height": 48
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_69x69": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_69X69",
+			"dimension": {
+				"width": 69,
+				"height": 69
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_69x69_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_69X69_2",
+			"dimension": {
+				"width": 69,
+				"height": 69
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_6x6": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_6X6",
+			"dimension": {
+				"width": 6,
+				"height": 6
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_6x8": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_6X8",
+			"dimension": {
+				"width": 6,
+				"height": 8
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_6x8_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_6X8_2",
+			"dimension": {
+				"width": 6,
+				"height": 8
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_72x52": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_72X52",
+			"dimension": {
+				"width": 72,
+				"height": 52
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_73x48": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_73X48",
+			"dimension": {
+				"width": 73,
+				"height": 48
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_73x48_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_73X48_2",
+			"dimension": {
+				"width": 73,
+				"height": 48
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_73x73": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_73X73",
+			"dimension": {
+				"width": 73,
+				"height": 73
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_75x76": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_75X76",
+			"dimension": {
+				"width": 75,
+				"height": 76
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_75x84": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_75X84",
+			"dimension": {
+				"width": 75,
+				"height": 84
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_75x84_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_75X84_2",
+			"dimension": {
+				"width": 75,
+				"height": 84
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_76x29": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_76X29",
+			"dimension": {
+				"width": 76,
+				"height": 29
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_76x84": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_76X84",
+			"dimension": {
+				"width": 76,
+				"height": 84
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_77x24": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_77X24",
+			"dimension": {
+				"width": 77,
+				"height": 24
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_77x77": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_77X77",
+			"dimension": {
+				"width": 77,
+				"height": 77
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_79x64": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_79X64",
+			"dimension": {
+				"width": 79,
+				"height": 64
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_7x11": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_7X11",
+			"dimension": {
+				"width": 7,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_7x12": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_7X12",
+			"dimension": {
+				"width": 7,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_7x7": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_7X7",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_7x7_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_7X7_2",
+			"dimension": {
+				"width": 7,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_7x8": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_7X8",
+			"dimension": {
+				"width": 7,
+				"height": 8
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_80x32": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_80X32",
+			"dimension": {
+				"width": 80,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_81x49": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_81X49",
+			"dimension": {
+				"width": 81,
+				"height": 49
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_81x66": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_81X66",
+			"dimension": {
+				"width": 81,
+				"height": 66
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_83x48": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_83X48",
+			"dimension": {
+				"width": 83,
+				"height": 48
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_84x37": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_84X37",
+			"dimension": {
+				"width": 84,
+				"height": 37
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_87x26": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_87X26",
+			"dimension": {
+				"width": 87,
+				"height": 26
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_87x31": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_87X31",
+			"dimension": {
+				"width": 87,
+				"height": 31
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_87x36": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_87X36",
+			"dimension": {
+				"width": 87,
+				"height": 36
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_87x67": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_87X67",
+			"dimension": {
+				"width": 87,
+				"height": 67
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_87x67_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_87X67_2",
+			"dimension": {
+				"width": 87,
+				"height": 67
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_87x67_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_87X67_3",
+			"dimension": {
+				"width": 87,
+				"height": 67
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_89x38": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_89X38",
+			"dimension": {
+				"width": 89,
+				"height": 38
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_8x10": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_8X10",
+			"dimension": {
+				"width": 8,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_8x12": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_8X12",
+			"dimension": {
+				"width": 8,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_8x7": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_8X7",
+			"dimension": {
+				"width": 8,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_8x7_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_8X7_2",
+			"dimension": {
+				"width": 8,
+				"height": 7
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_8x8": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_8X8",
+			"dimension": {
+				"width": 8,
+				"height": 8
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_8x8_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_8X8_2",
+			"dimension": {
+				"width": 8,
+				"height": 8
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_90x66": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_90X66",
+			"dimension": {
+				"width": 90,
+				"height": 66
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_90x66_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_90X66_2",
+			"dimension": {
+				"width": 90,
+				"height": 66
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_90x66_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_90X66_3",
+			"dimension": {
+				"width": 90,
+				"height": 66
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_94x65": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_94X65",
+			"dimension": {
+				"width": 94,
+				"height": 65
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_94x65_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_94X65_2",
+			"dimension": {
+				"width": 94,
+				"height": 65
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_94x65_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_94X65_3",
+			"dimension": {
+				"width": 94,
+				"height": 65
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_94x68": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_94X68",
+			"dimension": {
+				"width": 94,
+				"height": 68
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_95x90": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_95X90",
+			"dimension": {
+				"width": 95,
+				"height": 90
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_99x99": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_99X99",
+			"dimension": {
+				"width": 99,
+				"height": 99
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_9x10": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_9X10",
+			"dimension": {
+				"width": 9,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_9x8": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_9X8",
+			"dimension": {
+				"width": 9,
+				"height": 8
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_9x9": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_9X9",
+			"dimension": {
+				"width": 9,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_9x9_2": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_9X9_2",
+			"dimension": {
+				"width": 9,
+				"height": 9
+			},
+			"additional": null
+		},
+		"cosmicMushroom_lv5_projectile_9x9_3": {
+			"id": "IMAGE_EFFECTS_COSMICMUSHROOM_LV5_PROJECTILE_COSMICMUSHROOM_LV5_PROJECTILE_9X9_3",
+			"dimension": {
+				"width": 9,
+				"height": 9
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"": [
+			"sprite",
+			"sprite_2",
+			"sprite_3"
+		],
+		"1": [
+			"1_1"
+		],
+		"2": [
+			"2_1"
+		],
+		"3": [
+			"3_1"
+		],
+		"4": [
+			"4_1"
+		],
+		"5": [
+			"5_1"
+		],
+		"6": [
+			"6_1"
+		],
+		"7": [
+			"7_1"
+		],
+		"8": [
+			"8_1"
+		],
+		"9": [
+			"9_1"
+		],
+		"Fume_Cheek": [
+			"Fume_Cheek_1"
+		],
+		"Hypno_Eye_Base": [
+			"Hypno_Eye_Base_1"
+		],
+		"Projectile_Base 复制 2": [
+			"Projectile_Base 复制 2_1",
+			"Projectile_Base 复制 2_2",
+			"Projectile_Base 复制 2_3"
+		],
+		"glaciershroom": [
+			"glaciershroom_1"
+		],
+		"glaciershroom_back": [
+			"glaciershroom_back_1"
+		],
+		"glaciershroom_body": [
+			"glaciershroom_body_1"
+		],
+		"glaciershroom_eyes": [
+			"glaciershroom_eyes_1"
+		],
+		"glaciershroom_eyes_glow": [
+			"glaciershroom_eyes_glow_1"
+		],
+		"glaciershroom_front": [
+			"glaciershroom_front_1"
+		],
+		"glaciershroom_headtop": [
+			"glaciershroom_headtop_1"
+		],
+		"glaciershroom_ice1": [
+			"glaciershroom_ice1_1"
+		],
+		"glaciershroom_ice10": [
+			"glaciershroom_ice10_1"
+		],
+		"glaciershroom_ice10_glow": [
+			"glaciershroom_ice10_glow_1"
+		],
+		"glaciershroom_ice11": [
+			"glaciershroom_ice11_1"
+		],
+		"glaciershroom_ice11_glow": [
+			"glaciershroom_ice11_glow_1"
+		],
+		"glaciershroom_ice12": [
+			"glaciershroom_ice12_1"
+		],
+		"glaciershroom_ice12_glow": [
+			"glaciershroom_ice12_glow_1"
+		],
+		"glaciershroom_ice14": [
+			"glaciershroom_ice14_1"
+		],
+		"glaciershroom_ice14_glow": [
+			"glaciershroom_ice14_glow_1"
+		],
+		"glaciershroom_ice15": [
+			"glaciershroom_ice15_1"
+		],
+		"glaciershroom_ice15_glow": [
+			"glaciershroom_ice15_glow_1"
+		],
+		"glaciershroom_ice16": [
+			"glaciershroom_ice16_1"
+		],
+		"glaciershroom_ice16_glow": [
+			"glaciershroom_ice16_glow_1"
+		],
+		"glaciershroom_ice17": [
+			"glaciershroom_ice17_1"
+		],
+		"glaciershroom_ice17_glow": [
+			"glaciershroom_ice17_glow_1"
+		],
+		"glaciershroom_ice18": [
+			"glaciershroom_ice18_1"
+		],
+		"glaciershroom_ice18_glow": [
+			"glaciershroom_ice18_glow_1"
+		],
+		"glaciershroom_ice19": [
+			"glaciershroom_ice19_1"
+		],
+		"glaciershroom_ice19_glow": [
+			"glaciershroom_ice19_glow_1"
+		],
+		"glaciershroom_ice1_glow": [
+			"glaciershroom_ice1_glow_1"
+		],
+		"glaciershroom_ice2": [
+			"glaciershroom_ice2_1"
+		],
+		"glaciershroom_ice20": [
+			"glaciershroom_ice20_1"
+		],
+		"glaciershroom_ice21": [
+			"glaciershroom_ice21_1"
+		],
+		"glaciershroom_ice2_glow": [
+			"glaciershroom_ice2_glow_1"
+		],
+		"glaciershroom_ice3": [
+			"glaciershroom_ice3_1"
+		],
+		"glaciershroom_ice3_glow": [
+			"glaciershroom_ice3_glow_1"
+		],
+		"glaciershroom_ice4": [
+			"glaciershroom_ice4_1"
+		],
+		"glaciershroom_ice4_glow": [
+			"glaciershroom_ice4_glow_1"
+		],
+		"glaciershroom_ice5": [
+			"glaciershroom_ice5_1"
+		],
+		"glaciershroom_ice5_glow": [
+			"glaciershroom_ice5_glow_1"
+		],
+		"glaciershroom_ice6": [
+			"glaciershroom_ice6_1"
+		],
+		"glaciershroom_ice6_glow": [
+			"glaciershroom_ice6_glow_1"
+		],
+		"glaciershroom_ice7": [
+			"glaciershroom_ice7_1"
+		],
+		"glaciershroom_ice7_glow": [
+			"glaciershroom_ice7_glow_1"
+		],
+		"glaciershroom_ice8": [
+			"glaciershroom_ice8_1"
+		],
+		"glaciershroom_ice8_glow": [
+			"glaciershroom_ice8_glow_1"
+		],
+		"glaciershroom_ice9": [
+			"glaciershroom_ice9_1"
+		],
+		"glaciershroom_ice9_glow": [
+			"glaciershroom_ice9_glow_1"
+		],
+		"glaciershroom_idle": [
+			"glaciershroom_idle_1"
+		],
+		"glaciershroom_mouth": [
+			"glaciershroom_mouth_1"
+		],
+		"glaciershroom_teeth": [
+			"glaciershroom_teeth_1"
+		],
+		"hatmushroom head": [
+			"hatmushroom head_1"
+		],
+		"iceshroom_dust_cloud": [
+			"iceshroom_dust_cloud_1"
+		],
+		"oiu": [
+			"oiu_1"
+		],
+		"op": [
+			"op_1"
+		],
+		"puffshroom_eye": [
+			"puffshroom_eye_1"
+		],
+		"sunshroom_eye_highlight": [
+			"sunshroom_eye_highlight_1"
+		],
+		"visor_of_a_cap": [
+			"visor_of_a_cap_1"
+		],
+		"visor_of_a_cap_02": [
+			"visor_of_a_cap_02_1"
+		],
+		"vortex_c": [
+			"vortex_c_1",
+			"vortex_c_2",
+			"vortex_c_3"
+		],
+		"white_dot": [
+			"white_dot_1"
+		],
+		"元件 02": [
+			"元件 02_1",
+			"元件 02_2"
+		],
+		"元件 7": [
+			"元件 7_1"
+		]
+	}
+}

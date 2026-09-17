@@ -1,0 +1,363 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"teleport_beacon_100x47": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_100X47",
+			"dimension": {
+				"width": 100,
+				"height": 47
+			},
+			"additional": null
+		},
+		"teleport_beacon_104x48": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_104X48",
+			"dimension": {
+				"width": 104,
+				"height": 48
+			},
+			"additional": null
+		},
+		"teleport_beacon_107x56": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_107X56",
+			"dimension": {
+				"width": 107,
+				"height": 56
+			},
+			"additional": null
+		},
+		"teleport_beacon_115x123": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_115X123",
+			"dimension": {
+				"width": 115,
+				"height": 123
+			},
+			"additional": null
+		},
+		"teleport_beacon_115x98": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_115X98",
+			"dimension": {
+				"width": 115,
+				"height": 98
+			},
+			"additional": null
+		},
+		"teleport_beacon_115x98_2": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_115X98_2",
+			"dimension": {
+				"width": 115,
+				"height": 98
+			},
+			"additional": null
+		},
+		"teleport_beacon_11x21": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_11X21",
+			"dimension": {
+				"width": 11,
+				"height": 21
+			},
+			"additional": null
+		},
+		"teleport_beacon_122x61": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_122X61",
+			"dimension": {
+				"width": 122,
+				"height": 61
+			},
+			"additional": null
+		},
+		"teleport_beacon_122x61_2": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_122X61_2",
+			"dimension": {
+				"width": 122,
+				"height": 61
+			},
+			"additional": null
+		},
+		"teleport_beacon_122x61_3": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_122X61_3",
+			"dimension": {
+				"width": 122,
+				"height": 61
+			},
+			"additional": null
+		},
+		"teleport_beacon_131x37": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_131X37",
+			"dimension": {
+				"width": 131,
+				"height": 37
+			},
+			"additional": null
+		},
+		"teleport_beacon_134x134": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_134X134",
+			"dimension": {
+				"width": 134,
+				"height": 134
+			},
+			"additional": null
+		},
+		"teleport_beacon_134x134_2": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_134X134_2",
+			"dimension": {
+				"width": 134,
+				"height": 134
+			},
+			"additional": null
+		},
+		"teleport_beacon_134x134_3": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_134X134_3",
+			"dimension": {
+				"width": 134,
+				"height": 134
+			},
+			"additional": null
+		},
+		"teleport_beacon_160x152": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_160X152",
+			"dimension": {
+				"width": 160,
+				"height": 152
+			},
+			"additional": null
+		},
+		"teleport_beacon_168x159": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_168X159",
+			"dimension": {
+				"width": 168,
+				"height": 159
+			},
+			"additional": null
+		},
+		"teleport_beacon_1x1": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_1X1",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			},
+			"additional": null
+		},
+		"teleport_beacon_22x18": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_22X18",
+			"dimension": {
+				"width": 22,
+				"height": 18
+			},
+			"additional": null
+		},
+		"teleport_beacon_26x33": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_26X33",
+			"dimension": {
+				"width": 26,
+				"height": 33
+			},
+			"additional": null
+		},
+		"teleport_beacon_31x24": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_31X24",
+			"dimension": {
+				"width": 31,
+				"height": 24
+			},
+			"additional": null
+		},
+		"teleport_beacon_31x33": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_31X33",
+			"dimension": {
+				"width": 31,
+				"height": 33
+			},
+			"additional": null
+		},
+		"teleport_beacon_379x432": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_379X432",
+			"dimension": {
+				"width": 379,
+				"height": 432
+			},
+			"additional": null
+		},
+		"teleport_beacon_39x29": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_39X29",
+			"dimension": {
+				"width": 39,
+				"height": 29
+			},
+			"additional": null
+		},
+		"teleport_beacon_40x56": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_40X56",
+			"dimension": {
+				"width": 40,
+				"height": 56
+			},
+			"additional": null
+		},
+		"teleport_beacon_45x99": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_45X99",
+			"dimension": {
+				"width": 45,
+				"height": 99
+			},
+			"additional": null
+		},
+		"teleport_beacon_47x37": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_47X37",
+			"dimension": {
+				"width": 47,
+				"height": 37
+			},
+			"additional": null
+		},
+		"teleport_beacon_49x37": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_49X37",
+			"dimension": {
+				"width": 49,
+				"height": 37
+			},
+			"additional": null
+		},
+		"teleport_beacon_501x436": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_501X436",
+			"dimension": {
+				"width": 501,
+				"height": 436
+			},
+			"additional": null
+		},
+		"teleport_beacon_50x13": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_50X13",
+			"dimension": {
+				"width": 50,
+				"height": 13
+			},
+			"additional": null
+		},
+		"teleport_beacon_57x53": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_57X53",
+			"dimension": {
+				"width": 57,
+				"height": 53
+			},
+			"additional": null
+		},
+		"teleport_beacon_58x55": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_58X55",
+			"dimension": {
+				"width": 58,
+				"height": 55
+			},
+			"additional": null
+		},
+		"teleport_beacon_59x59": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_59X59",
+			"dimension": {
+				"width": 59,
+				"height": 59
+			},
+			"additional": null
+		},
+		"teleport_beacon_60x63": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_60X63",
+			"dimension": {
+				"width": 60,
+				"height": 63
+			},
+			"additional": null
+		},
+		"teleport_beacon_60x63_2": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_60X63_2",
+			"dimension": {
+				"width": 60,
+				"height": 63
+			},
+			"additional": null
+		},
+		"teleport_beacon_70x51": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_70X51",
+			"dimension": {
+				"width": 70,
+				"height": 51
+			},
+			"additional": null
+		},
+		"teleport_beacon_71x115": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_71X115",
+			"dimension": {
+				"width": 71,
+				"height": 115
+			},
+			"additional": null
+		},
+		"teleport_beacon_71x71": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_71X71",
+			"dimension": {
+				"width": 71,
+				"height": 71
+			},
+			"additional": null
+		},
+		"teleport_beacon_73x672": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_73X672",
+			"dimension": {
+				"width": 73,
+				"height": 672
+			},
+			"additional": null
+		},
+		"teleport_beacon_77x43": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_77X43",
+			"dimension": {
+				"width": 77,
+				"height": 43
+			},
+			"additional": null
+		},
+		"teleport_beacon_79x38": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_79X38",
+			"dimension": {
+				"width": 79,
+				"height": 38
+			},
+			"additional": null
+		},
+		"teleport_beacon_81x143": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_81X143",
+			"dimension": {
+				"width": 81,
+				"height": 143
+			},
+			"additional": null
+		},
+		"teleport_beacon_81x215": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_81X215",
+			"dimension": {
+				"width": 81,
+				"height": 215
+			},
+			"additional": null
+		},
+		"teleport_beacon_81x88": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_81X88",
+			"dimension": {
+				"width": 81,
+				"height": 88
+			},
+			"additional": null
+		},
+		"teleport_beacon_86x101": {
+			"id": "IMAGE_EFFECTS_TELEPORT_BEACON_TELEPORT_BEACON_86X101",
+			"dimension": {
+				"width": 86,
+				"height": 101
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

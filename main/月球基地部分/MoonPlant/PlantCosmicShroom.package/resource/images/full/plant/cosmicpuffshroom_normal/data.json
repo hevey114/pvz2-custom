@@ -1,0 +1,1471 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"add$cosmicMushroom_29x29_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_29X29_2",
+			"dimension": {
+				"width": 29,
+				"height": 29
+			},
+			"additional": null
+		},
+		"cosmicMushroom_108x35": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_108X35",
+			"dimension": {
+				"width": 108,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_108x35_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_108X35_2",
+			"dimension": {
+				"width": 108,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_10x10": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_10X10",
+			"dimension": {
+				"width": 10,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_10x12": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_10X12",
+			"dimension": {
+				"width": 10,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_10x16": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_10X16",
+			"dimension": {
+				"width": 10,
+				"height": 16
+			},
+			"additional": null
+		},
+		"cosmicMushroom_110x57": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_110X57",
+			"dimension": {
+				"width": 110,
+				"height": 57
+			},
+			"additional": null
+		},
+		"cosmicMushroom_112x54": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_112X54",
+			"dimension": {
+				"width": 112,
+				"height": 54
+			},
+			"additional": null
+		},
+		"cosmicMushroom_112x55": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_112X55",
+			"dimension": {
+				"width": 112,
+				"height": 55
+			},
+			"additional": null
+		},
+		"cosmicMushroom_115x52": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_115X52",
+			"dimension": {
+				"width": 115,
+				"height": 52
+			},
+			"additional": null
+		},
+		"cosmicMushroom_116x116": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_116X116",
+			"dimension": {
+				"width": 116,
+				"height": 116
+			},
+			"additional": null
+		},
+		"cosmicMushroom_118x128": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_118X128",
+			"dimension": {
+				"width": 118,
+				"height": 128
+			},
+			"additional": null
+		},
+		"cosmicMushroom_11x10": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_11X10",
+			"dimension": {
+				"width": 11,
+				"height": 10
+			},
+			"additional": null
+		},
+		"cosmicMushroom_11x14": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_11X14",
+			"dimension": {
+				"width": 11,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicMushroom_11x16": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_11X16",
+			"dimension": {
+				"width": 11,
+				"height": 16
+			},
+			"additional": null
+		},
+		"cosmicMushroom_11x18": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_11X18",
+			"dimension": {
+				"width": 11,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicMushroom_122x56": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_122X56",
+			"dimension": {
+				"width": 122,
+				"height": 56
+			},
+			"additional": null
+		},
+		"cosmicMushroom_128x87": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_128X87",
+			"dimension": {
+				"width": 128,
+				"height": 87
+			},
+			"additional": null
+		},
+		"cosmicMushroom_12x11": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_12X11",
+			"dimension": {
+				"width": 12,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_12x13": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_12X13",
+			"dimension": {
+				"width": 12,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_12x13_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_12X13_2",
+			"dimension": {
+				"width": 12,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_12x8": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_12X8",
+			"dimension": {
+				"width": 12,
+				"height": 8
+			},
+			"additional": null
+		},
+		"cosmicMushroom_130x66": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_130X66",
+			"dimension": {
+				"width": 130,
+				"height": 66
+			},
+			"additional": null
+		},
+		"cosmicMushroom_132x89": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_132X89",
+			"dimension": {
+				"width": 132,
+				"height": 89
+			},
+			"additional": null
+		},
+		"cosmicMushroom_132x89_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_132X89_2",
+			"dimension": {
+				"width": 132,
+				"height": 89
+			},
+			"additional": null
+		},
+		"cosmicMushroom_133x87": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_133X87",
+			"dimension": {
+				"width": 133,
+				"height": 87
+			},
+			"additional": null
+		},
+		"cosmicMushroom_133x88": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_133X88",
+			"dimension": {
+				"width": 133,
+				"height": 88
+			},
+			"additional": null
+		},
+		"cosmicMushroom_135x85": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_135X85",
+			"dimension": {
+				"width": 135,
+				"height": 85
+			},
+			"additional": null
+		},
+		"cosmicMushroom_138x57": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_138X57",
+			"dimension": {
+				"width": 138,
+				"height": 57
+			},
+			"additional": null
+		},
+		"cosmicMushroom_138x59": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_138X59",
+			"dimension": {
+				"width": 138,
+				"height": 59
+			},
+			"additional": null
+		},
+		"cosmicMushroom_13x16": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_13X16",
+			"dimension": {
+				"width": 13,
+				"height": 16
+			},
+			"additional": null
+		},
+		"cosmicMushroom_140x85": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_140X85",
+			"dimension": {
+				"width": 140,
+				"height": 85
+			},
+			"additional": null
+		},
+		"cosmicMushroom_140x85_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_140X85_2",
+			"dimension": {
+				"width": 140,
+				"height": 85
+			},
+			"additional": null
+		},
+		"cosmicMushroom_140x88": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_140X88",
+			"dimension": {
+				"width": 140,
+				"height": 88
+			},
+			"additional": null
+		},
+		"cosmicMushroom_141x84": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_141X84",
+			"dimension": {
+				"width": 141,
+				"height": 84
+			},
+			"additional": null
+		},
+		"cosmicMushroom_141x85": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_141X85",
+			"dimension": {
+				"width": 141,
+				"height": 85
+			},
+			"additional": null
+		},
+		"cosmicMushroom_141x85_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_141X85_2",
+			"dimension": {
+				"width": 141,
+				"height": 85
+			},
+			"additional": null
+		},
+		"cosmicMushroom_141x85_3": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_141X85_3",
+			"dimension": {
+				"width": 141,
+				"height": 85
+			},
+			"additional": null
+		},
+		"cosmicMushroom_141x85_4": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_141X85_4",
+			"dimension": {
+				"width": 141,
+				"height": 85
+			},
+			"additional": null
+		},
+		"cosmicMushroom_141x88": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_141X88",
+			"dimension": {
+				"width": 141,
+				"height": 88
+			},
+			"additional": null
+		},
+		"cosmicMushroom_141x88_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_141X88_2",
+			"dimension": {
+				"width": 141,
+				"height": 88
+			},
+			"additional": null
+		},
+		"cosmicMushroom_143x64": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_143X64",
+			"dimension": {
+				"width": 143,
+				"height": 64
+			},
+			"additional": null
+		},
+		"cosmicMushroom_154x39": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_154X39",
+			"dimension": {
+				"width": 154,
+				"height": 39
+			},
+			"additional": null
+		},
+		"cosmicMushroom_154x40": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_154X40",
+			"dimension": {
+				"width": 154,
+				"height": 40
+			},
+			"additional": null
+		},
+		"cosmicMushroom_155x66": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_155X66",
+			"dimension": {
+				"width": 155,
+				"height": 66
+			},
+			"additional": null
+		},
+		"cosmicMushroom_15x13": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_15X13",
+			"dimension": {
+				"width": 15,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_15x14": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_15X14",
+			"dimension": {
+				"width": 15,
+				"height": 14
+			},
+			"additional": null
+		},
+		"cosmicMushroom_167x70": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_167X70",
+			"dimension": {
+				"width": 167,
+				"height": 70
+			},
+			"additional": null
+		},
+		"cosmicMushroom_16x17": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_16X17",
+			"dimension": {
+				"width": 16,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicMushroom_16x21": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_16X21",
+			"dimension": {
+				"width": 16,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_16x21_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_16X21_2",
+			"dimension": {
+				"width": 16,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_16x23": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_16X23",
+			"dimension": {
+				"width": 16,
+				"height": 23
+			},
+			"additional": null
+		},
+		"cosmicMushroom_16x6": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_16X6",
+			"dimension": {
+				"width": 16,
+				"height": 6
+			},
+			"additional": null
+		},
+		"cosmicMushroom_177x90": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_177X90",
+			"dimension": {
+				"width": 177,
+				"height": 90
+			},
+			"additional": null
+		},
+		"cosmicMushroom_179x86": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_179X86",
+			"dimension": {
+				"width": 179,
+				"height": 86
+			},
+			"additional": null
+		},
+		"cosmicMushroom_179x87": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_179X87",
+			"dimension": {
+				"width": 179,
+				"height": 87
+			},
+			"additional": null
+		},
+		"cosmicMushroom_17x17": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_17X17",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicMushroom_17x21": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_17X21",
+			"dimension": {
+				"width": 17,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_181x113": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_181X113",
+			"dimension": {
+				"width": 181,
+				"height": 113
+			},
+			"additional": null
+		},
+		"cosmicMushroom_183x82": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_183X82",
+			"dimension": {
+				"width": 183,
+				"height": 82
+			},
+			"additional": null
+		},
+		"cosmicMushroom_18x19": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_18X19",
+			"dimension": {
+				"width": 18,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicMushroom_198x122": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_198X122",
+			"dimension": {
+				"width": 198,
+				"height": 122
+			},
+			"additional": null
+		},
+		"cosmicMushroom_199x122": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_199X122",
+			"dimension": {
+				"width": 199,
+				"height": 122
+			},
+			"additional": null
+		},
+		"cosmicMushroom_19x18": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_19X18",
+			"dimension": {
+				"width": 19,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicMushroom_200x119": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_200X119",
+			"dimension": {
+				"width": 200,
+				"height": 119
+			},
+			"additional": null
+		},
+		"cosmicMushroom_200x120": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_200X120",
+			"dimension": {
+				"width": 200,
+				"height": 120
+			},
+			"additional": null
+		},
+		"cosmicMushroom_202x114": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_202X114",
+			"dimension": {
+				"width": 202,
+				"height": 114
+			},
+			"additional": null
+		},
+		"cosmicMushroom_205x44": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_205X44",
+			"dimension": {
+				"width": 205,
+				"height": 44
+			},
+			"additional": null
+		},
+		"cosmicMushroom_205x45": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_205X45",
+			"dimension": {
+				"width": 205,
+				"height": 45
+			},
+			"additional": null
+		},
+		"cosmicMushroom_209x118": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_209X118",
+			"dimension": {
+				"width": 209,
+				"height": 118
+			},
+			"additional": null
+		},
+		"cosmicMushroom_20x20": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_20X20",
+			"dimension": {
+				"width": 20,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicMushroom_20x20_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_20X20_2",
+			"dimension": {
+				"width": 20,
+				"height": 20
+			},
+			"additional": null
+		},
+		"cosmicMushroom_210x113": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_210X113",
+			"dimension": {
+				"width": 210,
+				"height": 113
+			},
+			"additional": null
+		},
+		"cosmicMushroom_210x113_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_210X113_2",
+			"dimension": {
+				"width": 210,
+				"height": 113
+			},
+			"additional": null
+		},
+		"cosmicMushroom_211x114": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_211X114",
+			"dimension": {
+				"width": 211,
+				"height": 114
+			},
+			"additional": null
+		},
+		"cosmicMushroom_211x114_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_211X114_2",
+			"dimension": {
+				"width": 211,
+				"height": 114
+			},
+			"additional": null
+		},
+		"cosmicMushroom_211x114_3": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_211X114_3",
+			"dimension": {
+				"width": 211,
+				"height": 114
+			},
+			"additional": null
+		},
+		"cosmicMushroom_211x114_4": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_211X114_4",
+			"dimension": {
+				"width": 211,
+				"height": 114
+			},
+			"additional": null
+		},
+		"cosmicMushroom_211x118": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_211X118",
+			"dimension": {
+				"width": 211,
+				"height": 118
+			},
+			"additional": null
+		},
+		"cosmicMushroom_211x118_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_211X118_2",
+			"dimension": {
+				"width": 211,
+				"height": 118
+			},
+			"additional": null
+		},
+		"cosmicMushroom_212x113": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_212X113",
+			"dimension": {
+				"width": 212,
+				"height": 113
+			},
+			"additional": null
+		},
+		"cosmicMushroom_21x19": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_21X19",
+			"dimension": {
+				"width": 21,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicMushroom_21x22": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_21X22",
+			"dimension": {
+				"width": 21,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicMushroom_22x12": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_22X12",
+			"dimension": {
+				"width": 22,
+				"height": 12
+			},
+			"additional": null
+		},
+		"cosmicMushroom_22x29": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_22X29",
+			"dimension": {
+				"width": 22,
+				"height": 29
+			},
+			"additional": null
+		},
+		"cosmicMushroom_22x32": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_22X32",
+			"dimension": {
+				"width": 22,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_23x25": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_23X25",
+			"dimension": {
+				"width": 23,
+				"height": 25
+			},
+			"additional": null
+		},
+		"cosmicMushroom_23x31": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_23X31",
+			"dimension": {
+				"width": 23,
+				"height": 31
+			},
+			"additional": null
+		},
+		"cosmicMushroom_23x32": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_23X32",
+			"dimension": {
+				"width": 23,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_24x22": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_24X22",
+			"dimension": {
+				"width": 24,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicMushroom_26x22": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_26X22",
+			"dimension": {
+				"width": 26,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicMushroom_26x26": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_26X26",
+			"dimension": {
+				"width": 26,
+				"height": 26
+			},
+			"additional": null
+		},
+		"cosmicMushroom_26x8": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_26X8",
+			"dimension": {
+				"width": 26,
+				"height": 8
+			},
+			"additional": null
+		},
+		"cosmicMushroom_27x29": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_27X29",
+			"dimension": {
+				"width": 27,
+				"height": 29
+			},
+			"additional": null
+		},
+		"cosmicMushroom_289x53": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_289X53",
+			"dimension": {
+				"width": 289,
+				"height": 53
+			},
+			"additional": null
+		},
+		"cosmicMushroom_289x54": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_289X54",
+			"dimension": {
+				"width": 289,
+				"height": 54
+			},
+			"additional": null
+		},
+		"cosmicMushroom_28x25": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_28X25",
+			"dimension": {
+				"width": 28,
+				"height": 25
+			},
+			"additional": null
+		},
+		"cosmicMushroom_29x29": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_29X29",
+			"dimension": {
+				"width": 29,
+				"height": 29
+			},
+			"additional": null
+		},
+		"cosmicMushroom_30x19": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_30X19",
+			"dimension": {
+				"width": 30,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicMushroom_30x30": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_30X30",
+			"dimension": {
+				"width": 30,
+				"height": 30
+			},
+			"additional": null
+		},
+		"cosmicMushroom_30x30_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_30X30_2",
+			"dimension": {
+				"width": 30,
+				"height": 30
+			},
+			"additional": null
+		},
+		"cosmicMushroom_30x40": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_30X40",
+			"dimension": {
+				"width": 30,
+				"height": 40
+			},
+			"additional": null
+		},
+		"cosmicMushroom_30x41": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_30X41",
+			"dimension": {
+				"width": 30,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicMushroom_31x41": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_31X41",
+			"dimension": {
+				"width": 31,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicMushroom_32x32": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_32X32",
+			"dimension": {
+				"width": 32,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_32x32_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_32X32_2",
+			"dimension": {
+				"width": 32,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_32x45": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_32X45",
+			"dimension": {
+				"width": 32,
+				"height": 45
+			},
+			"additional": null
+		},
+		"cosmicMushroom_33x33": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_33X33",
+			"dimension": {
+				"width": 33,
+				"height": 33
+			},
+			"additional": null
+		},
+		"cosmicMushroom_33x34": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_33X34",
+			"dimension": {
+				"width": 33,
+				"height": 34
+			},
+			"additional": null
+		},
+		"cosmicMushroom_33x35": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_33X35",
+			"dimension": {
+				"width": 33,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_33x35_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_33X35_2",
+			"dimension": {
+				"width": 33,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_34x90": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_34X90",
+			"dimension": {
+				"width": 34,
+				"height": 90
+			},
+			"additional": null
+		},
+		"cosmicMushroom_35x35": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_35X35",
+			"dimension": {
+				"width": 35,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_36x39": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_36X39",
+			"dimension": {
+				"width": 36,
+				"height": 39
+			},
+			"additional": null
+		},
+		"cosmicMushroom_37x33": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_37X33",
+			"dimension": {
+				"width": 37,
+				"height": 33
+			},
+			"additional": null
+		},
+		"cosmicMushroom_38x45": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_38X45",
+			"dimension": {
+				"width": 38,
+				"height": 45
+			},
+			"additional": null
+		},
+		"cosmicMushroom_40x24": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_40X24",
+			"dimension": {
+				"width": 40,
+				"height": 24
+			},
+			"additional": null
+		},
+		"cosmicMushroom_41x22": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_41X22",
+			"dimension": {
+				"width": 41,
+				"height": 22
+			},
+			"additional": null
+		},
+		"cosmicMushroom_41x24": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_41X24",
+			"dimension": {
+				"width": 41,
+				"height": 24
+			},
+			"additional": null
+		},
+		"cosmicMushroom_42x21": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_42X21",
+			"dimension": {
+				"width": 42,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_42x36": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_42X36",
+			"dimension": {
+				"width": 42,
+				"height": 36
+			},
+			"additional": null
+		},
+		"cosmicMushroom_43x21": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_43X21",
+			"dimension": {
+				"width": 43,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicMushroom_43x27": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_43X27",
+			"dimension": {
+				"width": 43,
+				"height": 27
+			},
+			"additional": null
+		},
+		"cosmicMushroom_43x60": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_43X60",
+			"dimension": {
+				"width": 43,
+				"height": 60
+			},
+			"additional": null
+		},
+		"cosmicMushroom_44x13": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_44X13",
+			"dimension": {
+				"width": 44,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_44x32": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_44X32",
+			"dimension": {
+				"width": 44,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_44x62": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_44X62",
+			"dimension": {
+				"width": 44,
+				"height": 62
+			},
+			"additional": null
+		},
+		"cosmicMushroom_47x13": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_47X13",
+			"dimension": {
+				"width": 47,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_47x13_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_47X13_2",
+			"dimension": {
+				"width": 47,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_49x13": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_49X13",
+			"dimension": {
+				"width": 49,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_4x4": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_4X4",
+			"dimension": {
+				"width": 4,
+				"height": 4
+			},
+			"additional": null
+		},
+		"cosmicMushroom_51x36": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_51X36",
+			"dimension": {
+				"width": 51,
+				"height": 36
+			},
+			"additional": null
+		},
+		"cosmicMushroom_52x19": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_52X19",
+			"dimension": {
+				"width": 52,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicMushroom_52x38": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_52X38",
+			"dimension": {
+				"width": 52,
+				"height": 38
+			},
+			"additional": null
+		},
+		"cosmicMushroom_53x52": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_53X52",
+			"dimension": {
+				"width": 53,
+				"height": 52
+			},
+			"additional": null
+		},
+		"cosmicMushroom_54x19": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_54X19",
+			"dimension": {
+				"width": 54,
+				"height": 19
+			},
+			"additional": null
+		},
+		"cosmicMushroom_56x32": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_56X32",
+			"dimension": {
+				"width": 56,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_56x32_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_56X32_2",
+			"dimension": {
+				"width": 56,
+				"height": 32
+			},
+			"additional": null
+		},
+		"cosmicMushroom_57x34": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_57X34",
+			"dimension": {
+				"width": 57,
+				"height": 34
+			},
+			"additional": null
+		},
+		"cosmicMushroom_57x35": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_57X35",
+			"dimension": {
+				"width": 57,
+				"height": 35
+			},
+			"additional": null
+		},
+		"cosmicMushroom_58x58": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_58X58",
+			"dimension": {
+				"width": 58,
+				"height": 58
+			},
+			"additional": null
+		},
+		"cosmicMushroom_59x26": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_59X26",
+			"dimension": {
+				"width": 59,
+				"height": 26
+			},
+			"additional": null
+		},
+		"cosmicMushroom_59x34": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_59X34",
+			"dimension": {
+				"width": 59,
+				"height": 34
+			},
+			"additional": null
+		},
+		"cosmicMushroom_5x5": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_5X5",
+			"dimension": {
+				"width": 5,
+				"height": 5
+			},
+			"additional": null
+		},
+		"cosmicMushroom_60x51": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_60X51",
+			"dimension": {
+				"width": 60,
+				"height": 51
+			},
+			"additional": null
+		},
+		"cosmicMushroom_60x61": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_60X61",
+			"dimension": {
+				"width": 60,
+				"height": 61
+			},
+			"additional": null
+		},
+		"cosmicMushroom_61x29": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_61X29",
+			"dimension": {
+				"width": 61,
+				"height": 29
+			},
+			"additional": null
+		},
+		"cosmicMushroom_61x30": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_61X30",
+			"dimension": {
+				"width": 61,
+				"height": 30
+			},
+			"additional": null
+		},
+		"cosmicMushroom_63x18": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_63X18",
+			"dimension": {
+				"width": 63,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicMushroom_63x45": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_63X45",
+			"dimension": {
+				"width": 63,
+				"height": 45
+			},
+			"additional": null
+		},
+		"cosmicMushroom_66x30": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_66X30",
+			"dimension": {
+				"width": 66,
+				"height": 30
+			},
+			"additional": null
+		},
+		"cosmicMushroom_67x17": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_67X17",
+			"dimension": {
+				"width": 67,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicMushroom_67x17_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_67X17_2",
+			"dimension": {
+				"width": 67,
+				"height": 17
+			},
+			"additional": null
+		},
+		"cosmicMushroom_69x30": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_69X30",
+			"dimension": {
+				"width": 69,
+				"height": 30
+			},
+			"additional": null
+		},
+		"cosmicMushroom_70x18": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_70X18",
+			"dimension": {
+				"width": 70,
+				"height": 18
+			},
+			"additional": null
+		},
+		"cosmicMushroom_70x27": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_70X27",
+			"dimension": {
+				"width": 70,
+				"height": 27
+			},
+			"additional": null
+		},
+		"cosmicMushroom_71x31": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_71X31",
+			"dimension": {
+				"width": 71,
+				"height": 31
+			},
+			"additional": null
+		},
+		"cosmicMushroom_73x34": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_73X34",
+			"dimension": {
+				"width": 73,
+				"height": 34
+			},
+			"additional": null
+		},
+		"cosmicMushroom_73x34_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_73X34_2",
+			"dimension": {
+				"width": 73,
+				"height": 34
+			},
+			"additional": null
+		},
+		"cosmicMushroom_75x73": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_75X73",
+			"dimension": {
+				"width": 75,
+				"height": 73
+			},
+			"additional": null
+		},
+		"cosmicMushroom_77x33": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_77X33",
+			"dimension": {
+				"width": 77,
+				"height": 33
+			},
+			"additional": null
+		},
+		"cosmicMushroom_78x27": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_78X27",
+			"dimension": {
+				"width": 78,
+				"height": 27
+			},
+			"additional": null
+		},
+		"cosmicMushroom_79x41": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_79X41",
+			"dimension": {
+				"width": 79,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicMushroom_7x11": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_7X11",
+			"dimension": {
+				"width": 7,
+				"height": 11
+			},
+			"additional": null
+		},
+		"cosmicMushroom_82x82": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_82X82",
+			"dimension": {
+				"width": 82,
+				"height": 82
+			},
+			"additional": null
+		},
+		"cosmicMushroom_84x90": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_84X90",
+			"dimension": {
+				"width": 84,
+				"height": 90
+			},
+			"additional": null
+		},
+		"cosmicMushroom_89x90": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_89X90",
+			"dimension": {
+				"width": 89,
+				"height": 90
+			},
+			"additional": null
+		},
+		"cosmicMushroom_8x13": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_8X13",
+			"dimension": {
+				"width": 8,
+				"height": 13
+			},
+			"additional": null
+		},
+		"cosmicMushroom_91x37": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_91X37",
+			"dimension": {
+				"width": 91,
+				"height": 37
+			},
+			"additional": null
+		},
+		"cosmicMushroom_91x39": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_91X39",
+			"dimension": {
+				"width": 91,
+				"height": 39
+			},
+			"additional": null
+		},
+		"cosmicMushroom_93x50": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_93X50",
+			"dimension": {
+				"width": 93,
+				"height": 50
+			},
+			"additional": null
+		},
+		"cosmicMushroom_96x41": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_96X41",
+			"dimension": {
+				"width": 96,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicMushroom_96x41_2": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_96X41_2",
+			"dimension": {
+				"width": 96,
+				"height": 41
+			},
+			"additional": null
+		},
+		"cosmicMushroom_97x44": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_97X44",
+			"dimension": {
+				"width": 97,
+				"height": 44
+			},
+			"additional": null
+		},
+		"cosmicMushroom_98x75": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_98X75",
+			"dimension": {
+				"width": 98,
+				"height": 75
+			},
+			"additional": null
+		},
+		"cosmicMushroom_9x11": {
+			"id": "IMAGE_PLANT_COSMICMUSHROOM_COSMICMUSHROOM_9X11",
+			"dimension": {
+				"width": 9,
+				"height": 11
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"Puffshroom_Mouth": [
+			"Puffshroom_Mouth_1"
+		],
+		"Puffshroom_Mouth 复制": [
+			"Puffshroom_Mouth 复制_1"
+		],
+		"Puffshroom_Mouth_Closed": [
+			"Puffshroom_Mouth_Closed_1"
+		],
+		"cosmicpuffshroom_bullet_lv5": [
+			"cosmicpuffshroom_bullet_lv5_1",
+			"cosmicpuffshroom_bullet_lv5_2"
+		],
+		"cosmicpuffshroom_flower00": [
+			"cosmicpuffshroom_flower00_1",
+			"cosmicpuffshroom_flower00_2",
+			"cosmicpuffshroom_flower00_3"
+		],
+		"cosmicpuffshroom_scaredyshroom mouth_02": [
+			"cosmicpuffshroom_scaredyshroom mouth_02_1"
+		],
+		"cosmicpuffshroom_smear_darkgreen": [
+			"cosmicpuffshroom_smear_darkgreen_1",
+			"cosmicpuffshroom_smear_darkgreen_2"
+		],
+		"cosmicpuffshroom_smear_darkgreen-": [
+			"cosmicpuffshroom_smear_darkgreen-_1",
+			"cosmicpuffshroom_smear_darkgreen-_2",
+			"cosmicpuffshroom_smear_darkgreen-_3"
+		],
+		"cosmicpuffshroom_threepeater_spinShine": [
+			"cosmicpuffshroom_threepeater_spinShine_1",
+			"cosmicpuffshroom_threepeater_spinShine_2",
+			"cosmicpuffshroom_threepeater_spinShine_3",
+			"cosmicpuffshroom_threepeater_spinShine_4"
+		],
+		"cosmicpuffshroom_元件 02 复制": [
+			"cosmicpuffshroom_元件 02 复制_1",
+			"cosmicpuffshroom_元件 02 复制_2"
+		],
+		"cosmicpuffshroom_元件 5": [
+			"cosmicpuffshroom_元件 5_1",
+			"cosmicpuffshroom_元件 5_2"
+		],
+		"puffshroom nozzle_02": [
+			"puffshroom nozzle_02_1",
+			"puffshroom nozzle_02_2"
+		],
+		"puffshroom_eye 复制 2": [
+			"puffshroom_eye 复制 2_1"
+		]
+	}
+}

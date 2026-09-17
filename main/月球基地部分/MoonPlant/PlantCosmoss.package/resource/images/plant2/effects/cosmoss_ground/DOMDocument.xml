@@ -1,0 +1,198 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/cosmoss_effect_10x10" href="media/cosmoss_effect_10x10.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_10x10_2" href="media/cosmoss_effect_10x10_2.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_10x9" href="media/cosmoss_effect_10x9.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_11x13" href="media/cosmoss_effect_11x13.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_129x123" href="media/cosmoss_effect_129x123.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_12x11" href="media/cosmoss_effect_12x11.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_138x90" href="media/cosmoss_effect_138x90.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_13x13" href="media/cosmoss_effect_13x13.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_14x14" href="media/cosmoss_effect_14x14.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_14x14_2" href="media/cosmoss_effect_14x14_2.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_152x167" href="media/cosmoss_effect_152x167.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_157x186" href="media/cosmoss_effect_157x186.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_15x14" href="media/cosmoss_effect_15x14.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_15x15" href="media/cosmoss_effect_15x15.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_15x15_2" href="media/cosmoss_effect_15x15_2.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_16x16" href="media/cosmoss_effect_16x16.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_16x17" href="media/cosmoss_effect_16x17.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_17x18" href="media/cosmoss_effect_17x18.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_18x18" href="media/cosmoss_effect_18x18.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_18x18_2" href="media/cosmoss_effect_18x18_2.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_21x19" href="media/cosmoss_effect_21x19.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_4x4" href="media/cosmoss_effect_4x4.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_4x5" href="media/cosmoss_effect_4x5.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_5x5" href="media/cosmoss_effect_5x5.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_5x5_2" href="media/cosmoss_effect_5x5_2.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_5x5_3" href="media/cosmoss_effect_5x5_3.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_5x6" href="media/cosmoss_effect_5x6.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_6x5" href="media/cosmoss_effect_6x5.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_6x6" href="media/cosmoss_effect_6x6.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_6x7" href="media/cosmoss_effect_6x7.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_6x7_2" href="media/cosmoss_effect_6x7_2.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_76x72" href="media/cosmoss_effect_76x72.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_7x7" href="media/cosmoss_effect_7x7.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_7x8" href="media/cosmoss_effect_7x8.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_82x51" href="media/cosmoss_effect_82x51.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_8x10" href="media/cosmoss_effect_8x10.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_8x8" href="media/cosmoss_effect_8x8.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_8x8_2" href="media/cosmoss_effect_8x8_2.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_91x101" href="media/cosmoss_effect_91x101.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_94x113" href="media/cosmoss_effect_94x113.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_97x114" href="media/cosmoss_effect_97x114.png"/>
+        <DOMBitmapItem name="media/cosmoss_effect_99x117" href="media/cosmoss_effect_99x117.png"/>
+    </media>
+    <symbols>
+        <Include href="image/cosmoss_effect_10x10.xml"/>
+        <Include href="image/cosmoss_effect_10x10_2.xml"/>
+        <Include href="image/cosmoss_effect_10x9.xml"/>
+        <Include href="image/cosmoss_effect_11x13.xml"/>
+        <Include href="image/cosmoss_effect_129x123.xml"/>
+        <Include href="image/cosmoss_effect_12x11.xml"/>
+        <Include href="image/cosmoss_effect_138x90.xml"/>
+        <Include href="image/cosmoss_effect_13x13.xml"/>
+        <Include href="image/cosmoss_effect_14x14.xml"/>
+        <Include href="image/cosmoss_effect_14x14_2.xml"/>
+        <Include href="image/cosmoss_effect_152x167.xml"/>
+        <Include href="image/cosmoss_effect_157x186.xml"/>
+        <Include href="image/cosmoss_effect_15x14.xml"/>
+        <Include href="image/cosmoss_effect_15x15.xml"/>
+        <Include href="image/cosmoss_effect_15x15_2.xml"/>
+        <Include href="image/cosmoss_effect_16x16.xml"/>
+        <Include href="image/cosmoss_effect_16x17.xml"/>
+        <Include href="image/cosmoss_effect_17x18.xml"/>
+        <Include href="image/cosmoss_effect_18x18.xml"/>
+        <Include href="image/cosmoss_effect_18x18_2.xml"/>
+        <Include href="image/cosmoss_effect_21x19.xml"/>
+        <Include href="image/cosmoss_effect_4x4.xml"/>
+        <Include href="image/cosmoss_effect_4x5.xml"/>
+        <Include href="image/cosmoss_effect_5x5.xml"/>
+        <Include href="image/cosmoss_effect_5x5_2.xml"/>
+        <Include href="image/cosmoss_effect_5x5_3.xml"/>
+        <Include href="image/cosmoss_effect_5x6.xml"/>
+        <Include href="image/cosmoss_effect_6x5.xml"/>
+        <Include href="image/cosmoss_effect_6x6.xml"/>
+        <Include href="image/cosmoss_effect_6x7.xml"/>
+        <Include href="image/cosmoss_effect_6x7_2.xml"/>
+        <Include href="image/cosmoss_effect_76x72.xml"/>
+        <Include href="image/cosmoss_effect_7x7.xml"/>
+        <Include href="image/cosmoss_effect_7x8.xml"/>
+        <Include href="image/cosmoss_effect_82x51.xml"/>
+        <Include href="image/cosmoss_effect_8x10.xml"/>
+        <Include href="image/cosmoss_effect_8x8.xml"/>
+        <Include href="image/cosmoss_effect_8x8_2.xml"/>
+        <Include href="image/cosmoss_effect_91x101.xml"/>
+        <Include href="image/cosmoss_effect_94x113.xml"/>
+        <Include href="image/cosmoss_effect_97x114.xml"/>
+        <Include href="image/cosmoss_effect_99x117.xml"/>
+        <Include href="sprite/grass_01.xml"/>
+        <Include href="sprite/grass_02.xml"/>
+        <Include href="sprite/grass_03.xml"/>
+        <Include href="sprite/grass_04.xml"/>
+        <Include href="sprite/grass_05.xml"/>
+        <Include href="sprite/grass_06.xml"/>
+        <Include href="sprite/light_01.xml"/>
+        <Include href="sprite/light_01_1.xml"/>
+        <Include href="sprite/light_02.xml"/>
+        <Include href="sprite/light_02_1.xml"/>
+        <Include href="sprite/light_05.xml"/>
+        <Include href="sprite/mushromm_03.xml"/>
+        <Include href="sprite/mushromm_03_1.xml"/>
+        <Include href="sprite/mushromm_03_2.xml"/>
+        <Include href="sprite/mushromm_03_3.xml"/>
+        <Include href="sprite/mushromm_03_4.xml"/>
+        <Include href="sprite/mushroom parts_02.xml"/>
+        <Include href="sprite/mushroom parts_02_1.xml"/>
+        <Include href="sprite/mushroom parts_02_2.xml"/>
+        <Include href="sprite/mushroom parts_02_3.xml"/>
+        <Include href="sprite/mushroom parts_02_4.xml"/>
+        <Include href="sprite/mushroom_01.xml"/>
+        <Include href="sprite/mushroom_01_1.xml"/>
+        <Include href="sprite/mushroom_01_2.xml"/>
+        <Include href="sprite/mushroom_01_3.xml"/>
+        <Include href="sprite/mushroom_01_4.xml"/>
+        <Include href="sprite/mushroom_01_5.xml"/>
+        <Include href="sprite/mushroom_02.xml"/>
+        <Include href="sprite/mushroom_02_.xml"/>
+        <Include href="sprite/mushroom_02_1.xml"/>
+        <Include href="sprite/mushroom_02_1_1.xml"/>
+        <Include href="sprite/mushroom_02_1_2.xml"/>
+        <Include href="sprite/mushroom_02_1_3.xml"/>
+        <Include href="sprite/mushroom_02_1_4.xml"/>
+        <Include href="sprite/mushroom_02_1_5.xml"/>
+        <Include href="sprite/mushroom_02_1_6.xml"/>
+        <Include href="sprite/mushroom_02_2.xml"/>
+        <Include href="sprite/mushroom_02_2_1.xml"/>
+        <Include href="sprite/mushroom_02_2_2.xml"/>
+        <Include href="sprite/mushroom_02_2_3.xml"/>
+        <Include href="sprite/mushroom_02_2_4.xml"/>
+        <Include href="sprite/mushroom_02_2_5.xml"/>
+        <Include href="sprite/mushroom_02_2_6.xml"/>
+        <Include href="sprite/mushroom_02_3.xml"/>
+        <Include href="sprite/mushroom_02_4.xml"/>
+        <Include href="sprite/mushroom_02_5.xml"/>
+        <Include href="sprite/mushroom_02_6.xml"/>
+        <Include href="sprite/mushroom_02__1.xml"/>
+        <Include href="sprite/mushroom_02__2.xml"/>
+        <Include href="sprite/mushroom_02__3.xml"/>
+        <Include href="sprite/mushroom_02__4.xml"/>
+        <Include href="label/spawn_unused_woyongbuliao.xml"/>
+        <Include href="label/idle.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="33" name="spawn_unused_woyongbuliao" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="32">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="32">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="33">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="33">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/spawn_unused_woyongbuliao" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="33" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

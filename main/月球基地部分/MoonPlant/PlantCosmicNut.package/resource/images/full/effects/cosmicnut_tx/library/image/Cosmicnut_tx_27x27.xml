@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/Cosmicnut_tx_27x27" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="Cosmicnut_tx_27x27">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/Cosmicnut_tx_27x27">
+                                    <matrix>
+                                        <Matrix a="7.696055" b="0.000000" c="0.000000" d="7.696055" tx="-136.399994" ty="-136.399994"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,127 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/Cosmicpea_bullet_103x28" href="media/Cosmicpea_bullet_103x28.png"/>
+        <DOMBitmapItem name="media/Cosmicpea_bullet_118x140" href="media/Cosmicpea_bullet_118x140.png"/>
+        <DOMBitmapItem name="media/Cosmicpea_bullet_138x64" href="media/Cosmicpea_bullet_138x64.png"/>
+        <DOMBitmapItem name="media/Cosmicpea_bullet_13x14" href="media/Cosmicpea_bullet_13x14.png"/>
+        <DOMBitmapItem name="media/Cosmicpea_bullet_25x22" href="media/Cosmicpea_bullet_25x22.png"/>
+        <DOMBitmapItem name="media/Cosmicpea_bullet_43x43" href="media/Cosmicpea_bullet_43x43.png"/>
+        <DOMBitmapItem name="media/Cosmicpea_bullet_6x7" href="media/Cosmicpea_bullet_6x7.png"/>
+        <DOMBitmapItem name="media/Cosmicpea_bullet_89x81" href="media/Cosmicpea_bullet_89x81.png"/>
+        <DOMBitmapItem name="media/Cosmicpea_bullet_8x8" href="media/Cosmicpea_bullet_8x8.png"/>
+        <DOMBitmapItem name="media/Cosmicpea_bullet_9x10" href="media/Cosmicpea_bullet_9x10.png"/>
+    </media>
+    <symbols>
+        <Include href="image/Cosmicpea_bullet_103x28.xml"/>
+        <Include href="image/Cosmicpea_bullet_118x140.xml"/>
+        <Include href="image/Cosmicpea_bullet_138x64.xml"/>
+        <Include href="image/Cosmicpea_bullet_13x14.xml"/>
+        <Include href="image/Cosmicpea_bullet_25x22.xml"/>
+        <Include href="image/Cosmicpea_bullet_43x43.xml"/>
+        <Include href="image/Cosmicpea_bullet_6x7.xml"/>
+        <Include href="image/Cosmicpea_bullet_89x81.xml"/>
+        <Include href="image/Cosmicpea_bullet_8x8.xml"/>
+        <Include href="image/Cosmicpea_bullet_9x10.xml"/>
+        <Include href="sprite/_star04.xml"/>
+        <Include href="sprite/_star04_1.xml"/>
+        <Include href="sprite/_star04_2.xml"/>
+        <Include href="sprite/_star04_3.xml"/>
+        <Include href="sprite/zd00.xml"/>
+        <Include href="label/zd.xml"/>
+        <Include href="label/lv5_01.xml"/>
+        <Include href="label/lv5_02.xml"/>
+        <Include href="label/lv5_03.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="25" name="zd" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="24" name="lv5_01" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="49" duration="30" name="lv5_02" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="79" duration="30" name="lv5_03" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="24">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="24">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="23">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="48">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="49" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="78">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="79" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="108">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="25">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/zd" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="24">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/lv5_01" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="49" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/lv5_02" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="79" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/lv5_03" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

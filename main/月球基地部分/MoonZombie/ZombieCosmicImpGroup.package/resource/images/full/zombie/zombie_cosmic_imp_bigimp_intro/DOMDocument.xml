@@ -1,0 +1,523 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_105x89" href="media/zombie_galactic_imp_corporate_105x89.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_109x111" href="media/zombie_galactic_imp_corporate_109x111.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_10x10" href="media/zombie_galactic_imp_corporate_10x10.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_112x62" href="media/zombie_galactic_imp_corporate_112x62.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_115x100" href="media/zombie_galactic_imp_corporate_115x100.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_116x123" href="media/zombie_galactic_imp_corporate_116x123.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_118x78" href="media/zombie_galactic_imp_corporate_118x78.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_119x129" href="media/zombie_galactic_imp_corporate_119x129.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_11x8" href="media/zombie_galactic_imp_corporate_11x8.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_120x120" href="media/zombie_galactic_imp_corporate_120x120.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_120x120_2" href="media/zombie_galactic_imp_corporate_120x120_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_12x12" href="media/zombie_galactic_imp_corporate_12x12.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_130x81" href="media/zombie_galactic_imp_corporate_130x81.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_131x95" href="media/zombie_galactic_imp_corporate_131x95.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_144x63" href="media/zombie_galactic_imp_corporate_144x63.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_153x104" href="media/zombie_galactic_imp_corporate_153x104.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_155x104" href="media/zombie_galactic_imp_corporate_155x104.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_158x127" href="media/zombie_galactic_imp_corporate_158x127.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_15x11" href="media/zombie_galactic_imp_corporate_15x11.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_167x8" href="media/zombie_galactic_imp_corporate_167x8.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_170x111" href="media/zombie_galactic_imp_corporate_170x111.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_176x97" href="media/zombie_galactic_imp_corporate_176x97.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_179x179" href="media/zombie_galactic_imp_corporate_179x179.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_186x105" href="media/zombie_galactic_imp_corporate_186x105.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_186x147" href="media/zombie_galactic_imp_corporate_186x147.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_207x221" href="media/zombie_galactic_imp_corporate_207x221.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_207x300" href="media/zombie_galactic_imp_corporate_207x300.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_208x149" href="media/zombie_galactic_imp_corporate_208x149.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_213x82" href="media/zombie_galactic_imp_corporate_213x82.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_223x118" href="media/zombie_galactic_imp_corporate_223x118.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_230x270" href="media/zombie_galactic_imp_corporate_230x270.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_231x132" href="media/zombie_galactic_imp_corporate_231x132.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_23x16" href="media/zombie_galactic_imp_corporate_23x16.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_24x63" href="media/zombie_galactic_imp_corporate_24x63.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_25x40" href="media/zombie_galactic_imp_corporate_25x40.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_260x260" href="media/zombie_galactic_imp_corporate_260x260.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_269x95" href="media/zombie_galactic_imp_corporate_269x95.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_26x26" href="media/zombie_galactic_imp_corporate_26x26.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_26x38" href="media/zombie_galactic_imp_corporate_26x38.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_26x41" href="media/zombie_galactic_imp_corporate_26x41.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_274x90" href="media/zombie_galactic_imp_corporate_274x90.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_27x30" href="media/zombie_galactic_imp_corporate_27x30.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_28x32" href="media/zombie_galactic_imp_corporate_28x32.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_29x17" href="media/zombie_galactic_imp_corporate_29x17.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_29x25" href="media/zombie_galactic_imp_corporate_29x25.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_29x44" href="media/zombie_galactic_imp_corporate_29x44.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_31x36" href="media/zombie_galactic_imp_corporate_31x36.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_32x21" href="media/zombie_galactic_imp_corporate_32x21.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_32x31" href="media/zombie_galactic_imp_corporate_32x31.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_33x22" href="media/zombie_galactic_imp_corporate_33x22.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_33x39" href="media/zombie_galactic_imp_corporate_33x39.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_33x88" href="media/zombie_galactic_imp_corporate_33x88.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_34x41" href="media/zombie_galactic_imp_corporate_34x41.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_34x50" href="media/zombie_galactic_imp_corporate_34x50.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_34x55" href="media/zombie_galactic_imp_corporate_34x55.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_35x54" href="media/zombie_galactic_imp_corporate_35x54.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_36x33" href="media/zombie_galactic_imp_corporate_36x33.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_38x22" href="media/zombie_galactic_imp_corporate_38x22.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_38x38" href="media/zombie_galactic_imp_corporate_38x38.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_38x59" href="media/zombie_galactic_imp_corporate_38x59.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_39x39" href="media/zombie_galactic_imp_corporate_39x39.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_40x34" href="media/zombie_galactic_imp_corporate_40x34.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_40x42" href="media/zombie_galactic_imp_corporate_40x42.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_40x45" href="media/zombie_galactic_imp_corporate_40x45.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_40x62" href="media/zombie_galactic_imp_corporate_40x62.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_42x28" href="media/zombie_galactic_imp_corporate_42x28.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_44x41" href="media/zombie_galactic_imp_corporate_44x41.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_45x68" href="media/zombie_galactic_imp_corporate_45x68.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_46x29" href="media/zombie_galactic_imp_corporate_46x29.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_47x63" href="media/zombie_galactic_imp_corporate_47x63.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_48x29" href="media/zombie_galactic_imp_corporate_48x29.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_50x45" href="media/zombie_galactic_imp_corporate_50x45.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_51x51" href="media/zombie_galactic_imp_corporate_51x51.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_52x54" href="media/zombie_galactic_imp_corporate_52x54.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_53x35" href="media/zombie_galactic_imp_corporate_53x35.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_54x55" href="media/zombie_galactic_imp_corporate_54x55.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_56x56" href="media/zombie_galactic_imp_corporate_56x56.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_56x68" href="media/zombie_galactic_imp_corporate_56x68.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_57x70" href="media/zombie_galactic_imp_corporate_57x70.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_62x39" href="media/zombie_galactic_imp_corporate_62x39.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_63x52" href="media/zombie_galactic_imp_corporate_63x52.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_64x68" href="media/zombie_galactic_imp_corporate_64x68.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_65x38" href="media/zombie_galactic_imp_corporate_65x38.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_6x6" href="media/zombie_galactic_imp_corporate_6x6.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_74x84" href="media/zombie_galactic_imp_corporate_74x84.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_76x76" href="media/zombie_galactic_imp_corporate_76x76.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_81x88" href="media/zombie_galactic_imp_corporate_81x88.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_84x56" href="media/zombie_galactic_imp_corporate_84x56.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_85x92" href="media/zombie_galactic_imp_corporate_85x92.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_86x70" href="media/zombie_galactic_imp_corporate_86x70.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_8x7" href="media/zombie_galactic_imp_corporate_8x7.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_imp_corporate_9x9" href="media/zombie_galactic_imp_corporate_9x9.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zombie_galactic_imp_corporate_105x89.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_109x111.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_10x10.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_112x62.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_115x100.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_116x123.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_118x78.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_119x129.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_11x8.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_120x120.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_120x120_2.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_12x12.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_130x81.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_131x95.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_144x63.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_153x104.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_155x104.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_158x127.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_15x11.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_167x8.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_170x111.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_176x97.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_179x179.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_186x105.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_186x147.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_207x221.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_207x300.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_208x149.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_213x82.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_223x118.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_230x270.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_231x132.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_23x16.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_24x63.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_25x40.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_260x260.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_269x95.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_26x26.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_26x38.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_26x41.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_274x90.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_27x30.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_28x32.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_29x17.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_29x25.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_29x44.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_31x36.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_32x21.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_32x31.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_33x22.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_33x39.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_33x88.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_34x41.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_34x50.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_34x55.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_35x54.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_36x33.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_38x22.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_38x38.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_38x59.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_39x39.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_40x34.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_40x42.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_40x45.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_40x62.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_42x28.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_44x41.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_45x68.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_46x29.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_47x63.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_48x29.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_50x45.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_51x51.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_52x54.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_53x35.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_54x55.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_56x56.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_56x68.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_57x70.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_62x39.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_63x52.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_64x68.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_65x38.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_6x6.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_74x84.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_76x76.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_81x88.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_84x56.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_85x92.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_86x70.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_8x7.xml"/>
+        <Include href="image/zombie_galactic_imp_corporate_9x9.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Arm_Inner_Lower01.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Arm_Inner_Lower01_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Arm_Inner_Upper.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Arm_Inner_Upper_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Arm_Outer_Upper_01.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Arm_Outer_Upper_02.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Arms_Outer_Upper.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Hand_Inner.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Hand_Inner_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Hand_Outer.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Hand_Outer_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Hand_Outer_Lower.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Hand_Outer_Lower_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Jaw.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Leg_Inner_Lower.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Leg_Inner_Lower_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Leg_Inner_Upper.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Leg_Inner_Upper_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Leg_Outer_Lower.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Leg_Outer_Lower_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Leg_Outer_Upper.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Leg_Outer_Upper_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Skull.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Toe_Inner.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Toe_Inner_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Toe_Outer.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Toe_Outer_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Torso.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Torso_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Torso_Tie.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Torso_Tie_1.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Waist.xml"/>
+        <Include href="sprite/Zombie_Corporate_Imp_Waist_1.xml"/>
+        <Include href="sprite/butter.xml"/>
+        <Include href="sprite/circle_spawn.xml"/>
+        <Include href="sprite/circle_spawn_1.xml"/>
+        <Include href="sprite/ground_swatch.xml"/>
+        <Include href="sprite/ground_swatch_plane.xml"/>
+        <Include href="sprite/imp_die_glow.xml"/>
+        <Include href="sprite/infinut_plantfood_fx_lightning_filtered.xml"/>
+        <Include href="sprite/infinut_plantfood_fx_lightning_filtered_1.xml"/>
+        <Include href="sprite/infinut_plantfood_fx_lightning_filtered_2.xml"/>
+        <Include href="sprite/infinut_plantfood_fx_lightning_filtered_3.xml"/>
+        <Include href="sprite/ink.xml"/>
+        <Include href="sprite/particle_head.xml"/>
+        <Include href="sprite/splat_piece.xml"/>
+        <Include href="sprite/splat_piece_1.xml"/>
+        <Include href="sprite/splat_piece_2.xml"/>
+        <Include href="sprite/splat_piece_3.xml"/>
+        <Include href="sprite/splat_piece_4.xml"/>
+        <Include href="sprite/splat_piece_5.xml"/>
+        <Include href="sprite/zombie_pros_dust_cloud.xml"/>
+        <Include href="label/walk.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/walk_gunmu.xml"/>
+        <Include href="label/eat.xml"/>
+        <Include href="label/smash_left.xml"/>
+        <Include href="label/die.xml"/>
+        <Include href="label/die_moon.xml"/>
+        <Include href="label/particles.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="37" name="walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="64" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="101" duration="94" name="walk_gunmu" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="195" duration="27" name="eat" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="222" duration="37" name="smash_left" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="259" duration="80" name="die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="339" duration="34" name="die_moon" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="373" duration="1" name="particles" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="16">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="18">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="35">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("transform", "TransformArgs[Zombie,cosmic_imp_gargantuar], Include[cosmic_imp_gargantuar_intro]");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="36">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="63">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="100">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="101" duration="21">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="122">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="123" duration="8">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="131">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zombie_ZCorp_Imp_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="132" duration="25">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="157">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="158" duration="19">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="177">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zombie_ZCorp_Imp_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="178" duration="16">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="194">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="195">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Egypt_Gargantuar_Mvmt_Attack_Swing");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="196" duration="22">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="218">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Egypt_Gargantuar_Mvmt_Attack_Swing");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="219" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="221">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="222">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("smash_left", "");
+fscommand("PlaySample", "Play_Zomb_Egypt_Gargantuar_Mvmt_Attack_Weapon_Impact");
+fscommand("PlaySample", "Play_Zombie_ZCorp_Imp_Attack_Bat");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="223" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="225">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Gargantuar_Mvmt_Attack_Voc");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="226" duration="25">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="251">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Egypt_Gargantuar_Mvmt_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="252" duration="6">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="258">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="259">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Gargantuar_Mvmt_Death_Weapon");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="260" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="269">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Egypt_Gargantuar_Mvmt_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="270" duration="41">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="311">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Gargantuar_Mvmt_Death_Fall_Body");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="312" duration="26">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="338">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="339" duration="33">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="372">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="373">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="37">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/walk" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="37" duration="64">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="101" duration="94">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/walk_gunmu" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="195" duration="27">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/eat" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="222" duration="37">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/smash_left" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="259" duration="80">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="339" duration="34">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die_moon" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="373" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/particles" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

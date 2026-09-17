@@ -1,0 +1,372 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sprite/light_lv2_1" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="light_lv2_1">
+            <layers>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.215057" b="0.000000" c="0.000000" d="1.215057" tx="0.000000" ty="0.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.580392"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.229294" b="0.000000" c="0.000000" d="1.229294" tx="-0.100000" ty="-0.150000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.243515" b="0.000000" c="0.000000" d="1.243515" tx="-0.250000" ty="-0.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.541176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.257751" b="0.000000" c="0.000000" d="1.257751" tx="-0.400000" ty="-0.400000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.521569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.271973" b="0.000000" c="0.000000" d="1.271973" tx="-0.500000" ty="-0.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.286194" b="0.000000" c="0.000000" d="1.286194" tx="-0.650000" ty="-0.650000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.482353"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.300430" b="0.000000" c="0.000000" d="1.300430" tx="-0.800000" ty="-0.800000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.462745"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.314651" b="0.000000" c="0.000000" d="1.314651" tx="-0.900000" ty="-0.900000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.443137"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.328873" b="0.000000" c="0.000000" d="1.328873" tx="-1.100000" ty="-1.050000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.419608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.343109" b="0.000000" c="0.000000" d="1.343109" tx="-1.200000" ty="-1.150000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.400000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.357330" b="0.000000" c="0.000000" d="1.357330" tx="-1.350000" ty="-1.300000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.380392"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.371582" b="0.000000" c="0.000000" d="1.371582" tx="-1.500000" ty="-1.450000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.360784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.385788" b="0.000000" c="0.000000" d="1.385788" tx="-1.600000" ty="-1.550000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.341176"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.400040" b="0.000000" c="0.000000" d="1.400040" tx="-1.750000" ty="-1.700000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.321569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.414246" b="0.000000" c="0.000000" d="1.414246" tx="-1.800000" ty="-1.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.301961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.400970" b="0.000000" c="0.000000" d="1.400970" tx="-1.650000" ty="-1.650000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.321569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.387680" b="0.000000" c="0.000000" d="1.387680" tx="-1.500000" ty="-1.450000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.337255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.374405" b="0.000000" c="0.000000" d="1.374405" tx="-1.400000" ty="-1.350000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.356863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.361145" b="0.000000" c="0.000000" d="1.361145" tx="-1.300000" ty="-1.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.376471"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.347870" b="0.000000" c="0.000000" d="1.347870" tx="-1.150000" ty="-1.100000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.396078"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.334579" b="0.000000" c="0.000000" d="1.334579" tx="-1.050000" ty="-1.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.411765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.321304" b="0.000000" c="0.000000" d="1.321304" tx="-0.950000" ty="-0.900000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.431373"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.308014" b="0.000000" c="0.000000" d="1.308014" tx="-0.750000" ty="-0.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.450980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.294739" b="0.000000" c="0.000000" d="1.294739" tx="-0.650000" ty="-0.650000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.470588"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.281448" b="0.000000" c="0.000000" d="1.281448" tx="-0.500000" ty="-0.550000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.486275"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.268173" b="0.000000" c="0.000000" d="1.268173" tx="-0.350000" ty="-0.400000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.505882"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="26" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.254898" b="0.000000" c="0.000000" d="1.254898" tx="-0.250000" ty="-0.300000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.525490"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="27" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.241623" b="0.000000" c="0.000000" d="1.241623" tx="-0.150000" ty="-0.200000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.545098"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="28" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.228333" b="0.000000" c="0.000000" d="1.228333" tx="0.000000" ty="-0.050000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.560784"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="29" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/cosmicMushroom_projectile_65x65" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.215057" b="0.000000" c="0.000000" d="1.215057" tx="0.000000" ty="0.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.580392"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

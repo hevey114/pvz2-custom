@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/Moon_Rocket_148x146" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="Moon_Rocket_148x146">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/Moon_Rocket_148x146">
+                                    <matrix>
+                                        <Matrix a="0.478394" b="0.000000" c="0.000000" d="0.478394" tx="-41.099998" ty="-39.900002"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

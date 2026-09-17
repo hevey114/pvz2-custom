@@ -1,0 +1,110 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_37x37" href="media/pineclone_projectile_hit_37x37.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_28x150" href="media/pineclone_projectile_hit_28x150.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_28x502" href="media/pineclone_projectile_hit_28x502.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_28x1077" href="media/pineclone_projectile_hit_28x1077.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_19x17" href="media/pineclone_projectile_hit_19x17.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_27x24" href="media/pineclone_projectile_hit_27x24.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_21x26" href="media/pineclone_projectile_hit_21x26.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_26x23" href="media/pineclone_projectile_hit_26x23.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_22x20" href="media/pineclone_projectile_hit_22x20.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_20x18" href="media/pineclone_projectile_hit_20x18.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_19x20" href="media/pineclone_projectile_hit_19x20.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_17x16" href="media/pineclone_projectile_hit_17x16.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_18x17" href="media/pineclone_projectile_hit_18x17.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_47x73" href="media/pineclone_projectile_hit_47x73.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_22x22" href="media/pineclone_projectile_hit_22x22.png"/>
+        <DOMBitmapItem name="media/../pineclone_projectile/pineclone_projectile_1x1" href="media/../pineclone_projectile/pineclone_projectile_1x1.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_hit_54x56" href="media/pineclone_projectile_hit_54x56.png"/>
+    </media>
+    <symbols>
+        <Include href="image/pineclone_projectile_hit_37x37.xml"/>
+        <Include href="image/pineclone_projectile_hit_28x150.xml"/>
+        <Include href="image/pineclone_projectile_hit_28x502.xml"/>
+        <Include href="image/pineclone_projectile_hit_28x1077.xml"/>
+        <Include href="image/pineclone_projectile_hit_19x17.xml"/>
+        <Include href="image/pineclone_projectile_hit_27x24.xml"/>
+        <Include href="image/pineclone_projectile_hit_21x26.xml"/>
+        <Include href="image/pineclone_projectile_hit_26x23.xml"/>
+        <Include href="image/pineclone_projectile_hit_22x20.xml"/>
+        <Include href="image/pineclone_projectile_hit_20x18.xml"/>
+        <Include href="image/pineclone_projectile_hit_19x20.xml"/>
+        <Include href="image/pineclone_projectile_hit_17x16.xml"/>
+        <Include href="image/pineclone_projectile_hit_18x17.xml"/>
+        <Include href="image/pineclone_projectile_hit_47x73.xml"/>
+        <Include href="image/pineclone_projectile_hit_22x22.xml"/>
+        <Include href="image/pineclone_projectile_1x1.xml"/>
+        <Include href="image/pineclone_projectile_hit_54x56.xml"/>
+        <Include href="sprite/erlightningreed_spark_01.xml"/>
+        <Include href="label/hit01.xml"/>
+        <Include href="label/hit02.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="25" name="hit01" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="24" name="hit02" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="16">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("attack", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="7">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="24">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="23">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="48">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="25">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/hit01" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="24">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/hit02" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

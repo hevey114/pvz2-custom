@@ -1,0 +1,898 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_100x100" href="media/zombie_moon_ship5000_100x100.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_100x86" href="media/zombie_moon_ship5000_100x86.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_101x65" href="media/zombie_moon_ship5000_101x65.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_101x66" href="media/zombie_moon_ship5000_101x66.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_101x71" href="media/zombie_moon_ship5000_101x71.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_101x71_2" href="media/zombie_moon_ship5000_101x71_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_103x112" href="media/zombie_moon_ship5000_103x112.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_103x112_2" href="media/zombie_moon_ship5000_103x112_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_103x112_3" href="media/zombie_moon_ship5000_103x112_3.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_107x96" href="media/zombie_moon_ship5000_107x96.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_111x94" href="media/zombie_moon_ship5000_111x94.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_112x85" href="media/zombie_moon_ship5000_112x85.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_115x105" href="media/zombie_moon_ship5000_115x105.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_115x115" href="media/zombie_moon_ship5000_115x115.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_116x115" href="media/zombie_moon_ship5000_116x115.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_11x14" href="media/zombie_moon_ship5000_11x14.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_121x147" href="media/zombie_moon_ship5000_121x147.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_122x148" href="media/zombie_moon_ship5000_122x148.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_125x138" href="media/zombie_moon_ship5000_125x138.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_12x18" href="media/zombie_moon_ship5000_12x18.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_130x118" href="media/zombie_moon_ship5000_130x118.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_131x119" href="media/zombie_moon_ship5000_131x119.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_131x141" href="media/zombie_moon_ship5000_131x141.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_135x8" href="media/zombie_moon_ship5000_135x8.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_137x137" href="media/zombie_moon_ship5000_137x137.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_140x132" href="media/zombie_moon_ship5000_140x132.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_141x127" href="media/zombie_moon_ship5000_141x127.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_149x100" href="media/zombie_moon_ship5000_149x100.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_149x69" href="media/zombie_moon_ship5000_149x69.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_14x14" href="media/zombie_moon_ship5000_14x14.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_150x135" href="media/zombie_moon_ship5000_150x135.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_152x92" href="media/zombie_moon_ship5000_152x92.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_156x129" href="media/zombie_moon_ship5000_156x129.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_156x147" href="media/zombie_moon_ship5000_156x147.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_158x152" href="media/zombie_moon_ship5000_158x152.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_15x19" href="media/zombie_moon_ship5000_15x19.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_15x23" href="media/zombie_moon_ship5000_15x23.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_15x25" href="media/zombie_moon_ship5000_15x25.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_15x25_2" href="media/zombie_moon_ship5000_15x25_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_161x152" href="media/zombie_moon_ship5000_161x152.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_163x148" href="media/zombie_moon_ship5000_163x148.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_163x65" href="media/zombie_moon_ship5000_163x65.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_16x28" href="media/zombie_moon_ship5000_16x28.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_16x28_2" href="media/zombie_moon_ship5000_16x28_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_171x62" href="media/zombie_moon_ship5000_171x62.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_171x62_2" href="media/zombie_moon_ship5000_171x62_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_171x62_3" href="media/zombie_moon_ship5000_171x62_3.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_179x194" href="media/zombie_moon_ship5000_179x194.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_17x26" href="media/zombie_moon_ship5000_17x26.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_181x165" href="media/zombie_moon_ship5000_181x165.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_187x179" href="media/zombie_moon_ship5000_187x179.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_187x179_2" href="media/zombie_moon_ship5000_187x179_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_187x179_3" href="media/zombie_moon_ship5000_187x179_3.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_18x25" href="media/zombie_moon_ship5000_18x25.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_18x25_2" href="media/zombie_moon_ship5000_18x25_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_18x26" href="media/zombie_moon_ship5000_18x26.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_190x171" href="media/zombie_moon_ship5000_190x171.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_190x188" href="media/zombie_moon_ship5000_190x188.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_194x228" href="media/zombie_moon_ship5000_194x228.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_199x195" href="media/zombie_moon_ship5000_199x195.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_199x198" href="media/zombie_moon_ship5000_199x198.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_199x202" href="media/zombie_moon_ship5000_199x202.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_19x14" href="media/zombie_moon_ship5000_19x14.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1" href="media/zombie_moon_ship5000_1x1.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_10" href="media/zombie_moon_ship5000_1x1_10.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_11" href="media/zombie_moon_ship5000_1x1_11.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_12" href="media/zombie_moon_ship5000_1x1_12.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_13" href="media/zombie_moon_ship5000_1x1_13.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_14" href="media/zombie_moon_ship5000_1x1_14.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_15" href="media/zombie_moon_ship5000_1x1_15.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_2" href="media/zombie_moon_ship5000_1x1_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_3" href="media/zombie_moon_ship5000_1x1_3.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_4" href="media/zombie_moon_ship5000_1x1_4.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_5" href="media/zombie_moon_ship5000_1x1_5.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_6" href="media/zombie_moon_ship5000_1x1_6.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_7" href="media/zombie_moon_ship5000_1x1_7.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_8" href="media/zombie_moon_ship5000_1x1_8.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_1x1_9" href="media/zombie_moon_ship5000_1x1_9.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_200x170" href="media/zombie_moon_ship5000_200x170.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_202x201" href="media/zombie_moon_ship5000_202x201.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_202x201_2" href="media/zombie_moon_ship5000_202x201_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_202x201_3" href="media/zombie_moon_ship5000_202x201_3.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_205x194" href="media/zombie_moon_ship5000_205x194.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_209x122" href="media/zombie_moon_ship5000_209x122.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_209x199" href="media/zombie_moon_ship5000_209x199.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_20x15" href="media/zombie_moon_ship5000_20x15.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_20x21" href="media/zombie_moon_ship5000_20x21.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_20x24" href="media/zombie_moon_ship5000_20x24.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_21x21" href="media/zombie_moon_ship5000_21x21.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_222x224" href="media/zombie_moon_ship5000_222x224.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_225x204" href="media/zombie_moon_ship5000_225x204.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_22x29" href="media/zombie_moon_ship5000_22x29.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_23x18" href="media/zombie_moon_ship5000_23x18.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_283x234" href="media/zombie_moon_ship5000_283x234.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_283x258" href="media/zombie_moon_ship5000_283x258.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_285x243" href="media/zombie_moon_ship5000_285x243.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_28x16" href="media/zombie_moon_ship5000_28x16.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_29x27" href="media/zombie_moon_ship5000_29x27.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_305x189" href="media/zombie_moon_ship5000_305x189.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_32x35" href="media/zombie_moon_ship5000_32x35.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_33x34" href="media/zombie_moon_ship5000_33x34.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_36x41" href="media/zombie_moon_ship5000_36x41.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_37x39" href="media/zombie_moon_ship5000_37x39.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_384x350" href="media/zombie_moon_ship5000_384x350.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_38x37" href="media/zombie_moon_ship5000_38x37.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_39x48" href="media/zombie_moon_ship5000_39x48.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_40x54" href="media/zombie_moon_ship5000_40x54.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_40x54_2" href="media/zombie_moon_ship5000_40x54_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_411x403" href="media/zombie_moon_ship5000_411x403.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_41x46" href="media/zombie_moon_ship5000_41x46.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_41x52" href="media/zombie_moon_ship5000_41x52.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_43x40" href="media/zombie_moon_ship5000_43x40.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_43x61" href="media/zombie_moon_ship5000_43x61.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_45x46" href="media/zombie_moon_ship5000_45x46.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_45x65" href="media/zombie_moon_ship5000_45x65.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_45x71" href="media/zombie_moon_ship5000_45x71.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_46x71" href="media/zombie_moon_ship5000_46x71.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_47x43" href="media/zombie_moon_ship5000_47x43.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_47x50" href="media/zombie_moon_ship5000_47x50.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_48x45" href="media/zombie_moon_ship5000_48x45.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_48x49" href="media/zombie_moon_ship5000_48x49.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_49x46" href="media/zombie_moon_ship5000_49x46.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_49x50" href="media/zombie_moon_ship5000_49x50.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_49x60" href="media/zombie_moon_ship5000_49x60.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_50x85" href="media/zombie_moon_ship5000_50x85.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_51x81" href="media/zombie_moon_ship5000_51x81.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_52x31" href="media/zombie_moon_ship5000_52x31.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_52x47" href="media/zombie_moon_ship5000_52x47.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_53x27" href="media/zombie_moon_ship5000_53x27.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_53x54" href="media/zombie_moon_ship5000_53x54.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_54x47" href="media/zombie_moon_ship5000_54x47.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_55x106" href="media/zombie_moon_ship5000_55x106.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_56x62" href="media/zombie_moon_ship5000_56x62.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_57x65" href="media/zombie_moon_ship5000_57x65.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_57x66" href="media/zombie_moon_ship5000_57x66.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_58x53" href="media/zombie_moon_ship5000_58x53.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_60x107" href="media/zombie_moon_ship5000_60x107.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_60x117" href="media/zombie_moon_ship5000_60x117.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_60x118" href="media/zombie_moon_ship5000_60x118.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_61x56" href="media/zombie_moon_ship5000_61x56.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_62x36" href="media/zombie_moon_ship5000_62x36.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_62x64" href="media/zombie_moon_ship5000_62x64.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_63x133" href="media/zombie_moon_ship5000_63x133.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_63x37" href="media/zombie_moon_ship5000_63x37.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_63x53" href="media/zombie_moon_ship5000_63x53.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_63x61" href="media/zombie_moon_ship5000_63x61.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_64x36" href="media/zombie_moon_ship5000_64x36.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_64x73" href="media/zombie_moon_ship5000_64x73.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_64x86" href="media/zombie_moon_ship5000_64x86.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_64x87" href="media/zombie_moon_ship5000_64x87.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_65x65" href="media/zombie_moon_ship5000_65x65.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_66x33" href="media/zombie_moon_ship5000_66x33.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_66x33_2" href="media/zombie_moon_ship5000_66x33_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_66x51" href="media/zombie_moon_ship5000_66x51.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_66x64" href="media/zombie_moon_ship5000_66x64.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_66x69" href="media/zombie_moon_ship5000_66x69.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_67x68" href="media/zombie_moon_ship5000_67x68.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_67x68_2" href="media/zombie_moon_ship5000_67x68_2.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_68x60" href="media/zombie_moon_ship5000_68x60.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_68x83" href="media/zombie_moon_ship5000_68x83.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_68x98" href="media/zombie_moon_ship5000_68x98.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_68x99" href="media/zombie_moon_ship5000_68x99.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_6x6" href="media/zombie_moon_ship5000_6x6.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_70x135" href="media/zombie_moon_ship5000_70x135.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_70x57" href="media/zombie_moon_ship5000_70x57.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_70x71" href="media/zombie_moon_ship5000_70x71.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_71x52" href="media/zombie_moon_ship5000_71x52.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_71x59" href="media/zombie_moon_ship5000_71x59.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_71x73" href="media/zombie_moon_ship5000_71x73.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_72x155" href="media/zombie_moon_ship5000_72x155.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_72x65" href="media/zombie_moon_ship5000_72x65.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_73x103" href="media/zombie_moon_ship5000_73x103.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_73x77" href="media/zombie_moon_ship5000_73x77.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_74x105" href="media/zombie_moon_ship5000_74x105.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_74x148" href="media/zombie_moon_ship5000_74x148.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_74x61" href="media/zombie_moon_ship5000_74x61.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_75x54" href="media/zombie_moon_ship5000_75x54.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_76x50" href="media/zombie_moon_ship5000_76x50.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_76x73" href="media/zombie_moon_ship5000_76x73.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_77x171" href="media/zombie_moon_ship5000_77x171.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_79x49" href="media/zombie_moon_ship5000_79x49.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_7x7" href="media/zombie_moon_ship5000_7x7.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_80x49" href="media/zombie_moon_ship5000_80x49.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_81x70" href="media/zombie_moon_ship5000_81x70.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_84x175" href="media/zombie_moon_ship5000_84x175.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_85x68" href="media/zombie_moon_ship5000_85x68.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_85x73" href="media/zombie_moon_ship5000_85x73.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_87x102" href="media/zombie_moon_ship5000_87x102.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_87x93" href="media/zombie_moon_ship5000_87x93.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_90x78" href="media/zombie_moon_ship5000_90x78.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_90x84" href="media/zombie_moon_ship5000_90x84.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_91x104" href="media/zombie_moon_ship5000_91x104.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_91x82" href="media/zombie_moon_ship5000_91x82.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_92x73" href="media/zombie_moon_ship5000_92x73.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_93x58" href="media/zombie_moon_ship5000_93x58.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_96x50" href="media/zombie_moon_ship5000_96x50.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_99x237" href="media/zombie_moon_ship5000_99x237.png"/>
+        <DOMBitmapItem name="media/zombie_moon_ship5000_99x99" href="media/zombie_moon_ship5000_99x99.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zombie_moon_ship5000_100x100.xml"/>
+        <Include href="image/zombie_moon_ship5000_100x86.xml"/>
+        <Include href="image/zombie_moon_ship5000_101x65.xml"/>
+        <Include href="image/zombie_moon_ship5000_101x66.xml"/>
+        <Include href="image/zombie_moon_ship5000_101x71.xml"/>
+        <Include href="image/zombie_moon_ship5000_101x71_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_103x112.xml"/>
+        <Include href="image/zombie_moon_ship5000_103x112_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_103x112_3.xml"/>
+        <Include href="image/zombie_moon_ship5000_107x96.xml"/>
+        <Include href="image/zombie_moon_ship5000_111x94.xml"/>
+        <Include href="image/zombie_moon_ship5000_112x85.xml"/>
+        <Include href="image/zombie_moon_ship5000_115x105.xml"/>
+        <Include href="image/zombie_moon_ship5000_115x115.xml"/>
+        <Include href="image/zombie_moon_ship5000_116x115.xml"/>
+        <Include href="image/zombie_moon_ship5000_11x14.xml"/>
+        <Include href="image/zombie_moon_ship5000_121x147.xml"/>
+        <Include href="image/zombie_moon_ship5000_122x148.xml"/>
+        <Include href="image/zombie_moon_ship5000_125x138.xml"/>
+        <Include href="image/zombie_moon_ship5000_12x18.xml"/>
+        <Include href="image/zombie_moon_ship5000_130x118.xml"/>
+        <Include href="image/zombie_moon_ship5000_131x119.xml"/>
+        <Include href="image/zombie_moon_ship5000_131x141.xml"/>
+        <Include href="image/zombie_moon_ship5000_135x8.xml"/>
+        <Include href="image/zombie_moon_ship5000_137x137.xml"/>
+        <Include href="image/zombie_moon_ship5000_140x132.xml"/>
+        <Include href="image/zombie_moon_ship5000_141x127.xml"/>
+        <Include href="image/zombie_moon_ship5000_149x100.xml"/>
+        <Include href="image/zombie_moon_ship5000_149x69.xml"/>
+        <Include href="image/zombie_moon_ship5000_14x14.xml"/>
+        <Include href="image/zombie_moon_ship5000_150x135.xml"/>
+        <Include href="image/zombie_moon_ship5000_152x92.xml"/>
+        <Include href="image/zombie_moon_ship5000_156x129.xml"/>
+        <Include href="image/zombie_moon_ship5000_156x147.xml"/>
+        <Include href="image/zombie_moon_ship5000_158x152.xml"/>
+        <Include href="image/zombie_moon_ship5000_15x19.xml"/>
+        <Include href="image/zombie_moon_ship5000_15x23.xml"/>
+        <Include href="image/zombie_moon_ship5000_15x25.xml"/>
+        <Include href="image/zombie_moon_ship5000_15x25_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_161x152.xml"/>
+        <Include href="image/zombie_moon_ship5000_163x148.xml"/>
+        <Include href="image/zombie_moon_ship5000_163x65.xml"/>
+        <Include href="image/zombie_moon_ship5000_16x28.xml"/>
+        <Include href="image/zombie_moon_ship5000_16x28_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_171x62.xml"/>
+        <Include href="image/zombie_moon_ship5000_171x62_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_171x62_3.xml"/>
+        <Include href="image/zombie_moon_ship5000_179x194.xml"/>
+        <Include href="image/zombie_moon_ship5000_17x26.xml"/>
+        <Include href="image/zombie_moon_ship5000_181x165.xml"/>
+        <Include href="image/zombie_moon_ship5000_187x179.xml"/>
+        <Include href="image/zombie_moon_ship5000_187x179_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_187x179_3.xml"/>
+        <Include href="image/zombie_moon_ship5000_18x25.xml"/>
+        <Include href="image/zombie_moon_ship5000_18x25_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_18x26.xml"/>
+        <Include href="image/zombie_moon_ship5000_190x171.xml"/>
+        <Include href="image/zombie_moon_ship5000_190x188.xml"/>
+        <Include href="image/zombie_moon_ship5000_194x228.xml"/>
+        <Include href="image/zombie_moon_ship5000_199x195.xml"/>
+        <Include href="image/zombie_moon_ship5000_199x198.xml"/>
+        <Include href="image/zombie_moon_ship5000_199x202.xml"/>
+        <Include href="image/zombie_moon_ship5000_19x14.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_10.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_11.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_12.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_13.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_14.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_15.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_3.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_4.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_5.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_6.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_7.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_8.xml"/>
+        <Include href="image/zombie_moon_ship5000_1x1_9.xml"/>
+        <Include href="image/zombie_moon_ship5000_200x170.xml"/>
+        <Include href="image/zombie_moon_ship5000_202x201.xml"/>
+        <Include href="image/zombie_moon_ship5000_202x201_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_202x201_3.xml"/>
+        <Include href="image/zombie_moon_ship5000_205x194.xml"/>
+        <Include href="image/zombie_moon_ship5000_209x122.xml"/>
+        <Include href="image/zombie_moon_ship5000_209x199.xml"/>
+        <Include href="image/zombie_moon_ship5000_20x15.xml"/>
+        <Include href="image/zombie_moon_ship5000_20x21.xml"/>
+        <Include href="image/zombie_moon_ship5000_20x24.xml"/>
+        <Include href="image/zombie_moon_ship5000_21x21.xml"/>
+        <Include href="image/zombie_moon_ship5000_222x224.xml"/>
+        <Include href="image/zombie_moon_ship5000_225x204.xml"/>
+        <Include href="image/zombie_moon_ship5000_22x29.xml"/>
+        <Include href="image/zombie_moon_ship5000_23x18.xml"/>
+        <Include href="image/zombie_moon_ship5000_283x234.xml"/>
+        <Include href="image/zombie_moon_ship5000_283x258.xml"/>
+        <Include href="image/zombie_moon_ship5000_285x243.xml"/>
+        <Include href="image/zombie_moon_ship5000_28x16.xml"/>
+        <Include href="image/zombie_moon_ship5000_29x27.xml"/>
+        <Include href="image/zombie_moon_ship5000_305x189.xml"/>
+        <Include href="image/zombie_moon_ship5000_32x35.xml"/>
+        <Include href="image/zombie_moon_ship5000_33x34.xml"/>
+        <Include href="image/zombie_moon_ship5000_36x41.xml"/>
+        <Include href="image/zombie_moon_ship5000_37x39.xml"/>
+        <Include href="image/zombie_moon_ship5000_384x350.xml"/>
+        <Include href="image/zombie_moon_ship5000_38x37.xml"/>
+        <Include href="image/zombie_moon_ship5000_39x48.xml"/>
+        <Include href="image/zombie_moon_ship5000_40x54.xml"/>
+        <Include href="image/zombie_moon_ship5000_40x54_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_411x403.xml"/>
+        <Include href="image/zombie_moon_ship5000_41x46.xml"/>
+        <Include href="image/zombie_moon_ship5000_41x52.xml"/>
+        <Include href="image/zombie_moon_ship5000_43x40.xml"/>
+        <Include href="image/zombie_moon_ship5000_43x61.xml"/>
+        <Include href="image/zombie_moon_ship5000_45x46.xml"/>
+        <Include href="image/zombie_moon_ship5000_45x65.xml"/>
+        <Include href="image/zombie_moon_ship5000_45x71.xml"/>
+        <Include href="image/zombie_moon_ship5000_46x71.xml"/>
+        <Include href="image/zombie_moon_ship5000_47x43.xml"/>
+        <Include href="image/zombie_moon_ship5000_47x50.xml"/>
+        <Include href="image/zombie_moon_ship5000_48x45.xml"/>
+        <Include href="image/zombie_moon_ship5000_48x49.xml"/>
+        <Include href="image/zombie_moon_ship5000_49x46.xml"/>
+        <Include href="image/zombie_moon_ship5000_49x50.xml"/>
+        <Include href="image/zombie_moon_ship5000_49x60.xml"/>
+        <Include href="image/zombie_moon_ship5000_50x85.xml"/>
+        <Include href="image/zombie_moon_ship5000_51x81.xml"/>
+        <Include href="image/zombie_moon_ship5000_52x31.xml"/>
+        <Include href="image/zombie_moon_ship5000_52x47.xml"/>
+        <Include href="image/zombie_moon_ship5000_53x27.xml"/>
+        <Include href="image/zombie_moon_ship5000_53x54.xml"/>
+        <Include href="image/zombie_moon_ship5000_54x47.xml"/>
+        <Include href="image/zombie_moon_ship5000_55x106.xml"/>
+        <Include href="image/zombie_moon_ship5000_56x62.xml"/>
+        <Include href="image/zombie_moon_ship5000_57x65.xml"/>
+        <Include href="image/zombie_moon_ship5000_57x66.xml"/>
+        <Include href="image/zombie_moon_ship5000_58x53.xml"/>
+        <Include href="image/zombie_moon_ship5000_60x107.xml"/>
+        <Include href="image/zombie_moon_ship5000_60x117.xml"/>
+        <Include href="image/zombie_moon_ship5000_60x118.xml"/>
+        <Include href="image/zombie_moon_ship5000_61x56.xml"/>
+        <Include href="image/zombie_moon_ship5000_62x36.xml"/>
+        <Include href="image/zombie_moon_ship5000_62x64.xml"/>
+        <Include href="image/zombie_moon_ship5000_63x133.xml"/>
+        <Include href="image/zombie_moon_ship5000_63x37.xml"/>
+        <Include href="image/zombie_moon_ship5000_63x53.xml"/>
+        <Include href="image/zombie_moon_ship5000_63x61.xml"/>
+        <Include href="image/zombie_moon_ship5000_64x36.xml"/>
+        <Include href="image/zombie_moon_ship5000_64x73.xml"/>
+        <Include href="image/zombie_moon_ship5000_64x86.xml"/>
+        <Include href="image/zombie_moon_ship5000_64x87.xml"/>
+        <Include href="image/zombie_moon_ship5000_65x65.xml"/>
+        <Include href="image/zombie_moon_ship5000_66x33.xml"/>
+        <Include href="image/zombie_moon_ship5000_66x33_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_66x51.xml"/>
+        <Include href="image/zombie_moon_ship5000_66x64.xml"/>
+        <Include href="image/zombie_moon_ship5000_66x69.xml"/>
+        <Include href="image/zombie_moon_ship5000_67x68.xml"/>
+        <Include href="image/zombie_moon_ship5000_67x68_2.xml"/>
+        <Include href="image/zombie_moon_ship5000_68x60.xml"/>
+        <Include href="image/zombie_moon_ship5000_68x83.xml"/>
+        <Include href="image/zombie_moon_ship5000_68x98.xml"/>
+        <Include href="image/zombie_moon_ship5000_68x99.xml"/>
+        <Include href="image/zombie_moon_ship5000_6x6.xml"/>
+        <Include href="image/zombie_moon_ship5000_70x135.xml"/>
+        <Include href="image/zombie_moon_ship5000_70x57.xml"/>
+        <Include href="image/zombie_moon_ship5000_70x71.xml"/>
+        <Include href="image/zombie_moon_ship5000_71x52.xml"/>
+        <Include href="image/zombie_moon_ship5000_71x59.xml"/>
+        <Include href="image/zombie_moon_ship5000_71x73.xml"/>
+        <Include href="image/zombie_moon_ship5000_72x155.xml"/>
+        <Include href="image/zombie_moon_ship5000_72x65.xml"/>
+        <Include href="image/zombie_moon_ship5000_73x103.xml"/>
+        <Include href="image/zombie_moon_ship5000_73x77.xml"/>
+        <Include href="image/zombie_moon_ship5000_74x105.xml"/>
+        <Include href="image/zombie_moon_ship5000_74x148.xml"/>
+        <Include href="image/zombie_moon_ship5000_74x61.xml"/>
+        <Include href="image/zombie_moon_ship5000_75x54.xml"/>
+        <Include href="image/zombie_moon_ship5000_76x50.xml"/>
+        <Include href="image/zombie_moon_ship5000_76x73.xml"/>
+        <Include href="image/zombie_moon_ship5000_77x171.xml"/>
+        <Include href="image/zombie_moon_ship5000_79x49.xml"/>
+        <Include href="image/zombie_moon_ship5000_7x7.xml"/>
+        <Include href="image/zombie_moon_ship5000_80x49.xml"/>
+        <Include href="image/zombie_moon_ship5000_81x70.xml"/>
+        <Include href="image/zombie_moon_ship5000_84x175.xml"/>
+        <Include href="image/zombie_moon_ship5000_85x68.xml"/>
+        <Include href="image/zombie_moon_ship5000_85x73.xml"/>
+        <Include href="image/zombie_moon_ship5000_87x102.xml"/>
+        <Include href="image/zombie_moon_ship5000_87x93.xml"/>
+        <Include href="image/zombie_moon_ship5000_90x78.xml"/>
+        <Include href="image/zombie_moon_ship5000_90x84.xml"/>
+        <Include href="image/zombie_moon_ship5000_91x104.xml"/>
+        <Include href="image/zombie_moon_ship5000_91x82.xml"/>
+        <Include href="image/zombie_moon_ship5000_92x73.xml"/>
+        <Include href="image/zombie_moon_ship5000_93x58.xml"/>
+        <Include href="image/zombie_moon_ship5000_96x50.xml"/>
+        <Include href="image/zombie_moon_ship5000_99x237.xml"/>
+        <Include href="image/zombie_moon_ship5000_99x99.xml"/>
+        <Include href="sprite/_Zombie_Imp_Fly2.xml"/>
+        <Include href="sprite/_zombie_cosmic_imp_head_top.xml"/>
+        <Include href="sprite/_zombie_imp_head_top.xml"/>
+        <Include href="sprite/_zombot_battlecruiser_cabin_front_states.xml"/>
+        <Include href="sprite/_zombot_battlecruiser_cannon_barrel_states.xml"/>
+        <Include href="sprite/_zombot_battlecruiser_cannon_base_states.xml"/>
+        <Include href="sprite/_zombot_battlecruiser_trunk_states.xml"/>
+        <Include href="sprite/_zombot_battlecruiser_wing_states.xml"/>
+        <Include href="sprite/battlecruiser_bumper.xml"/>
+        <Include href="sprite/battlecruiser_bumper_glow.xml"/>
+        <Include href="sprite/battlecruiser_bumper_glow_1.xml"/>
+        <Include href="sprite/battlecruiser_bumper_stun.xml"/>
+        <Include href="sprite/battlecruiser_cabin_front_damage_01.xml"/>
+        <Include href="sprite/battlecruiser_cabin_front_damage_02.xml"/>
+        <Include href="sprite/battlecruiser_cabin_front_norm.xml"/>
+        <Include href="sprite/battlecruiser_cannon_barrel_damage_01.xml"/>
+        <Include href="sprite/battlecruiser_cannon_barrel_damage_02.xml"/>
+        <Include href="sprite/battlecruiser_cannon_barrel_norm.xml"/>
+        <Include href="sprite/battlecruiser_cannon_base_norm.xml"/>
+        <Include href="sprite/battlecruiser_cannon_damage_01.xml"/>
+        <Include href="sprite/battlecruiser_cannon_damage_02.xml"/>
+        <Include href="sprite/battlecruiser_trunk_damage_01.xml"/>
+        <Include href="sprite/battlecruiser_trunk_damage_02.xml"/>
+        <Include href="sprite/battlecruiser_trunk_norm.xml"/>
+        <Include href="sprite/battlecruiser_wing_damage_01.xml"/>
+        <Include href="sprite/battlecruiser_wing_damage_02.xml"/>
+        <Include href="sprite/battlecruiser_wing_norm.xml"/>
+        <Include href="sprite/blade.xml"/>
+        <Include href="sprite/blade_joint.xml"/>
+        <Include href="sprite/blast_cloud_back.xml"/>
+        <Include href="sprite/blast_cloud_front.xml"/>
+        <Include href="sprite/blast_explosion.xml"/>
+        <Include href="sprite/blast_sparks.xml"/>
+        <Include href="sprite/blast_sparks_1.xml"/>
+        <Include href="sprite/blast_sparks_2.xml"/>
+        <Include href="sprite/bull_cloud.xml"/>
+        <Include href="sprite/bull_cloud_1.xml"/>
+        <Include href="sprite/bull_cloud_back.xml"/>
+        <Include href="sprite/bull_cloud_front.xml"/>
+        <Include href="sprite/bull_explosion.xml"/>
+        <Include href="sprite/bull_explosion_1.xml"/>
+        <Include href="sprite/bull_explosion_2.xml"/>
+        <Include href="sprite/butter.xml"/>
+        <Include href="sprite/claw_base.xml"/>
+        <Include href="sprite/cloud.xml"/>
+        <Include href="sprite/coconut_explosion_01.xml"/>
+        <Include href="sprite/coconut_explosion_01_1.xml"/>
+        <Include href="sprite/coconut_explosion_01_2.xml"/>
+        <Include href="sprite/coconut_explosion_02.xml"/>
+        <Include href="sprite/cone_arm.xml"/>
+        <Include href="sprite/emp_blast_dome.xml"/>
+        <Include href="sprite/emp_blast_dome_1.xml"/>
+        <Include href="sprite/emp_blast_dome_2.xml"/>
+        <Include href="sprite/emp_blast_dome_3.xml"/>
+        <Include href="sprite/empeach_arc_01.xml"/>
+        <Include href="sprite/empeach_arc_01_1.xml"/>
+        <Include href="sprite/empeach_arc_01_2.xml"/>
+        <Include href="sprite/empeach_arc_01_3.xml"/>
+        <Include href="sprite/empeach_arc_01_4.xml"/>
+        <Include href="sprite/empeach_arc_01_5.xml"/>
+        <Include href="sprite/empeach_arc_01_6.xml"/>
+        <Include href="sprite/empeach_arc_02.xml"/>
+        <Include href="sprite/empeach_arc_02_1.xml"/>
+        <Include href="sprite/empeach_arc_02_2.xml"/>
+        <Include href="sprite/empeach_arc_02_3.xml"/>
+        <Include href="sprite/empeach_arc_02_4.xml"/>
+        <Include href="sprite/empeach_arc_02_5.xml"/>
+        <Include href="sprite/empeach_arc_03.xml"/>
+        <Include href="sprite/empeach_arc_03_1.xml"/>
+        <Include href="sprite/empeach_arc_03_2.xml"/>
+        <Include href="sprite/empeach_arc_03_3.xml"/>
+        <Include href="sprite/empeach_arc_03_4.xml"/>
+        <Include href="sprite/empeach_arc_03_5.xml"/>
+        <Include href="sprite/empeach_arc_04.xml"/>
+        <Include href="sprite/empeach_arc_04_1.xml"/>
+        <Include href="sprite/empeach_arc_04_2.xml"/>
+        <Include href="sprite/empeach_arc_04_3.xml"/>
+        <Include href="sprite/empeach_arc_04_4.xml"/>
+        <Include href="sprite/empeach_arc_05.xml"/>
+        <Include href="sprite/empeach_arc_05_1.xml"/>
+        <Include href="sprite/empeach_arc_05_2.xml"/>
+        <Include href="sprite/empeach_arc_05_3.xml"/>
+        <Include href="sprite/empeach_arc_05_4.xml"/>
+        <Include href="sprite/empeach_arc_06.xml"/>
+        <Include href="sprite/empeach_arc_06_1.xml"/>
+        <Include href="sprite/empeach_arc_06_2.xml"/>
+        <Include href="sprite/empeach_arc_06_3.xml"/>
+        <Include href="sprite/empeach_arc_06_4.xml"/>
+        <Include href="sprite/empeach_arc_06_5.xml"/>
+        <Include href="sprite/empeach_arc_06_6.xml"/>
+        <Include href="sprite/empeach_arc_07.xml"/>
+        <Include href="sprite/empeach_arc_07_1.xml"/>
+        <Include href="sprite/empeach_arc_07_2.xml"/>
+        <Include href="sprite/ground_swatch.xml"/>
+        <Include href="sprite/ground_swatch_plane.xml"/>
+        <Include href="sprite/ink.xml"/>
+        <Include href="sprite/mower_cloud.xml"/>
+        <Include href="sprite/mower_cloud_1.xml"/>
+        <Include href="sprite/mower_cloud_2.xml"/>
+        <Include href="sprite/mower_spawn_pow2.xml"/>
+        <Include href="sprite/mower_spawn_pow2 copy.xml"/>
+        <Include href="sprite/mower_spawn_pow2 copy_1.xml"/>
+        <Include href="sprite/mower_spawn_pow2_1.xml"/>
+        <Include href="sprite/powervine_arc_01a.xml"/>
+        <Include href="sprite/powervine_arc_02.xml"/>
+        <Include href="sprite/powervine_arc_02_1.xml"/>
+        <Include href="sprite/powervine_arc_03.xml"/>
+        <Include href="sprite/powervine_arc_03_1.xml"/>
+        <Include href="sprite/powervine_arc_04.xml"/>
+        <Include href="sprite/powervine_arc_05.xml"/>
+        <Include href="sprite/powervine_arc_05_1.xml"/>
+        <Include href="sprite/powervine_arc_06.xml"/>
+        <Include href="sprite/powervine_arc_06_1.xml"/>
+        <Include href="sprite/powervine_arc_07.xml"/>
+        <Include href="sprite/torchwood_fire_plantfood_blue_t2.xml"/>
+        <Include href="sprite/torchwood_fire_plantfood_white_RAW_t2.xml"/>
+        <Include href="sprite/trunk_light_stage0.xml"/>
+        <Include href="sprite/trunk_light_stage0_glow.xml"/>
+        <Include href="sprite/trunk_light_stage1.xml"/>
+        <Include href="sprite/trunk_light_stage1_glow.xml"/>
+        <Include href="sprite/trunk_light_stage2.xml"/>
+        <Include href="sprite/trunk_light_stage2_glow.xml"/>
+        <Include href="sprite/trunk_light_stage3.xml"/>
+        <Include href="sprite/trunk_light_stage3_glow.xml"/>
+        <Include href="sprite/trunk_light_stage4.xml"/>
+        <Include href="sprite/trunk_light_stage4_glow.xml"/>
+        <Include href="sprite/zombie_cosmic_imp_hand_inner.xml"/>
+        <Include href="sprite/zombie_cosmic_imp_hand_outer.xml"/>
+        <Include href="sprite/zombie_cosmic_imp_jaw.xml"/>
+        <Include href="sprite/zombie_cosmic_imp_skull.xml"/>
+        <Include href="sprite/zombie_explorer_smoke_trail.xml"/>
+        <Include href="sprite/zombie_imp_arm_inner_lower.xml"/>
+        <Include href="sprite/zombie_imp_arm_inner_upper.xml"/>
+        <Include href="sprite/zombie_imp_arm_outer_lower.xml"/>
+        <Include href="sprite/zombie_imp_arm_outer_upper_01.xml"/>
+        <Include href="sprite/zombie_imp_arms_outer_upper.xml"/>
+        <Include href="sprite/zombie_imp_hand_inner.xml"/>
+        <Include href="sprite/zombie_imp_hand_outer.xml"/>
+        <Include href="sprite/zombie_imp_jaw.xml"/>
+        <Include href="sprite/zombie_imp_leg_inner_lower.xml"/>
+        <Include href="sprite/zombie_imp_leg_inner_upper.xml"/>
+        <Include href="sprite/zombie_imp_leg_outer_lower.xml"/>
+        <Include href="sprite/zombie_imp_leg_outer_upper.xml"/>
+        <Include href="sprite/zombie_imp_leg_outer_upper_1.xml"/>
+        <Include href="sprite/zombie_imp_pupil.xml"/>
+        <Include href="sprite/zombie_imp_skull.xml"/>
+        <Include href="sprite/zombie_imp_toe_inner.xml"/>
+        <Include href="sprite/zombie_imp_toe_outer.xml"/>
+        <Include href="sprite/zombie_imp_torso.xml"/>
+        <Include href="sprite/zombie_imp_waist.xml"/>
+        <Include href="sprite/zombot_battlecruiser_antenna.xml"/>
+        <Include href="sprite/zombot_battlecruiser_bumper.xml"/>
+        <Include href="sprite/zombot_battlecruiser_bumper_Z.xml"/>
+        <Include href="sprite/zombot_battlecruiser_cabin_back.xml"/>
+        <Include href="sprite/zombot_battlecruiser_cabin_front.xml"/>
+        <Include href="sprite/zombot_battlecruiser_cannon_barrel.xml"/>
+        <Include href="sprite/zombot_battlecruiser_cannon_base.xml"/>
+        <Include href="sprite/zombot_battlecruiser_cannon_overheat.xml"/>
+        <Include href="sprite/zombot_battlecruiser_horn.xml"/>
+        <Include href="sprite/zombot_battlecruiser_lever.xml"/>
+        <Include href="sprite/zombot_battlecruiser_nozzle.xml"/>
+        <Include href="sprite/zombot_battlecruiser_nozzle2.xml"/>
+        <Include href="sprite/zombot_battlecruiser_trunk_left.xml"/>
+        <Include href="sprite/zombot_battlecruiser_trunk_right.xml"/>
+        <Include href="sprite/zombot_battlecruiser_wing.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/walk.xml"/>
+        <Include href="label/shield.xml"/>
+        <Include href="label/fire.xml"/>
+        <Include href="label/overheat_start.xml"/>
+        <Include href="label/overheat_loop.xml"/>
+        <Include href="label/overheat_end.xml"/>
+        <Include href="label/eat.xml"/>
+        <Include href="label/stun_start.xml"/>
+        <Include href="label/stun_idle.xml"/>
+        <Include href="label/stun_end.xml"/>
+        <Include href="label/die_gunmu.xml"/>
+        <Include href="label/die.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="60" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="60" name="walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="60" name="shield" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="180" duration="80" name="fire" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="260" duration="19" name="overheat_start" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="279" duration="60" name="overheat_loop" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="339" duration="21" name="overheat_end" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="360" duration="178" name="eat" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="538" duration="19" name="stun_start" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="557" duration="60" name="stun_idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="617" duration="21" name="stun_end" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="638" duration="63" name="die_gunmu" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="701" duration="63" name="die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="18">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="18">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Moon_Battlecruiser5000_Idle_Loop");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="40">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="59">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="11">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="71">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Moon_Battlecruiser5000_Move_Loop");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="72" duration="47">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="119">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="26">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="146">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Ship5000_Shield");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="147" duration="3">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="150">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:Ship5000PowerBulletTool,mX:0,mY:0,mZ:35,Team:Plant");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="151" duration="28">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="179">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="180" duration="45">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="225">
+                            <Actionscript>
+                                <script>
+									<![CDATA[fscommand("spawn_zombie", "Type:ship5000_caketank,Team:Zombie,mX:0,mY:-35,mZ:0");
+fscommand("PlaySample", "Play_Ship5000_Fire_Imp");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="226" duration="11">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="237">
+                            <Actionscript>
+                                <script>
+									<![CDATA[fscommand("spawn_zombie", "Type:ship5000_caketank,Team:Zombie,mX:0,mY:-35,mZ:0");
+fscommand("PlaySample", "Play_Ship5000_Fire_Imp");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="238" duration="21">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="259">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="260" duration="6">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="266">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Moon_Battlecruiser5000_Overheat");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="267" duration="11">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="278">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="279" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="338">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="339" duration="20">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="359">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="360" duration="177">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="537">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="538" duration="18">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="556">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="557" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="616">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="617" duration="20">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="637">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="638">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Ship5000_Die");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="639" duration="61">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="700">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="701" duration="62">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="763">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/walk" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/shield" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="180" duration="80">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/fire" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="260" duration="19">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/overheat_start" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="279" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/overheat_loop" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="339" duration="21">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/overheat_end" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="360" duration="178">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/eat" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="538" duration="19">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/stun_start" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="557" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/stun_idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="617" duration="21">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/stun_end" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="638" duration="63">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die_gunmu" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="701" duration="63">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

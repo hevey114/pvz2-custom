@@ -1,0 +1,59 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"ZombieCosmicImpGroup": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_EFFECTS_COSMICIMP_TOYGUN_BUBBLE": {
+					"type": "PopAnim",
+					"path": "images/full/effects/zombie_cosmic_imp_bubblegun_bubble"
+				},
+				"POPANIM_ZOMBIE_COSMIC_IMP": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/zombie_cosmic_imp"
+				},
+				"POPANIM_ZOMBIE_COSMIC_IMP_TRANSFORM": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/zombie_cosmic_imp_transform"
+				},
+				"POPANIM_ZOMBIE_COSMIC_IMP_BIGIMP": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/zombie_cosmic_imp_bigimp"
+				},
+				"POPANIM_ZOMBIE_COSMIC_IMP_BIGIMP_INTRO": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/zombie_cosmic_imp_bigimp_intro"
+				},
+				"POPANIM_ZOMBIE_COSMIC_IMP_TOYCAR": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/zombie_cosmic_imp_toycar"
+				},
+				"POPANIM_ZOMBIE_COSMIC_IMP_TOYCAR_INTRO": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/zombie_cosmic_imp_toycar_intro"
+				},
+				"POPANIM_ZOMBIE_COSMIC_IMP_TOYGUN": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/zombie_cosmic_imp_toygun"
+				},
+				"POPANIM_ZOMBIE_COSMIC_IMP_TOYGUN_INTRO": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/zombie_cosmic_imp_toygun_intro"
+				}
+			}
+		}
+	}
+}

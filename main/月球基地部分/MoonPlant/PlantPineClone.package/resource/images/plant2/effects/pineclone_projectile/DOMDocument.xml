@@ -1,0 +1,93 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/pineclone_projectile_76x82" href="media/pineclone_projectile_76x82.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_1x1" href="media/pineclone_projectile_1x1.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_78x19" href="media/pineclone_projectile_78x19.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_112x112" href="media/pineclone_projectile_112x112.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_100x107" href="media/pineclone_projectile_100x107.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_59x48" href="media/pineclone_projectile_59x48.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_112x20" href="media/pineclone_projectile_112x20.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_50x21" href="media/pineclone_projectile_50x21.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_15x16" href="media/pineclone_projectile_15x16.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_70x57" href="media/pineclone_projectile_70x57.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_41x21" href="media/pineclone_projectile_41x21.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_83x74" href="media/pineclone_projectile_83x74.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_28x41" href="media/pineclone_projectile_28x41.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_26x18" href="media/pineclone_projectile_26x18.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_41x31" href="media/pineclone_projectile_41x31.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_78x73" href="media/pineclone_projectile_78x73.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_13x17" href="media/pineclone_projectile_13x17.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_40x30" href="media/pineclone_projectile_40x30.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_83x74_2" href="media/pineclone_projectile_83x74_2.png"/>
+        <DOMBitmapItem name="media/pineclone_projectile_74x63" href="media/pineclone_projectile_74x63.png"/>
+    </media>
+    <symbols>
+        <Include href="image/pineclone_projectile_76x82.xml"/>
+        <Include href="image/pineclone_projectile_1x1.xml"/>
+        <Include href="image/pineclone_projectile_78x19.xml"/>
+        <Include href="image/pineclone_projectile_112x112.xml"/>
+        <Include href="image/pineclone_projectile_100x107.xml"/>
+        <Include href="image/pineclone_projectile_59x48.xml"/>
+        <Include href="image/pineclone_projectile_112x20.xml"/>
+        <Include href="image/pineclone_projectile_50x21.xml"/>
+        <Include href="image/pineclone_projectile_15x16.xml"/>
+        <Include href="image/pineclone_projectile_70x57.xml"/>
+        <Include href="image/pineclone_projectile_41x21.xml"/>
+        <Include href="image/pineclone_projectile_83x74.xml"/>
+        <Include href="image/pineclone_projectile_28x41.xml"/>
+        <Include href="image/pineclone_projectile_26x18.xml"/>
+        <Include href="image/pineclone_projectile_41x31.xml"/>
+        <Include href="image/pineclone_projectile_78x73.xml"/>
+        <Include href="image/pineclone_projectile_13x17.xml"/>
+        <Include href="image/pineclone_projectile_40x30.xml"/>
+        <Include href="image/pineclone_projectile_83x74_2.xml"/>
+        <Include href="image/pineclone_projectile_74x63.xml"/>
+        <Include href="sprite/empeach_arc_03.xml"/>
+        <Include href="sprite/empeach_arc_06.xml"/>
+        <Include href="sprite/empeach_arc_05.xml"/>
+        <Include href="sprite/empeach_arc_04.xml"/>
+        <Include href="sprite/empeach_arc_07.xml"/>
+        <Include href="label/idle.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="20" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="19">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="19">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="20">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>
