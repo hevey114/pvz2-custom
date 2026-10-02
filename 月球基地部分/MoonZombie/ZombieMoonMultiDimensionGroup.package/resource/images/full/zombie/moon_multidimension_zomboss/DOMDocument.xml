@@ -1,0 +1,284 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_105x63" href="media/zombie_galactic_mysterio_zomboss_105x63.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_10x13" href="media/zombie_galactic_mysterio_zomboss_10x13.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_10x23" href="media/zombie_galactic_mysterio_zomboss_10x23.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_10x23_2" href="media/zombie_galactic_mysterio_zomboss_10x23_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_11x14" href="media/zombie_galactic_mysterio_zomboss_11x14.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_11x15" href="media/zombie_galactic_mysterio_zomboss_11x15.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_11x16" href="media/zombie_galactic_mysterio_zomboss_11x16.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_12x14" href="media/zombie_galactic_mysterio_zomboss_12x14.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_12x14_2" href="media/zombie_galactic_mysterio_zomboss_12x14_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_12x16" href="media/zombie_galactic_mysterio_zomboss_12x16.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_12x26" href="media/zombie_galactic_mysterio_zomboss_12x26.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_136x174" href="media/zombie_galactic_mysterio_zomboss_136x174.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_14x18" href="media/zombie_galactic_mysterio_zomboss_14x18.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_14x19" href="media/zombie_galactic_mysterio_zomboss_14x19.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_15x16" href="media/zombie_galactic_mysterio_zomboss_15x16.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_15x9" href="media/zombie_galactic_mysterio_zomboss_15x9.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_15x9_2" href="media/zombie_galactic_mysterio_zomboss_15x9_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_170x159" href="media/zombie_galactic_mysterio_zomboss_170x159.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_19x22" href="media/zombie_galactic_mysterio_zomboss_19x22.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_21x13" href="media/zombie_galactic_mysterio_zomboss_21x13.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_21x23" href="media/zombie_galactic_mysterio_zomboss_21x23.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_26x24" href="media/zombie_galactic_mysterio_zomboss_26x24.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_26x33" href="media/zombie_galactic_mysterio_zomboss_26x33.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_30x48" href="media/zombie_galactic_mysterio_zomboss_30x48.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_31x41" href="media/zombie_galactic_mysterio_zomboss_31x41.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_31x54" href="media/zombie_galactic_mysterio_zomboss_31x54.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_34x53" href="media/zombie_galactic_mysterio_zomboss_34x53.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_35x40" href="media/zombie_galactic_mysterio_zomboss_35x40.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_38x63" href="media/zombie_galactic_mysterio_zomboss_38x63.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_39x37" href="media/zombie_galactic_mysterio_zomboss_39x37.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_39x55" href="media/zombie_galactic_mysterio_zomboss_39x55.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_43x65" href="media/zombie_galactic_mysterio_zomboss_43x65.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_44x49" href="media/zombie_galactic_mysterio_zomboss_44x49.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_46x48" href="media/zombie_galactic_mysterio_zomboss_46x48.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_59x60" href="media/zombie_galactic_mysterio_zomboss_59x60.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_59x91" href="media/zombie_galactic_mysterio_zomboss_59x91.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_60x60" href="media/zombie_galactic_mysterio_zomboss_60x60.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_65x65" href="media/zombie_galactic_mysterio_zomboss_65x65.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_68x31" href="media/zombie_galactic_mysterio_zomboss_68x31.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_73x73" href="media/zombie_galactic_mysterio_zomboss_73x73.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_75x72" href="media/zombie_galactic_mysterio_zomboss_75x72.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_75x75" href="media/zombie_galactic_mysterio_zomboss_75x75.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_76x51" href="media/zombie_galactic_mysterio_zomboss_76x51.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_78x65" href="media/zombie_galactic_mysterio_zomboss_78x65.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_86x86" href="media/zombie_galactic_mysterio_zomboss_86x86.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_87x87" href="media/zombie_galactic_mysterio_zomboss_87x87.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_90x48" href="media/zombie_galactic_mysterio_zomboss_90x48.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zombie_galactic_mysterio_zomboss_105x63.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_10x13.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_10x23.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_10x23_2.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_11x14.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_11x15.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_11x16.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_12x14.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_12x14_2.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_12x16.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_12x26.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_136x174.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_14x18.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_14x19.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_15x16.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_15x9.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_15x9_2.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_170x159.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_19x22.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_21x13.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_21x23.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_26x24.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_26x33.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_30x48.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_31x41.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_31x54.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_34x53.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_35x40.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_38x63.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_39x37.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_39x55.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_43x65.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_44x49.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_46x48.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_59x60.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_59x91.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_60x60.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_65x65.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_68x31.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_73x73.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_75x72.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_75x75.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_76x51.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_78x65.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_86x86.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_87x87.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_90x48.xml"/>
+        <Include href="sprite/Zomboss_Cocpit_Front.xml"/>
+        <Include href="sprite/_zombie_zomboss_head_top.xml"/>
+        <Include href="sprite/zombie_zomboss_arm_inner_lower.xml"/>
+        <Include href="sprite/zombie_zomboss_arm_inner_upper.xml"/>
+        <Include href="sprite/zombie_zomboss_arm_outer_lower.xml"/>
+        <Include href="sprite/zombie_zomboss_arm_outer_upper_01.xml"/>
+        <Include href="sprite/zombie_zomboss_arms_outer_upper.xml"/>
+        <Include href="sprite/zombie_zomboss_hand_inner.xml"/>
+        <Include href="sprite/zombie_zomboss_hand_outer.xml"/>
+        <Include href="sprite/zombie_zomboss_jaw.xml"/>
+        <Include href="sprite/zombie_zomboss_leg_inner_lower.xml"/>
+        <Include href="sprite/zombie_zomboss_leg_inner_upper.xml"/>
+        <Include href="sprite/zombie_zomboss_leg_outer_lower.xml"/>
+        <Include href="sprite/zombie_zomboss_leg_outer_upper.xml"/>
+        <Include href="sprite/zombie_zomboss_skull.xml"/>
+        <Include href="sprite/zombie_zomboss_toe_inner.xml"/>
+        <Include href="sprite/zombie_zomboss_toe_outer.xml"/>
+        <Include href="sprite/zombie_zomboss_torso.xml"/>
+        <Include href="sprite/zombie_zomboss_waist.xml"/>
+        <Include href="label/idle_use.xml"/>
+        <Include href="label/missile_start.xml"/>
+        <Include href="label/rocket_launch.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="159" name="idle_use" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="159" duration="100" name="missile_start" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="259" duration="55" name="rocket_launch" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="158">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="158">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="159" duration="4">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="163">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Start");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="164" duration="18">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="182">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Zomboss_Mvmt_FS");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="183" duration="7">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="190">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Zomboss_Mvmt_FS");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="191" duration="56">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="247">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Start_Eye");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="248" duration="11">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="259">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Start");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="260" duration="8">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="268">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Windup");
+fscommand("use_action", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="269" duration="17">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="286">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Launch");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="287" duration="16">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="303">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Zomboss_Mvmt_FS");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="304">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Zomboss_Mvmt_FS");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="305" duration="5">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="310">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Egypt_Zomboss_Mvmt_FS");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="311" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="312">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:MoonMultidimensionTransformOverFX,mX:0,mY:0,mZ:100");
+fscommand("transform", "TransformArgs[Zombie, moon_multidimension_half, KeepHP, KeepConditions], Include[moon_multidimension_zomboss_firsttime]");
+fscommand("transform", "TransformArgs[Zombie, moon_multidimension_normal, KeepHP, KeepConditions], Include[moon_multidimension_zomboss_secondtime]");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="313">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="159">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle_use" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="159" duration="100">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/missile_start" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="259" duration="55">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/rocket_launch" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

@@ -1,0 +1,2139 @@
+{
+	"type": "1536",
+	"packet": {
+		"ATLASIMAGE_ATLAS_MOONOREFRAGILECRYSTAL_00": {
+			"type": "Image",
+			"path": "atlases/MoonOreFragileCrystal_00",
+			"dimension": {
+				"width": 2048,
+				"height": 1024
+			},
+			"data": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_189X213": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_189x213",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 242,
+						"ah": 273,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_189X189": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_189x189",
+					"default": {
+						"ax": 246,
+						"ay": 1,
+						"aw": 242,
+						"ah": 242,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_162X164": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_162x164",
+					"default": {
+						"ax": 246,
+						"ay": 246,
+						"aw": 208,
+						"ah": 210,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_162X164": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_162x164",
+					"default": {
+						"ax": 1,
+						"ay": 277,
+						"aw": 208,
+						"ah": 210,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_190X130": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_190x130",
+					"default": {
+						"ax": 457,
+						"ay": 246,
+						"aw": 244,
+						"ah": 167,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_190X130": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_190x130",
+					"default": {
+						"ax": 491,
+						"ay": 1,
+						"aw": 244,
+						"ah": 167,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_145X162": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_145x162",
+					"default": {
+						"ax": 704,
+						"ay": 171,
+						"aw": 186,
+						"ah": 208,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_145X162": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_145x162",
+					"default": {
+						"ax": 704,
+						"ay": 382,
+						"aw": 186,
+						"ah": 208,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_140X156": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_140x156",
+					"default": {
+						"ax": 457,
+						"ay": 416,
+						"aw": 180,
+						"ah": 200,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_147X147": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_147x147",
+					"default": {
+						"ax": 212,
+						"ay": 459,
+						"aw": 189,
+						"ah": 189,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_171X118": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_171x118",
+					"default": {
+						"ax": 738,
+						"ay": 1,
+						"aw": 219,
+						"ah": 152,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_171X118": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_171x118",
+					"default": {
+						"ax": 640,
+						"ay": 593,
+						"aw": 219,
+						"ah": 152,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_149X134": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_149x134",
+					"default": {
+						"ax": 404,
+						"ay": 619,
+						"aw": 191,
+						"ah": 172,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_149X134": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_149x134",
+					"default": {
+						"ax": 1,
+						"ay": 490,
+						"aw": 191,
+						"ah": 172,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_136X136": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_136x136",
+					"default": {
+						"ax": 195,
+						"ay": 651,
+						"aw": 175,
+						"ah": 175,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_119X142_3": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_119x142_3",
+					"default": {
+						"ax": 1,
+						"ay": 665,
+						"aw": 153,
+						"ah": 182,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_119X142_4": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_119x142_4",
+					"default": {
+						"ax": 862,
+						"ay": 593,
+						"aw": 153,
+						"ah": 182,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_116X125": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_116x125",
+					"default": {
+						"ax": 598,
+						"ay": 748,
+						"aw": 149,
+						"ah": 160,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_116X125": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_116x125",
+					"default": {
+						"ax": 373,
+						"ay": 794,
+						"aw": 149,
+						"ah": 160,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_120X120": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_120x120",
+					"default": {
+						"ax": 157,
+						"ay": 829,
+						"aw": 154,
+						"ah": 154,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_140X96": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_140x96",
+					"default": {
+						"ax": 750,
+						"ay": 778,
+						"aw": 180,
+						"ah": 123,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_140X96": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_140x96",
+					"default": {
+						"ax": 933,
+						"ay": 778,
+						"aw": 180,
+						"ah": 123,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_109X118": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_109x118",
+					"default": {
+						"ax": 1,
+						"ay": 850,
+						"aw": 140,
+						"ah": 152,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_109X118": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_109x118",
+					"default": {
+						"ax": 893,
+						"ay": 156,
+						"aw": 140,
+						"ah": 152,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_102X111": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_102x111",
+					"default": {
+						"ax": 960,
+						"ay": 1,
+						"aw": 131,
+						"ah": 143,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_102X111": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_102x111",
+					"default": {
+						"ax": 893,
+						"ay": 311,
+						"aw": 131,
+						"ah": 143,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_97X106": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_97x106",
+					"default": {
+						"ax": 1018,
+						"ay": 457,
+						"aw": 125,
+						"ah": 136,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_97X106": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_97x106",
+					"default": {
+						"ax": 1027,
+						"ay": 311,
+						"aw": 125,
+						"ah": 136,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_80X122": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_80x122",
+					"default": {
+						"ax": 1036,
+						"ay": 147,
+						"aw": 103,
+						"ah": 157,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_80X122": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_80x122",
+					"default": {
+						"ax": 1018,
+						"ay": 596,
+						"aw": 103,
+						"ah": 157,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_97X97": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_97x97",
+					"default": {
+						"ax": 1094,
+						"ay": 1,
+						"aw": 125,
+						"ah": 125,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_87X102": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_87x102",
+					"default": {
+						"ax": 893,
+						"ay": 457,
+						"aw": 112,
+						"ah": 131,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_87X87": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_87x87",
+					"default": {
+						"ax": 750,
+						"ay": 904,
+						"aw": 112,
+						"ah": 112,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_78X93": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_78x93",
+					"default": {
+						"ax": 1142,
+						"ay": 129,
+						"aw": 100,
+						"ah": 120,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_78X93": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_78x93",
+					"default": {
+						"ax": 1222,
+						"ay": 1,
+						"aw": 100,
+						"ah": 120,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_84X84": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_84x84",
+					"default": {
+						"ax": 525,
+						"ay": 911,
+						"aw": 108,
+						"ah": 108,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_89X78": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_89x78",
+					"default": {
+						"ax": 865,
+						"ay": 904,
+						"aw": 114,
+						"ah": 100,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_89X78": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_89x78",
+					"default": {
+						"ax": 982,
+						"ay": 904,
+						"aw": 114,
+						"ah": 100,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_54X124": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_54x124",
+					"default": {
+						"ax": 1116,
+						"ay": 756,
+						"aw": 70,
+						"ah": 159,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_54X124": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_54x124",
+					"default": {
+						"ax": 1146,
+						"ay": 450,
+						"aw": 70,
+						"ah": 159,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_54X124": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_54x124",
+					"default": {
+						"ax": 1155,
+						"ay": 252,
+						"aw": 70,
+						"ah": 159,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_75X84": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_75x84",
+					"default": {
+						"ax": 636,
+						"ay": 911,
+						"aw": 96,
+						"ah": 108,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_75X84": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_75x84",
+					"default": {
+						"ax": 1124,
+						"ay": 612,
+						"aw": 96,
+						"ah": 108,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_75X84": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_75x84",
+					"default": {
+						"ax": 1219,
+						"ay": 414,
+						"aw": 96,
+						"ah": 108,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_80X72": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_80x72",
+					"default": {
+						"ax": 1099,
+						"ay": 918,
+						"aw": 103,
+						"ah": 93,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_80X72": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_80x72",
+					"default": {
+						"ax": 1228,
+						"ay": 252,
+						"aw": 103,
+						"ah": 93,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_51X112": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_51x112",
+					"default": {
+						"ax": 1189,
+						"ay": 723,
+						"aw": 66,
+						"ah": 144,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_51X112": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_51x112",
+					"default": {
+						"ax": 1205,
+						"ay": 870,
+						"aw": 66,
+						"ah": 144,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_70X79": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_70x79",
+					"default": {
+						"ax": 1245,
+						"ay": 124,
+						"aw": 90,
+						"ah": 102,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_70X79": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_70x79",
+					"default": {
+						"ax": 1325,
+						"ay": 1,
+						"aw": 90,
+						"ah": 102,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_71X77": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_71x77",
+					"default": {
+						"ax": 1223,
+						"ay": 525,
+						"aw": 91,
+						"ah": 99,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_71X77": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_71x77",
+					"default": {
+						"ax": 1258,
+						"ay": 627,
+						"aw": 91,
+						"ah": 99,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_70X76": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_70x76",
+					"default": {
+						"ax": 1317,
+						"ay": 525,
+						"aw": 90,
+						"ah": 98,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_70X76": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_70x76",
+					"default": {
+						"ax": 1258,
+						"ay": 729,
+						"aw": 90,
+						"ah": 98,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_46X113": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_46x113",
+					"default": {
+						"ax": 640,
+						"ay": 416,
+						"aw": 59,
+						"ah": 145,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_46X113": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_46x113",
+					"default": {
+						"ax": 1318,
+						"ay": 348,
+						"aw": 59,
+						"ah": 145,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_46X113": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_46x113",
+					"default": {
+						"ax": 1274,
+						"ay": 830,
+						"aw": 59,
+						"ah": 145,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_70X70": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_70x70",
+					"default": {
+						"ax": 1334,
+						"ay": 229,
+						"aw": 90,
+						"ah": 90,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_69X69": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_69x69",
+					"default": {
+						"ax": 1338,
+						"ay": 106,
+						"aw": 89,
+						"ah": 89,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_70X66": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_70x66",
+					"default": {
+						"ax": 1418,
+						"ay": 1,
+						"aw": 90,
+						"ah": 85,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_70X66": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_70x66",
+					"default": {
+						"ax": 1380,
+						"ay": 322,
+						"aw": 90,
+						"ah": 85,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_68X60": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_68x60",
+					"default": {
+						"ax": 1380,
+						"ay": 410,
+						"aw": 88,
+						"ah": 77,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_62X62": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_62x62",
+					"default": {
+						"ax": 1427,
+						"ay": 198,
+						"aw": 80,
+						"ah": 80,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_74X51_2": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_74x51_2",
+					"default": {
+						"ax": 314,
+						"ay": 957,
+						"aw": 95,
+						"ah": 66,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_74X51_2": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_74x51_2",
+					"default": {
+						"ax": 412,
+						"ay": 957,
+						"aw": 95,
+						"ah": 66,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_65X56": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_65x56",
+					"default": {
+						"ax": 491,
+						"ay": 171,
+						"aw": 84,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_65X56": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_65x56",
+					"default": {
+						"ax": 578,
+						"ay": 171,
+						"aw": 84,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_65X56": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_65x56",
+					"default": {
+						"ax": 1430,
+						"ay": 89,
+						"aw": 84,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_39X89": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_39x89",
+					"default": {
+						"ax": 314,
+						"ay": 829,
+						"aw": 50,
+						"ah": 114,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_59X57": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_59x57",
+					"default": {
+						"ax": 1511,
+						"ay": 1,
+						"aw": 76,
+						"ah": 73,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_59X57": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_59x57",
+					"default": {
+						"ax": 1336,
+						"ay": 830,
+						"aw": 76,
+						"ah": 73,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_50X67": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_50x67",
+					"default": {
+						"ax": 525,
+						"ay": 794,
+						"aw": 64,
+						"ah": 86,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_134X25": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_134x25",
+					"default": {
+						"ax": 1380,
+						"ay": 490,
+						"aw": 172,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_50X67": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_50x67",
+					"default": {
+						"ax": 1351,
+						"ay": 729,
+						"aw": 64,
+						"ah": 86,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_64X52": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_64x52",
+					"default": {
+						"ax": 1471,
+						"ay": 410,
+						"aw": 82,
+						"ah": 67,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_64X52": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_64x52",
+					"default": {
+						"ax": 1352,
+						"ay": 626,
+						"aw": 82,
+						"ah": 67,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_38X83": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_38x83",
+					"default": {
+						"ax": 404,
+						"ay": 459,
+						"aw": 49,
+						"ah": 107,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_54X54": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_54x54",
+					"default": {
+						"ax": 1410,
+						"ay": 525,
+						"aw": 70,
+						"ah": 70,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_54X54": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_54x54",
+					"default": {
+						"ax": 1473,
+						"ay": 281,
+						"aw": 70,
+						"ah": 70,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_53X53": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_53x53",
+					"default": {
+						"ax": 1510,
+						"ay": 164,
+						"aw": 68,
+						"ah": 68,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_50X56": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_50x56",
+					"default": {
+						"ax": 1517,
+						"ay": 77,
+						"aw": 64,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_55X49": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_55x49",
+					"default": {
+						"ax": 1228,
+						"ay": 348,
+						"aw": 71,
+						"ah": 63,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_33X79": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_33x79",
+					"default": {
+						"ax": 1336,
+						"ay": 906,
+						"aw": 43,
+						"ah": 102,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_44X56": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_44x56",
+					"default": {
+						"ax": 1382,
+						"ay": 906,
+						"aw": 57,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_44X56": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_44x56",
+					"default": {
+						"ax": 1415,
+						"ay": 818,
+						"aw": 57,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_41X53": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_41x53",
+					"default": {
+						"ax": 1418,
+						"ay": 696,
+						"aw": 53,
+						"ah": 68,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_41X53": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_41x53",
+					"default": {
+						"ax": 1437,
+						"ay": 598,
+						"aw": 53,
+						"ah": 68,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_49X43": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_49x43",
+					"default": {
+						"ax": 1483,
+						"ay": 525,
+						"aw": 63,
+						"ah": 56,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_49X43": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_49x43",
+					"default": {
+						"ax": 1442,
+						"ay": 893,
+						"aw": 63,
+						"ah": 56,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_49X43": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_49x43",
+					"default": {
+						"ax": 1442,
+						"ay": 952,
+						"aw": 63,
+						"ah": 56,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_49X43": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_49x43",
+					"default": {
+						"ax": 1474,
+						"ay": 669,
+						"aw": 63,
+						"ah": 56,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_46X46": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_46x46",
+					"default": {
+						"ax": 1493,
+						"ay": 584,
+						"aw": 59,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_46X46": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_46x46",
+					"default": {
+						"ax": 1474,
+						"ay": 728,
+						"aw": 59,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_44X44": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_44x44",
+					"default": {
+						"ax": 1475,
+						"ay": 790,
+						"aw": 57,
+						"ah": 57,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_43X43": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_43x43",
+					"default": {
+						"ax": 1549,
+						"ay": 525,
+						"aw": 56,
+						"ah": 56,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_43X43": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_43x43",
+					"default": {
+						"ax": 1546,
+						"ay": 235,
+						"aw": 56,
+						"ah": 56,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_95X19": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_95x19",
+					"default": {
+						"ax": 144,
+						"ay": 986,
+						"aw": 122,
+						"ah": 25,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_43X41": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_43x41",
+					"default": {
+						"ax": 1473,
+						"ay": 354,
+						"aw": 56,
+						"ah": 53,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_41X41": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_41x41",
+					"default": {
+						"ax": 1532,
+						"ay": 354,
+						"aw": 53,
+						"ah": 53,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_41X41": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_41x41",
+					"default": {
+						"ax": 1546,
+						"ay": 294,
+						"aw": 53,
+						"ah": 53,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_66X25": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_66x25",
+					"default": {
+						"ax": 1555,
+						"ay": 480,
+						"aw": 85,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_66X25": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_66x25",
+					"default": {
+						"ax": 1475,
+						"ay": 850,
+						"aw": 85,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_66X25": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_66x25",
+					"default": {
+						"ax": 1535,
+						"ay": 790,
+						"aw": 85,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_66X25": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_66x25",
+					"default": {
+						"ax": 1536,
+						"ay": 728,
+						"aw": 85,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_40X40": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_40x40",
+					"default": {
+						"ax": 1556,
+						"ay": 410,
+						"aw": 52,
+						"ah": 52,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_40X40_2": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_40x40_2",
+					"default": {
+						"ax": 1588,
+						"ay": 350,
+						"aw": 52,
+						"ah": 52,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_40X40": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_40x40",
+					"default": {
+						"ax": 1602,
+						"ay": 294,
+						"aw": 52,
+						"ah": 52,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_37X40": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_37x40",
+					"default": {
+						"ax": 1611,
+						"ay": 405,
+						"aw": 48,
+						"ah": 52,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_41X36": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_41x36",
+					"default": {
+						"ax": 1418,
+						"ay": 767,
+						"aw": 53,
+						"ah": 47,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_37X37": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_37x37",
+					"default": {
+						"ax": 1643,
+						"ay": 349,
+						"aw": 48,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_65X21": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_65x21",
+					"default": {
+						"ax": 1338,
+						"ay": 198,
+						"aw": 84,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_65X21": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_65x21",
+					"default": {
+						"ax": 750,
+						"ay": 748,
+						"aw": 84,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_65X21": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_65x21",
+					"default": {
+						"ax": 1581,
+						"ay": 152,
+						"aw": 84,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_65X21": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_65x21",
+					"default": {
+						"ax": 1581,
+						"ay": 182,
+						"aw": 84,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_24X57": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_24x57",
+					"default": {
+						"ax": 1223,
+						"ay": 627,
+						"aw": 31,
+						"ah": 73,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_35X35": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_35x35",
+					"default": {
+						"ax": 404,
+						"ay": 569,
+						"aw": 45,
+						"ah": 45,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_34X34": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_34x34",
+					"default": {
+						"ax": 1274,
+						"ay": 978,
+						"aw": 44,
+						"ah": 44,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_31X30": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_31x30",
+					"default": {
+						"ax": 1382,
+						"ay": 981,
+						"aw": 40,
+						"ah": 39,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_23X38": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_23x38",
+					"default": {
+						"ax": 665,
+						"ay": 171,
+						"aw": 30,
+						"ah": 49,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_23X38": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_23x38",
+					"default": {
+						"ax": 598,
+						"ay": 619,
+						"aw": 30,
+						"ah": 49,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_28X31": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_28x31",
+					"default": {
+						"ax": 598,
+						"ay": 671,
+						"aw": 36,
+						"ah": 40,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_30X27": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_30x27",
+					"default": {
+						"ax": 269,
+						"ay": 986,
+						"aw": 39,
+						"ah": 35,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_26X31": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_26x31",
+					"default": {
+						"ax": 157,
+						"ay": 665,
+						"aw": 34,
+						"ah": 40,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_26X31": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_26x31",
+					"default": {
+						"ax": 157,
+						"ay": 708,
+						"aw": 34,
+						"ah": 40,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_23X33_2": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_23x33_2",
+					"default": {
+						"ax": 1510,
+						"ay": 235,
+						"aw": 30,
+						"ah": 43,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_23X33_2": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_23x33_2",
+					"default": {
+						"ax": 157,
+						"ay": 751,
+						"aw": 30,
+						"ah": 43,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_17X39": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_17x39",
+					"default": {
+						"ax": 373,
+						"ay": 651,
+						"aw": 22,
+						"ah": 50,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_52X12": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_52x12",
+					"default": {
+						"ax": 525,
+						"ay": 883,
+						"aw": 67,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_22X27": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_22x27",
+					"default": {
+						"ax": 1427,
+						"ay": 281,
+						"aw": 29,
+						"ah": 35,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_22X27": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_22x27",
+					"default": {
+						"ax": 212,
+						"ay": 277,
+						"aw": 29,
+						"ah": 35,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_24X24": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_24x24",
+					"default": {
+						"ax": 598,
+						"ay": 714,
+						"aw": 31,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_24X23": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_24x23",
+					"default": {
+						"ax": 1124,
+						"ay": 723,
+						"aw": 31,
+						"ah": 30,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_22X22": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_22x22",
+					"default": {
+						"ax": 157,
+						"ay": 797,
+						"aw": 29,
+						"ah": 29,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_21X24": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_21x24",
+					"default": {
+						"ax": 1155,
+						"ay": 414,
+						"aw": 27,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_21X24": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_21x24",
+					"default": {
+						"ax": 1185,
+						"ay": 414,
+						"aw": 27,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_27X17": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_27x17",
+					"default": {
+						"ax": 1334,
+						"ay": 322,
+						"aw": 35,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_27X17": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_27x17",
+					"default": {
+						"ax": 1318,
+						"ay": 496,
+						"aw": 35,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_20X21": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_20x21",
+					"default": {
+						"ax": 1158,
+						"ay": 723,
+						"aw": 26,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_20X20": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_20x20",
+					"default": {
+						"ax": 640,
+						"ay": 564,
+						"aw": 26,
+						"ah": 26,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_19X21": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_19x21",
+					"default": {
+						"ax": 1352,
+						"ay": 696,
+						"aw": 25,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_19X21": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_19x21",
+					"default": {
+						"ax": 1380,
+						"ay": 696,
+						"aw": 25,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_18X20": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_18x20",
+					"default": {
+						"ax": 669,
+						"ay": 564,
+						"aw": 24,
+						"ah": 26,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_18X20": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_18x20",
+					"default": {
+						"ax": 1430,
+						"ay": 164,
+						"aw": 24,
+						"ah": 26,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_18X19": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_18x19",
+					"default": {
+						"ax": 1410,
+						"ay": 598,
+						"aw": 24,
+						"ah": 25,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_18X19": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_18x19",
+					"default": {
+						"ax": 1457,
+						"ay": 164,
+						"aw": 24,
+						"ah": 25,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_17X21": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_17x21",
+					"default": {
+						"ax": 837,
+						"ay": 748,
+						"aw": 22,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_17X21": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_17x21",
+					"default": {
+						"ax": 1484,
+						"ay": 164,
+						"aw": 22,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_17X21": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_17x21",
+					"default": {
+						"ax": 373,
+						"ay": 704,
+						"aw": 22,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_17X21": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_17x21",
+					"default": {
+						"ax": 373,
+						"ay": 734,
+						"aw": 22,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_18X18": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_18x18",
+					"default": {
+						"ax": 373,
+						"ay": 764,
+						"aw": 24,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_17X18": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_17x18",
+					"default": {
+						"ax": 1437,
+						"ay": 669,
+						"aw": 22,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_17X18_2": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_17x18_2",
+					"default": {
+						"ax": 212,
+						"ay": 315,
+						"aw": 22,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_17X18": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_17x18",
+					"default": {
+						"ax": 212,
+						"ay": 342,
+						"aw": 22,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_18X17": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_18x17",
+					"default": {
+						"ax": 212,
+						"ay": 369,
+						"aw": 24,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_17X18_2": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_17x18_2",
+					"default": {
+						"ax": 212,
+						"ay": 394,
+						"aw": 22,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_17X18": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_17x18",
+					"default": {
+						"ax": 212,
+						"ay": 421,
+						"aw": 22,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_17X18": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_17x18",
+					"default": {
+						"ax": 1536,
+						"ay": 763,
+						"aw": 22,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_17X17": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_17x17",
+					"default": {
+						"ax": 1535,
+						"ay": 825,
+						"aw": 22,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_15X17": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_15x17",
+					"default": {
+						"ax": 1356,
+						"ay": 496,
+						"aw": 20,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_13X16": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_13x16",
+					"default": {
+						"ax": 1560,
+						"ay": 825,
+						"aw": 17,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_13X16": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_13x16",
+					"default": {
+						"ax": 1561,
+						"ay": 763,
+						"aw": 17,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_13X16_2": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_13x16_2",
+					"default": {
+						"ax": 1581,
+						"ay": 763,
+						"aw": 17,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_13X16": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_13x16",
+					"default": {
+						"ax": 1601,
+						"ay": 763,
+						"aw": 17,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_13X16": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_13x16",
+					"default": {
+						"ax": 1621,
+						"ay": 763,
+						"aw": 17,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_13X16_2": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_13x16_2",
+					"default": {
+						"ax": 1584,
+						"ay": 77,
+						"aw": 17,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_26X7": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_26x7",
+					"default": {
+						"ax": 1351,
+						"ay": 818,
+						"aw": 34,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_13X12": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_13x12",
+					"default": {
+						"ax": 1223,
+						"ay": 703,
+						"aw": 17,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_11X12_2": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_11x12_2",
+					"default": {
+						"ax": 665,
+						"ay": 223,
+						"aw": 15,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_9X11": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FCBreak_LunarMine_Ore_Effect_9x11",
+					"default": {
+						"ax": 1243,
+						"ay": 703,
+						"aw": 12,
+						"ah": 15,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPF_LUNARMINE_ORE_EFFECT_9X11": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPF_LunarMine_Ore_Effect_9x11",
+					"default": {
+						"ax": 683,
+						"ay": 223,
+						"aw": 12,
+						"ah": 15,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_9X11": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_9x11",
+					"default": {
+						"ax": 1258,
+						"ay": 830,
+						"aw": 12,
+						"ah": 15,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_9X11": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_9x11",
+					"default": {
+						"ax": 1258,
+						"ay": 848,
+						"aw": 12,
+						"ah": 15,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_10X10": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystal/FC_LunarMine_Ore_Effect_10x10",
+					"default": {
+						"ax": 1124,
+						"ay": 596,
+						"aw": 13,
+						"ah": 13,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_1X1_3": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_1x1_3",
+					"default": {
+						"ax": 1511,
+						"ay": 77,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_1X1": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_1x1",
+					"default": {
+						"ax": 1511,
+						"ay": 82,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_1X1_4": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_1x1_4",
+					"default": {
+						"ax": 1140,
+						"ay": 596,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCPFBREAK_LUNARMINE_ORE_EFFECT_1X1_2": {
+					"type": "Image",
+					"path": "images/full/gravestones/MoonOreFragileCrystalPF/FCPFBreak_LunarMine_Ore_Effect_1x1_2",
+					"default": {
+						"ax": 1140,
+						"ay": 601,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		}
+	}
+}

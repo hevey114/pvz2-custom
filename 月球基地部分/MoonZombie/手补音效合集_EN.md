@@ -29,3 +29,13 @@ Play_Teleporter_Ready_Fire  charging up
 *I’m not very good at making zombies, so there aren’t many zombie sounds.*
 *A lot of them reuse existing assets — e.g. the Cosmic Imp reuses Witch Hazel.*
 *Much of what I could do I skipped because it’s too noisy — e.g. the Cruiser’s idle and walk exist, but I didn’t bother using them.*
+
+Interstellar Swordsman
+Play_Moon_Blade_Attack  sword chop
+Play_Moon_Blade_Attack_Special  the slash after pulling a plant in with gravity
+Play_Moon_Blade_Block  blocking
+
+Multidimensional Fantasy
+Play_Multidimension_armor_hit  hitting the glass shield
+Play_Multidimension_transform  transformation
+Play_Qigong_Skill  the Qigong Master’s yell

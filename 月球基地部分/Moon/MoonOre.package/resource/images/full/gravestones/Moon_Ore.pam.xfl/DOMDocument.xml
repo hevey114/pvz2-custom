@@ -1,0 +1,194 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/LunarMine_Ore_107x72" href="media/LunarMine_Ore_107x72.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_107x79" href="media/LunarMine_Ore_107x79.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_119x78" href="media/LunarMine_Ore_119x78.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_144x192" href="media/LunarMine_Ore_144x192.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_170x204" href="media/LunarMine_Ore_170x204.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_19x22" href="media/LunarMine_Ore_19x22.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_32x24" href="media/LunarMine_Ore_32x24.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_40x40" href="media/LunarMine_Ore_40x40.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_45x57" href="media/LunarMine_Ore_45x57.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_50x53" href="media/LunarMine_Ore_50x53.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_514x464" href="media/LunarMine_Ore_514x464.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_5x5" href="media/LunarMine_Ore_5x5.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_72x69" href="media/LunarMine_Ore_72x69.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_78x52" href="media/LunarMine_Ore_78x52.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_156x186" href="media/LunarMine_Ore_Raw_156x186.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_20x22" href="media/LunarMine_Ore_Raw_20x22.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_22x22" href="media/LunarMine_Ore_Raw_22x22.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_34x28" href="media/LunarMine_Ore_Raw_34x28.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_43x72" href="media/LunarMine_Ore_Raw_43x72.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_50x74" href="media/LunarMine_Ore_Raw_50x74.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_56x91" href="media/LunarMine_Ore_Raw_56x91.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_57x83" href="media/LunarMine_Ore_Raw_57x83.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_61x165" href="media/LunarMine_Ore_Raw_61x165.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_61x53" href="media/LunarMine_Ore_Raw_61x53.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_75x28" href="media/LunarMine_Ore_Raw_75x28.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_86x28" href="media/LunarMine_Ore_Raw_86x28.png"/>
+        <DOMBitmapItem name="media/LunarMine_Ore_Raw_89x84" href="media/LunarMine_Ore_Raw_89x84.png"/>
+    </media>
+    <symbols>
+        <Include href="image/LunarMine_Ore_107x72.xml"/>
+        <Include href="image/LunarMine_Ore_107x79.xml"/>
+        <Include href="image/LunarMine_Ore_119x78.xml"/>
+        <Include href="image/LunarMine_Ore_144x192.xml"/>
+        <Include href="image/LunarMine_Ore_170x204.xml"/>
+        <Include href="image/LunarMine_Ore_19x22.xml"/>
+        <Include href="image/LunarMine_Ore_32x24.xml"/>
+        <Include href="image/LunarMine_Ore_40x40.xml"/>
+        <Include href="image/LunarMine_Ore_45x57.xml"/>
+        <Include href="image/LunarMine_Ore_50x53.xml"/>
+        <Include href="image/LunarMine_Ore_514x464.xml"/>
+        <Include href="image/LunarMine_Ore_5x5.xml"/>
+        <Include href="image/LunarMine_Ore_72x69.xml"/>
+        <Include href="image/LunarMine_Ore_78x52.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_156x186.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_20x22.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_22x22.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_34x28.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_43x72.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_50x74.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_56x91.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_57x83.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_61x165.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_61x53.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_75x28.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_86x28.xml"/>
+        <Include href="image/LunarMine_Ore_Raw_89x84.xml"/>
+        <Include href="sprite/Symbol_6.xml"/>
+        <Include href="sprite/rock back.xml"/>
+        <Include href="sprite/rock front.xml"/>
+        <Include href="sprite/shard_01.xml"/>
+        <Include href="sprite/shard_02.xml"/>
+        <Include href="sprite/shard_03.xml"/>
+        <Include href="sprite/shard_04.xml"/>
+        <Include href="sprite/shard_05.xml"/>
+        <Include href="sprite/shard_06.xml"/>
+        <Include href="sprite/tomb_dirt_ rock_01.xml"/>
+        <Include href="sprite/tomb_dirt_rock_02.xml"/>
+        <Include href="sprite/tomb_dirt_rock_03.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/idle2.xml"/>
+        <Include href="label/flash.xml"/>
+        <Include href="label/blast.xml"/>
+        <Include href="label/death.xml"/>
+        <Include href="main_sprite.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="1" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="89" name="walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="90" duration="15" name="die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+						<DOMFrame index="0" duration="1">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="1">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="2" duration="15">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="17">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="18" duration="15">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="33">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="34" duration="15">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="49">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="50" duration="15">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="65">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="66" duration="15">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="81">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="82" duration="7">
+							<elements/>
+						</DOMFrame>
+                        <DOMFrame index="89">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="90">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_collectable", "Type:sun,mX:-5,mY:0,mZ:0");
+fscommand("spawn_collectable", "Type:sun,mX:5,mY:0,mZ:0");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="91" duration="13">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="104">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="105">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="main_sprite" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

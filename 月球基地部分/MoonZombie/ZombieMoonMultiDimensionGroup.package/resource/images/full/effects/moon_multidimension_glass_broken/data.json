@@ -1,0 +1,146 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"zombie_galactic_mysterio_glass_broken_100x98": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_100X98",
+			"dimension": {
+				"width": 100,
+				"height": 98
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_115x119": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_115X119",
+			"dimension": {
+				"width": 115,
+				"height": 119
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_125x113": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_125X113",
+			"dimension": {
+				"width": 125,
+				"height": 113
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_12x13": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_12X13",
+			"dimension": {
+				"width": 12,
+				"height": 13
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_15x16": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_15X16",
+			"dimension": {
+				"width": 15,
+				"height": 16
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_15x23": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_15X23",
+			"dimension": {
+				"width": 15,
+				"height": 23
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_168x151": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_168X151",
+			"dimension": {
+				"width": 168,
+				"height": 151
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_16x12": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_16X12",
+			"dimension": {
+				"width": 16,
+				"height": 12
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_17x19": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_17X19",
+			"dimension": {
+				"width": 17,
+				"height": 19
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_20x30": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_20X30",
+			"dimension": {
+				"width": 20,
+				"height": 30
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_21x16": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_21X16",
+			"dimension": {
+				"width": 21,
+				"height": 16
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_22x24": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_22X24",
+			"dimension": {
+				"width": 22,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_28x21": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_28X21",
+			"dimension": {
+				"width": 28,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_86x78": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_86X78",
+			"dimension": {
+				"width": 86,
+				"height": 78
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_glass_broken_90x91": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_ZOMBIE_GALACTIC_MYSTERIO_GLASS_BROKEN_90X91",
+			"dimension": {
+				"width": 90,
+				"height": 91
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"power_up_head_pinch_pop": [
+			"power_up_head_pinch_pop_1",
+			"power_up_head_pinch_pop_2"
+		],
+		"rotating_piece5_green": [
+			"rotating_piece5_green_1"
+		],
+		"straburst_piece_green": [
+			"straburst_piece_green_1"
+		],
+		"strawburst_piece2_green": [
+			"strawburst_piece2_green_1",
+			"strawburst_piece2_green_2"
+		]
+	}
+}

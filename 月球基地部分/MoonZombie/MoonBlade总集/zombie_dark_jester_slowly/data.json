@@ -1,0 +1,331 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"zombie_dark_jester_118x92": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_118X92",
+			"dimension": {
+				"width": 118,
+				"height": 92
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_127x92": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_127X92",
+			"dimension": {
+				"width": 127,
+				"height": 92
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_135x8": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_135X8",
+			"dimension": {
+				"width": 135,
+				"height": 8
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_15x52": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_15X52",
+			"dimension": {
+				"width": 15,
+				"height": 52
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_16x29": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_16X29",
+			"dimension": {
+				"width": 16,
+				"height": 29
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_17x17": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_17X17",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_18x35": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_18X35",
+			"dimension": {
+				"width": 18,
+				"height": 35
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_18x48": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_18X48",
+			"dimension": {
+				"width": 18,
+				"height": 48
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_211x216": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_211X216",
+			"dimension": {
+				"width": 211,
+				"height": 216
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_21x40": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_21X40",
+			"dimension": {
+				"width": 21,
+				"height": 40
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_21x42": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_21X42",
+			"dimension": {
+				"width": 21,
+				"height": 42
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_21x54": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_21X54",
+			"dimension": {
+				"width": 21,
+				"height": 54
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_224x224": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_224X224",
+			"dimension": {
+				"width": 224,
+				"height": 224
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_224x224_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_224X224_2",
+			"dimension": {
+				"width": 224,
+				"height": 224
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_22x63": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_22X63",
+			"dimension": {
+				"width": 22,
+				"height": 63
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_26x23": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_26X23",
+			"dimension": {
+				"width": 26,
+				"height": 23
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_27x44": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_27X44",
+			"dimension": {
+				"width": 27,
+				"height": 44
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_28x33": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_28X33",
+			"dimension": {
+				"width": 28,
+				"height": 33
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_28x48": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_28X48",
+			"dimension": {
+				"width": 28,
+				"height": 48
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_30x23": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_30X23",
+			"dimension": {
+				"width": 30,
+				"height": 23
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_30x37": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_30X37",
+			"dimension": {
+				"width": 30,
+				"height": 37
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_34x34": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_34X34",
+			"dimension": {
+				"width": 34,
+				"height": 34
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_36x24": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_36X24",
+			"dimension": {
+				"width": 36,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_36x39": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_36X39",
+			"dimension": {
+				"width": 36,
+				"height": 39
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_36x45": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_36X45",
+			"dimension": {
+				"width": 36,
+				"height": 45
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_37x38": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_37X38",
+			"dimension": {
+				"width": 37,
+				"height": 38
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_37x46": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_37X46",
+			"dimension": {
+				"width": 37,
+				"height": 46
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_42x23": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_42X23",
+			"dimension": {
+				"width": 42,
+				"height": 23
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_44x22": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_44X22",
+			"dimension": {
+				"width": 44,
+				"height": 22
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_52x31": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_52X31",
+			"dimension": {
+				"width": 52,
+				"height": 31
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_57x76": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_57X76",
+			"dimension": {
+				"width": 57,
+				"height": 76
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_62x40": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_62X40",
+			"dimension": {
+				"width": 62,
+				"height": 40
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_6x6": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_6X6",
+			"dimension": {
+				"width": 6,
+				"height": 6
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_70x72": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_70X72",
+			"dimension": {
+				"width": 70,
+				"height": 72
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_79x38": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_79X38",
+			"dimension": {
+				"width": 79,
+				"height": 38
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_79x69": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_79X69",
+			"dimension": {
+				"width": 79,
+				"height": 69
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_84x25": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_84X25",
+			"dimension": {
+				"width": 84,
+				"height": 25
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_84x33": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_84X33",
+			"dimension": {
+				"width": 84,
+				"height": 33
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_84x40": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_84X40",
+			"dimension": {
+				"width": 84,
+				"height": 40
+			},
+			"additional": null
+		},
+		"zombie_dark_jester_97x212": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_DARK_JESTER_ZOMBIE_DARK_JESTER_97X212",
+			"dimension": {
+				"width": 97,
+				"height": 212
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

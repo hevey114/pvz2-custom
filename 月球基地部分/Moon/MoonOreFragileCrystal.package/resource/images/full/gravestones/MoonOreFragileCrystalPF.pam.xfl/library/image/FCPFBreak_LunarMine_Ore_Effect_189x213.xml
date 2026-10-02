@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/FCPFBreak_LunarMine_Ore_Effect_189x213" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="FCPFBreak_LunarMine_Ore_Effect_189x213">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/FCPFBreak_LunarMine_Ore_Effect_189x213">
+                                    <matrix>
+                                        <Matrix a="0.846855" b="0.000000" c="0.000000" d="0.846855" tx="-25.950001" ty="-25.950001"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

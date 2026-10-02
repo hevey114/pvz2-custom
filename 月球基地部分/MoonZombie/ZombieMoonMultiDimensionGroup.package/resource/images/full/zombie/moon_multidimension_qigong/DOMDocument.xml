@@ -1,0 +1,412 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_105x105" href="media/zombie_galactic_mysterio_qigong_105x105.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_107x107" href="media/zombie_galactic_mysterio_qigong_107x107.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_110x101" href="media/zombie_galactic_mysterio_qigong_110x101.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_115x138" href="media/zombie_galactic_mysterio_qigong_115x138.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_121x121" href="media/zombie_galactic_mysterio_qigong_121x121.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_121x121_2" href="media/zombie_galactic_mysterio_qigong_121x121_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_128x128" href="media/zombie_galactic_mysterio_qigong_128x128.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_134x125" href="media/zombie_galactic_mysterio_qigong_134x125.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_152x152" href="media/zombie_galactic_mysterio_qigong_152x152.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_152x158" href="media/zombie_galactic_mysterio_qigong_152x158.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_158x158" href="media/zombie_galactic_mysterio_qigong_158x158.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_15x36" href="media/zombie_galactic_mysterio_qigong_15x36.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_167x168" href="media/zombie_galactic_mysterio_qigong_167x168.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_173x173" href="media/zombie_galactic_mysterio_qigong_173x173.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_184x184" href="media/zombie_galactic_mysterio_qigong_184x184.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_19x43" href="media/zombie_galactic_mysterio_qigong_19x43.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_206x207" href="media/zombie_galactic_mysterio_qigong_206x207.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_20x20" href="media/zombie_galactic_mysterio_qigong_20x20.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_20x51" href="media/zombie_galactic_mysterio_qigong_20x51.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_21x20" href="media/zombie_galactic_mysterio_qigong_21x20.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_21x38" href="media/zombie_galactic_mysterio_qigong_21x38.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_21x38_2" href="media/zombie_galactic_mysterio_qigong_21x38_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_22x42" href="media/zombie_galactic_mysterio_qigong_22x42.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_23x33" href="media/zombie_galactic_mysterio_qigong_23x33.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_254x255" href="media/zombie_galactic_mysterio_qigong_254x255.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_25x18" href="media/zombie_galactic_mysterio_qigong_25x18.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_25x58" href="media/zombie_galactic_mysterio_qigong_25x58.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_26x55" href="media/zombie_galactic_mysterio_qigong_26x55.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_27x51" href="media/zombie_galactic_mysterio_qigong_27x51.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_28x40" href="media/zombie_galactic_mysterio_qigong_28x40.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_28x51" href="media/zombie_galactic_mysterio_qigong_28x51.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_29x29" href="media/zombie_galactic_mysterio_qigong_29x29.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_30x30" href="media/zombie_galactic_mysterio_qigong_30x30.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_30x47" href="media/zombie_galactic_mysterio_qigong_30x47.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_31x47" href="media/zombie_galactic_mysterio_qigong_31x47.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_32x24" href="media/zombie_galactic_mysterio_qigong_32x24.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_32x32" href="media/zombie_galactic_mysterio_qigong_32x32.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_32x45" href="media/zombie_galactic_mysterio_qigong_32x45.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_331x331" href="media/zombie_galactic_mysterio_qigong_331x331.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_334x336" href="media/zombie_galactic_mysterio_qigong_334x336.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_33x21" href="media/zombie_galactic_mysterio_qigong_33x21.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_353x64" href="media/zombie_galactic_mysterio_qigong_353x64.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_358x78" href="media/zombie_galactic_mysterio_qigong_358x78.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_35x27" href="media/zombie_galactic_mysterio_qigong_35x27.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_35x35" href="media/zombie_galactic_mysterio_qigong_35x35.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_35x67" href="media/zombie_galactic_mysterio_qigong_35x67.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_36x36" href="media/zombie_galactic_mysterio_qigong_36x36.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_36x36_2" href="media/zombie_galactic_mysterio_qigong_36x36_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_36x40" href="media/zombie_galactic_mysterio_qigong_36x40.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_37x42" href="media/zombie_galactic_mysterio_qigong_37x42.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_37x60" href="media/zombie_galactic_mysterio_qigong_37x60.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_38x49" href="media/zombie_galactic_mysterio_qigong_38x49.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_38x51" href="media/zombie_galactic_mysterio_qigong_38x51.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_39x28" href="media/zombie_galactic_mysterio_qigong_39x28.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_39x37" href="media/zombie_galactic_mysterio_qigong_39x37.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_41x41" href="media/zombie_galactic_mysterio_qigong_41x41.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_42x42" href="media/zombie_galactic_mysterio_qigong_42x42.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_43x38" href="media/zombie_galactic_mysterio_qigong_43x38.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_44x27" href="media/zombie_galactic_mysterio_qigong_44x27.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_44x35" href="media/zombie_galactic_mysterio_qigong_44x35.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_44x40" href="media/zombie_galactic_mysterio_qigong_44x40.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_44x41" href="media/zombie_galactic_mysterio_qigong_44x41.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_44x44" href="media/zombie_galactic_mysterio_qigong_44x44.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_44x60" href="media/zombie_galactic_mysterio_qigong_44x60.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_470x472" href="media/zombie_galactic_mysterio_qigong_470x472.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_47x47" href="media/zombie_galactic_mysterio_qigong_47x47.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_48x34" href="media/zombie_galactic_mysterio_qigong_48x34.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_48x36" href="media/zombie_galactic_mysterio_qigong_48x36.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_48x48" href="media/zombie_galactic_mysterio_qigong_48x48.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_51x51" href="media/zombie_galactic_mysterio_qigong_51x51.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_51x58" href="media/zombie_galactic_mysterio_qigong_51x58.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_52x49" href="media/zombie_galactic_mysterio_qigong_52x49.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_52x68" href="media/zombie_galactic_mysterio_qigong_52x68.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_53x44" href="media/zombie_galactic_mysterio_qigong_53x44.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_53x49" href="media/zombie_galactic_mysterio_qigong_53x49.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_57x43" href="media/zombie_galactic_mysterio_qigong_57x43.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_59x53" href="media/zombie_galactic_mysterio_qigong_59x53.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_5x5" href="media/zombie_galactic_mysterio_qigong_5x5.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_60x56" href="media/zombie_galactic_mysterio_qigong_60x56.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_61x37" href="media/zombie_galactic_mysterio_qigong_61x37.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_61x57" href="media/zombie_galactic_mysterio_qigong_61x57.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_62x50" href="media/zombie_galactic_mysterio_qigong_62x50.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_62x77" href="media/zombie_galactic_mysterio_qigong_62x77.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_63x49" href="media/zombie_galactic_mysterio_qigong_63x49.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_65x59" href="media/zombie_galactic_mysterio_qigong_65x59.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_66x66" href="media/zombie_galactic_mysterio_qigong_66x66.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_67x67" href="media/zombie_galactic_mysterio_qigong_67x67.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_67x67_2" href="media/zombie_galactic_mysterio_qigong_67x67_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_70x112" href="media/zombie_galactic_mysterio_qigong_70x112.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_71x71" href="media/zombie_galactic_mysterio_qigong_71x71.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_72x75" href="media/zombie_galactic_mysterio_qigong_72x75.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_73x79" href="media/zombie_galactic_mysterio_qigong_73x79.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_76x92" href="media/zombie_galactic_mysterio_qigong_76x92.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_77x62" href="media/zombie_galactic_mysterio_qigong_77x62.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_78x101" href="media/zombie_galactic_mysterio_qigong_78x101.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_78x72" href="media/zombie_galactic_mysterio_qigong_78x72.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_78x74" href="media/zombie_galactic_mysterio_qigong_78x74.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_82x118" href="media/zombie_galactic_mysterio_qigong_82x118.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_85x85" href="media/zombie_galactic_mysterio_qigong_85x85.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_86x86" href="media/zombie_galactic_mysterio_qigong_86x86.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_88x146" href="media/zombie_galactic_mysterio_qigong_88x146.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_90x90" href="media/zombie_galactic_mysterio_qigong_90x90.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_96x96" href="media/zombie_galactic_mysterio_qigong_96x96.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_98x189" href="media/zombie_galactic_mysterio_qigong_98x189.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_qigong_98x92" href="media/zombie_galactic_mysterio_qigong_98x92.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zombie_galactic_mysterio_qigong_105x105.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_107x107.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_110x101.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_115x138.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_121x121.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_121x121_2.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_128x128.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_134x125.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_152x152.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_152x158.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_158x158.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_15x36.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_167x168.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_173x173.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_184x184.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_19x43.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_206x207.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_20x20.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_20x51.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_21x20.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_21x38.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_21x38_2.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_22x42.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_23x33.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_254x255.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_25x18.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_25x58.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_26x55.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_27x51.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_28x40.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_28x51.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_29x29.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_30x30.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_30x47.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_31x47.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_32x24.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_32x32.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_32x45.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_331x331.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_334x336.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_33x21.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_353x64.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_358x78.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_35x27.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_35x35.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_35x67.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_36x36.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_36x36_2.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_36x40.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_37x42.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_37x60.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_38x49.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_38x51.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_39x28.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_39x37.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_41x41.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_42x42.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_43x38.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_44x27.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_44x35.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_44x40.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_44x41.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_44x44.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_44x60.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_470x472.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_47x47.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_48x34.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_48x36.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_48x48.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_51x51.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_51x58.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_52x49.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_52x68.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_53x44.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_53x49.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_57x43.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_59x53.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_5x5.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_60x56.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_61x37.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_61x57.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_62x50.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_62x77.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_63x49.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_65x59.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_66x66.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_67x67.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_67x67_2.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_70x112.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_71x71.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_72x75.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_73x79.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_76x92.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_77x62.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_78x101.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_78x72.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_78x74.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_82x118.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_85x85.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_86x86.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_88x146.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_90x90.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_96x96.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_98x189.xml"/>
+        <Include href="image/zombie_galactic_mysterio_qigong_98x92.xml"/>
+        <Include href="sprite/Taiji.xml"/>
+        <Include href="sprite/Taiji_1.xml"/>
+        <Include href="sprite/Taiji_2.xml"/>
+        <Include href="sprite/Taiji_3.xml"/>
+        <Include href="sprite/Taiji_4.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_body.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_jaw.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_pifeng.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_skull.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_yaodai.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youdatui.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youjianbang.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youjiao.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youjiaozhang.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youshou.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youxiaobi.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youxiaotui.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youxiaotui_1.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youxiaotui_bigskill.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youxiukouhou.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youxiukouhou_1.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_youxiukouqian.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuodatui.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuodatui_1.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuojian.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuojianhou.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuojiao.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuojiaozhang.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuojiaozhang_1.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuoshangbi.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuoshangbi_1.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuoshou.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuoxiabi.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuoxiabi_1.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuoxiaotui.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuoxiaotui_bigskill.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuoxiukouhou.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuoxiukouhou_1.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuoxiukouhou_2.xml"/>
+        <Include href="sprite/Zombie_kongfu_FSboss_zuoxiukouqian.xml"/>
+        <Include href="sprite/bagua_1.xml"/>
+        <Include href="sprite/bagua_1_1.xml"/>
+        <Include href="sprite/bagua_1_2.xml"/>
+        <Include href="sprite/bagua_1_3.xml"/>
+        <Include href="sprite/bagua_1_4.xml"/>
+        <Include href="sprite/bagua_2.xml"/>
+        <Include href="sprite/bagua_2_1.xml"/>
+        <Include href="sprite/bagua_2_2.xml"/>
+        <Include href="sprite/bagua_2_3.xml"/>
+        <Include href="sprite/bagua_2_4.xml"/>
+        <Include href="sprite/block.xml"/>
+        <Include href="sprite/block_1.xml"/>
+        <Include href="sprite/block_2.xml"/>
+        <Include href="sprite/block_3.xml"/>
+        <Include href="sprite/block_4.xml"/>
+        <Include href="sprite/boomballoon_cloud_front.xml"/>
+        <Include href="sprite/boomballoon_cloud_front_1.xml"/>
+        <Include href="sprite/boomballoon_cloud_front_2.xml"/>
+        <Include href="sprite/boomballoon_cloud_front_3.xml"/>
+        <Include href="sprite/boomballoon_melonpult_cloud_back01.xml"/>
+        <Include href="sprite/boomballoon_melonpult_cloud_back01_1.xml"/>
+        <Include href="sprite/boomballoon_melonpult_cloud_back01_2.xml"/>
+        <Include href="sprite/boomballoon_melonpult_cloud_back01_3.xml"/>
+        <Include href="sprite/sprite.xml"/>
+        <Include href="sprite/sprite_2.xml"/>
+        <Include href="sprite/sprite_3.xml"/>
+        <Include href="sprite/sprite_4.xml"/>
+        <Include href="sprite/sprite_5.xml"/>
+        <Include href="sprite/zombie_kongfu_FSboss_youshou_bigskill.xml"/>
+        <Include href="sprite/zombie_kongfu_FSboss_youshou_bigskill_1.xml"/>
+        <Include href="sprite/zombie_kongfu_FSboss_zuoshou_bigskill.xml"/>
+        <Include href="label/idle_use.xml"/>
+        <Include href="label/idle_used.xml"/>
+        <Include href="label/bigskill.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="30" name="idle_use" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="43" name="idle_used" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="73" duration="202" name="bigskill" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="29">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="42">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="72">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="73">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Qigong_Skill");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="74" duration="133">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="207">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:-128,mY:-160,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:-128,mY:-80,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:-128,mY:0,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:-128,mY:80,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:-128,mY:160,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:-64,mY:-160,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:-64,mY:-80,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:-64,mY:0,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:-64,mY:80,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:-64,mY:160,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:0,mY:-160,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:0,mY:-80,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:0,mY:0,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:0,mY:80,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:0,mY:160,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:64,mY:-160,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:64,mY:-80,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:64,mY:0,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:64,mY:80,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:64,mY:160,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:128,mY:-160,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:128,mY:-80,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:128,mY:0,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:128,mY:80,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonMultidimensionQigongStun,mX:128,mY:160,mZ:100,Team:Zombie");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="208" duration="65">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="273">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:MoonMultidimensionTransformOverFX,mX:0,mY:0,mZ:100");
+fscommand("transform", "TransformArgs[Zombie, moon_multidimension_half, KeepHP, KeepConditions], Include[moon_multidimension_qigong_firsttime]");
+fscommand("transform", "TransformArgs[Zombie, moon_multidimension_normal, KeepHP, KeepConditions], Include[moon_multidimension_qigong_secondtime]");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="274">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle_use" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="30" duration="43">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle_used" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="73" duration="202">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/bigskill" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

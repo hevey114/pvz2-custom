@@ -1,14 +1,13 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/plantfood_off" symbolType="graphic">
     <timeline>
         <DOMTimeline name="plantfood_off">
-            <layers>
-                <DOMLayer name="75">
+            <layers><DOMLayer name="77">
                     <frames>
                         <DOMFrame index="0" duration="1">
                             <elements>
                                 <DOMSymbolInstance libraryItemName="sprite/custom_01" firstFrame="0" symbolType="graphic" loop="loop">
                                     <matrix>
-                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="172.500000" ty="47.349998"/>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="97.150002" ty="-32.099999"/>
                                     </matrix>
                                     <color>
                                         <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
@@ -20,7 +19,7 @@
                             <elements>
                                 <DOMSymbolInstance libraryItemName="sprite/custom_01" firstFrame="0" symbolType="graphic" loop="loop">
                                     <matrix>
-                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="172.500000" ty="47.349998"/>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="97.150002" ty="-32.099999"/>
                                     </matrix>
                                     <color>
                                         <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
@@ -32,7 +31,7 @@
                             <elements>
                                 <DOMSymbolInstance libraryItemName="sprite/custom_01" firstFrame="0" symbolType="graphic" loop="loop">
                                     <matrix>
-                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="172.500000" ty="47.349998"/>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="97.150002" ty="-32.099999"/>
                                     </matrix>
                                     <color>
                                         <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
@@ -3002,7 +3001,46 @@
                         </DOMFrame>
                     </frames>
                 </DOMLayer>
-            </layers>
+                <DOMLayer name="76">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/custom_04" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="133.050001" ty="27.299999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/custom_04" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="133.050001" ty="27.299999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/custom_04" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="133.050001" ty="27.299999"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer></layers>
         </DOMTimeline>
     </timeline>
 </DOMSymbolItem>

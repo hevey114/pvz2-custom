@@ -1,21 +1,21 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/Cosmicnut_21x27" symbolType="graphic">
-    <timeline>
-        <DOMTimeline name="Cosmicnut_21x27">
-            <layers>
-                <DOMLayer>
-                    <frames>
-                        <DOMFrame index="0">
-                            <elements>
-                                <DOMBitmapInstance libraryItemName="media/Cosmicnut_21x27">
-                                    <matrix>
-                                        <Matrix a="1.057873" b="0.000000" c="0.000000" d="1.057873" tx="-14.450000" ty="-18.299999"/>
-                                    </matrix>
-                                </DOMBitmapInstance>
-                            </elements>
-                        </DOMFrame>
-                    </frames>
-                </DOMLayer>
-            </layers>
-        </DOMTimeline>
-    </timeline>
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/Cosmicnut_21x27" itemID="6abe1e45-000004de" symbolType="graphic">
+  <timeline>
+    <DOMTimeline name="Cosmicnut_21x27">
+      <layers>
+        <DOMLayer color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="media/Cosmicnut_21x27">
+                  <matrix>
+                    <Matrix a="1.057873" d="1.057873" tx="-14.45" ty="-18.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
 </DOMSymbolItem>

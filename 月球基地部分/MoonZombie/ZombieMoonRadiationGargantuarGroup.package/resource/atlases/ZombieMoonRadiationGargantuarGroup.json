@@ -1,0 +1,3471 @@
+{
+	"type": "1536",
+	"packet": {
+		"ATLASIMAGE_ATLAS_ZOMBIEMOONRADIATIONGARGANTUARGROUP_00": {
+			"type": "Image",
+			"path": "atlases/ZombieMoonRadiationGargantuarGroup_00",
+			"dimension": {
+				"width": 4096,
+				"height": 2048
+			},
+			"data": {
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_575X582": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_575x582",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 736,
+						"ah": 745,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_481X595": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_481x595",
+					"default": {
+						"ax": 740,
+						"ay": 1,
+						"aw": 616,
+						"ah": 762,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_458X458": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_458x458",
+					"default": {
+						"ax": 1359,
+						"ay": 1,
+						"aw": 587,
+						"ah": 587,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_254X418": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_254x418",
+					"default": {
+						"ax": 1,
+						"ay": 749,
+						"aw": 326,
+						"ah": 536,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_310X287": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_310x287",
+					"default": {
+						"ax": 330,
+						"ay": 749,
+						"aw": 397,
+						"ah": 368,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_391X212": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_391x212",
+					"default": {
+						"ax": 1359,
+						"ay": 591,
+						"aw": 501,
+						"ah": 272,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_288X288": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_288x288",
+					"default": {
+						"ax": 730,
+						"ay": 766,
+						"aw": 369,
+						"ah": 369,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_196X325": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_196x325",
+					"default": {
+						"ax": 1102,
+						"ay": 766,
+						"aw": 251,
+						"ah": 416,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_230X270": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_230x270",
+					"default": {
+						"ax": 330,
+						"ay": 1120,
+						"aw": 295,
+						"ah": 346,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_309X158": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_309x158",
+					"default": {
+						"ax": 628,
+						"ay": 1138,
+						"aw": 396,
+						"ah": 203,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_223X211": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_223x211",
+					"default": {
+						"ax": 1,
+						"ay": 1288,
+						"aw": 286,
+						"ah": 271,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_352X129": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_352x129",
+					"default": {
+						"ax": 1356,
+						"ay": 866,
+						"aw": 451,
+						"ah": 166,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_207X207": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_207x207",
+					"default": {
+						"ax": 1356,
+						"ay": 1035,
+						"aw": 265,
+						"ah": 265,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_449X94": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_449x94",
+					"default": {
+						"ax": 1027,
+						"ay": 1303,
+						"aw": 575,
+						"ah": 121,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_187X187": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_187x187",
+					"default": {
+						"ax": 628,
+						"ay": 1344,
+						"aw": 240,
+						"ah": 240,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_443X76": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_443x76",
+					"default": {
+						"ax": 1,
+						"ay": 1562,
+						"aw": 568,
+						"ah": 98,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_249X128": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_249x128",
+					"default": {
+						"ax": 1605,
+						"ay": 1303,
+						"aw": 319,
+						"ah": 164,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_172X171": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_172x171",
+					"default": {
+						"ax": 1810,
+						"ay": 866,
+						"aw": 221,
+						"ah": 219,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_368X79": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_368x79",
+					"default": {
+						"ax": 871,
+						"ay": 1427,
+						"aw": 472,
+						"ah": 102,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_275X105": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_275x105",
+					"default": {
+						"ax": 1624,
+						"ay": 1088,
+						"aw": 352,
+						"ah": 135,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_105X266": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_105x266",
+					"default": {
+						"ax": 1346,
+						"ay": 1427,
+						"aw": 135,
+						"ah": 341,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_241X113": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_241x113",
+					"default": {
+						"ax": 871,
+						"ay": 1532,
+						"aw": 309,
+						"ah": 145,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_223X118": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_223x118",
+					"default": {
+						"ax": 572,
+						"ay": 1587,
+						"aw": 286,
+						"ah": 152,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_269X95": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_269x95",
+					"default": {
+						"ax": 861,
+						"ay": 1680,
+						"aw": 345,
+						"ah": 122,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_164X155": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_164x155",
+					"default": {
+						"ax": 1,
+						"ay": 1663,
+						"aw": 210,
+						"ah": 199,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_274X90": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_274x90",
+					"default": {
+						"ax": 214,
+						"ay": 1663,
+						"aw": 351,
+						"ah": 116,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_213X112": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_213x112",
+					"default": {
+						"ax": 568,
+						"ay": 1742,
+						"aw": 273,
+						"ah": 144,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_363X65": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_363x65",
+					"default": {
+						"ax": 1,
+						"ay": 1865,
+						"aw": 465,
+						"ah": 84,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_150X149": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_150x149",
+					"default": {
+						"ax": 1209,
+						"ay": 1771,
+						"aw": 192,
+						"ah": 191,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_231X95": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_231x95",
+					"default": {
+						"ax": 844,
+						"ay": 1805,
+						"aw": 296,
+						"ah": 122,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_155X137": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_155x137",
+					"default": {
+						"ax": 1404,
+						"ay": 1771,
+						"aw": 199,
+						"ah": 176,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_122X170": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_122x170",
+					"default": {
+						"ax": 1863,
+						"ay": 591,
+						"aw": 157,
+						"ah": 218,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_167X123": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_167x123",
+					"default": {
+						"ax": 469,
+						"ay": 1889,
+						"aw": 214,
+						"ah": 158,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_151X129": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_151x129",
+					"default": {
+						"ax": 1484,
+						"ay": 1470,
+						"aw": 194,
+						"ah": 166,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_136X142": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_136x142",
+					"default": {
+						"ax": 1606,
+						"ay": 1639,
+						"aw": 175,
+						"ah": 182,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_139X139": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_139x139",
+					"default": {
+						"ax": 1606,
+						"ay": 1824,
+						"aw": 178,
+						"ah": 178,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_135X135": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_135x135",
+					"default": {
+						"ax": 1784,
+						"ay": 1470,
+						"aw": 173,
+						"ah": 173,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_133X132": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_133x132",
+					"default": {
+						"ax": 1784,
+						"ay": 1646,
+						"aw": 171,
+						"ah": 169,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_153X104": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_153x104",
+					"default": {
+						"ax": 1787,
+						"ay": 1818,
+						"aw": 196,
+						"ah": 134,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_174X90": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_174x90",
+					"default": {
+						"ax": 686,
+						"ay": 1930,
+						"aw": 223,
+						"ah": 116,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_114X138": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_114x138",
+					"default": {
+						"ax": 1927,
+						"ay": 1226,
+						"aw": 146,
+						"ah": 177,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_122X122": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_122x122",
+					"default": {
+						"ax": 1958,
+						"ay": 1646,
+						"aw": 157,
+						"ah": 157,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_120X120": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_120x120",
+					"default": {
+						"ax": 1960,
+						"ay": 1406,
+						"aw": 154,
+						"ah": 154,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_116X123": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_116x123",
+					"default": {
+						"ax": 1986,
+						"ay": 1806,
+						"aw": 149,
+						"ah": 158,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_112X126": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_112x126",
+					"default": {
+						"ax": 1949,
+						"ay": 1,
+						"aw": 144,
+						"ah": 162,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_110X126": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_110x126",
+					"default": {
+						"ax": 1949,
+						"ay": 166,
+						"aw": 141,
+						"ah": 162,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_85X153": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_85x153",
+					"default": {
+						"ax": 1209,
+						"ay": 1532,
+						"aw": 109,
+						"ah": 196,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_154X82": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_154x82",
+					"default": {
+						"ax": 912,
+						"ay": 1930,
+						"aw": 198,
+						"ah": 105,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_112X106": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_112x106",
+					"default": {
+						"ax": 1949,
+						"ay": 331,
+						"aw": 144,
+						"ah": 136,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_107X106": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_107x106",
+					"default": {
+						"ax": 2093,
+						"ay": 166,
+						"aw": 137,
+						"ah": 136,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_106X106": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_106x106",
+					"default": {
+						"ax": 2096,
+						"ay": 1,
+						"aw": 136,
+						"ah": 136,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_112X100": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_112x100",
+					"default": {
+						"ax": 1979,
+						"ay": 1088,
+						"aw": 144,
+						"ah": 128,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_123X90": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_123x90",
+					"default": {
+						"ax": 1949,
+						"ay": 470,
+						"aw": 158,
+						"ah": 116,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_88X123": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_88x123",
+					"default": {
+						"ax": 2096,
+						"ay": 305,
+						"aw": 113,
+						"ah": 158,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_97X110": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_97x110",
+					"default": {
+						"ax": 2076,
+						"ay": 1219,
+						"aw": 125,
+						"ah": 141,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_111X94": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_111x94",
+					"default": {
+						"ax": 2117,
+						"ay": 1363,
+						"aw": 143,
+						"ah": 121,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_91X114": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_91x114",
+					"default": {
+						"ax": 2117,
+						"ay": 1487,
+						"aw": 117,
+						"ah": 146,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_99X101": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_99x101",
+					"default": {
+						"ax": 2118,
+						"ay": 1636,
+						"aw": 127,
+						"ah": 130,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_98X101": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_98x101",
+					"default": {
+						"ax": 2237,
+						"ay": 1487,
+						"aw": 126,
+						"ah": 130,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_82X119": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_82x119",
+					"default": {
+						"ax": 2138,
+						"ay": 1769,
+						"aw": 105,
+						"ah": 153,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_91X107": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_91x107",
+					"default": {
+						"ax": 2246,
+						"ay": 1769,
+						"aw": 117,
+						"ah": 137,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_105X89": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_105x89",
+					"default": {
+						"ax": 1027,
+						"ay": 1185,
+						"aw": 135,
+						"ah": 114,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_96X96": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_96x96",
+					"default": {
+						"ax": 2246,
+						"ay": 1909,
+						"aw": 123,
+						"ah": 123,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_87X102": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_87x102",
+					"default": {
+						"ax": 2248,
+						"ay": 1620,
+						"aw": 112,
+						"ah": 131,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_100X86": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_100x86",
+					"default": {
+						"ax": 1165,
+						"ay": 1185,
+						"aw": 128,
+						"ah": 111,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_89X89": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_89x89",
+					"default": {
+						"ax": 1484,
+						"ay": 1639,
+						"aw": 114,
+						"ah": 114,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_87X90": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_87x90",
+					"default": {
+						"ax": 2363,
+						"ay": 1620,
+						"aw": 112,
+						"ah": 116,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_102X77": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_102x77",
+					"default": {
+						"ax": 2366,
+						"ay": 1739,
+						"aw": 131,
+						"ah": 99,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_82X93": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_82x93",
+					"default": {
+						"ax": 2138,
+						"ay": 1925,
+						"aw": 105,
+						"ah": 120,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_81X93": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_81x93",
+					"default": {
+						"ax": 2372,
+						"ay": 1841,
+						"aw": 104,
+						"ah": 120,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_80X91": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_80x91",
+					"default": {
+						"ax": 2479,
+						"ay": 1841,
+						"aw": 103,
+						"ah": 117,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_114X62": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_114x62",
+					"default": {
+						"ax": 871,
+						"ay": 1344,
+						"aw": 146,
+						"ah": 80,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_63X112": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_63x112",
+					"default": {
+						"ax": 1681,
+						"ay": 1470,
+						"aw": 81,
+						"ah": 144,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_86X81": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_86x81",
+					"default": {
+						"ax": 2023,
+						"ay": 589,
+						"aw": 111,
+						"ah": 104,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_102X68": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_102x68",
+					"default": {
+						"ax": 1787,
+						"ay": 1955,
+						"aw": 131,
+						"ah": 88,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_77X90": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_77x90",
+					"default": {
+						"ax": 2110,
+						"ay": 466,
+						"aw": 99,
+						"ah": 116,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_108X62": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_108x62",
+					"default": {
+						"ax": 1960,
+						"ay": 1563,
+						"aw": 139,
+						"ah": 80,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_61X109": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_61x109",
+					"default": {
+						"ax": 2023,
+						"ay": 696,
+						"aw": 79,
+						"ah": 140,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_59X113": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_59x113",
+					"default": {
+						"ax": 2034,
+						"ay": 839,
+						"aw": 76,
+						"ah": 145,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_87X75": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_87x75",
+					"default": {
+						"ax": 1404,
+						"ay": 1950,
+						"aw": 112,
+						"ah": 96,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_79X79": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_79x79",
+					"default": {
+						"ax": 2105,
+						"ay": 696,
+						"aw": 102,
+						"ah": 102,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_81X76": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_81x76",
+					"default": {
+						"ax": 2034,
+						"ay": 987,
+						"aw": 104,
+						"ah": 98,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_59X103": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_59x103",
+					"default": {
+						"ax": 2113,
+						"ay": 801,
+						"aw": 76,
+						"ah": 132,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_107X57": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_107x57",
+					"default": {
+						"ax": 1921,
+						"ay": 1967,
+						"aw": 137,
+						"ah": 73,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_78X77": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_78x77",
+					"default": {
+						"ax": 2137,
+						"ay": 585,
+						"aw": 100,
+						"ah": 99,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_107X56": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_107x56",
+					"default": {
+						"ax": 1624,
+						"ay": 1226,
+						"aw": 137,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_76X78": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_76x78",
+					"default": {
+						"ax": 2126,
+						"ay": 1088,
+						"aw": 98,
+						"ah": 100,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_80X72": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_80x72",
+					"default": {
+						"ax": 1,
+						"ay": 1952,
+						"aw": 103,
+						"ah": 93,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_71X80": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_71x80",
+					"default": {
+						"ax": 469,
+						"ay": 1782,
+						"aw": 91,
+						"ah": 103,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_79X69": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_79x69",
+					"default": {
+						"ax": 290,
+						"ay": 1469,
+						"aw": 102,
+						"ah": 89,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_78X70": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_78x70",
+					"default": {
+						"ax": 395,
+						"ay": 1469,
+						"aw": 100,
+						"ah": 90,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_62X86": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_62x86",
+					"default": {
+						"ax": 1113,
+						"ay": 1930,
+						"aw": 80,
+						"ah": 111,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_84X62": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_84x62",
+					"default": {
+						"ax": 498,
+						"ay": 1469,
+						"aw": 108,
+						"ah": 80,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_60X86": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_60x86",
+					"default": {
+						"ax": 2141,
+						"ay": 936,
+						"aw": 77,
+						"ah": 111,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_53X95": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_53x95",
+					"default": {
+						"ax": 2192,
+						"ay": 801,
+						"aw": 68,
+						"ah": 122,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X93": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_52x93",
+					"default": {
+						"ax": 2221,
+						"ay": 926,
+						"aw": 67,
+						"ah": 120,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_64X76": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_64x76",
+					"default": {
+						"ax": 2210,
+						"ay": 687,
+						"aw": 82,
+						"ah": 98,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_81X60": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_81x60",
+					"default": {
+						"ax": 1196,
+						"ay": 1965,
+						"aw": 104,
+						"ah": 77,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_74X65": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_74x65",
+					"default": {
+						"ax": 107,
+						"ay": 1952,
+						"aw": 95,
+						"ah": 84,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_74X65_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_74x65_2",
+					"default": {
+						"ax": 205,
+						"ay": 1952,
+						"aw": 95,
+						"ah": 84,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_75X64": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_75x64",
+					"default": {
+						"ax": 1303,
+						"ay": 1965,
+						"aw": 96,
+						"ah": 82,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_76X62": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_76x62",
+					"default": {
+						"ax": 303,
+						"ay": 1952,
+						"aw": 98,
+						"ah": 80,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_51X92": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_51x92",
+					"default": {
+						"ax": 2263,
+						"ay": 788,
+						"aw": 66,
+						"ah": 118,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_67X67": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_67x67",
+					"default": {
+						"ax": 2479,
+						"ay": 1961,
+						"aw": 86,
+						"ah": 86,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_71X63": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_71x63",
+					"default": {
+						"ax": 2372,
+						"ay": 1964,
+						"aw": 91,
+						"ah": 81,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_66X67": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_66x67",
+					"default": {
+						"ax": 2568,
+						"ay": 1961,
+						"aw": 85,
+						"ah": 86,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X85": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_52x85",
+					"default": {
+						"ax": 2204,
+						"ay": 1191,
+						"aw": 67,
+						"ah": 109,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_51X83": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_51x83",
+					"default": {
+						"ax": 2227,
+						"ay": 1049,
+						"aw": 66,
+						"ah": 107,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_65X65": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_65x65",
+					"default": {
+						"ax": 1519,
+						"ay": 1950,
+						"aw": 84,
+						"ah": 84,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_74X56": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_74x56",
+					"default": {
+						"ax": 1764,
+						"ay": 1226,
+						"aw": 95,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_99X41": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_99x41",
+					"default": {
+						"ax": 214,
+						"ay": 1782,
+						"aw": 127,
+						"ah": 53,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_66X59": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_66x59",
+					"default": {
+						"ax": 344,
+						"ay": 1782,
+						"aw": 85,
+						"ah": 76,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_58X67": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_58x67",
+					"default": {
+						"ax": 2291,
+						"ay": 909,
+						"aw": 75,
+						"ah": 86,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_84X46": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_84x46",
+					"default": {
+						"ax": 2263,
+						"ay": 1303,
+						"aw": 108,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_64X60": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_64x60",
+					"default": {
+						"ax": 2263,
+						"ay": 1365,
+						"aw": 82,
+						"ah": 77,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_80X47": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_80x47",
+					"default": {
+						"ax": 2348,
+						"ay": 1365,
+						"aw": 103,
+						"ah": 61,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_57X64": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_57x64",
+					"default": {
+						"ax": 2274,
+						"ay": 1159,
+						"aw": 73,
+						"ah": 82,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_47X76": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_47x76",
+					"default": {
+						"ax": 1143,
+						"ay": 1805,
+						"aw": 61,
+						"ah": 98,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_56X64": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_56x64",
+					"default": {
+						"ax": 2296,
+						"ay": 998,
+						"aw": 72,
+						"ah": 82,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_85X42": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_85x42",
+					"default": {
+						"ax": 2348,
+						"ay": 1429,
+						"aw": 109,
+						"ah": 54,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_64X54": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_64x54",
+					"default": {
+						"ax": 2296,
+						"ay": 1083,
+						"aw": 82,
+						"ah": 70,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_79X43": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_79x43",
+					"default": {
+						"ax": 2274,
+						"ay": 1244,
+						"aw": 102,
+						"ah": 56,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_44X77": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_44x77",
+					"default": {
+						"ax": 1296,
+						"ay": 1185,
+						"aw": 57,
+						"ah": 99,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_58X58": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_58x58",
+					"default": {
+						"ax": 2350,
+						"ay": 1156,
+						"aw": 75,
+						"ah": 75,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_60X55": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_60x55",
+					"default": {
+						"ax": 2379,
+						"ay": 1234,
+						"aw": 77,
+						"ah": 71,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_55X59": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_55x59",
+					"default": {
+						"ax": 2061,
+						"ay": 1967,
+						"aw": 71,
+						"ah": 76,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_45X70": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_45x70",
+					"default": {
+						"ax": 404,
+						"ay": 1952,
+						"aw": 58,
+						"ah": 90,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_46X68": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_46x68",
+					"default": {
+						"ax": 2454,
+						"ay": 1308,
+						"aw": 59,
+						"ah": 88,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_60X51": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_60x51",
+					"default": {
+						"ax": 2366,
+						"ay": 1486,
+						"aw": 77,
+						"ah": 66,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_58X52": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_58x52",
+					"default": {
+						"ax": 2446,
+						"ay": 1486,
+						"aw": 75,
+						"ah": 67,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_54X54_3": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_54x54_3",
+					"default": {
+						"ax": 2460,
+						"ay": 1399,
+						"aw": 70,
+						"ah": 70,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_54X54": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_54x54",
+					"default": {
+						"ax": 2478,
+						"ay": 1556,
+						"aw": 70,
+						"ah": 70,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_54X54_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_54x54_2",
+					"default": {
+						"ax": 2524,
+						"ay": 1472,
+						"aw": 70,
+						"ah": 70,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_48X61": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_48x61",
+					"default": {
+						"ax": 2478,
+						"ay": 1629,
+						"aw": 62,
+						"ah": 79,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_57X52": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_57x52",
+					"default": {
+						"ax": 2500,
+						"ay": 1711,
+						"aw": 73,
+						"ah": 67,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_57X52_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_57x52_2",
+					"default": {
+						"ax": 2543,
+						"ay": 1629,
+						"aw": 73,
+						"ah": 67,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_46X64": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_46x64",
+					"default": {
+						"ax": 2576,
+						"ay": 1699,
+						"aw": 59,
+						"ah": 82,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X56": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_52x56",
+					"default": {
+						"ax": 2551,
+						"ay": 1545,
+						"aw": 67,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_63X46": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_63x46",
+					"default": {
+						"ax": 2366,
+						"ay": 1556,
+						"aw": 81,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_50X56": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_50x56",
+					"default": {
+						"ax": 2619,
+						"ay": 1620,
+						"aw": 64,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_55X49": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_55x49",
+					"default": {
+						"ax": 2585,
+						"ay": 1784,
+						"aw": 71,
+						"ah": 63,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_55X49_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_55x49_2",
+					"default": {
+						"ax": 2638,
+						"ay": 1695,
+						"aw": 71,
+						"ah": 63,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_60X45": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_60x45",
+					"default": {
+						"ax": 2585,
+						"ay": 1850,
+						"aw": 77,
+						"ah": 58,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_43X61": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_43x61",
+					"default": {
+						"ax": 2659,
+						"ay": 1761,
+						"aw": 56,
+						"ah": 79,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_55X48": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_55x48",
+					"default": {
+						"ax": 2656,
+						"ay": 1911,
+						"aw": 71,
+						"ah": 62,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_54X48": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_54x48",
+					"default": {
+						"ax": 2665,
+						"ay": 1843,
+						"aw": 70,
+						"ah": 62,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_50X52": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_50x52",
+					"default": {
+						"ax": 2656,
+						"ay": 1976,
+						"aw": 64,
+						"ah": 67,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_58X43": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_58x43",
+					"default": {
+						"ax": 2723,
+						"ay": 1976,
+						"aw": 75,
+						"ah": 56,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_42X60": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_42x60",
+					"default": {
+						"ax": 2212,
+						"ay": 305,
+						"aw": 54,
+						"ah": 77,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_54X46": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_54x46",
+					"default": {
+						"ax": 2730,
+						"ay": 1908,
+						"aw": 70,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_67X37": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_67x37",
+					"default": {
+						"ax": 1863,
+						"ay": 812,
+						"aw": 86,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_49X49": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_49x49",
+					"default": {
+						"ax": 2801,
+						"ay": 1970,
+						"aw": 63,
+						"ah": 63,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X46_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_52x46_2",
+					"default": {
+						"ax": 2233,
+						"ay": 140,
+						"aw": 67,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X46": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_52x46",
+					"default": {
+						"ax": 2233,
+						"ay": 202,
+						"aw": 67,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_38X62": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_38x62",
+					"default": {
+						"ax": 2235,
+						"ay": 1,
+						"aw": 49,
+						"ah": 80,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_48X49": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_48x49",
+					"default": {
+						"ax": 1862,
+						"ay": 1226,
+						"aw": 62,
+						"ah": 63,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_48X48": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_48x48",
+					"default": {
+						"ax": 2287,
+						"ay": 1,
+						"aw": 62,
+						"ah": 62,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_50X46": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_50x46",
+					"default": {
+						"ax": 2287,
+						"ay": 66,
+						"aw": 64,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_81X28": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_81x28",
+					"default": {
+						"ax": 1484,
+						"ay": 1427,
+						"aw": 104,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_46X47": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_46x47",
+					"default": {
+						"ax": 2352,
+						"ay": 1,
+						"aw": 59,
+						"ah": 61,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X40": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_52x40",
+					"default": {
+						"ax": 2374,
+						"ay": 1308,
+						"aw": 67,
+						"ah": 52,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X40_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_52x40_2",
+					"default": {
+						"ax": 2500,
+						"ay": 1781,
+						"aw": 67,
+						"ah": 52,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_46X45": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_46x45",
+					"default": {
+						"ax": 2212,
+						"ay": 385,
+						"aw": 59,
+						"ah": 58,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_47X43": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_47x43",
+					"default": {
+						"ax": 2269,
+						"ay": 264,
+						"aw": 61,
+						"ah": 56,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_45X45": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_45x45",
+					"default": {
+						"ax": 2269,
+						"ay": 323,
+						"aw": 58,
+						"ah": 58,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_41X47_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_41x47_2",
+					"default": {
+						"ax": 2303,
+						"ay": 128,
+						"aw": 53,
+						"ah": 61,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_41X47_3": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_41x47_3",
+					"default": {
+						"ax": 2303,
+						"ay": 192,
+						"aw": 53,
+						"ah": 61,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_41X47": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_41x47",
+					"default": {
+						"ax": 2212,
+						"ay": 446,
+						"aw": 53,
+						"ah": 61,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_30X64": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_30x64",
+					"default": {
+						"ax": 2240,
+						"ay": 510,
+						"aw": 39,
+						"ah": 82,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_49X39": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_49x39",
+					"default": {
+						"ax": 1952,
+						"ay": 812,
+						"aw": 63,
+						"ah": 50,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_43X43": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_43x43",
+					"default": {
+						"ax": 2204,
+						"ay": 1303,
+						"aw": 56,
+						"ah": 56,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_41X46": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_41x46",
+					"default": {
+						"ax": 2354,
+						"ay": 65,
+						"aw": 53,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_44X42": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_44x42",
+					"default": {
+						"ax": 2268,
+						"ay": 446,
+						"aw": 57,
+						"ah": 54,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_58X32": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_58x32",
+					"default": {
+						"ax": 1606,
+						"ay": 2005,
+						"aw": 75,
+						"ah": 41,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_55X33": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_55x33",
+					"default": {
+						"ax": 1027,
+						"ay": 1138,
+						"aw": 71,
+						"ah": 43,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_44X41": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_44x41",
+					"default": {
+						"ax": 2274,
+						"ay": 384,
+						"aw": 57,
+						"ah": 53,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X56": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_32x56",
+					"default": {
+						"ax": 2240,
+						"ay": 595,
+						"aw": 41,
+						"ah": 72,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_34X51": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_34x51",
+					"default": {
+						"ax": 2282,
+						"ay": 503,
+						"aw": 44,
+						"ah": 66,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_41X41": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_41x41",
+					"default": {
+						"ax": 2330,
+						"ay": 323,
+						"aw": 53,
+						"ah": 53,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_53X32": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_53x32",
+					"default": {
+						"ax": 2585,
+						"ay": 1911,
+						"aw": 68,
+						"ah": 41,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_36X46": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_36x46",
+					"default": {
+						"ax": 2328,
+						"ay": 440,
+						"aw": 47,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_50X33": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_50x33",
+					"default": {
+						"ax": 1624,
+						"ay": 1035,
+						"aw": 64,
+						"ah": 43,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_40X40": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_40x40",
+					"default": {
+						"ax": 2334,
+						"ay": 379,
+						"aw": 52,
+						"ah": 52,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_37X42": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_37x42",
+					"default": {
+						"ax": 2333,
+						"ay": 256,
+						"aw": 48,
+						"ah": 54,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_39X39": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_39x39",
+					"default": {
+						"ax": 1691,
+						"ay": 1035,
+						"aw": 50,
+						"ah": 50,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X45": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_32x45",
+					"default": {
+						"ax": 2284,
+						"ay": 572,
+						"aw": 41,
+						"ah": 58,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_37X37": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_37x37",
+					"default": {
+						"ax": 2235,
+						"ay": 84,
+						"aw": 48,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_45X30": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_45x30",
+					"default": {
+						"ax": 1744,
+						"ay": 1035,
+						"aw": 58,
+						"ah": 39,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_38X34_3": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_38x34_3",
+					"default": {
+						"ax": 2284,
+						"ay": 633,
+						"aw": 49,
+						"ah": 44,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_38X34_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_38x34_2",
+					"default": {
+						"ax": 2328,
+						"ay": 572,
+						"aw": 49,
+						"ah": 44,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_38X34": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_38x34",
+					"default": {
+						"ax": 2329,
+						"ay": 502,
+						"aw": 49,
+						"ah": 44,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_37X33": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_37x33",
+					"default": {
+						"ax": 2378,
+						"ay": 434,
+						"aw": 48,
+						"ah": 43,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_29X42": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_29x42",
+					"default": {
+						"ax": 2295,
+						"ay": 680,
+						"aw": 38,
+						"ah": 54,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_59X21": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_59x21",
+					"default": {
+						"ax": 2141,
+						"ay": 1050,
+						"aw": 76,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_27X44": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_27x44",
+					"default": {
+						"ax": 290,
+						"ay": 1288,
+						"aw": 35,
+						"ah": 57,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_34X35": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_34x35",
+					"default": {
+						"ax": 2295,
+						"ay": 737,
+						"aw": 44,
+						"ah": 45,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_39X30": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_39x30",
+					"default": {
+						"ax": 2263,
+						"ay": 1445,
+						"aw": 50,
+						"ah": 39,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_34X34": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_34x34",
+					"default": {
+						"ax": 2336,
+						"ay": 619,
+						"aw": 44,
+						"ah": 44,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_135X8": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_135x8",
+					"default": {
+						"ax": 2723,
+						"ay": 2036,
+						"aw": 173,
+						"ah": 11,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X48": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_23x48",
+					"default": {
+						"ax": 432,
+						"ay": 1782,
+						"aw": 30,
+						"ah": 62,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_30X36": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_30x36",
+					"default": {
+						"ax": 2380,
+						"ay": 549,
+						"aw": 39,
+						"ah": 47,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_31X35": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_31x35",
+					"default": {
+						"ax": 2381,
+						"ay": 480,
+						"aw": 40,
+						"ah": 45,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_36X28": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_36x28",
+					"default": {
+						"ax": 1684,
+						"ay": 2005,
+						"aw": 47,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X32": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_32x32",
+					"default": {
+						"ax": 1734,
+						"ay": 2005,
+						"aw": 41,
+						"ah": 41,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_42X24": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_42x24",
+					"default": {
+						"ax": 1209,
+						"ay": 1731,
+						"aw": 54,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_26X38": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_26x38",
+					"default": {
+						"ax": 290,
+						"ay": 1348,
+						"aw": 34,
+						"ah": 49,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_36X27": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_36x27",
+					"default": {
+						"ax": 1266,
+						"ay": 1731,
+						"aw": 47,
+						"ah": 35,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X31": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_32x31",
+					"default": {
+						"ax": 2336,
+						"ay": 666,
+						"aw": 41,
+						"ah": 40,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_35X28": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_35x28",
+					"default": {
+						"ax": 686,
+						"ay": 1889,
+						"aw": 45,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_40X24": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_40x24",
+					"default": {
+						"ax": 572,
+						"ay": 1552,
+						"aw": 52,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_31X31": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_31x31",
+					"default": {
+						"ax": 2332,
+						"ay": 785,
+						"aw": 40,
+						"ah": 40,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X29": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_32x29",
+					"default": {
+						"ax": 734,
+						"ay": 1889,
+						"aw": 41,
+						"ah": 38,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_30X30": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_30x30",
+					"default": {
+						"ax": 2342,
+						"ay": 709,
+						"aw": 39,
+						"ah": 39,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_26X33": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_26x33",
+					"default": {
+						"ax": 290,
+						"ay": 1400,
+						"aw": 34,
+						"ah": 43,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_36X24": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_36x24",
+					"default": {
+						"ax": 778,
+						"ay": 1889,
+						"aw": 47,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_29X29": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_29x29",
+					"default": {
+						"ax": 2076,
+						"ay": 1363,
+						"aw": 38,
+						"ah": 38,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_25X34": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_25x34",
+					"default": {
+						"ax": 2332,
+						"ay": 828,
+						"aw": 32,
+						"ah": 44,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_27X29": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_27x29",
+					"default": {
+						"ax": 2380,
+						"ay": 666,
+						"aw": 35,
+						"ah": 38,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_25X32": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_25x32",
+					"default": {
+						"ax": 2383,
+						"ay": 599,
+						"aw": 32,
+						"ah": 41,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_16X46": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_16x46",
+					"default": {
+						"ax": 2450,
+						"ay": 1556,
+						"aw": 21,
+						"ah": 59,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_21X33": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_21x33",
+					"default": {
+						"ax": 1927,
+						"ay": 1406,
+						"aw": 27,
+						"ah": 43,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_26X26": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_26x26",
+					"default": {
+						"ax": 2367,
+						"ay": 828,
+						"aw": 34,
+						"ah": 34,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_28X25_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_28x25_2",
+					"default": {
+						"ax": 2367,
+						"ay": 865,
+						"aw": 36,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_28X25": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_28x25",
+					"default": {
+						"ax": 2375,
+						"ay": 751,
+						"aw": 36,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_28X25_3": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_28x25_3",
+					"default": {
+						"ax": 2375,
+						"ay": 786,
+						"aw": 36,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X29": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_23x29",
+					"default": {
+						"ax": 2233,
+						"ay": 264,
+						"aw": 30,
+						"ah": 38,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_42X16": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_42x16",
+					"default": {
+						"ax": 1143,
+						"ay": 1906,
+						"aw": 54,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_28X23": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_28x23",
+					"default": {
+						"ax": 2404,
+						"ay": 821,
+						"aw": 36,
+						"ah": 30,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_11X51": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_11x51",
+					"default": {
+						"ax": 609,
+						"ay": 1469,
+						"aw": 15,
+						"ah": 66,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_22X26": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_22x26",
+					"default": {
+						"ax": 2316,
+						"ay": 1445,
+						"aw": 29,
+						"ah": 34,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_24X24": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_24x24",
+					"default": {
+						"ax": 2332,
+						"ay": 875,
+						"aw": 31,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_24X24_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_24x24_2",
+					"default": {
+						"ax": 2384,
+						"ay": 707,
+						"aw": 31,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_31X18": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_31x18",
+					"default": {
+						"ax": 2227,
+						"ay": 1159,
+						"aw": 40,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_17X33": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_17x33",
+					"default": {
+						"ax": 2113,
+						"ay": 936,
+						"aw": 22,
+						"ah": 43,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_19X28": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_19x28",
+					"default": {
+						"ax": 1316,
+						"ay": 1731,
+						"aw": 25,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_24X22": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_24x22",
+					"default": {
+						"ax": 2414,
+						"ay": 741,
+						"aw": 31,
+						"ah": 29,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X22": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_23x22",
+					"default": {
+						"ax": 2342,
+						"ay": 751,
+						"aw": 30,
+						"ah": 29,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_19X24": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_19x24",
+					"default": {
+						"ax": 2212,
+						"ay": 510,
+						"aw": 25,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_19X24_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_19x24_2",
+					"default": {
+						"ax": 2212,
+						"ay": 544,
+						"aw": 25,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X19": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_23x19",
+					"default": {
+						"ax": 2126,
+						"ay": 1191,
+						"aw": 30,
+						"ah": 25,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_20X21": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_20x21",
+					"default": {
+						"ax": 2414,
+						"ay": 773,
+						"aw": 26,
+						"ah": 27,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_12X33": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_12x33",
+					"default": {
+						"ax": 1765,
+						"ay": 1470,
+						"aw": 16,
+						"ah": 43,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X12": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_32x12",
+					"default": {
+						"ax": 2329,
+						"ay": 549,
+						"aw": 41,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X16": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_23x16",
+					"default": {
+						"ax": 2159,
+						"ay": 1191,
+						"aw": 30,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_19X19": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_19x19",
+					"default": {
+						"ax": 2369,
+						"ay": 900,
+						"aw": 25,
+						"ah": 25,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_21X17": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_21x17",
+					"default": {
+						"ax": 214,
+						"ay": 1838,
+						"aw": 27,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_9X38": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_9x38",
+					"default": {
+						"ax": 2570,
+						"ay": 1784,
+						"aw": 12,
+						"ah": 49,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_18X18": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_18x18",
+					"default": {
+						"ax": 244,
+						"ay": 1838,
+						"aw": 24,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_13X25": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_13x25",
+					"default": {
+						"ax": 2118,
+						"ay": 1769,
+						"aw": 17,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X14": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_23x14",
+					"default": {
+						"ax": 290,
+						"ay": 1446,
+						"aw": 30,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_15X17": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_15x17",
+					"default": {
+						"ax": 271,
+						"ay": 1838,
+						"aw": 20,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_10X25": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_10x25",
+					"default": {
+						"ax": 828,
+						"ay": 1889,
+						"aw": 13,
+						"ah": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_13X18": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_13x18",
+					"default": {
+						"ax": 2478,
+						"ay": 1711,
+						"aw": 17,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_15X15": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_15x15",
+					"default": {
+						"ax": 294,
+						"ay": 1838,
+						"aw": 20,
+						"ah": 20,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_13X16": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_13x16",
+					"default": {
+						"ax": 317,
+						"ay": 1838,
+						"aw": 17,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_7X29": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_7x29",
+					"default": {
+						"ax": 1591,
+						"ay": 1427,
+						"aw": 9,
+						"ah": 38,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_17X11": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_17x11",
+					"default": {
+						"ax": 1927,
+						"ay": 1452,
+						"aw": 22,
+						"ah": 15,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_14X14": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_14x14",
+					"default": {
+						"ax": 2638,
+						"ay": 1761,
+						"aw": 18,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_10X18": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_10x18",
+					"default": {
+						"ax": 2018,
+						"ay": 839,
+						"aw": 13,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_13X13": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_13x13",
+					"default": {
+						"ax": 1681,
+						"ay": 1617,
+						"aw": 17,
+						"ah": 17,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_14X12": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_14x12",
+					"default": {
+						"ax": 1701,
+						"ay": 1617,
+						"aw": 18,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_8X19": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_8x19",
+					"default": {
+						"ax": 844,
+						"ay": 1742,
+						"aw": 11,
+						"ah": 25,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_11X14": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_11x14",
+					"default": {
+						"ax": 1722,
+						"ay": 1617,
+						"aw": 15,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_6X22": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_6x22",
+					"default": {
+						"ax": 1196,
+						"ay": 1930,
+						"aw": 8,
+						"ah": 29,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_11X11": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_11x11",
+					"default": {
+						"ax": 432,
+						"ay": 1847,
+						"aw": 15,
+						"ah": 15,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_13X9": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_13x9",
+					"default": {
+						"ax": 2263,
+						"ay": 909,
+						"aw": 17,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_8X14": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_8x14",
+					"default": {
+						"ax": 844,
+						"ay": 1770,
+						"aw": 11,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_9X11": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_9x11",
+					"default": {
+						"ax": 450,
+						"ay": 1847,
+						"aw": 12,
+						"ah": 15,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_7X15": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_7x15",
+					"default": {
+						"ax": 2192,
+						"ay": 1191,
+						"aw": 9,
+						"ah": 20,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_6X17": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_6x17",
+					"default": {
+						"ax": 2466,
+						"ay": 1964,
+						"aw": 8,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_7X11": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_7x11",
+					"default": {
+						"ax": 2466,
+						"ay": 1989,
+						"aw": 9,
+						"ah": 15,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_5X12": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_5x12",
+					"default": {
+						"ax": 2466,
+						"ay": 2007,
+						"aw": 7,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_7X9": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_7x9",
+					"default": {
+						"ax": 2466,
+						"ay": 2026,
+						"aw": 9,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_6X9": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_6x9",
+					"default": {
+						"ax": 2237,
+						"ay": 1620,
+						"aw": 8,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_5X10": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_5x10",
+					"default": {
+						"ax": 730,
+						"ay": 749,
+						"aw": 7,
+						"ah": 13,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_4X10": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_4x10",
+					"default": {
+						"ax": 1200,
+						"ay": 1906,
+						"aw": 6,
+						"ah": 13,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_6X7": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_6x7",
+					"default": {
+						"ax": 2286,
+						"ay": 128,
+						"aw": 8,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_6X6": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_6x6",
+					"default": {
+						"ax": 844,
+						"ay": 1791,
+						"aw": 8,
+						"ah": 8,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_4": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_1x1_4",
+					"default": {
+						"ax": 2374,
+						"ay": 1303,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_5": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_1x1_5",
+					"default": {
+						"ax": 2659,
+						"ay": 1843,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_6": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_1x1_6",
+					"default": {
+						"ax": 2192,
+						"ay": 1214,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_7": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_1x1_7",
+					"default": {
+						"ax": 2197,
+						"ay": 1214,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_8": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_1x1_8",
+					"default": {
+						"ax": 1200,
+						"ay": 1922,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_9": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_1x1_9",
+					"default": {
+						"ax": 2297,
+						"ay": 128,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_2": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_1x1_2",
+					"default": {
+						"ax": 2297,
+						"ay": 133,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_10": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_1x1_10",
+					"default": {
+						"ax": 855,
+						"ay": 1791,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_1x1",
+					"default": {
+						"ax": 855,
+						"ay": 1796,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_3": {
+					"type": "Image",
+					"path": "images/full/zombie/moon_radiation_gargantuar/radiation_gargantuar_1x1_3",
+					"default": {
+						"ax": 2268,
+						"ay": 503,
+						"aw": 2,
+						"ah": 2,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		}
+	}
+}

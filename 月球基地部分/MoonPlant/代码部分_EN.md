@@ -811,6 +811,46 @@
 				"PopAnim": "POPANIM_PLANT_GRAVITY_TREE",
 				"HomeWorld": "moon"
 			}
+		},
+		{
+			"#comment":"Uncle Cosmic Flying-Gourd)",
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicsaucer",
+				"cosmic_uncle_flying_melon"
+			],
+			"objdata": {
+				"TypeName": "cosmicsaucer",
+				"PlantFramework": "PlantSkyshooter",
+				"PlantResourceGroups": [		
+					"PlantCosmicSaucerAudio",
+					"PlantPeashooter",
+					"PlantCosmicSaucer"
+				],
+				"Properties": "RTID(CosmicSaucerDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Skyshooter",
+				"PopAnim": "POPANIM_PLANT_COSMICSAUCER",
+				"HomeWorld": "moon"
+			}
+		},
+		{
+			"objclass": "PlantType",
+			"aliases": [
+				"cosmicsaucer_guard"
+			],
+			"objdata": {
+				"TypeName": "cosmicsaucer_guard",
+				"PlantFramework": "PlantBlockoli",
+				"PlantResourceGroups": [	
+					"PlantCosmicSaucerAudio",
+					"PlantCosmicSaucer"
+				],
+				"Properties": "RTID(CosmicSaucerGuardDefault@PlantProperties)",
+				"AnimRigClass": "PlantAnimRig_Blockoli",
+				"PopAnim": "POPANIM_PLANT_COSMICSAUCER_ABSORB",
+				"HideInPlantViewers":true,
+				"HomeWorld": "moon"
+			}
 		}
 
 ## PlantProperties
@@ -3244,6 +3284,177 @@
 					"wallnut"
 				]
 			}
+		},
+		{
+			"objclass": "SkyshooterProps",
+			"aliases": [
+				"CosmicSaucerDefault"
+			],
+			"objdata": {
+				"Cost": 50,
+				"BeghouledCost": 1500,
+				"Hitpoints": 300,
+				"PacketCooldown": 35,
+				"StartingCooldown": 20,
+				"PlantGridType": "ground",
+				"Height": "ground",
+				"PlantFoodPlayCount": 1,
+				"CanLiveOnWaves": true,
+				"ManualCooldownTime": 12,
+				"EscapesWhenDamaged": false,
+				"RageBaitable": false,
+				"AngeredTapRequirement": 1145141919,
+				"AngeredTimeLimit": 1,
+				"Actions": [
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicSaucer_NormalStun@ProjectileTypes)",
+						"ProjectileLaunchSound": "",
+						"InitialMinCooldownTime": 9999999999,
+						"CooldownTimeMin": 9999999,
+						"CooldownTimeMax": 9999999,
+						"SpawnOffset": {
+							"x": 0,
+							"y": -10
+						}
+					},
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicSaucer_NormalStun@ProjectileTypes)",
+						"ProjectileLaunchSound": "",
+						"InitialMinCooldownTime": 9999999999,
+						"CooldownTimeMin": 9999999,
+						"CooldownTimeMax": 9999999,
+						"SpawnOffset": {
+							"x": 0,
+							"y": -10
+						},
+						"TriggerType": "manual"
+					},
+					{
+						"Type": "projectile",
+						"Projectile": "RTID(CosmicSaucer_PFStun@ProjectileTypes)",
+						"ProjectileLaunchSound": "",
+						"CooldownTimeMin": 99999988,
+						"CooldownTimeMax": 99999999,
+						"SpawnOffset": {
+							"x": 0,
+							"y": -10
+						}
+					}
+				],
+				"ArtCenter": {
+					"x": 99,
+					"y": 115
+				},
+				"IdleAnimationWeights": {
+					"idle": 10,
+					"idle2": 5
+				},
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 2,
+				"ZenGardenDurationOverrideSeconds": 12600,
+				"Boosts": [
+					{
+						"PlantBoostProps": "RTID(BoostFirstStrike@PropertySheets)",
+						"Value": 1,
+						"CooldownDurationSeconds": 28800
+					}
+				],
+				"IsConsumable": true
+			}
+		},
+		{
+			"objclass": "BlockoliProps",
+			"aliases": [
+				"CosmicSaucerGuardDefault"
+			],
+			"objdata": {
+				"Cost": 0,
+				"Hitpoints": 2000,
+				"PacketCooldown": 99999.0,
+				"StartingCooldown": 99999.0,
+				"PlantGridType": "ground",
+				"Height": "tall",
+				"PlantFoodPlayCount": 0,
+				"CanLiveOnWaves": true,
+				"CanReceiveFirstAid": false,
+				"MultiPlantLayer": "armor",
+				"ShieldSmashStunDuration": 999999.0,
+				"ShieldSmashCooldown": 999999.0,
+				"RectZombieProximity": {
+					"mX": 10,
+					"mY": -120,
+					"mWidth": 100,
+					"mHeight": 210
+				},
+				"ArtCenter": {
+					"x": 97,
+					"y": 110
+				},
+				"HitRectAdjust": {
+					"mX": 0,
+					"mY": 0,
+					"mWidth": 15,
+					"mHeight": 0
+				},
+				"Actions": [
+					{
+						"Type": "special",
+						"Damage": 95,
+						"InitialMinCooldownTime": 999999.0,
+						"CooldownTimeMin": 999999.0,
+						"CooldownTimeMax": 999999.0,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": 10,
+							"mY": -120,
+							"mWidth": -9999,
+							"mHeight": -9999
+						}
+					},
+					{
+						"Type": "special",
+						"Damage": 0,
+						"InitialMinCooldownTime": 9999999.0,
+						"CooldownTimeMin": 9999999.0,
+						"CooldownTimeMax": 9999999.0,
+						"TriggerType": "rect",
+						"RectTriggerRange": {
+							"mX": -90,
+							"mY": -125,
+							"mWidth": -9999,
+							"mHeight": -9999
+						}
+					}
+				],
+				"Powers": {
+					"List": [
+						{
+							"Type": "Shield",
+							"Props": "Shield12000"
+						}
+					]
+				},
+				"PlantStats": [
+					{
+						"Type": "armor",
+						"Value": "armor1"
+					},
+					{
+						"Type": "recharge",
+						"Value": "recharge3"
+					}
+				],
+				"ZenGardenSproutWeight": 0,
+				"ZenGardenBoostCost": 10,
+				"ZenGardenDurationOverrideSeconds": 12600,
+				"SuggestionAlts": [
+					"peanut",
+					"tallnut",
+					"wallnut"
+				]
+			}
 		}
 
 ## PlantLevels
@@ -4404,7 +4615,57 @@
 				"TypeName": "gravitytree",
 				"UsesLeveling": false
 			}
-		}
+		},
+		{
+			"aliases": [
+				"cosmicsaucer"
+			],
+			"objclass": "PlantLevelStats",
+			"objdata": {
+				"FloatStats": [
+					{
+						"Name": "Cost",
+						"Values": [
+							50
+						]
+					},
+					{
+						"Name": "PacketCooldown",
+						"Values": [
+							35
+						]
+					},
+					{
+						"Name": "Hitpoints",
+						"Values": [
+							300
+						]
+					},
+					{
+						"Name": "PlantTier",
+						"Values": [
+							1
+						]
+					}
+				],
+				"LevelCap": 1,
+				"LevelCoins": [],
+				"LevelXP": [],
+				"PlantTier": [
+					1
+				],
+				"StringStats": [
+					{
+						"Name": "Range",
+						"Values": [
+							""
+						]
+					}
+				],
+				"TypeName": "cosmicsaucer",
+				"UsesLeveling": false
+			}
+		},
 
 ## ProjectileTypes
 {
@@ -8699,6 +8960,269 @@
 					"mWidth": 22.0,
 					"mHeight": 20.0
 				}
+			}
+		},
+		{
+			"objclass": "PrimalPeashooterProjectileProps",
+			"aliases": [
+				"CosmicSaucer_NormalStun"
+			],
+			"objdata": {
+				"ImpactSoundForce": false,
+				"HasShadow":false,
+				"ClassName": "PrimalPeashooterProjectile",
+				"StunDuration": 5,
+				"KnockbackChance": 0.9999,
+				"KnockbackTime": 3,
+				"KnockbackDistance": 36,
+				"KnockbackHeight": 75,
+				"BaseDamage": 0,
+				"SplashDamage": 0.0001,
+				"SplashRadius": 0.5,
+				"CollisionFlags": [
+					"ground"
+				],
+				"DamageFlags": [
+					"lobbed",
+					"no_flash"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -500,
+						"Max": -500
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -30,
+						"Max": -50
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -98,
+					"y": -105
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactSoundEvent": "",
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -20,
+						"Max": -20
+					}
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				}
+			}
+		},
+		{
+			"objclass": "PrimalPeashooterProjectileProps",
+			"aliases": [
+				"CosmicSaucer_PFStun"
+			],
+			"objdata": {
+				"ImpactSoundForce": false,
+				"HasShadow":false,
+				"ClassName": "PrimalPeashooterProjectile",
+				"StunDuration": 10,
+				"KnockbackChance": 0.9999,
+				"KnockbackTime": 3,
+				"KnockbackDistance": 52,
+				"KnockbackHeight": 125,
+				"BaseDamage": 0,
+				"SplashDamage": 0.0001,
+				"SplashRadius": 0.5,
+				"CollisionFlags": [
+					"ground"
+				],
+				"DamageFlags": [
+					"lobbed",
+					"no_flash"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -500,
+						"Max": -500
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -30,
+						"Max": -50
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -98,
+					"y": -105
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"ImpactSoundEvent": "",
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -20,
+						"Max": -20
+					}
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				}
+			}
+		},
+		{
+			"#comment": "The Cosmic Saucer checks for plants to generate its force-field shield",
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"CosmicSaucer_IsTherePlant"
+			],
+			"objdata": {
+				"BaseDamage": 0,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 100,
+				"PierceChanceReductionPerHit": 25,
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 1,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"HasShadow": false,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_plant",
+						"ActionArgs": "Type:cosmicsaucer_guard,Team:Plant,mX:0,mY:0,mZ:0,IgnoreGridLayers",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"plants",
+					"low_plants",
+					"tall_plants",
+					"ground_plants",
+					"normal_plants"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -100,
+						"Max": -100
+					}
+				],
+				"InitialScale": {
+					"Min": 0,
+					"Max": 0
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 9999,
+						"Max": 9999
+					},
+					{
+						"Min": 9999,
+						"Max": 9999
+					}
+				]
 			}
 		},
 

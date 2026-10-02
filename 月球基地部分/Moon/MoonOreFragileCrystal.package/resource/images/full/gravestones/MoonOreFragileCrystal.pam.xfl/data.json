@@ -1,0 +1,480 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"FCBreak_LunarMine_Ore_Effect_13x16": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_13X16",
+			"dimension": {
+				"width": 13,
+				"height": 16
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_140x96": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_140X96",
+			"dimension": {
+				"width": 140,
+				"height": 96
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_149x134": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_149X134",
+			"dimension": {
+				"width": 149,
+				"height": 134
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_162x164": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_162X164",
+			"dimension": {
+				"width": 162,
+				"height": 164
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_171x118": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_171X118",
+			"dimension": {
+				"width": 171,
+				"height": 118
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_17x18": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_17X18",
+			"dimension": {
+				"width": 17,
+				"height": 18
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_17x21": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_17X21",
+			"dimension": {
+				"width": 17,
+				"height": 21
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_190x130": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_190X130",
+			"dimension": {
+				"width": 190,
+				"height": 130
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_23x33_2": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_23X33_2",
+			"dimension": {
+				"width": 23,
+				"height": 33
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_23x38": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_23X38",
+			"dimension": {
+				"width": 23,
+				"height": 38
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_27x17": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_27X17",
+			"dimension": {
+				"width": 27,
+				"height": 17
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_38x83": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_38X83",
+			"dimension": {
+				"width": 38,
+				"height": 83
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_43x41": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_43X41",
+			"dimension": {
+				"width": 43,
+				"height": 41
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_49x43": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_49X43",
+			"dimension": {
+				"width": 49,
+				"height": 43
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_50x67": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_50X67",
+			"dimension": {
+				"width": 50,
+				"height": 67
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_51x112": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_51X112",
+			"dimension": {
+				"width": 51,
+				"height": 112
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_59x57": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_59X57",
+			"dimension": {
+				"width": 59,
+				"height": 57
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_65x21": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_65X21",
+			"dimension": {
+				"width": 65,
+				"height": 21
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_65x56": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_65X56",
+			"dimension": {
+				"width": 65,
+				"height": 56
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_66x25": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_66X25",
+			"dimension": {
+				"width": 66,
+				"height": 25
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_71x77": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_71X77",
+			"dimension": {
+				"width": 71,
+				"height": 77
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_74x51_2": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_74X51_2",
+			"dimension": {
+				"width": 74,
+				"height": 51
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_80x72": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_80X72",
+			"dimension": {
+				"width": 80,
+				"height": 72
+			}
+		},
+		"FCBreak_LunarMine_Ore_Effect_9x11": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FCBREAK_LUNARMINE_ORE_EFFECT_9X11",
+			"dimension": {
+				"width": 9,
+				"height": 11
+			}
+		},
+		"FC_LunarMine_Ore_Effect_10x10": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_10X10",
+			"dimension": {
+				"width": 10,
+				"height": 10
+			}
+		},
+		"FC_LunarMine_Ore_Effect_13x12": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_13X12",
+			"dimension": {
+				"width": 13,
+				"height": 12
+			}
+		},
+		"FC_LunarMine_Ore_Effect_13x16": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_13X16",
+			"dimension": {
+				"width": 13,
+				"height": 16
+			}
+		},
+		"FC_LunarMine_Ore_Effect_13x16_2": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_13X16_2",
+			"dimension": {
+				"width": 13,
+				"height": 16
+			}
+		},
+		"FC_LunarMine_Ore_Effect_140x156": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_140X156",
+			"dimension": {
+				"width": 140,
+				"height": 156
+			}
+		},
+		"FC_LunarMine_Ore_Effect_162x164": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_162X164",
+			"dimension": {
+				"width": 162,
+				"height": 164
+			}
+		},
+		"FC_LunarMine_Ore_Effect_17x17": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_17X17",
+			"dimension": {
+				"width": 17,
+				"height": 17
+			}
+		},
+		"FC_LunarMine_Ore_Effect_17x18": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_17X18",
+			"dimension": {
+				"width": 17,
+				"height": 18
+			}
+		},
+		"FC_LunarMine_Ore_Effect_17x21": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_17X21",
+			"dimension": {
+				"width": 17,
+				"height": 21
+			}
+		},
+		"FC_LunarMine_Ore_Effect_18x17": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_18X17",
+			"dimension": {
+				"width": 18,
+				"height": 17
+			}
+		},
+		"FC_LunarMine_Ore_Effect_18x18": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_18X18",
+			"dimension": {
+				"width": 18,
+				"height": 18
+			}
+		},
+		"FC_LunarMine_Ore_Effect_20x20": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_20X20",
+			"dimension": {
+				"width": 20,
+				"height": 20
+			}
+		},
+		"FC_LunarMine_Ore_Effect_22x22": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_22X22",
+			"dimension": {
+				"width": 22,
+				"height": 22
+			}
+		},
+		"FC_LunarMine_Ore_Effect_24x23": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_24X23",
+			"dimension": {
+				"width": 24,
+				"height": 23
+			}
+		},
+		"FC_LunarMine_Ore_Effect_24x24": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_24X24",
+			"dimension": {
+				"width": 24,
+				"height": 24
+			}
+		},
+		"FC_LunarMine_Ore_Effect_26x31": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_26X31",
+			"dimension": {
+				"width": 26,
+				"height": 31
+			}
+		},
+		"FC_LunarMine_Ore_Effect_30x27": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_30X27",
+			"dimension": {
+				"width": 30,
+				"height": 27
+			}
+		},
+		"FC_LunarMine_Ore_Effect_31x30": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_31X30",
+			"dimension": {
+				"width": 31,
+				"height": 30
+			}
+		},
+		"FC_LunarMine_Ore_Effect_40x40": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_40X40",
+			"dimension": {
+				"width": 40,
+				"height": 40
+			}
+		},
+		"FC_LunarMine_Ore_Effect_41x41": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_41X41",
+			"dimension": {
+				"width": 41,
+				"height": 41
+			}
+		},
+		"FC_LunarMine_Ore_Effect_43x43": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_43X43",
+			"dimension": {
+				"width": 43,
+				"height": 43
+			}
+		},
+		"FC_LunarMine_Ore_Effect_44x56": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_44X56",
+			"dimension": {
+				"width": 44,
+				"height": 56
+			}
+		},
+		"FC_LunarMine_Ore_Effect_46x113": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_46X113",
+			"dimension": {
+				"width": 46,
+				"height": 113
+			}
+		},
+		"FC_LunarMine_Ore_Effect_46x46": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_46X46",
+			"dimension": {
+				"width": 46,
+				"height": 46
+			}
+		},
+		"FC_LunarMine_Ore_Effect_49x43": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_49X43",
+			"dimension": {
+				"width": 49,
+				"height": 43
+			}
+		},
+		"FC_LunarMine_Ore_Effect_50x67": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_50X67",
+			"dimension": {
+				"width": 50,
+				"height": 67
+			}
+		},
+		"FC_LunarMine_Ore_Effect_51x112": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_51X112",
+			"dimension": {
+				"width": 51,
+				"height": 112
+			}
+		},
+		"FC_LunarMine_Ore_Effect_54x124": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_54X124",
+			"dimension": {
+				"width": 54,
+				"height": 124
+			}
+		},
+		"FC_LunarMine_Ore_Effect_54x54": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_54X54",
+			"dimension": {
+				"width": 54,
+				"height": 54
+			}
+		},
+		"FC_LunarMine_Ore_Effect_55x49": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_55X49",
+			"dimension": {
+				"width": 55,
+				"height": 49
+			}
+		},
+		"FC_LunarMine_Ore_Effect_59x57": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_59X57",
+			"dimension": {
+				"width": 59,
+				"height": 57
+			}
+		},
+		"FC_LunarMine_Ore_Effect_64x52": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_64X52",
+			"dimension": {
+				"width": 64,
+				"height": 52
+			}
+		},
+		"FC_LunarMine_Ore_Effect_65x21": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_65X21",
+			"dimension": {
+				"width": 65,
+				"height": 21
+			}
+		},
+		"FC_LunarMine_Ore_Effect_65x56": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_65X56",
+			"dimension": {
+				"width": 65,
+				"height": 56
+			}
+		},
+		"FC_LunarMine_Ore_Effect_66x25": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_66X25",
+			"dimension": {
+				"width": 66,
+				"height": 25
+			}
+		},
+		"FC_LunarMine_Ore_Effect_70x76": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_70X76",
+			"dimension": {
+				"width": 70,
+				"height": 76
+			}
+		},
+		"FC_LunarMine_Ore_Effect_70x79": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_70X79",
+			"dimension": {
+				"width": 70,
+				"height": 79
+			}
+		},
+		"FC_LunarMine_Ore_Effect_71x77": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_71X77",
+			"dimension": {
+				"width": 71,
+				"height": 77
+			}
+		},
+		"FC_LunarMine_Ore_Effect_75x84": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_75X84",
+			"dimension": {
+				"width": 75,
+				"height": 84
+			}
+		},
+		"FC_LunarMine_Ore_Effect_78x93": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_78X93",
+			"dimension": {
+				"width": 78,
+				"height": 93
+			}
+		},
+		"FC_LunarMine_Ore_Effect_87x102": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_87X102",
+			"dimension": {
+				"width": 87,
+				"height": 102
+			}
+		},
+		"FC_LunarMine_Ore_Effect_89x78": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_89X78",
+			"dimension": {
+				"width": 89,
+				"height": 78
+			}
+		},
+		"FC_LunarMine_Ore_Effect_9x11": {
+			"id": "IMAGE_EFFECTS_LUNARMINE_ORE_EFFECT_FC_LUNARMINE_ORE_EFFECT_9X11",
+			"dimension": {
+				"width": 9,
+				"height": 11
+			}
+		}
+	},
+	"sprite": {}
+}

@@ -1,0 +1,95 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"zombie_galactic_supernova_twins_target_109x112": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_109X112",
+			"dimension": {
+				"width": 109,
+				"height": 112
+			},
+			"additional": null
+		},
+		"zombie_galactic_supernova_twins_target_147x150": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_147X150",
+			"dimension": {
+				"width": 147,
+				"height": 150
+			},
+			"additional": null
+		},
+		"zombie_galactic_supernova_twins_target_195x200": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_195X200",
+			"dimension": {
+				"width": 195,
+				"height": 200
+			},
+			"additional": null
+		},
+		"zombie_galactic_supernova_twins_target_249x249": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_249X249",
+			"dimension": {
+				"width": 249,
+				"height": 249
+			},
+			"additional": null
+		},
+		"zombie_galactic_supernova_twins_target_257x264": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_257X264",
+			"dimension": {
+				"width": 257,
+				"height": 264
+			},
+			"additional": null
+		},
+		"zombie_galactic_supernova_twins_target_329x328": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_329X328",
+			"dimension": {
+				"width": 329,
+				"height": 328
+			},
+			"additional": null
+		},
+		"zombie_galactic_supernova_twins_target_49x27": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_49X27",
+			"dimension": {
+				"width": 49,
+				"height": 27
+			},
+			"additional": null
+		},
+		"zombie_galactic_supernova_twins_target_65x35": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_65X35",
+			"dimension": {
+				"width": 65,
+				"height": 35
+			},
+			"additional": null
+		},
+		"zombie_galactic_supernova_twins_target_68x69": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_68X69",
+			"dimension": {
+				"width": 68,
+				"height": 69
+			},
+			"additional": null
+		},
+		"zombie_galactic_supernova_twins_target_84x86": {
+			"id": "IMAGE_EFFECTS_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_ZOMBIE_GALACTIC_SUPERNOVA_TWINS_TARGET_84X86",
+			"dimension": {
+				"width": 84,
+				"height": 86
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"Ground_Target_Reticle_Circle2": [
+			"Ground_Target_Reticle_Circle2_1"
+		]
+	}
+}

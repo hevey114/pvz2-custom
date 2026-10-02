@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/zombie_galactic_mysterio_qigong_88x146" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="zombie_galactic_mysterio_qigong_88x146">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/zombie_galactic_mysterio_qigong_88x146">
+                                    <matrix>
+                                        <Matrix a="1.931448" b="0.000000" c="0.000000" d="1.931448" tx="-88.849998" ty="-88.849998"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

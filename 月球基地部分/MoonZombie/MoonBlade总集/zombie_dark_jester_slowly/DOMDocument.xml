@@ -1,0 +1,383 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zombie_dark_jester_118x92" href="media/zombie_dark_jester_118x92.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_127x92" href="media/zombie_dark_jester_127x92.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_135x8" href="media/zombie_dark_jester_135x8.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_15x52" href="media/zombie_dark_jester_15x52.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_16x29" href="media/zombie_dark_jester_16x29.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_17x17" href="media/zombie_dark_jester_17x17.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_18x35" href="media/zombie_dark_jester_18x35.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_18x48" href="media/zombie_dark_jester_18x48.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_211x216" href="media/zombie_dark_jester_211x216.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_21x40" href="media/zombie_dark_jester_21x40.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_21x42" href="media/zombie_dark_jester_21x42.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_21x54" href="media/zombie_dark_jester_21x54.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_224x224" href="media/zombie_dark_jester_224x224.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_224x224_2" href="media/zombie_dark_jester_224x224_2.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_22x63" href="media/zombie_dark_jester_22x63.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_26x23" href="media/zombie_dark_jester_26x23.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_27x44" href="media/zombie_dark_jester_27x44.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_28x33" href="media/zombie_dark_jester_28x33.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_28x48" href="media/zombie_dark_jester_28x48.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_30x23" href="media/zombie_dark_jester_30x23.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_30x37" href="media/zombie_dark_jester_30x37.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_34x34" href="media/zombie_dark_jester_34x34.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_36x24" href="media/zombie_dark_jester_36x24.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_36x39" href="media/zombie_dark_jester_36x39.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_36x45" href="media/zombie_dark_jester_36x45.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_37x38" href="media/zombie_dark_jester_37x38.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_37x46" href="media/zombie_dark_jester_37x46.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_42x23" href="media/zombie_dark_jester_42x23.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_44x22" href="media/zombie_dark_jester_44x22.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_52x31" href="media/zombie_dark_jester_52x31.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_57x76" href="media/zombie_dark_jester_57x76.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_62x40" href="media/zombie_dark_jester_62x40.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_6x6" href="media/zombie_dark_jester_6x6.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_70x72" href="media/zombie_dark_jester_70x72.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_79x38" href="media/zombie_dark_jester_79x38.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_79x69" href="media/zombie_dark_jester_79x69.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_84x25" href="media/zombie_dark_jester_84x25.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_84x33" href="media/zombie_dark_jester_84x33.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_84x40" href="media/zombie_dark_jester_84x40.png"/>
+        <DOMBitmapItem name="media/zombie_dark_jester_97x212" href="media/zombie_dark_jester_97x212.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zombie_dark_jester_118x92.xml"/>
+        <Include href="image/zombie_dark_jester_127x92.xml"/>
+        <Include href="image/zombie_dark_jester_135x8.xml"/>
+        <Include href="image/zombie_dark_jester_15x52.xml"/>
+        <Include href="image/zombie_dark_jester_16x29.xml"/>
+        <Include href="image/zombie_dark_jester_17x17.xml"/>
+        <Include href="image/zombie_dark_jester_18x35.xml"/>
+        <Include href="image/zombie_dark_jester_18x48.xml"/>
+        <Include href="image/zombie_dark_jester_211x216.xml"/>
+        <Include href="image/zombie_dark_jester_21x40.xml"/>
+        <Include href="image/zombie_dark_jester_21x42.xml"/>
+        <Include href="image/zombie_dark_jester_21x54.xml"/>
+        <Include href="image/zombie_dark_jester_224x224.xml"/>
+        <Include href="image/zombie_dark_jester_224x224_2.xml"/>
+        <Include href="image/zombie_dark_jester_22x63.xml"/>
+        <Include href="image/zombie_dark_jester_26x23.xml"/>
+        <Include href="image/zombie_dark_jester_27x44.xml"/>
+        <Include href="image/zombie_dark_jester_28x33.xml"/>
+        <Include href="image/zombie_dark_jester_28x48.xml"/>
+        <Include href="image/zombie_dark_jester_30x23.xml"/>
+        <Include href="image/zombie_dark_jester_30x37.xml"/>
+        <Include href="image/zombie_dark_jester_34x34.xml"/>
+        <Include href="image/zombie_dark_jester_36x24.xml"/>
+        <Include href="image/zombie_dark_jester_36x39.xml"/>
+        <Include href="image/zombie_dark_jester_36x45.xml"/>
+        <Include href="image/zombie_dark_jester_37x38.xml"/>
+        <Include href="image/zombie_dark_jester_37x46.xml"/>
+        <Include href="image/zombie_dark_jester_42x23.xml"/>
+        <Include href="image/zombie_dark_jester_44x22.xml"/>
+        <Include href="image/zombie_dark_jester_52x31.xml"/>
+        <Include href="image/zombie_dark_jester_57x76.xml"/>
+        <Include href="image/zombie_dark_jester_62x40.xml"/>
+        <Include href="image/zombie_dark_jester_6x6.xml"/>
+        <Include href="image/zombie_dark_jester_70x72.xml"/>
+        <Include href="image/zombie_dark_jester_79x38.xml"/>
+        <Include href="image/zombie_dark_jester_79x69.xml"/>
+        <Include href="image/zombie_dark_jester_84x25.xml"/>
+        <Include href="image/zombie_dark_jester_84x33.xml"/>
+        <Include href="image/zombie_dark_jester_84x40.xml"/>
+        <Include href="image/zombie_dark_jester_97x212.xml"/>
+        <Include href="sprite/Dark_Jester_skull_01.xml"/>
+        <Include href="sprite/Whirlwind_Base.xml"/>
+        <Include href="sprite/Whirlwind_Base3.xml"/>
+        <Include href="sprite/Whirlwind_base2.xml"/>
+        <Include href="sprite/_ground.xml"/>
+        <Include href="sprite/_particles.xml"/>
+        <Include href="sprite/_zombie_pros_arms_outer_upper.xml"/>
+        <Include href="sprite/_zombie_pros_leg_upper_outer.xml"/>
+        <Include href="sprite/_zombie_pros_torso.xml"/>
+        <Include href="sprite/_zombie_pros_waist.xml"/>
+        <Include href="sprite/bell.xml"/>
+        <Include href="sprite/butter.xml"/>
+        <Include href="sprite/ground_swatch.xml"/>
+        <Include href="sprite/ink.xml"/>
+        <Include href="sprite/particle_arm.xml"/>
+        <Include href="sprite/particle_head.xml"/>
+        <Include href="sprite/pupil.xml"/>
+        <Include href="sprite/zombie_arm_inner_lower.xml"/>
+        <Include href="sprite/zombie_arm_inner_upper.xml"/>
+        <Include href="sprite/zombie_arm_outer_upper_bone.xml"/>
+        <Include href="sprite/zombie_hand_inner_01.xml"/>
+        <Include href="sprite/zombie_hand_inner_02.xml"/>
+        <Include href="sprite/zombie_hand_outer_01.xml"/>
+        <Include href="sprite/zombie_hand_outer_02.xml"/>
+        <Include href="sprite/zombie_hand_outer_03.xml"/>
+        <Include href="sprite/zombie_jaw.xml"/>
+        <Include href="sprite/zombie_leg_inner_upper.xml"/>
+        <Include href="sprite/zombie_pros_arm_inner_lower_01.xml"/>
+        <Include href="sprite/zombie_pros_arm_inner_upper.xml"/>
+        <Include href="sprite/zombie_pros_arm_outer_lower.xml"/>
+        <Include href="sprite/zombie_pros_arm_outer_upper_01.xml"/>
+        <Include href="sprite/zombie_pros_arm_outer_upper_02.xml"/>
+        <Include href="sprite/zombie_pros_foot_inner_heel.xml"/>
+        <Include href="sprite/zombie_pros_foot_inner_toe.xml"/>
+        <Include href="sprite/zombie_pros_foot_outer_heel.xml"/>
+        <Include href="sprite/zombie_pros_foot_outer_toe.xml"/>
+        <Include href="sprite/zombie_pros_hand_inner_lantern.xml"/>
+        <Include href="sprite/zombie_pros_hand_outer_01.xml"/>
+        <Include href="sprite/zombie_pros_jaw.xml"/>
+        <Include href="sprite/zombie_pros_leg_inner_lower.xml"/>
+        <Include href="sprite/zombie_pros_leg_inner_upper.xml"/>
+        <Include href="sprite/zombie_pros_leg_outer_lower.xml"/>
+        <Include href="sprite/zombie_pros_leg_upper_outer.xml"/>
+        <Include href="sprite/zombie_pros_skull_01.xml"/>
+        <Include href="sprite/zombie_pros_torso.xml"/>
+        <Include href="sprite/zombie_pros_waist.xml"/>
+        <Include href="sprite/zombie_torso.xml"/>
+        <Include href="sprite/zombie_waist.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/walk.xml"/>
+        <Include href="label/spinup.xml"/>
+        <Include href="label/spin.xml"/>
+        <Include href="label/spindown.xml"/>
+        <Include href="label/spin_walk.xml"/>
+        <Include href="label/eat.xml"/>
+        <Include href="label/die.xml"/>
+        <Include href="label/particles.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="61" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="61" duration="61" name="walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="122" duration="26" name="spinup" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="148" duration="36" name="spin" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="184" duration="15" name="spindown" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="199" duration="36" name="spin_walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="235" duration="259" name="eat" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="494" duration="55" name="die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="549" duration="1" name="particles" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="60">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="61" duration="18">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="79">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_DarkAges_Jester_Bells_Land_01");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="80" duration="10">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="90">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_DarkAges_Jester_Bells_Kick");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="91" duration="15">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="106">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_DarkAges_Jester_Bells_Land_02");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="107" duration="14">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="121">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="122" duration="25">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="147">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="148" duration="2">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="150">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_DarkAges_Jester_Throw");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="151" duration="24">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="175">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_DarkAges_Jester_Throw");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="176" duration="7">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="183">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="184" duration="14">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="198">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="199" duration="35">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="234">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="235" duration="258">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="493">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="494">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_DarkAges_Jester_Die_VO");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="495" duration="37">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="532">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Global_Basic_Mvmt_Fall");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="533">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_DarkAges_Jester_Bells_Death");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="534" duration="14">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="548">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="549">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="61">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="61" duration="61">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/walk" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="122" duration="26">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/spinup" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="148" duration="36">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/spin" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="184" duration="15">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/spindown" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="199" duration="36">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/spin_walk" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="235" duration="259">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/eat" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="494" duration="55">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="549" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/particles" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

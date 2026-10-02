@@ -1,0 +1,605 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"zombie_galactic_mysterio_zmech_10x16": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_10X16",
+			"dimension": {
+				"width": 10,
+				"height": 16
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_10x16_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_10X16_2",
+			"dimension": {
+				"width": 10,
+				"height": 16
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_10x17": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_10X17",
+			"dimension": {
+				"width": 10,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_10x17_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_10X17_2",
+			"dimension": {
+				"width": 10,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_114x121": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_114X121",
+			"dimension": {
+				"width": 114,
+				"height": 121
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_119x138": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_119X138",
+			"dimension": {
+				"width": 119,
+				"height": 138
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_119x96": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_119X96",
+			"dimension": {
+				"width": 119,
+				"height": 96
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_11x10": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_11X10",
+			"dimension": {
+				"width": 11,
+				"height": 10
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_11x11": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_11X11",
+			"dimension": {
+				"width": 11,
+				"height": 11
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_11x16": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_11X16",
+			"dimension": {
+				"width": 11,
+				"height": 16
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_11x19": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_11X19",
+			"dimension": {
+				"width": 11,
+				"height": 19
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_12x15": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_12X15",
+			"dimension": {
+				"width": 12,
+				"height": 15
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_12x15_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_12X15_2",
+			"dimension": {
+				"width": 12,
+				"height": 15
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_12x9": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_12X9",
+			"dimension": {
+				"width": 12,
+				"height": 9
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_12x9_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_12X9_2",
+			"dimension": {
+				"width": 12,
+				"height": 9
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_13x23": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_13X23",
+			"dimension": {
+				"width": 13,
+				"height": 23
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_13x23_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_13X23_2",
+			"dimension": {
+				"width": 13,
+				"height": 23
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_14x17": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_14X17",
+			"dimension": {
+				"width": 14,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_15x18": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_15X18",
+			"dimension": {
+				"width": 15,
+				"height": 18
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_15x19": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_15X19",
+			"dimension": {
+				"width": 15,
+				"height": 19
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_16x16": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_16X16",
+			"dimension": {
+				"width": 16,
+				"height": 16
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_16x17": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_16X17",
+			"dimension": {
+				"width": 16,
+				"height": 17
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_18x20": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_18X20",
+			"dimension": {
+				"width": 18,
+				"height": 20
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_19x25": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_19X25",
+			"dimension": {
+				"width": 19,
+				"height": 25
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_19x25_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_19X25_2",
+			"dimension": {
+				"width": 19,
+				"height": 25
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_19x26": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_19X26",
+			"dimension": {
+				"width": 19,
+				"height": 26
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_21x24": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_21X24",
+			"dimension": {
+				"width": 21,
+				"height": 24
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_22x32": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_22X32",
+			"dimension": {
+				"width": 22,
+				"height": 32
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_23x26": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_23X26",
+			"dimension": {
+				"width": 23,
+				"height": 26
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_23x26_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_23X26_2",
+			"dimension": {
+				"width": 23,
+				"height": 26
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_23x33": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_23X33",
+			"dimension": {
+				"width": 23,
+				"height": 33
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_23x68": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_23X68",
+			"dimension": {
+				"width": 23,
+				"height": 68
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_24x25": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_24X25",
+			"dimension": {
+				"width": 24,
+				"height": 25
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_28x68": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_28X68",
+			"dimension": {
+				"width": 28,
+				"height": 68
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_30x30": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_30X30",
+			"dimension": {
+				"width": 30,
+				"height": 30
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_31x31": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_31X31",
+			"dimension": {
+				"width": 31,
+				"height": 31
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_31x33": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_31X33",
+			"dimension": {
+				"width": 31,
+				"height": 33
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_31x40": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_31X40",
+			"dimension": {
+				"width": 31,
+				"height": 40
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_32x68": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_32X68",
+			"dimension": {
+				"width": 32,
+				"height": 68
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_34x19": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_34X19",
+			"dimension": {
+				"width": 34,
+				"height": 19
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_36x19": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_36X19",
+			"dimension": {
+				"width": 36,
+				"height": 19
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_36x19_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_36X19_2",
+			"dimension": {
+				"width": 36,
+				"height": 19
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_36x31": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_36X31",
+			"dimension": {
+				"width": 36,
+				"height": 31
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_37x28": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_37X28",
+			"dimension": {
+				"width": 37,
+				"height": 28
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_37x54": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_37X54",
+			"dimension": {
+				"width": 37,
+				"height": 54
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_38x66": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_38X66",
+			"dimension": {
+				"width": 38,
+				"height": 66
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_39x18": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_39X18",
+			"dimension": {
+				"width": 39,
+				"height": 18
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_42x22": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_42X22",
+			"dimension": {
+				"width": 42,
+				"height": 22
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_42x41": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_42X41",
+			"dimension": {
+				"width": 42,
+				"height": 41
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_42x41_2": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_42X41_2",
+			"dimension": {
+				"width": 42,
+				"height": 41
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_42x50": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_42X50",
+			"dimension": {
+				"width": 42,
+				"height": 50
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_43x35": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_43X35",
+			"dimension": {
+				"width": 43,
+				"height": 35
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_45x21": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_45X21",
+			"dimension": {
+				"width": 45,
+				"height": 21
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_46x20": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_46X20",
+			"dimension": {
+				"width": 46,
+				"height": 20
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_46x42": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_46X42",
+			"dimension": {
+				"width": 46,
+				"height": 42
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_47x20": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_47X20",
+			"dimension": {
+				"width": 47,
+				"height": 20
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_47x34": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_47X34",
+			"dimension": {
+				"width": 47,
+				"height": 34
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_48x43": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_48X43",
+			"dimension": {
+				"width": 48,
+				"height": 43
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_49x20": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_49X20",
+			"dimension": {
+				"width": 49,
+				"height": 20
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_49x29": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_49X29",
+			"dimension": {
+				"width": 49,
+				"height": 29
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_49x40": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_49X40",
+			"dimension": {
+				"width": 49,
+				"height": 40
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_49x56": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_49X56",
+			"dimension": {
+				"width": 49,
+				"height": 56
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_55x35": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_55X35",
+			"dimension": {
+				"width": 55,
+				"height": 35
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_55x55": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_55X55",
+			"dimension": {
+				"width": 55,
+				"height": 55
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_56x117": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_56X117",
+			"dimension": {
+				"width": 56,
+				"height": 117
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_60x32": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_60X32",
+			"dimension": {
+				"width": 60,
+				"height": 32
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_60x47": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_60X47",
+			"dimension": {
+				"width": 60,
+				"height": 47
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_61x33": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_61X33",
+			"dimension": {
+				"width": 61,
+				"height": 33
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_65x36": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_65X36",
+			"dimension": {
+				"width": 65,
+				"height": 36
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_78x70": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_78X70",
+			"dimension": {
+				"width": 78,
+				"height": 70
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_79x31": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_79X31",
+			"dimension": {
+				"width": 79,
+				"height": 31
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_79x54": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_79X54",
+			"dimension": {
+				"width": 79,
+				"height": 54
+			},
+			"additional": null
+		},
+		"zombie_galactic_mysterio_zmech_84x109": {
+			"id": "IMAGE_ZOMBIE_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_ZOMBIE_GALACTIC_MYSTERIO_ZMECH_84X109",
+			"dimension": {
+				"width": 84,
+				"height": 109
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"zombie_imp_arm_outer_lower": [
+			"zombie_imp_arm_outer_lower_1"
+		],
+		"zombie_imp_arm_outer_upper_01": [
+			"zombie_imp_arm_outer_upper_01_1"
+		],
+		"zombie_imp_arms_outer_upper": [
+			"zombie_imp_arms_outer_upper_1"
+		]
+	}
+}

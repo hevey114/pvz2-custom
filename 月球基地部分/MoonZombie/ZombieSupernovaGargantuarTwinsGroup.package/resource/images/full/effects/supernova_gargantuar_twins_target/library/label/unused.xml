@@ -1,0 +1,379 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/unused" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="unused">
+            <layers>
+                <DOMLayer name="8">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/Ground_Target_Reticle_Circle2" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.652527" b="-0.060013" c="0.059219" d="-0.643890" tx="338.500000" ty="367.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.027451"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/Ground_Target_Reticle_Circle2" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.652390" b="-0.040558" c="0.040192" d="-0.646576" tx="343.149994" ty="363.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.019608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/Ground_Target_Reticle_Circle2" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.650452" b="-0.031403" c="0.031265" d="-0.647552" tx="344.750000" ty="361.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/Ground_Target_Reticle_Circle2" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.647552" b="-0.028183" c="0.028183" d="-0.647552" tx="345.049988" ty="360.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="7">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.410721" b="-0.495605" c="-0.495605" d="0.410721" tx="332.850006" ty="121.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.027451"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.426453" b="-0.484589" c="-0.484589" d="0.426453" tx="327.149994" ty="120.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.019608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.433853" b="-0.479462" c="-0.479462" d="0.433853" tx="320.799988" ty="123.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.437958" b="-0.477814" c="-0.477814" d="0.437958" tx="313.899994" ty="129.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="6">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.410751" b="-0.495590" c="0.495743" d="-0.412231" tx="100.849998" ty="314.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.027451"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.426453" b="-0.484589" c="0.484680" d="-0.427963" tx="108.099998" ty="314.299988"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.019608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.433868" b="-0.479462" c="0.479523" d="-0.435349" tx="114.900002" ty="310.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.437958" b="-0.477814" c="0.477814" d="-0.437958" tx="122.500000" ty="305.049988"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="5">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.495590" b="0.410751" c="0.412231" d="0.495743" tx="124.400002" ty="59.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.027451"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.484589" b="0.426453" c="0.427963" d="0.484680" tx="123.650002" ty="65.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.019608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.479462" b="0.433868" c="0.435349" d="0.479523" tx="126.500000" ty="71.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.477814" b="0.437958" c="0.437958" d="0.477814" tx="132.350006" ty="78.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="4">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.495605" b="0.410721" c="-0.410721" d="-0.495605" tx="317.200012" ty="291.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.027451"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.484589" b="0.426453" c="-0.426453" d="-0.484589" tx="317.000000" ty="284.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.019608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.479462" b="0.433853" c="-0.433853" d="-0.479462" tx="313.450012" ty="277.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_65x35" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.477814" b="0.437958" c="-0.437958" d="-0.477814" tx="307.750000" ty="270.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="3">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_257x264" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.503021" b="0.416901" c="-0.416901" d="-0.503021" tx="360.649994" ty="209.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.027451"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_257x264" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.489426" b="0.430725" c="-0.430725" d="-0.489426" tx="360.649994" ty="204.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.019608"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_257x264" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.481842" b="0.436005" c="-0.436005" d="-0.481842" tx="360.149994" ty="202.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_257x264" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.477814" b="0.437958" c="-0.437958" d="-0.477814" tx="360.049988" ty="201.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.011765"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_84x86" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.129242" b="0.114105" c="-0.114105" d="-0.129242" tx="240.649994" ty="197.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_84x86" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.111893" b="0.101578" c="-0.101578" d="-0.111893" tx="235.250000" ty="196.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_84x86" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.095566" b="0.087601" c="-0.087601" d="-0.095566" tx="230.000000" ty="196.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/zombie_galactic_supernova_twins_target_109x112" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="-0.148727" b="0.123672" c="-0.123672" d="-0.148727" tx="245.800003" ty="199.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

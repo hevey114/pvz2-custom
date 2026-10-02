@@ -1,9 +1,9 @@
 > **⚠️ AI-Translated document**
-> This file is an **AI-generated English translation** of the original Chinese file “用前必看~.md” (by the same author). It is provided for convenience only; please treat the original Chinese as authoritative. Code/IDs in “code” documents are kept untouched.
+> This file is an **AI-generated English translation** of the original Chinese file “README.md” in the same folder (by the same author). It is provided for convenience only; please treat the original Chinese as authoritative. Code/IDs in “code” documents are kept untouched.
 >
-> _这份文档是对原中文《用前必看~.md》的 AI 英译版，仅供参考，内容以原文为准。_
+> _这份文档是同目录原中文《README.md》的 AI 英译版，仅供参考，内容以原文为准。_
 
-First of all, this Moon Base is something I made myself — the art assets are ported from the Chinese client, but people like Tra_NuklrBit and Flandre also fed me ideas; without them I probably could never have built this Moon Base.
+First of all, this Moon Base is something I made myself — the art assets are ported from the Chinese client, but people like 核甜菜 and 芙兰 also fed me ideas; without them I probably could never have built this Moon Base.
 (I actually named it the “Lunar Capital” (月之都) — pure self-indulgence, heh.)
 Some parts have animations I specially reworked — e.g. the teleporter splitting apart, the cosmic plants splitting, and the Moon Walker’s jump/fly modifications. If any of that isn’t to your liking, you can open AN or call an AI to reshape it the way you want.
 (Including the rocket explosion animation — it originally had a liftoff effect that I switched off (
@@ -19,3 +19,10 @@ Bugs / issues:
 
 Oh, I almost forgot to say — it’s unpacked and repacked with SEN.
 If possible, please credit me when you use it — my ID is SaguMew157. I’d be very grateful! ~
+
+Addendum: some plants may be missing, because I didn’t pack them in and the vanilla game doesn’t have them either (e.g. IceQueenPea in the cosmic gatling (宇宙机枪) pool, Megapuff in the cosmic big-puff (宇宙大喷) pool, Pecanolith in the cosmic tall-nut (宇宙高坚果) pool) — remember to substitute them yourself, otherwise you may get a crash!
+
+2026.10.2
+Updated some things in Moon Part 2.
+There are too many bugs for me to describe them all — can’t be bothered, whatever. I need to take a break first. If there’s anything really serious, DM me on Bilibili; if it’s too long, just tell me and I’ll add you on QQ.
+Moon Part 2 was really hard to make, so it’s bound to come with quite a few bugs.

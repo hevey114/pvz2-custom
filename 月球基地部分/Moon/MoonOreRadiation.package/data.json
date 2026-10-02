@@ -1,0 +1,35 @@
+{
+	"#expand_method": "simple",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"MoonOreRadiation": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"MoonOreRadiation": {
+					"type": "ImageData",
+					"path": "atlases/MoonOreRadiation.json"
+				},
+				"POPANIM_MOONORE_RADIATION": {
+					"type": "PopAnim",
+					"path": "images/full/gravestones/MoonOreRadiation.pam"
+				},
+				"POPANIM_MOONORE_RADIATION_TX": {
+					"type": "PopAnim",
+					"path": "images/full/effects/radiation_tx.pam"
+				}
+			}
+		}
+	}
+}

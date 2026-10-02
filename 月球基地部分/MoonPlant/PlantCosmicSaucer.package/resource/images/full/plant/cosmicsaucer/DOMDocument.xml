@@ -1,0 +1,854 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/cosmicsaucer_102x102" href="media/cosmicsaucer_102x102.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_102x51" href="media/cosmicsaucer_102x51.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_102x51_2" href="media/cosmicsaucer_102x51_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_103x58" href="media/cosmicsaucer_103x58.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_105x66" href="media/cosmicsaucer_105x66.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_106x104" href="media/cosmicsaucer_106x104.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_106x105" href="media/cosmicsaucer_106x105.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_106x105_2" href="media/cosmicsaucer_106x105_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_106x56" href="media/cosmicsaucer_106x56.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_107x106" href="media/cosmicsaucer_107x106.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_108x87" href="media/cosmicsaucer_108x87.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_10x21" href="media/cosmicsaucer_10x21.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_110x58" href="media/cosmicsaucer_110x58.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_111x57" href="media/cosmicsaucer_111x57.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_112x53" href="media/cosmicsaucer_112x53.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_115x153" href="media/cosmicsaucer_115x153.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_117x117" href="media/cosmicsaucer_117x117.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_117x54" href="media/cosmicsaucer_117x54.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_118x58" href="media/cosmicsaucer_118x58.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_118x59" href="media/cosmicsaucer_118x59.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_11x7" href="media/cosmicsaucer_11x7.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_132x178" href="media/cosmicsaucer_132x178.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_133x55" href="media/cosmicsaucer_133x55.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_133x55_2" href="media/cosmicsaucer_133x55_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_135x159" href="media/cosmicsaucer_135x159.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_138x138" href="media/cosmicsaucer_138x138.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_145x143" href="media/cosmicsaucer_145x143.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_145x143_2" href="media/cosmicsaucer_145x143_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_146x144" href="media/cosmicsaucer_146x144.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_147x117" href="media/cosmicsaucer_147x117.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_148x146" href="media/cosmicsaucer_148x146.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_149x165" href="media/cosmicsaucer_149x165.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_14x9" href="media/cosmicsaucer_14x9.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_152x165" href="media/cosmicsaucer_152x165.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_153x153" href="media/cosmicsaucer_153x153.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_18x13" href="media/cosmicsaucer_18x13.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_191x226" href="media/cosmicsaucer_191x226.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_198x88" href="media/cosmicsaucer_198x88.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_199x216" href="media/cosmicsaucer_199x216.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_19x10" href="media/cosmicsaucer_19x10.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_19x15" href="media/cosmicsaucer_19x15.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_19x15_2" href="media/cosmicsaucer_19x15_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_19x17" href="media/cosmicsaucer_19x17.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_204x216" href="media/cosmicsaucer_204x216.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_20x15" href="media/cosmicsaucer_20x15.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_20x16" href="media/cosmicsaucer_20x16.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_20x16_2" href="media/cosmicsaucer_20x16_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_20x22" href="media/cosmicsaucer_20x22.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_223x219" href="media/cosmicsaucer_223x219.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_223x219_2" href="media/cosmicsaucer_223x219_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_227x223" href="media/cosmicsaucer_227x223.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_22x13" href="media/cosmicsaucer_22x13.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_22x15" href="media/cosmicsaucer_22x15.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_22x15_2" href="media/cosmicsaucer_22x15_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_22x18" href="media/cosmicsaucer_22x18.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_22x19" href="media/cosmicsaucer_22x19.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_22x19_2" href="media/cosmicsaucer_22x19_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_22x24" href="media/cosmicsaucer_22x24.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_231x227" href="media/cosmicsaucer_231x227.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_23x26" href="media/cosmicsaucer_23x26.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_24x24" href="media/cosmicsaucer_24x24.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_25x20" href="media/cosmicsaucer_25x20.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_27x13" href="media/cosmicsaucer_27x13.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_27x28" href="media/cosmicsaucer_27x28.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_280x298" href="media/cosmicsaucer_280x298.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_287x298" href="media/cosmicsaucer_287x298.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_307x303" href="media/cosmicsaucer_307x303.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_307x303_2" href="media/cosmicsaucer_307x303_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_314x310" href="media/cosmicsaucer_314x310.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_31x29" href="media/cosmicsaucer_31x29.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_31x32" href="media/cosmicsaucer_31x32.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_31x36" href="media/cosmicsaucer_31x36.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_320x315" href="media/cosmicsaucer_320x315.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_33x21" href="media/cosmicsaucer_33x21.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_348x369" href="media/cosmicsaucer_348x369.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_358x368" href="media/cosmicsaucer_358x368.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_36x17" href="media/cosmicsaucer_36x17.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_36x32" href="media/cosmicsaucer_36x32.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_37x26" href="media/cosmicsaucer_37x26.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_37x39" href="media/cosmicsaucer_37x39.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_38x12" href="media/cosmicsaucer_38x12.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_38x13" href="media/cosmicsaucer_38x13.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_393x306" href="media/cosmicsaucer_393x306.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_39x31" href="media/cosmicsaucer_39x31.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_39x57" href="media/cosmicsaucer_39x57.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_39x58" href="media/cosmicsaucer_39x58.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_418x352" href="media/cosmicsaucer_418x352.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_418x352_2" href="media/cosmicsaucer_418x352_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_426x174" href="media/cosmicsaucer_426x174.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_42x53" href="media/cosmicsaucer_42x53.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_437x366" href="media/cosmicsaucer_437x366.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_437x366_2" href="media/cosmicsaucer_437x366_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_43x45" href="media/cosmicsaucer_43x45.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_459x379" href="media/cosmicsaucer_459x379.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_475x395" href="media/cosmicsaucer_475x395.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_475x395_2" href="media/cosmicsaucer_475x395_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_48x36" href="media/cosmicsaucer_48x36.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_498x412" href="media/cosmicsaucer_498x412.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_498x412_2" href="media/cosmicsaucer_498x412_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_50x43" href="media/cosmicsaucer_50x43.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_50x67" href="media/cosmicsaucer_50x67.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_51x68" href="media/cosmicsaucer_51x68.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_51x68_2" href="media/cosmicsaucer_51x68_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_529x553" href="media/cosmicsaucer_529x553.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_52x75" href="media/cosmicsaucer_52x75.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_53x23" href="media/cosmicsaucer_53x23.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_542x552" href="media/cosmicsaucer_542x552.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_57x67" href="media/cosmicsaucer_57x67.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_58x87" href="media/cosmicsaucer_58x87.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_63x41" href="media/cosmicsaucer_63x41.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_64x21" href="media/cosmicsaucer_64x21.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_65x47" href="media/cosmicsaucer_65x47.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_65x65" href="media/cosmicsaucer_65x65.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_66x66" href="media/cosmicsaucer_66x66.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_68x67" href="media/cosmicsaucer_68x67.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_68x67_2" href="media/cosmicsaucer_68x67_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_69x57" href="media/cosmicsaucer_69x57.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_70x97" href="media/cosmicsaucer_70x97.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_70x97_2" href="media/cosmicsaucer_70x97_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_71x104" href="media/cosmicsaucer_71x104.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_72x56" href="media/cosmicsaucer_72x56.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_72x90" href="media/cosmicsaucer_72x90.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_73x22" href="media/cosmicsaucer_73x22.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_73x22_2" href="media/cosmicsaucer_73x22_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_78x79" href="media/cosmicsaucer_78x79.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_78x79_2" href="media/cosmicsaucer_78x79_2.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_83x98" href="media/cosmicsaucer_83x98.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_84x25" href="media/cosmicsaucer_84x25.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_84x31" href="media/cosmicsaucer_84x31.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_84x46" href="media/cosmicsaucer_84x46.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_85x108" href="media/cosmicsaucer_85x108.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_89x91" href="media/cosmicsaucer_89x91.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_8x14" href="media/cosmicsaucer_8x14.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_97x111" href="media/cosmicsaucer_97x111.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_99x111" href="media/cosmicsaucer_99x111.png"/>
+        <DOMBitmapItem name="media/cosmicsaucer_99x130" href="media/cosmicsaucer_99x130.png"/>
+    </media>
+    <symbols>
+        <Include href="image/cosmicsaucer_102x102.xml"/>
+        <Include href="image/cosmicsaucer_102x51.xml"/>
+        <Include href="image/cosmicsaucer_102x51_2.xml"/>
+        <Include href="image/cosmicsaucer_103x58.xml"/>
+        <Include href="image/cosmicsaucer_105x66.xml"/>
+        <Include href="image/cosmicsaucer_106x104.xml"/>
+        <Include href="image/cosmicsaucer_106x105.xml"/>
+        <Include href="image/cosmicsaucer_106x105_2.xml"/>
+        <Include href="image/cosmicsaucer_106x56.xml"/>
+        <Include href="image/cosmicsaucer_107x106.xml"/>
+        <Include href="image/cosmicsaucer_108x87.xml"/>
+        <Include href="image/cosmicsaucer_10x21.xml"/>
+        <Include href="image/cosmicsaucer_110x58.xml"/>
+        <Include href="image/cosmicsaucer_111x57.xml"/>
+        <Include href="image/cosmicsaucer_112x53.xml"/>
+        <Include href="image/cosmicsaucer_115x153.xml"/>
+        <Include href="image/cosmicsaucer_117x117.xml"/>
+        <Include href="image/cosmicsaucer_117x54.xml"/>
+        <Include href="image/cosmicsaucer_118x58.xml"/>
+        <Include href="image/cosmicsaucer_118x59.xml"/>
+        <Include href="image/cosmicsaucer_11x7.xml"/>
+        <Include href="image/cosmicsaucer_132x178.xml"/>
+        <Include href="image/cosmicsaucer_133x55.xml"/>
+        <Include href="image/cosmicsaucer_133x55_2.xml"/>
+        <Include href="image/cosmicsaucer_135x159.xml"/>
+        <Include href="image/cosmicsaucer_138x138.xml"/>
+        <Include href="image/cosmicsaucer_145x143.xml"/>
+        <Include href="image/cosmicsaucer_145x143_2.xml"/>
+        <Include href="image/cosmicsaucer_146x144.xml"/>
+        <Include href="image/cosmicsaucer_147x117.xml"/>
+        <Include href="image/cosmicsaucer_148x146.xml"/>
+        <Include href="image/cosmicsaucer_149x165.xml"/>
+        <Include href="image/cosmicsaucer_14x9.xml"/>
+        <Include href="image/cosmicsaucer_152x165.xml"/>
+        <Include href="image/cosmicsaucer_153x153.xml"/>
+        <Include href="image/cosmicsaucer_18x13.xml"/>
+        <Include href="image/cosmicsaucer_191x226.xml"/>
+        <Include href="image/cosmicsaucer_198x88.xml"/>
+        <Include href="image/cosmicsaucer_199x216.xml"/>
+        <Include href="image/cosmicsaucer_19x10.xml"/>
+        <Include href="image/cosmicsaucer_19x15.xml"/>
+        <Include href="image/cosmicsaucer_19x15_2.xml"/>
+        <Include href="image/cosmicsaucer_19x17.xml"/>
+        <Include href="image/cosmicsaucer_204x216.xml"/>
+        <Include href="image/cosmicsaucer_20x15.xml"/>
+        <Include href="image/cosmicsaucer_20x16.xml"/>
+        <Include href="image/cosmicsaucer_20x16_2.xml"/>
+        <Include href="image/cosmicsaucer_20x22.xml"/>
+        <Include href="image/cosmicsaucer_223x219.xml"/>
+        <Include href="image/cosmicsaucer_223x219_2.xml"/>
+        <Include href="image/cosmicsaucer_227x223.xml"/>
+        <Include href="image/cosmicsaucer_22x13.xml"/>
+        <Include href="image/cosmicsaucer_22x15.xml"/>
+        <Include href="image/cosmicsaucer_22x15_2.xml"/>
+        <Include href="image/cosmicsaucer_22x18.xml"/>
+        <Include href="image/cosmicsaucer_22x19.xml"/>
+        <Include href="image/cosmicsaucer_22x19_2.xml"/>
+        <Include href="image/cosmicsaucer_22x24.xml"/>
+        <Include href="image/cosmicsaucer_231x227.xml"/>
+        <Include href="image/cosmicsaucer_23x26.xml"/>
+        <Include href="image/cosmicsaucer_24x24.xml"/>
+        <Include href="image/cosmicsaucer_25x20.xml"/>
+        <Include href="image/cosmicsaucer_27x13.xml"/>
+        <Include href="image/cosmicsaucer_27x28.xml"/>
+        <Include href="image/cosmicsaucer_280x298.xml"/>
+        <Include href="image/cosmicsaucer_287x298.xml"/>
+        <Include href="image/cosmicsaucer_307x303.xml"/>
+        <Include href="image/cosmicsaucer_307x303_2.xml"/>
+        <Include href="image/cosmicsaucer_314x310.xml"/>
+        <Include href="image/cosmicsaucer_31x29.xml"/>
+        <Include href="image/cosmicsaucer_31x32.xml"/>
+        <Include href="image/cosmicsaucer_31x36.xml"/>
+        <Include href="image/cosmicsaucer_320x315.xml"/>
+        <Include href="image/cosmicsaucer_33x21.xml"/>
+        <Include href="image/cosmicsaucer_348x369.xml"/>
+        <Include href="image/cosmicsaucer_358x368.xml"/>
+        <Include href="image/cosmicsaucer_36x17.xml"/>
+        <Include href="image/cosmicsaucer_36x32.xml"/>
+        <Include href="image/cosmicsaucer_37x26.xml"/>
+        <Include href="image/cosmicsaucer_37x39.xml"/>
+        <Include href="image/cosmicsaucer_38x12.xml"/>
+        <Include href="image/cosmicsaucer_38x13.xml"/>
+        <Include href="image/cosmicsaucer_393x306.xml"/>
+        <Include href="image/cosmicsaucer_39x31.xml"/>
+        <Include href="image/cosmicsaucer_39x57.xml"/>
+        <Include href="image/cosmicsaucer_39x58.xml"/>
+        <Include href="image/cosmicsaucer_418x352.xml"/>
+        <Include href="image/cosmicsaucer_418x352_2.xml"/>
+        <Include href="image/cosmicsaucer_426x174.xml"/>
+        <Include href="image/cosmicsaucer_42x53.xml"/>
+        <Include href="image/cosmicsaucer_437x366.xml"/>
+        <Include href="image/cosmicsaucer_437x366_2.xml"/>
+        <Include href="image/cosmicsaucer_43x45.xml"/>
+        <Include href="image/cosmicsaucer_459x379.xml"/>
+        <Include href="image/cosmicsaucer_475x395.xml"/>
+        <Include href="image/cosmicsaucer_475x395_2.xml"/>
+        <Include href="image/cosmicsaucer_48x36.xml"/>
+        <Include href="image/cosmicsaucer_498x412.xml"/>
+        <Include href="image/cosmicsaucer_498x412_2.xml"/>
+        <Include href="image/cosmicsaucer_50x43.xml"/>
+        <Include href="image/cosmicsaucer_50x67.xml"/>
+        <Include href="image/cosmicsaucer_51x68.xml"/>
+        <Include href="image/cosmicsaucer_51x68_2.xml"/>
+        <Include href="image/cosmicsaucer_529x553.xml"/>
+        <Include href="image/cosmicsaucer_52x75.xml"/>
+        <Include href="image/cosmicsaucer_53x23.xml"/>
+        <Include href="image/cosmicsaucer_542x552.xml"/>
+        <Include href="image/cosmicsaucer_57x67.xml"/>
+        <Include href="image/cosmicsaucer_58x87.xml"/>
+        <Include href="image/cosmicsaucer_63x41.xml"/>
+        <Include href="image/cosmicsaucer_64x21.xml"/>
+        <Include href="image/cosmicsaucer_65x47.xml"/>
+        <Include href="image/cosmicsaucer_65x65.xml"/>
+        <Include href="image/cosmicsaucer_66x66.xml"/>
+        <Include href="image/cosmicsaucer_68x67.xml"/>
+        <Include href="image/cosmicsaucer_68x67_2.xml"/>
+        <Include href="image/cosmicsaucer_69x57.xml"/>
+        <Include href="image/cosmicsaucer_70x97.xml"/>
+        <Include href="image/cosmicsaucer_70x97_2.xml"/>
+        <Include href="image/cosmicsaucer_71x104.xml"/>
+        <Include href="image/cosmicsaucer_72x56.xml"/>
+        <Include href="image/cosmicsaucer_72x90.xml"/>
+        <Include href="image/cosmicsaucer_73x22.xml"/>
+        <Include href="image/cosmicsaucer_73x22_2.xml"/>
+        <Include href="image/cosmicsaucer_78x79.xml"/>
+        <Include href="image/cosmicsaucer_78x79_2.xml"/>
+        <Include href="image/cosmicsaucer_83x98.xml"/>
+        <Include href="image/cosmicsaucer_84x25.xml"/>
+        <Include href="image/cosmicsaucer_84x31.xml"/>
+        <Include href="image/cosmicsaucer_84x46.xml"/>
+        <Include href="image/cosmicsaucer_85x108.xml"/>
+        <Include href="image/cosmicsaucer_89x91.xml"/>
+        <Include href="image/cosmicsaucer_8x14.xml"/>
+        <Include href="image/cosmicsaucer_97x111.xml"/>
+        <Include href="image/cosmicsaucer_99x111.xml"/>
+        <Include href="image/cosmicsaucer_99x130.xml"/>
+        <Include href="sprite/body.xml"/>
+        <Include href="sprite/body 复制.xml"/>
+        <Include href="sprite/body 复制 2.xml"/>
+        <Include href="sprite/body 复制 3.xml"/>
+        <Include href="sprite/custom_01.xml"/>
+        <Include href="sprite/effect_02.xml"/>
+        <Include href="sprite/effect_02 复制.xml"/>
+        <Include href="sprite/effect_02 复制_1.xml"/>
+        <Include href="sprite/effect_02_1.xml"/>
+        <Include href="sprite/effect_03.xml"/>
+        <Include href="sprite/effect_03 复制.xml"/>
+        <Include href="sprite/effect_04.xml"/>
+        <Include href="sprite/effect_04_1.xml"/>
+        <Include href="sprite/effect_04_2.xml"/>
+        <Include href="sprite/effect_10.xml"/>
+        <Include href="sprite/effect_10_1.xml"/>
+        <Include href="sprite/effect_10_2.xml"/>
+        <Include href="sprite/effect_10_3.xml"/>
+        <Include href="sprite/eye_l.xml"/>
+        <Include href="sprite/eye_l _02.xml"/>
+        <Include href="sprite/eye_l _02_1.xml"/>
+        <Include href="sprite/eye_l 复制.xml"/>
+        <Include href="sprite/eye_l 复制 2.xml"/>
+        <Include href="sprite/eye_r.xml"/>
+        <Include href="sprite/eye_r _02.xml"/>
+        <Include href="sprite/eye_r _02_1.xml"/>
+        <Include href="sprite/eye_r 复制.xml"/>
+        <Include href="sprite/eye_r 复制 2.xml"/>
+        <Include href="sprite/eye_r_1.xml"/>
+        <Include href="sprite/eye_r_2.xml"/>
+        <Include href="sprite/eye_r_3.xml"/>
+        <Include href="sprite/food_01.xml"/>
+        <Include href="sprite/food_02.xml"/>
+        <Include href="sprite/food_03.xml"/>
+        <Include href="sprite/halo_01.xml"/>
+        <Include href="sprite/halo_02.xml"/>
+        <Include href="sprite/head.xml"/>
+        <Include href="sprite/head 复制.xml"/>
+        <Include href="sprite/head 复制 2.xml"/>
+        <Include href="sprite/highlinght_lv3.xml"/>
+        <Include href="sprite/light_11.xml"/>
+        <Include href="sprite/light_11_1.xml"/>
+        <Include href="sprite/mouth_01.xml"/>
+        <Include href="sprite/mouth_01_1.xml"/>
+        <Include href="sprite/mouth_02.xml"/>
+        <Include href="sprite/mouth_02_1.xml"/>
+        <Include href="sprite/mouth_03.xml"/>
+        <Include href="sprite/mouth_03_1.xml"/>
+        <Include href="sprite/xz.xml"/>
+        <Include href="sprite/xz 复制.xml"/>
+        <Include href="sprite/xz 复制_1.xml"/>
+        <Include href="sprite/xz 复制_2.xml"/>
+        <Include href="sprite/xz 复制_3.xml"/>
+        <Include href="sprite/xz 复制_4.xml"/>
+        <Include href="sprite/xz_01 复制.xml"/>
+        <Include href="sprite/xz_01 复制 2.xml"/>
+        <Include href="sprite/xz_01 复制 2_1.xml"/>
+        <Include href="sprite/xz_01 复制 2_2.xml"/>
+        <Include href="sprite/xz_01 复制 2_3.xml"/>
+        <Include href="sprite/xz_01 复制 2_4.xml"/>
+        <Include href="sprite/xz_01 复制_1.xml"/>
+        <Include href="sprite/xz_01 复制_2.xml"/>
+        <Include href="sprite/xz_01 复制_3.xml"/>
+        <Include href="sprite/xz_01 复制_4.xml"/>
+        <Include href="sprite/xz_1.xml"/>
+        <Include href="sprite/xz_2.xml"/>
+        <Include href="sprite/xz_3.xml"/>
+        <Include href="sprite/xz_4.xml"/>
+        <Include href="sprite/元件 2.xml"/>
+        <Include href="sprite/元件 2_1.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/idle2.xml"/>
+        <Include href="label/cooldown.xml"/>
+        <Include href="label/attack.xml"/>
+        <Include href="label/attack_manual.xml"/>
+        <Include href="label/attack_on_lv5.xml"/>
+        <Include href="label/attack_loop_lv5.xml"/>
+        <Include href="label/attack_off_lv5.xml"/>
+        <Include href="label/plantfood.xml"/>
+        <Include href="label/plantfood_unused.xml"/>
+        <Include href="label/recover.xml"/>
+        <Include href="label/absorb_plant_rest.xml"/>
+        <Include href="label/absorb_plant_idle.xml"/>
+        <Include href="label/water.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="64" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="64" duration="64" name="idle2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="128" duration="60" name="cooldown" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="188" duration="109" name="attack" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="297" duration="109" name="attack_manual" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="406" duration="27" name="attack_on_lv5" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="433" duration="60" name="attack_loop_lv5" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="493" duration="22" name="attack_off_lv5" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="515" duration="164" name="plantfood" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="679" duration="164" name="plantfood_unused" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="843" duration="26" name="recover" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="869" duration="134" name="absorb_plant_rest" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1003" duration="134" name="absorb_plant_idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1137" duration="64" name="water" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="63">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="63">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="64" duration="63">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="127">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="128" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="187">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="188" duration="108">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="296">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="297" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="298">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_CosmicSaucer_Normal");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="299" duration="26">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="325">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:CosmicSaucer_NormalStun,mX:0,mY:0,mZ:100,Team:Plant");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="326" duration="24">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="350">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:CosmicSaucer_NormalStun,mX:0,mY:0,mZ:100,Team:Plant");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="351" duration="19">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="370">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:CosmicSaucer_NormalStun,mX:0,mY:0,mZ:100,Team:Plant");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="371" duration="34">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="405">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="406" duration="26">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="432">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="433" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="492">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="493" duration="21">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="514">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="515" duration="1">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="516">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_CosmicSaucer_Plantfood");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+						<DOMFrame index="517" duration="38">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="555">
+							<Actionscript>
+								<script>
+									<![CDATA[fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:-80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:-80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:-80,mZ:100,Team:Zombie");]]>
+								</script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="556" duration="19">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="575">
+							<Actionscript>
+								<script>
+									<![CDATA[fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:-80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:-80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:-80,mZ:100,Team:Zombie");]]>
+								</script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="576" duration="19">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="595">
+							<Actionscript>
+								<script>
+									<![CDATA[fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:-80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:-80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:-80,mZ:100,Team:Zombie");]]>
+								</script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="596" duration="19">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="615">
+							<Actionscript>
+								<script>
+									<![CDATA[fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:-80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:-80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:-80,mZ:100,Team:Zombie");]]>
+								</script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="616" duration="9">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="625">
+							<Actionscript>
+								<script>
+									<![CDATA[fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:-64,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:0,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:0,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_PFStun,mX:64,mY:-80,mZ:100,Team:Plant");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:-80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:-64,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:-80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:0,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:80,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:0,mZ:100,Team:Zombie");
+									fscommand("spawn_projectile", "Type:CosmicSaucer_IsTherePlant,mX:64,mY:-80,mZ:100,Team:Zombie");]]>
+								</script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="626" duration="52">
+							<elements/>
+						</DOMFrame>
+                        <DOMFrame index="678">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="679" duration="35">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="714">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("electric", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="715" duration="5">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="720">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("avatar_plantfood_start", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="721" duration="83">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="804">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("avatar_plantfood_end", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="805" duration="37">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="842">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="843" duration="25">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="868">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="869" duration="97">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="966">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("absorb_plant", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="967" duration="35">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1002">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1003" duration="97">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1100">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("absorb_plant", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1101" duration="35">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1136">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1137" duration="63">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1200">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="64">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="64" duration="64">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="128" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/cooldown" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="188" duration="109">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/attack" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="297" duration="109">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/attack_manual" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="406" duration="27">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/attack_on_lv5" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="433" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/attack_loop_lv5" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="493" duration="22">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/attack_off_lv5" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="515" duration="164">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="679" duration="164">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/plantfood_unused" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="843" duration="26">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/recover" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="869" duration="134">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/absorb_plant_rest" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1003" duration="134">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/absorb_plant_idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1137" duration="64">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/water" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

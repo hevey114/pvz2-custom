@@ -1,0 +1,183 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_114x60" href="media/zombie_galactic_mysterio_zomboss_missile_114x60.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_126x126" href="media/zombie_galactic_mysterio_zomboss_missile_126x126.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_129x75" href="media/zombie_galactic_mysterio_zomboss_missile_129x75.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_152x146" href="media/zombie_galactic_mysterio_zomboss_missile_152x146.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_163x163" href="media/zombie_galactic_mysterio_zomboss_missile_163x163.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_165x165" href="media/zombie_galactic_mysterio_zomboss_missile_165x165.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_1x1" href="media/zombie_galactic_mysterio_zomboss_missile_1x1.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_1x1_2" href="media/zombie_galactic_mysterio_zomboss_missile_1x1_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_1x1_3" href="media/zombie_galactic_mysterio_zomboss_missile_1x1_3.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_1x1_4" href="media/zombie_galactic_mysterio_zomboss_missile_1x1_4.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_220x207" href="media/zombie_galactic_mysterio_zomboss_missile_220x207.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_251x238" href="media/zombie_galactic_mysterio_zomboss_missile_251x238.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_28x28" href="media/zombie_galactic_mysterio_zomboss_missile_28x28.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_296x281" href="media/zombie_galactic_mysterio_zomboss_missile_296x281.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_29x29" href="media/zombie_galactic_mysterio_zomboss_missile_29x29.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_30x30" href="media/zombie_galactic_mysterio_zomboss_missile_30x30.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_33x33" href="media/zombie_galactic_mysterio_zomboss_missile_33x33.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_37x37" href="media/zombie_galactic_mysterio_zomboss_missile_37x37.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_42x42" href="media/zombie_galactic_mysterio_zomboss_missile_42x42.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_50x50" href="media/zombie_galactic_mysterio_zomboss_missile_50x50.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_55x82" href="media/zombie_galactic_mysterio_zomboss_missile_55x82.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_59x59" href="media/zombie_galactic_mysterio_zomboss_missile_59x59.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_60x60" href="media/zombie_galactic_mysterio_zomboss_missile_60x60.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_63x63" href="media/zombie_galactic_mysterio_zomboss_missile_63x63.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_64x64" href="media/zombie_galactic_mysterio_zomboss_missile_64x64.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_68x47" href="media/zombie_galactic_mysterio_zomboss_missile_68x47.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_73x73" href="media/zombie_galactic_mysterio_zomboss_missile_73x73.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_76x76" href="media/zombie_galactic_mysterio_zomboss_missile_76x76.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_85x85" href="media/zombie_galactic_mysterio_zomboss_missile_85x85.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_93x206" href="media/zombie_galactic_mysterio_zomboss_missile_93x206.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_missile_99x99" href="media/zombie_galactic_mysterio_zomboss_missile_99x99.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_114x60.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_126x126.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_129x75.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_152x146.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_163x163.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_165x165.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_1x1.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_1x1_2.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_1x1_3.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_1x1_4.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_220x207.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_251x238.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_28x28.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_296x281.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_29x29.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_30x30.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_33x33.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_37x37.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_42x42.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_50x50.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_55x82.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_59x59.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_60x60.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_63x63.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_64x64.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_68x47.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_73x73.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_76x76.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_85x85.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_93x206.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_missile_99x99.xml"/>
+        <Include href="sprite/block.xml"/>
+        <Include href="sprite/block_1.xml"/>
+        <Include href="sprite/block_2.xml"/>
+        <Include href="sprite/block_3.xml"/>
+        <Include href="sprite/block_4.xml"/>
+        <Include href="sprite/block_5.xml"/>
+        <Include href="sprite/block_6.xml"/>
+        <Include href="sprite/block_7.xml"/>
+        <Include href="sprite/coconut_cloud_back.xml"/>
+        <Include href="sprite/coconut_cloud_front.xml"/>
+        <Include href="sprite/coconut_explosion_01.xml"/>
+        <Include href="sprite/coconut_explosion_01_1.xml"/>
+        <Include href="sprite/coconut_explosion_02.xml"/>
+        <Include href="label/missile_lock_reticle.xml"/>
+        <Include href="label/missile_explosion.xml"/>
+        <Include href="label/missile.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="75" name="missile_lock_reticle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="75" duration="51" name="missile_explosion" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="126" duration="9" name="missile" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="60">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:MoonMultiDimensionMissile,mX:0,mY:0,mZ:1000,Team:Zombie");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="61" duration="12">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="73">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("destroy", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="74">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="75" duration="4">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="79">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_action", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="80" duration="45">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="125">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="126" duration="8">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="134">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="75">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/missile_lock_reticle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="75" duration="51">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/missile_explosion" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="126" duration="9">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/missile" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

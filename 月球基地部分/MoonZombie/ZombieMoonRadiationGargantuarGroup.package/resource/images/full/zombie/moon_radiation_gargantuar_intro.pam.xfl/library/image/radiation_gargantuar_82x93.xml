@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/radiation_gargantuar_82x93" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="radiation_gargantuar_82x93">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/radiation_gargantuar_82x93">
+                                    <matrix>
+                                        <Matrix a="1.106155" b="0.000000" c="0.000000" d="1.106155" tx="-17.049999" ty="-21.350000"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,31 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"cosmicsaucer_absorb_plant_10x21": {
+			"id": "IMAGE_EFFECTS_COSMICSAUCER_ABSORB_PLANT_COSMICSAUCER_ABSORB_PLANT_10X21",
+			"dimension": {
+				"width": 10,
+				"height": 21
+			},
+			"additional": null
+		},
+		"cosmicsaucer_absorb_plant_8x14": {
+			"id": "IMAGE_EFFECTS_COSMICSAUCER_ABSORB_PLANT_COSMICSAUCER_ABSORB_PLANT_8X14",
+			"dimension": {
+				"width": 8,
+				"height": 14
+			},
+			"additional": null
+		}
+	},
+	"sprite": {
+		"light_11": [
+			"light_11_1"
+		]
+	}
+}

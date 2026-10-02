@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/zombie_galactic_supernova_imp_44x63" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="zombie_galactic_supernova_imp_44x63">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/zombie_galactic_supernova_imp_44x63">
+                                    <matrix>
+                                        <Matrix a="5.642282" b="0.000000" c="0.000000" d="5.642282" tx="-129.600006" ty="-129.600006"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/zombie_galactic_mysterio_zomboss_missile_296x281" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="zombie_galactic_mysterio_zomboss_missile_296x281">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/zombie_galactic_mysterio_zomboss_missile_296x281">
+                                    <matrix>
+                                        <Matrix a="0.456657" b="0.000000" c="0.000000" d="0.456657" tx="-38.849998" ty="-79.050003"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

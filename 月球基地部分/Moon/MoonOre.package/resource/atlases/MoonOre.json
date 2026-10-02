@@ -5,7 +5,7 @@
 			"type": "Image",
 			"path": "atlases/MoonOre_00",
 			"dimension": {
-				"width": 2048,
+				"width": 1024,
 				"height": 1024
 			},
 			"data": {
@@ -33,9 +33,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_156X186": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_156X186": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_156x186",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_156x186",
 					"default": {
 						"ax": 662,
 						"ay": 266,
@@ -57,9 +57,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_61X165": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_61X165": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_61x165",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_61x165",
 					"default": {
 						"ax": 850,
 						"ay": 508,
@@ -105,9 +105,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_89X84": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_89X84": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_89x84",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_89x84",
 					"default": {
 						"ax": 883,
 						"ay": 97,
@@ -117,9 +117,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_56X91": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_56X91": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_56x91",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_56x91",
 					"default": {
 						"ax": 932,
 						"ay": 474,
@@ -141,9 +141,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_57X83": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_57X83": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_57x83",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_57x83",
 					"default": {
 						"ax": 932,
 						"ay": 594,
@@ -165,9 +165,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_50X74": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_50X74": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_50x74",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_50x74",
 					"default": {
 						"ax": 946,
 						"ay": 704,
@@ -177,9 +177,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_61X53": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_61X53": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_61x53",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_61x53",
 					"default": {
 						"ax": 1,
 						"ay": 598,
@@ -189,9 +189,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_43X72": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_43X72": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_43x72",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_43x72",
 					"default": {
 						"ax": 946,
 						"ay": 802,
@@ -225,9 +225,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_86X28": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_86X28": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_86x28",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_86x28",
 					"default": {
 						"ax": 883,
 						"ay": 208,
@@ -237,9 +237,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_75X28": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_75X28": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_75x28",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_75x28",
 					"default": {
 						"ax": 83,
 						"ay": 598,
@@ -261,9 +261,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_34X28": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_34X28": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_34x28",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_34x28",
 					"default": {
 						"ax": 56,
 						"ay": 745,
@@ -285,9 +285,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_22X22": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_22X22": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_22x22",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_22x22",
 					"default": {
 						"ax": 83,
 						"ay": 637,
@@ -297,9 +297,9 @@
 						"y": 0
 					}
 				},
-				"IMAGE_EFFECTS_LUNARMINE_ORE_RAW_LUNARMINE_ORE_RAW_20X22": {
+				"IMAGE_EFFECTS_LUNARMINE_ORE_LUNARMINE_ORE_RAW_20X22": {
 					"type": "Image",
-					"path": "images/full/gravestones/Moon_Ore_Break/LunarMine_Ore_Raw_20x22",
+					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_Raw_20x22",
 					"default": {
 						"ax": 997,
 						"ay": 208,
@@ -313,7 +313,7 @@
 					"type": "Image",
 					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_19x22",
 					"default": {
-						"ax": 1026,
+						"ax": 519,
 						"ay": 97,
 						"aw": 25,
 						"ah": 29,
@@ -325,8 +325,8 @@
 					"type": "Image",
 					"path": "images/full/gravestones/Moon_Ore/LunarMine_Ore_5x5",
 					"default": {
-						"ax": 1000,
-						"ay": 97,
+						"ax": 519,
+						"ay": 129,
 						"aw": 7,
 						"ah": 7,
 						"x": 0,

@@ -1,0 +1,1063 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/radiation_gargantuar_100x86" href="media/radiation_gargantuar_100x86.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_102x68" href="media/radiation_gargantuar_102x68.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_102x77" href="media/radiation_gargantuar_102x77.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_105x266" href="media/radiation_gargantuar_105x266.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_105x89" href="media/radiation_gargantuar_105x89.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_106x106" href="media/radiation_gargantuar_106x106.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_107x106" href="media/radiation_gargantuar_107x106.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_107x56" href="media/radiation_gargantuar_107x56.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_107x57" href="media/radiation_gargantuar_107x57.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_108x62" href="media/radiation_gargantuar_108x62.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_10x18" href="media/radiation_gargantuar_10x18.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_10x25" href="media/radiation_gargantuar_10x25.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_110x126" href="media/radiation_gargantuar_110x126.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_111x94" href="media/radiation_gargantuar_111x94.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_112x100" href="media/radiation_gargantuar_112x100.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_112x106" href="media/radiation_gargantuar_112x106.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_112x126" href="media/radiation_gargantuar_112x126.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_114x138" href="media/radiation_gargantuar_114x138.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_114x62" href="media/radiation_gargantuar_114x62.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_116x123" href="media/radiation_gargantuar_116x123.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_11x11" href="media/radiation_gargantuar_11x11.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_11x14" href="media/radiation_gargantuar_11x14.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_11x51" href="media/radiation_gargantuar_11x51.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_120x120" href="media/radiation_gargantuar_120x120.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_122x122" href="media/radiation_gargantuar_122x122.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_122x170" href="media/radiation_gargantuar_122x170.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_123x90" href="media/radiation_gargantuar_123x90.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_12x33" href="media/radiation_gargantuar_12x33.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_133x132" href="media/radiation_gargantuar_133x132.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_135x135" href="media/radiation_gargantuar_135x135.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_135x8" href="media/radiation_gargantuar_135x8.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_136x142" href="media/radiation_gargantuar_136x142.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_139x139" href="media/radiation_gargantuar_139x139.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_13x13" href="media/radiation_gargantuar_13x13.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_13x16" href="media/radiation_gargantuar_13x16.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_13x18" href="media/radiation_gargantuar_13x18.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_13x25" href="media/radiation_gargantuar_13x25.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_13x9" href="media/radiation_gargantuar_13x9.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_14x12" href="media/radiation_gargantuar_14x12.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_14x14" href="media/radiation_gargantuar_14x14.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_150x149" href="media/radiation_gargantuar_150x149.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_151x129" href="media/radiation_gargantuar_151x129.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_153x104" href="media/radiation_gargantuar_153x104.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_154x82" href="media/radiation_gargantuar_154x82.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_155x137" href="media/radiation_gargantuar_155x137.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_15x15" href="media/radiation_gargantuar_15x15.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_15x17" href="media/radiation_gargantuar_15x17.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_164x155" href="media/radiation_gargantuar_164x155.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_167x123" href="media/radiation_gargantuar_167x123.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_16x46" href="media/radiation_gargantuar_16x46.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_172x171" href="media/radiation_gargantuar_172x171.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_174x90" href="media/radiation_gargantuar_174x90.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_17x11" href="media/radiation_gargantuar_17x11.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_17x33" href="media/radiation_gargantuar_17x33.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_187x187" href="media/radiation_gargantuar_187x187.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_18x18" href="media/radiation_gargantuar_18x18.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_196x325" href="media/radiation_gargantuar_196x325.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_19x19" href="media/radiation_gargantuar_19x19.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_19x24" href="media/radiation_gargantuar_19x24.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_19x24_2" href="media/radiation_gargantuar_19x24_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_19x28" href="media/radiation_gargantuar_19x28.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_1x1" href="media/radiation_gargantuar_1x1.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_1x1_10" href="media/radiation_gargantuar_1x1_10.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_1x1_2" href="media/radiation_gargantuar_1x1_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_1x1_3" href="media/radiation_gargantuar_1x1_3.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_1x1_4" href="media/radiation_gargantuar_1x1_4.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_1x1_5" href="media/radiation_gargantuar_1x1_5.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_1x1_6" href="media/radiation_gargantuar_1x1_6.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_1x1_7" href="media/radiation_gargantuar_1x1_7.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_1x1_8" href="media/radiation_gargantuar_1x1_8.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_1x1_9" href="media/radiation_gargantuar_1x1_9.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_207x207" href="media/radiation_gargantuar_207x207.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_20x21" href="media/radiation_gargantuar_20x21.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_213x112" href="media/radiation_gargantuar_213x112.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_21x17" href="media/radiation_gargantuar_21x17.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_21x33" href="media/radiation_gargantuar_21x33.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_223x118" href="media/radiation_gargantuar_223x118.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_223x211" href="media/radiation_gargantuar_223x211.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_22x26" href="media/radiation_gargantuar_22x26.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_230x270" href="media/radiation_gargantuar_230x270.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_231x95" href="media/radiation_gargantuar_231x95.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_23x14" href="media/radiation_gargantuar_23x14.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_23x16" href="media/radiation_gargantuar_23x16.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_23x19" href="media/radiation_gargantuar_23x19.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_23x22" href="media/radiation_gargantuar_23x22.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_23x29" href="media/radiation_gargantuar_23x29.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_23x48" href="media/radiation_gargantuar_23x48.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_241x113" href="media/radiation_gargantuar_241x113.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_249x128" href="media/radiation_gargantuar_249x128.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_24x22" href="media/radiation_gargantuar_24x22.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_24x24" href="media/radiation_gargantuar_24x24.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_24x24_2" href="media/radiation_gargantuar_24x24_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_254x418" href="media/radiation_gargantuar_254x418.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_25x32" href="media/radiation_gargantuar_25x32.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_25x34" href="media/radiation_gargantuar_25x34.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_269x95" href="media/radiation_gargantuar_269x95.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_26x26" href="media/radiation_gargantuar_26x26.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_26x33" href="media/radiation_gargantuar_26x33.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_26x38" href="media/radiation_gargantuar_26x38.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_274x90" href="media/radiation_gargantuar_274x90.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_275x105" href="media/radiation_gargantuar_275x105.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_27x29" href="media/radiation_gargantuar_27x29.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_27x44" href="media/radiation_gargantuar_27x44.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_288x288" href="media/radiation_gargantuar_288x288.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_28x23" href="media/radiation_gargantuar_28x23.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_28x25" href="media/radiation_gargantuar_28x25.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_28x25_2" href="media/radiation_gargantuar_28x25_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_28x25_3" href="media/radiation_gargantuar_28x25_3.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_29x29" href="media/radiation_gargantuar_29x29.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_29x42" href="media/radiation_gargantuar_29x42.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_309x158" href="media/radiation_gargantuar_309x158.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_30x30" href="media/radiation_gargantuar_30x30.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_30x36" href="media/radiation_gargantuar_30x36.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_30x64" href="media/radiation_gargantuar_30x64.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_310x287" href="media/radiation_gargantuar_310x287.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_31x18" href="media/radiation_gargantuar_31x18.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_31x31" href="media/radiation_gargantuar_31x31.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_31x35" href="media/radiation_gargantuar_31x35.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_32x12" href="media/radiation_gargantuar_32x12.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_32x29" href="media/radiation_gargantuar_32x29.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_32x31" href="media/radiation_gargantuar_32x31.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_32x32" href="media/radiation_gargantuar_32x32.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_32x45" href="media/radiation_gargantuar_32x45.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_32x56" href="media/radiation_gargantuar_32x56.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_34x34" href="media/radiation_gargantuar_34x34.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_34x35" href="media/radiation_gargantuar_34x35.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_34x51" href="media/radiation_gargantuar_34x51.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_352x129" href="media/radiation_gargantuar_352x129.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_35x28" href="media/radiation_gargantuar_35x28.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_363x65" href="media/radiation_gargantuar_363x65.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_368x79" href="media/radiation_gargantuar_368x79.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_36x24" href="media/radiation_gargantuar_36x24.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_36x27" href="media/radiation_gargantuar_36x27.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_36x28" href="media/radiation_gargantuar_36x28.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_36x46" href="media/radiation_gargantuar_36x46.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_37x33" href="media/radiation_gargantuar_37x33.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_37x37" href="media/radiation_gargantuar_37x37.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_37x42" href="media/radiation_gargantuar_37x42.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_38x34" href="media/radiation_gargantuar_38x34.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_38x34_2" href="media/radiation_gargantuar_38x34_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_38x34_3" href="media/radiation_gargantuar_38x34_3.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_38x62" href="media/radiation_gargantuar_38x62.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_391x212" href="media/radiation_gargantuar_391x212.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_39x30" href="media/radiation_gargantuar_39x30.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_39x39" href="media/radiation_gargantuar_39x39.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_40x24" href="media/radiation_gargantuar_40x24.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_40x40" href="media/radiation_gargantuar_40x40.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_41x41" href="media/radiation_gargantuar_41x41.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_41x46" href="media/radiation_gargantuar_41x46.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_41x47" href="media/radiation_gargantuar_41x47.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_41x47_2" href="media/radiation_gargantuar_41x47_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_41x47_3" href="media/radiation_gargantuar_41x47_3.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_42x16" href="media/radiation_gargantuar_42x16.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_42x24" href="media/radiation_gargantuar_42x24.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_42x60" href="media/radiation_gargantuar_42x60.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_43x43" href="media/radiation_gargantuar_43x43.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_43x61" href="media/radiation_gargantuar_43x61.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_443x76" href="media/radiation_gargantuar_443x76.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_449x94" href="media/radiation_gargantuar_449x94.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_44x41" href="media/radiation_gargantuar_44x41.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_44x42" href="media/radiation_gargantuar_44x42.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_44x77" href="media/radiation_gargantuar_44x77.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_458x458" href="media/radiation_gargantuar_458x458.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_45x30" href="media/radiation_gargantuar_45x30.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_45x45" href="media/radiation_gargantuar_45x45.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_45x70" href="media/radiation_gargantuar_45x70.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_46x45" href="media/radiation_gargantuar_46x45.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_46x47" href="media/radiation_gargantuar_46x47.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_46x64" href="media/radiation_gargantuar_46x64.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_46x68" href="media/radiation_gargantuar_46x68.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_47x43" href="media/radiation_gargantuar_47x43.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_47x76" href="media/radiation_gargantuar_47x76.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_481x595" href="media/radiation_gargantuar_481x595.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_48x48" href="media/radiation_gargantuar_48x48.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_48x49" href="media/radiation_gargantuar_48x49.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_48x61" href="media/radiation_gargantuar_48x61.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_49x39" href="media/radiation_gargantuar_49x39.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_49x49" href="media/radiation_gargantuar_49x49.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_4x10" href="media/radiation_gargantuar_4x10.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_50x33" href="media/radiation_gargantuar_50x33.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_50x46" href="media/radiation_gargantuar_50x46.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_50x52" href="media/radiation_gargantuar_50x52.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_50x56" href="media/radiation_gargantuar_50x56.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_51x83" href="media/radiation_gargantuar_51x83.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_51x92" href="media/radiation_gargantuar_51x92.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_52x40" href="media/radiation_gargantuar_52x40.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_52x40_2" href="media/radiation_gargantuar_52x40_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_52x46" href="media/radiation_gargantuar_52x46.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_52x46_2" href="media/radiation_gargantuar_52x46_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_52x56" href="media/radiation_gargantuar_52x56.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_52x85" href="media/radiation_gargantuar_52x85.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_52x93" href="media/radiation_gargantuar_52x93.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_53x32" href="media/radiation_gargantuar_53x32.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_53x95" href="media/radiation_gargantuar_53x95.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_54x46" href="media/radiation_gargantuar_54x46.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_54x48" href="media/radiation_gargantuar_54x48.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_54x54" href="media/radiation_gargantuar_54x54.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_54x54_2" href="media/radiation_gargantuar_54x54_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_54x54_3" href="media/radiation_gargantuar_54x54_3.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_55x33" href="media/radiation_gargantuar_55x33.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_55x48" href="media/radiation_gargantuar_55x48.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_55x49" href="media/radiation_gargantuar_55x49.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_55x49_2" href="media/radiation_gargantuar_55x49_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_55x59" href="media/radiation_gargantuar_55x59.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_56x64" href="media/radiation_gargantuar_56x64.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_575x582" href="media/radiation_gargantuar_575x582.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_57x52" href="media/radiation_gargantuar_57x52.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_57x52_2" href="media/radiation_gargantuar_57x52_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_57x64" href="media/radiation_gargantuar_57x64.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_58x32" href="media/radiation_gargantuar_58x32.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_58x43" href="media/radiation_gargantuar_58x43.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_58x52" href="media/radiation_gargantuar_58x52.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_58x58" href="media/radiation_gargantuar_58x58.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_58x67" href="media/radiation_gargantuar_58x67.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_59x103" href="media/radiation_gargantuar_59x103.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_59x113" href="media/radiation_gargantuar_59x113.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_59x21" href="media/radiation_gargantuar_59x21.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_5x10" href="media/radiation_gargantuar_5x10.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_5x12" href="media/radiation_gargantuar_5x12.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_60x45" href="media/radiation_gargantuar_60x45.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_60x51" href="media/radiation_gargantuar_60x51.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_60x55" href="media/radiation_gargantuar_60x55.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_60x86" href="media/radiation_gargantuar_60x86.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_61x109" href="media/radiation_gargantuar_61x109.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_62x86" href="media/radiation_gargantuar_62x86.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_63x112" href="media/radiation_gargantuar_63x112.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_63x46" href="media/radiation_gargantuar_63x46.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_64x54" href="media/radiation_gargantuar_64x54.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_64x60" href="media/radiation_gargantuar_64x60.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_64x76" href="media/radiation_gargantuar_64x76.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_65x65" href="media/radiation_gargantuar_65x65.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_66x59" href="media/radiation_gargantuar_66x59.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_66x67" href="media/radiation_gargantuar_66x67.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_67x37" href="media/radiation_gargantuar_67x37.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_67x67" href="media/radiation_gargantuar_67x67.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_6x17" href="media/radiation_gargantuar_6x17.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_6x22" href="media/radiation_gargantuar_6x22.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_6x6" href="media/radiation_gargantuar_6x6.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_6x7" href="media/radiation_gargantuar_6x7.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_6x9" href="media/radiation_gargantuar_6x9.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_71x63" href="media/radiation_gargantuar_71x63.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_71x80" href="media/radiation_gargantuar_71x80.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_74x56" href="media/radiation_gargantuar_74x56.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_74x65" href="media/radiation_gargantuar_74x65.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_74x65_2" href="media/radiation_gargantuar_74x65_2.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_75x64" href="media/radiation_gargantuar_75x64.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_76x62" href="media/radiation_gargantuar_76x62.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_76x78" href="media/radiation_gargantuar_76x78.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_77x90" href="media/radiation_gargantuar_77x90.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_78x70" href="media/radiation_gargantuar_78x70.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_78x77" href="media/radiation_gargantuar_78x77.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_79x43" href="media/radiation_gargantuar_79x43.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_79x69" href="media/radiation_gargantuar_79x69.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_79x79" href="media/radiation_gargantuar_79x79.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_7x11" href="media/radiation_gargantuar_7x11.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_7x15" href="media/radiation_gargantuar_7x15.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_7x29" href="media/radiation_gargantuar_7x29.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_7x9" href="media/radiation_gargantuar_7x9.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_80x47" href="media/radiation_gargantuar_80x47.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_80x72" href="media/radiation_gargantuar_80x72.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_80x91" href="media/radiation_gargantuar_80x91.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_81x28" href="media/radiation_gargantuar_81x28.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_81x60" href="media/radiation_gargantuar_81x60.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_81x76" href="media/radiation_gargantuar_81x76.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_81x93" href="media/radiation_gargantuar_81x93.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_82x119" href="media/radiation_gargantuar_82x119.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_82x93" href="media/radiation_gargantuar_82x93.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_84x46" href="media/radiation_gargantuar_84x46.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_84x62" href="media/radiation_gargantuar_84x62.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_85x153" href="media/radiation_gargantuar_85x153.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_85x42" href="media/radiation_gargantuar_85x42.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_86x81" href="media/radiation_gargantuar_86x81.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_87x102" href="media/radiation_gargantuar_87x102.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_87x75" href="media/radiation_gargantuar_87x75.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_87x90" href="media/radiation_gargantuar_87x90.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_88x123" href="media/radiation_gargantuar_88x123.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_89x89" href="media/radiation_gargantuar_89x89.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_8x14" href="media/radiation_gargantuar_8x14.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_8x19" href="media/radiation_gargantuar_8x19.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_91x107" href="media/radiation_gargantuar_91x107.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_91x114" href="media/radiation_gargantuar_91x114.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_96x96" href="media/radiation_gargantuar_96x96.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_97x110" href="media/radiation_gargantuar_97x110.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_98x101" href="media/radiation_gargantuar_98x101.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_99x101" href="media/radiation_gargantuar_99x101.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_99x41" href="media/radiation_gargantuar_99x41.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_9x11" href="media/radiation_gargantuar_9x11.png"/>
+        <DOMBitmapItem name="media/radiation_gargantuar_9x38" href="media/radiation_gargantuar_9x38.png"/>
+    </media>
+    <symbols>
+        <Include href="image/radiation_gargantuar_100x86.xml"/>
+        <Include href="image/radiation_gargantuar_102x68.xml"/>
+        <Include href="image/radiation_gargantuar_102x77.xml"/>
+        <Include href="image/radiation_gargantuar_105x266.xml"/>
+        <Include href="image/radiation_gargantuar_105x89.xml"/>
+        <Include href="image/radiation_gargantuar_106x106.xml"/>
+        <Include href="image/radiation_gargantuar_107x106.xml"/>
+        <Include href="image/radiation_gargantuar_107x56.xml"/>
+        <Include href="image/radiation_gargantuar_107x57.xml"/>
+        <Include href="image/radiation_gargantuar_108x62.xml"/>
+        <Include href="image/radiation_gargantuar_10x18.xml"/>
+        <Include href="image/radiation_gargantuar_10x25.xml"/>
+        <Include href="image/radiation_gargantuar_110x126.xml"/>
+        <Include href="image/radiation_gargantuar_111x94.xml"/>
+        <Include href="image/radiation_gargantuar_112x100.xml"/>
+        <Include href="image/radiation_gargantuar_112x106.xml"/>
+        <Include href="image/radiation_gargantuar_112x126.xml"/>
+        <Include href="image/radiation_gargantuar_114x138.xml"/>
+        <Include href="image/radiation_gargantuar_114x62.xml"/>
+        <Include href="image/radiation_gargantuar_116x123.xml"/>
+        <Include href="image/radiation_gargantuar_11x11.xml"/>
+        <Include href="image/radiation_gargantuar_11x14.xml"/>
+        <Include href="image/radiation_gargantuar_11x51.xml"/>
+        <Include href="image/radiation_gargantuar_120x120.xml"/>
+        <Include href="image/radiation_gargantuar_122x122.xml"/>
+        <Include href="image/radiation_gargantuar_122x170.xml"/>
+        <Include href="image/radiation_gargantuar_123x90.xml"/>
+        <Include href="image/radiation_gargantuar_12x33.xml"/>
+        <Include href="image/radiation_gargantuar_133x132.xml"/>
+        <Include href="image/radiation_gargantuar_135x135.xml"/>
+        <Include href="image/radiation_gargantuar_135x8.xml"/>
+        <Include href="image/radiation_gargantuar_136x142.xml"/>
+        <Include href="image/radiation_gargantuar_139x139.xml"/>
+        <Include href="image/radiation_gargantuar_13x13.xml"/>
+        <Include href="image/radiation_gargantuar_13x16.xml"/>
+        <Include href="image/radiation_gargantuar_13x18.xml"/>
+        <Include href="image/radiation_gargantuar_13x25.xml"/>
+        <Include href="image/radiation_gargantuar_13x9.xml"/>
+        <Include href="image/radiation_gargantuar_14x12.xml"/>
+        <Include href="image/radiation_gargantuar_14x14.xml"/>
+        <Include href="image/radiation_gargantuar_150x149.xml"/>
+        <Include href="image/radiation_gargantuar_151x129.xml"/>
+        <Include href="image/radiation_gargantuar_153x104.xml"/>
+        <Include href="image/radiation_gargantuar_154x82.xml"/>
+        <Include href="image/radiation_gargantuar_155x137.xml"/>
+        <Include href="image/radiation_gargantuar_15x15.xml"/>
+        <Include href="image/radiation_gargantuar_15x17.xml"/>
+        <Include href="image/radiation_gargantuar_164x155.xml"/>
+        <Include href="image/radiation_gargantuar_167x123.xml"/>
+        <Include href="image/radiation_gargantuar_16x46.xml"/>
+        <Include href="image/radiation_gargantuar_172x171.xml"/>
+        <Include href="image/radiation_gargantuar_174x90.xml"/>
+        <Include href="image/radiation_gargantuar_17x11.xml"/>
+        <Include href="image/radiation_gargantuar_17x33.xml"/>
+        <Include href="image/radiation_gargantuar_187x187.xml"/>
+        <Include href="image/radiation_gargantuar_18x18.xml"/>
+        <Include href="image/radiation_gargantuar_196x325.xml"/>
+        <Include href="image/radiation_gargantuar_19x19.xml"/>
+        <Include href="image/radiation_gargantuar_19x24.xml"/>
+        <Include href="image/radiation_gargantuar_19x24_2.xml"/>
+        <Include href="image/radiation_gargantuar_19x28.xml"/>
+        <Include href="image/radiation_gargantuar_1x1.xml"/>
+        <Include href="image/radiation_gargantuar_1x1_10.xml"/>
+        <Include href="image/radiation_gargantuar_1x1_2.xml"/>
+        <Include href="image/radiation_gargantuar_1x1_3.xml"/>
+        <Include href="image/radiation_gargantuar_1x1_4.xml"/>
+        <Include href="image/radiation_gargantuar_1x1_5.xml"/>
+        <Include href="image/radiation_gargantuar_1x1_6.xml"/>
+        <Include href="image/radiation_gargantuar_1x1_7.xml"/>
+        <Include href="image/radiation_gargantuar_1x1_8.xml"/>
+        <Include href="image/radiation_gargantuar_1x1_9.xml"/>
+        <Include href="image/radiation_gargantuar_207x207.xml"/>
+        <Include href="image/radiation_gargantuar_20x21.xml"/>
+        <Include href="image/radiation_gargantuar_213x112.xml"/>
+        <Include href="image/radiation_gargantuar_21x17.xml"/>
+        <Include href="image/radiation_gargantuar_21x33.xml"/>
+        <Include href="image/radiation_gargantuar_223x118.xml"/>
+        <Include href="image/radiation_gargantuar_223x211.xml"/>
+        <Include href="image/radiation_gargantuar_22x26.xml"/>
+        <Include href="image/radiation_gargantuar_230x270.xml"/>
+        <Include href="image/radiation_gargantuar_231x95.xml"/>
+        <Include href="image/radiation_gargantuar_23x14.xml"/>
+        <Include href="image/radiation_gargantuar_23x16.xml"/>
+        <Include href="image/radiation_gargantuar_23x19.xml"/>
+        <Include href="image/radiation_gargantuar_23x22.xml"/>
+        <Include href="image/radiation_gargantuar_23x29.xml"/>
+        <Include href="image/radiation_gargantuar_23x48.xml"/>
+        <Include href="image/radiation_gargantuar_241x113.xml"/>
+        <Include href="image/radiation_gargantuar_249x128.xml"/>
+        <Include href="image/radiation_gargantuar_24x22.xml"/>
+        <Include href="image/radiation_gargantuar_24x24.xml"/>
+        <Include href="image/radiation_gargantuar_24x24_2.xml"/>
+        <Include href="image/radiation_gargantuar_254x418.xml"/>
+        <Include href="image/radiation_gargantuar_25x32.xml"/>
+        <Include href="image/radiation_gargantuar_25x34.xml"/>
+        <Include href="image/radiation_gargantuar_269x95.xml"/>
+        <Include href="image/radiation_gargantuar_26x26.xml"/>
+        <Include href="image/radiation_gargantuar_26x33.xml"/>
+        <Include href="image/radiation_gargantuar_26x38.xml"/>
+        <Include href="image/radiation_gargantuar_274x90.xml"/>
+        <Include href="image/radiation_gargantuar_275x105.xml"/>
+        <Include href="image/radiation_gargantuar_27x29.xml"/>
+        <Include href="image/radiation_gargantuar_27x44.xml"/>
+        <Include href="image/radiation_gargantuar_288x288.xml"/>
+        <Include href="image/radiation_gargantuar_28x23.xml"/>
+        <Include href="image/radiation_gargantuar_28x25.xml"/>
+        <Include href="image/radiation_gargantuar_28x25_2.xml"/>
+        <Include href="image/radiation_gargantuar_28x25_3.xml"/>
+        <Include href="image/radiation_gargantuar_29x29.xml"/>
+        <Include href="image/radiation_gargantuar_29x42.xml"/>
+        <Include href="image/radiation_gargantuar_309x158.xml"/>
+        <Include href="image/radiation_gargantuar_30x30.xml"/>
+        <Include href="image/radiation_gargantuar_30x36.xml"/>
+        <Include href="image/radiation_gargantuar_30x64.xml"/>
+        <Include href="image/radiation_gargantuar_310x287.xml"/>
+        <Include href="image/radiation_gargantuar_31x18.xml"/>
+        <Include href="image/radiation_gargantuar_31x31.xml"/>
+        <Include href="image/radiation_gargantuar_31x35.xml"/>
+        <Include href="image/radiation_gargantuar_32x12.xml"/>
+        <Include href="image/radiation_gargantuar_32x29.xml"/>
+        <Include href="image/radiation_gargantuar_32x31.xml"/>
+        <Include href="image/radiation_gargantuar_32x32.xml"/>
+        <Include href="image/radiation_gargantuar_32x45.xml"/>
+        <Include href="image/radiation_gargantuar_32x56.xml"/>
+        <Include href="image/radiation_gargantuar_34x34.xml"/>
+        <Include href="image/radiation_gargantuar_34x35.xml"/>
+        <Include href="image/radiation_gargantuar_34x51.xml"/>
+        <Include href="image/radiation_gargantuar_352x129.xml"/>
+        <Include href="image/radiation_gargantuar_35x28.xml"/>
+        <Include href="image/radiation_gargantuar_363x65.xml"/>
+        <Include href="image/radiation_gargantuar_368x79.xml"/>
+        <Include href="image/radiation_gargantuar_36x24.xml"/>
+        <Include href="image/radiation_gargantuar_36x27.xml"/>
+        <Include href="image/radiation_gargantuar_36x28.xml"/>
+        <Include href="image/radiation_gargantuar_36x46.xml"/>
+        <Include href="image/radiation_gargantuar_37x33.xml"/>
+        <Include href="image/radiation_gargantuar_37x37.xml"/>
+        <Include href="image/radiation_gargantuar_37x42.xml"/>
+        <Include href="image/radiation_gargantuar_38x34.xml"/>
+        <Include href="image/radiation_gargantuar_38x34_2.xml"/>
+        <Include href="image/radiation_gargantuar_38x34_3.xml"/>
+        <Include href="image/radiation_gargantuar_38x62.xml"/>
+        <Include href="image/radiation_gargantuar_391x212.xml"/>
+        <Include href="image/radiation_gargantuar_39x30.xml"/>
+        <Include href="image/radiation_gargantuar_39x39.xml"/>
+        <Include href="image/radiation_gargantuar_40x24.xml"/>
+        <Include href="image/radiation_gargantuar_40x40.xml"/>
+        <Include href="image/radiation_gargantuar_41x41.xml"/>
+        <Include href="image/radiation_gargantuar_41x46.xml"/>
+        <Include href="image/radiation_gargantuar_41x47.xml"/>
+        <Include href="image/radiation_gargantuar_41x47_2.xml"/>
+        <Include href="image/radiation_gargantuar_41x47_3.xml"/>
+        <Include href="image/radiation_gargantuar_42x16.xml"/>
+        <Include href="image/radiation_gargantuar_42x24.xml"/>
+        <Include href="image/radiation_gargantuar_42x60.xml"/>
+        <Include href="image/radiation_gargantuar_43x43.xml"/>
+        <Include href="image/radiation_gargantuar_43x61.xml"/>
+        <Include href="image/radiation_gargantuar_443x76.xml"/>
+        <Include href="image/radiation_gargantuar_449x94.xml"/>
+        <Include href="image/radiation_gargantuar_44x41.xml"/>
+        <Include href="image/radiation_gargantuar_44x42.xml"/>
+        <Include href="image/radiation_gargantuar_44x77.xml"/>
+        <Include href="image/radiation_gargantuar_458x458.xml"/>
+        <Include href="image/radiation_gargantuar_45x30.xml"/>
+        <Include href="image/radiation_gargantuar_45x45.xml"/>
+        <Include href="image/radiation_gargantuar_45x70.xml"/>
+        <Include href="image/radiation_gargantuar_46x45.xml"/>
+        <Include href="image/radiation_gargantuar_46x47.xml"/>
+        <Include href="image/radiation_gargantuar_46x64.xml"/>
+        <Include href="image/radiation_gargantuar_46x68.xml"/>
+        <Include href="image/radiation_gargantuar_47x43.xml"/>
+        <Include href="image/radiation_gargantuar_47x76.xml"/>
+        <Include href="image/radiation_gargantuar_481x595.xml"/>
+        <Include href="image/radiation_gargantuar_48x48.xml"/>
+        <Include href="image/radiation_gargantuar_48x49.xml"/>
+        <Include href="image/radiation_gargantuar_48x61.xml"/>
+        <Include href="image/radiation_gargantuar_49x39.xml"/>
+        <Include href="image/radiation_gargantuar_49x49.xml"/>
+        <Include href="image/radiation_gargantuar_4x10.xml"/>
+        <Include href="image/radiation_gargantuar_50x33.xml"/>
+        <Include href="image/radiation_gargantuar_50x46.xml"/>
+        <Include href="image/radiation_gargantuar_50x52.xml"/>
+        <Include href="image/radiation_gargantuar_50x56.xml"/>
+        <Include href="image/radiation_gargantuar_51x83.xml"/>
+        <Include href="image/radiation_gargantuar_51x92.xml"/>
+        <Include href="image/radiation_gargantuar_52x40.xml"/>
+        <Include href="image/radiation_gargantuar_52x40_2.xml"/>
+        <Include href="image/radiation_gargantuar_52x46.xml"/>
+        <Include href="image/radiation_gargantuar_52x46_2.xml"/>
+        <Include href="image/radiation_gargantuar_52x56.xml"/>
+        <Include href="image/radiation_gargantuar_52x85.xml"/>
+        <Include href="image/radiation_gargantuar_52x93.xml"/>
+        <Include href="image/radiation_gargantuar_53x32.xml"/>
+        <Include href="image/radiation_gargantuar_53x95.xml"/>
+        <Include href="image/radiation_gargantuar_54x46.xml"/>
+        <Include href="image/radiation_gargantuar_54x48.xml"/>
+        <Include href="image/radiation_gargantuar_54x54.xml"/>
+        <Include href="image/radiation_gargantuar_54x54_2.xml"/>
+        <Include href="image/radiation_gargantuar_54x54_3.xml"/>
+        <Include href="image/radiation_gargantuar_55x33.xml"/>
+        <Include href="image/radiation_gargantuar_55x48.xml"/>
+        <Include href="image/radiation_gargantuar_55x49.xml"/>
+        <Include href="image/radiation_gargantuar_55x49_2.xml"/>
+        <Include href="image/radiation_gargantuar_55x59.xml"/>
+        <Include href="image/radiation_gargantuar_56x64.xml"/>
+        <Include href="image/radiation_gargantuar_575x582.xml"/>
+        <Include href="image/radiation_gargantuar_57x52.xml"/>
+        <Include href="image/radiation_gargantuar_57x52_2.xml"/>
+        <Include href="image/radiation_gargantuar_57x64.xml"/>
+        <Include href="image/radiation_gargantuar_58x32.xml"/>
+        <Include href="image/radiation_gargantuar_58x43.xml"/>
+        <Include href="image/radiation_gargantuar_58x52.xml"/>
+        <Include href="image/radiation_gargantuar_58x58.xml"/>
+        <Include href="image/radiation_gargantuar_58x67.xml"/>
+        <Include href="image/radiation_gargantuar_59x103.xml"/>
+        <Include href="image/radiation_gargantuar_59x113.xml"/>
+        <Include href="image/radiation_gargantuar_59x21.xml"/>
+        <Include href="image/radiation_gargantuar_5x10.xml"/>
+        <Include href="image/radiation_gargantuar_5x12.xml"/>
+        <Include href="image/radiation_gargantuar_60x45.xml"/>
+        <Include href="image/radiation_gargantuar_60x51.xml"/>
+        <Include href="image/radiation_gargantuar_60x55.xml"/>
+        <Include href="image/radiation_gargantuar_60x86.xml"/>
+        <Include href="image/radiation_gargantuar_61x109.xml"/>
+        <Include href="image/radiation_gargantuar_62x86.xml"/>
+        <Include href="image/radiation_gargantuar_63x112.xml"/>
+        <Include href="image/radiation_gargantuar_63x46.xml"/>
+        <Include href="image/radiation_gargantuar_64x54.xml"/>
+        <Include href="image/radiation_gargantuar_64x60.xml"/>
+        <Include href="image/radiation_gargantuar_64x76.xml"/>
+        <Include href="image/radiation_gargantuar_65x65.xml"/>
+        <Include href="image/radiation_gargantuar_66x59.xml"/>
+        <Include href="image/radiation_gargantuar_66x67.xml"/>
+        <Include href="image/radiation_gargantuar_67x37.xml"/>
+        <Include href="image/radiation_gargantuar_67x67.xml"/>
+        <Include href="image/radiation_gargantuar_6x17.xml"/>
+        <Include href="image/radiation_gargantuar_6x22.xml"/>
+        <Include href="image/radiation_gargantuar_6x6.xml"/>
+        <Include href="image/radiation_gargantuar_6x7.xml"/>
+        <Include href="image/radiation_gargantuar_6x9.xml"/>
+        <Include href="image/radiation_gargantuar_71x63.xml"/>
+        <Include href="image/radiation_gargantuar_71x80.xml"/>
+        <Include href="image/radiation_gargantuar_74x56.xml"/>
+        <Include href="image/radiation_gargantuar_74x65.xml"/>
+        <Include href="image/radiation_gargantuar_74x65_2.xml"/>
+        <Include href="image/radiation_gargantuar_75x64.xml"/>
+        <Include href="image/radiation_gargantuar_76x62.xml"/>
+        <Include href="image/radiation_gargantuar_76x78.xml"/>
+        <Include href="image/radiation_gargantuar_77x90.xml"/>
+        <Include href="image/radiation_gargantuar_78x70.xml"/>
+        <Include href="image/radiation_gargantuar_78x77.xml"/>
+        <Include href="image/radiation_gargantuar_79x43.xml"/>
+        <Include href="image/radiation_gargantuar_79x69.xml"/>
+        <Include href="image/radiation_gargantuar_79x79.xml"/>
+        <Include href="image/radiation_gargantuar_7x11.xml"/>
+        <Include href="image/radiation_gargantuar_7x15.xml"/>
+        <Include href="image/radiation_gargantuar_7x29.xml"/>
+        <Include href="image/radiation_gargantuar_7x9.xml"/>
+        <Include href="image/radiation_gargantuar_80x47.xml"/>
+        <Include href="image/radiation_gargantuar_80x72.xml"/>
+        <Include href="image/radiation_gargantuar_80x91.xml"/>
+        <Include href="image/radiation_gargantuar_81x28.xml"/>
+        <Include href="image/radiation_gargantuar_81x60.xml"/>
+        <Include href="image/radiation_gargantuar_81x76.xml"/>
+        <Include href="image/radiation_gargantuar_81x93.xml"/>
+        <Include href="image/radiation_gargantuar_82x119.xml"/>
+        <Include href="image/radiation_gargantuar_82x93.xml"/>
+        <Include href="image/radiation_gargantuar_84x46.xml"/>
+        <Include href="image/radiation_gargantuar_84x62.xml"/>
+        <Include href="image/radiation_gargantuar_85x153.xml"/>
+        <Include href="image/radiation_gargantuar_85x42.xml"/>
+        <Include href="image/radiation_gargantuar_86x81.xml"/>
+        <Include href="image/radiation_gargantuar_87x102.xml"/>
+        <Include href="image/radiation_gargantuar_87x75.xml"/>
+        <Include href="image/radiation_gargantuar_87x90.xml"/>
+        <Include href="image/radiation_gargantuar_88x123.xml"/>
+        <Include href="image/radiation_gargantuar_89x89.xml"/>
+        <Include href="image/radiation_gargantuar_8x14.xml"/>
+        <Include href="image/radiation_gargantuar_8x19.xml"/>
+        <Include href="image/radiation_gargantuar_91x107.xml"/>
+        <Include href="image/radiation_gargantuar_91x114.xml"/>
+        <Include href="image/radiation_gargantuar_96x96.xml"/>
+        <Include href="image/radiation_gargantuar_97x110.xml"/>
+        <Include href="image/radiation_gargantuar_98x101.xml"/>
+        <Include href="image/radiation_gargantuar_99x101.xml"/>
+        <Include href="image/radiation_gargantuar_99x41.xml"/>
+        <Include href="image/radiation_gargantuar_9x11.xml"/>
+        <Include href="image/radiation_gargantuar_9x38.xml"/>
+        <Include href="sprite/Gargantuar_Body_Belly.xml"/>
+        <Include href="sprite/Gargantuar_Body_Belly_1.xml"/>
+        <Include href="sprite/Gargantuar_Body_Belly_2.xml"/>
+        <Include href="sprite/Gargantuar_Body_Belly_3.xml"/>
+        <Include href="sprite/Gargantuar_Head_Helmet.xml"/>
+        <Include href="sprite/Gargantuar_Head_Helmet_1.xml"/>
+        <Include href="sprite/Gargantuar_Head_Helmet_2.xml"/>
+        <Include href="sprite/Gargantuar_Head_Helmet_3.xml"/>
+        <Include href="sprite/Gargantuar_Head_Particle.xml"/>
+        <Include href="sprite/Gargantuar_Upper_Body.xml"/>
+        <Include href="sprite/Gargantuar_Upper_Body_1.xml"/>
+        <Include href="sprite/Gargantuar_Upper_Body_2.xml"/>
+        <Include href="sprite/Gargantuar_Upper_Body_3.xml"/>
+        <Include href="sprite/Gargantuar_Upper_Body_Base.xml"/>
+        <Include href="sprite/Gargantuar_Upper_Body_Base_1.xml"/>
+        <Include href="sprite/Gargantuar_Upper_Body_Base_2.xml"/>
+        <Include href="sprite/Gargantuar_Upper_Body_Base_3.xml"/>
+        <Include href="sprite/Zombie_gargantua_body2.xml"/>
+        <Include href="sprite/Zombie_gargantua_body2_1.xml"/>
+        <Include href="sprite/Zombie_gargantua_body2_2.xml"/>
+        <Include href="sprite/Zombie_gargantua_body2_3.xml"/>
+        <Include href="sprite/Zombie_gargantua_innerleg_upper.xml"/>
+        <Include href="sprite/Zombie_gargantua_innerleg_upper_1.xml"/>
+        <Include href="sprite/Zombie_gargantua_innerleg_upper_2.xml"/>
+        <Include href="sprite/Zombie_gargantua_innerleg_upper_3.xml"/>
+        <Include href="sprite/Zombie_gargantuar_head.xml"/>
+        <Include href="sprite/Zombie_gargantuar_head_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_head_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_head_3.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_lower.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_lower_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_lower_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_lower_3.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_upper.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_upper_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_upper_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_upper_3.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_upper_base.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_upper_base_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_upper_base_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerarm_upper_base_3.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerleg_lower.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerleg_lower_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerleg_lower_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_innerleg_lower_3.xml"/>
+        <Include href="sprite/Zombie_gargantuar_jaw.xml"/>
+        <Include href="sprite/Zombie_gargantuar_jaw_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_jaw_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_jaw_3.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_finger.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_finger_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_finger_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_hand.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_hand_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_hand_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_lower.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_lower_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_lower_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_lower_base.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_lower_base_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_lower_base_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_thumb.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_thumb_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_thumb_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper2_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper2_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper2_3.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper2_base.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper2_base_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper2_base_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper2_base_3.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerarm_upper_3.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerleg_lower.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerleg_lower_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerleg_lower_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerleg_lower_3.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerleg_upper.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerleg_upper_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_outerleg_upper_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_telephonepole.xml"/>
+        <Include href="sprite/Zombie_gargantuar_telephonepole_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_telephonepole_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_telephonepole_base.xml"/>
+        <Include href="sprite/Zombie_gargantuar_telephonepole_base_1.xml"/>
+        <Include href="sprite/Zombie_gargantuar_telephonepole_base_2.xml"/>
+        <Include href="sprite/Zombie_gargantuar_telephonepole_base_die.xml"/>
+        <Include href="sprite/Zombie_gargantuar_telephonepole_die.xml"/>
+        <Include href="sprite/boomballoon_cannon_smoke_cloud.xml"/>
+        <Include href="sprite/butter.xml"/>
+        <Include href="sprite/butter_1.xml"/>
+        <Include href="sprite/butter_2.xml"/>
+        <Include href="sprite/butter_3.xml"/>
+        <Include href="sprite/crystal_01.xml"/>
+        <Include href="sprite/crystal_01_1.xml"/>
+        <Include href="sprite/crystal_01_2.xml"/>
+        <Include href="sprite/crystal_01_3.xml"/>
+        <Include href="sprite/crystal_02.xml"/>
+        <Include href="sprite/crystal_02_1.xml"/>
+        <Include href="sprite/crystal_02_2.xml"/>
+        <Include href="sprite/crystal_02_3.xml"/>
+        <Include href="sprite/crystal_03.xml"/>
+        <Include href="sprite/crystal_03_1.xml"/>
+        <Include href="sprite/crystal_03_2.xml"/>
+        <Include href="sprite/crystal_03_3.xml"/>
+        <Include href="sprite/crystal_04.xml"/>
+        <Include href="sprite/crystal_04_1.xml"/>
+        <Include href="sprite/crystal_04_2.xml"/>
+        <Include href="sprite/crystal_04_3.xml"/>
+        <Include href="sprite/crystal_05.xml"/>
+        <Include href="sprite/crystal_05_1.xml"/>
+        <Include href="sprite/crystal_05_2.xml"/>
+        <Include href="sprite/crystal_05_3.xml"/>
+        <Include href="sprite/crystal_06.xml"/>
+        <Include href="sprite/crystal_06_1.xml"/>
+        <Include href="sprite/crystal_06_2.xml"/>
+        <Include href="sprite/crystal_06_3.xml"/>
+        <Include href="sprite/crystal_07.xml"/>
+        <Include href="sprite/crystal_07_1.xml"/>
+        <Include href="sprite/crystal_07_2.xml"/>
+        <Include href="sprite/crystal_07_3.xml"/>
+        <Include href="sprite/empeach_arc_01.xml"/>
+        <Include href="sprite/empeach_arc_01_1.xml"/>
+        <Include href="sprite/empeach_arc_01_2.xml"/>
+        <Include href="sprite/empeach_arc_01_3.xml"/>
+        <Include href="sprite/empeach_arc_02.xml"/>
+        <Include href="sprite/empeach_arc_02_1.xml"/>
+        <Include href="sprite/empeach_arc_02_2.xml"/>
+        <Include href="sprite/empeach_arc_02_3.xml"/>
+        <Include href="sprite/empeach_arc_03.xml"/>
+        <Include href="sprite/empeach_arc_03_1.xml"/>
+        <Include href="sprite/empeach_arc_03_2.xml"/>
+        <Include href="sprite/empeach_arc_03_3.xml"/>
+        <Include href="sprite/empeach_arc_03_4.xml"/>
+        <Include href="sprite/empeach_arc_04.xml"/>
+        <Include href="sprite/empeach_arc_05.xml"/>
+        <Include href="sprite/empeach_arc_05_1.xml"/>
+        <Include href="sprite/empeach_arc_05_2.xml"/>
+        <Include href="sprite/empeach_arc_06.xml"/>
+        <Include href="sprite/empeach_arc_06_1.xml"/>
+        <Include href="sprite/empeach_arc_06_2.xml"/>
+        <Include href="sprite/empeach_arc_07.xml"/>
+        <Include href="sprite/explosion_glow.xml"/>
+        <Include href="sprite/ground_swatch.xml"/>
+        <Include href="sprite/ground_swatch_plane.xml"/>
+        <Include href="sprite/ink.xml"/>
+        <Include href="sprite/ink_1.xml"/>
+        <Include href="sprite/ink_2.xml"/>
+        <Include href="sprite/ink_3.xml"/>
+        <Include href="sprite/melonpult_blast_02.xml"/>
+        <Include href="sprite/mower_cloud.xml"/>
+        <Include href="sprite/mower_cloud_1.xml"/>
+        <Include href="sprite/mower_cloud_2.xml"/>
+        <Include href="sprite/powervine_arc_01a.xml"/>
+        <Include href="sprite/powervine_arc_01a_1.xml"/>
+        <Include href="sprite/powervine_arc_02.xml"/>
+        <Include href="sprite/powervine_arc_02_1.xml"/>
+        <Include href="sprite/powervine_arc_03.xml"/>
+        <Include href="sprite/powervine_arc_03_1.xml"/>
+        <Include href="sprite/powervine_arc_04.xml"/>
+        <Include href="sprite/powervine_arc_04_1.xml"/>
+        <Include href="sprite/powervine_arc_05.xml"/>
+        <Include href="sprite/powervine_arc_06.xml"/>
+        <Include href="sprite/powervine_arc_07.xml"/>
+        <Include href="sprite/powervine_arc_07_1.xml"/>
+        <Include href="sprite/spacesuit light_02.xml"/>
+        <Include href="sprite/spacesuit light_02_1.xml"/>
+        <Include href="sprite/spacesuit light_02_2.xml"/>
+        <Include href="sprite/spacesuit light_02_3.xml"/>
+        <Include href="sprite/spacesuit light_02_4.xml"/>
+        <Include href="sprite/spacesuit light_04.xml"/>
+        <Include href="sprite/spacesuit light_04_1.xml"/>
+        <Include href="sprite/spacesuit light_04_2.xml"/>
+        <Include href="sprite/spacesuit light_04_3.xml"/>
+        <Include href="sprite/spacesuit light_06.xml"/>
+        <Include href="sprite/spacesuit light_06_1.xml"/>
+        <Include href="sprite/spacesuit light_06_2.xml"/>
+        <Include href="sprite/sprite.xml"/>
+        <Include href="sprite/sprite_2.xml"/>
+        <Include href="sprite/sprite_3.xml"/>
+        <Include href="sprite/sprite_4.xml"/>
+        <Include href="sprite/sprite_5.xml"/>
+        <Include href="sprite/sprite_6.xml"/>
+        <Include href="sprite/sprite_7.xml"/>
+        <Include href="sprite/sprite_8.xml"/>
+        <Include href="sprite/sprite_9.xml"/>
+        <Include href="sprite/sprite_10.xml"/>
+        <Include href="sprite/sprite_11.xml"/>
+        <Include href="sprite/sprite_12.xml"/>
+        <Include href="sprite/sprite_13.xml"/>
+        <Include href="sprite/sprite_14.xml"/>
+        <Include href="sprite/sprite_15.xml"/>
+        <Include href="sprite/sprite_16.xml"/>
+        <Include href="sprite/sprite_17.xml"/>
+        <Include href="sprite/sprite_18.xml"/>
+        <Include href="sprite/sprite_19.xml"/>
+        <Include href="sprite/sprite_20.xml"/>
+        <Include href="sprite/sprite_21.xml"/>
+        <Include href="sprite/sprite_22.xml"/>
+        <Include href="sprite/sprite_23.xml"/>
+        <Include href="sprite/sprite_24.xml"/>
+        <Include href="sprite/sprite_25.xml"/>
+        <Include href="sprite/sprite_26.xml"/>
+        <Include href="sprite/sprite_27.xml"/>
+        <Include href="sprite/sprite_28.xml"/>
+        <Include href="sprite/sprite_29.xml"/>
+        <Include href="sprite/sprite_30.xml"/>
+        <Include href="sprite/sprite_31.xml"/>
+        <Include href="sprite/sprite_32.xml"/>
+        <Include href="sprite/sprite_33.xml"/>
+        <Include href="sprite/sprite_34.xml"/>
+        <Include href="sprite/sprite_35.xml"/>
+        <Include href="sprite/sprite_36.xml"/>
+        <Include href="sprite/sprite_37.xml"/>
+        <Include href="sprite/sprite_38.xml"/>
+        <Include href="sprite/sprite_39.xml"/>
+        <Include href="sprite/sprite_40.xml"/>
+        <Include href="sprite/sprite_41.xml"/>
+        <Include href="sprite/sprite_42.xml"/>
+        <Include href="sprite/sprite_43.xml"/>
+        <Include href="sprite/sprite_44.xml"/>
+        <Include href="sprite/sprite_45.xml"/>
+        <Include href="sprite/sprite_46.xml"/>
+        <Include href="sprite/sprite_47.xml"/>
+        <Include href="sprite/sprite_48.xml"/>
+        <Include href="sprite/sprite_49.xml"/>
+        <Include href="sprite/sprite_50.xml"/>
+        <Include href="sprite/sprite_51.xml"/>
+        <Include href="sprite/sprite_52.xml"/>
+        <Include href="sprite/sprite_53.xml"/>
+        <Include href="sprite/sprite_54.xml"/>
+        <Include href="sprite/sprite_55.xml"/>
+        <Include href="sprite/sprite_56.xml"/>
+        <Include href="sprite/sprite_57.xml"/>
+        <Include href="sprite/sprite_58.xml"/>
+        <Include href="sprite/weapon light.xml"/>
+        <Include href="sprite/weapon light_1.xml"/>
+        <Include href="sprite/weapon light_1_1.xml"/>
+        <Include href="sprite/weapon light_1_2.xml"/>
+        <Include href="sprite/weapon light_1_3.xml"/>
+        <Include href="sprite/weapon light_2.xml"/>
+        <Include href="label/spawn.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/walk.xml"/>
+        <Include href="label/eat.xml"/>
+        <Include href="label/smash_left.xml"/>
+        <Include href="label/explosion.xml"/>
+        <Include href="label/die.xml"/>
+        <Include href="label/die_moon.xml"/>
+        <Include href="label/particles.xml"/>
+        <Include href="main_sprite.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="39" name="walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="61" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="100" duration="71" name="walk_unused" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="171" duration="38" name="eat" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="209" duration="53" name="smash_left" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="262" duration="37" name="die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="299" duration="79" name="die_unused" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="378" duration="75" name="die_moon" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="453" duration="1" name="particles" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="16">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="16">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="20">
+                            <elements/>
+                        </DOMFrame>
+						<DOMFrame index="37">
+							<Actionscript>
+								<script>
+									<![CDATA[ fscommand("transform", "TransformArgs[Zombie,moon_radiation_gargantuar], Include[moon_radiation_gargantuar_intro]"); ]]>
+								</script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+                        <DOMFrame index="38">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="39" duration="60">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="99">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="100" duration="21">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="121">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="122" duration="34">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="156">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="157" duration="13">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="170">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="171" duration="20">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="191">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Attack_Swing");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="192" duration="13">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="205">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Attack_Swing");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="206" duration="3">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="209">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("smash_left", "");
+fscommand("PlaySample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Attack_Weapon_Impact");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="210" duration="15">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="225">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Attack_Voc");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="226" duration="35">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="261">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="262" duration="10">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="272" duration="26">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="298">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="299" duration="9">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="308">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="309" duration="15">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="324">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("playsample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Walk");
+fscommand("PlaySample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Death_Pole");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="325" duration="26">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="351">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_Tutorial_Gargantuar_Mvmt_Death_Fall");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="352" duration="25">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="377">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="378" duration="74">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="452">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="453">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="454">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="main_sprite" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

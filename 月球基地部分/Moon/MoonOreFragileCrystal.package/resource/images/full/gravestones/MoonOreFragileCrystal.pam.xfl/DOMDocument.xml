@@ -1,0 +1,301 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_13x16" href="media/FCBreak_LunarMine_Ore_Effect_13x16.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_140x96" href="media/FCBreak_LunarMine_Ore_Effect_140x96.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_149x134" href="media/FCBreak_LunarMine_Ore_Effect_149x134.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_162x164" href="media/FCBreak_LunarMine_Ore_Effect_162x164.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_171x118" href="media/FCBreak_LunarMine_Ore_Effect_171x118.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_17x18" href="media/FCBreak_LunarMine_Ore_Effect_17x18.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_17x21" href="media/FCBreak_LunarMine_Ore_Effect_17x21.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_190x130" href="media/FCBreak_LunarMine_Ore_Effect_190x130.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_23x33_2" href="media/FCBreak_LunarMine_Ore_Effect_23x33_2.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_23x38" href="media/FCBreak_LunarMine_Ore_Effect_23x38.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_27x17" href="media/FCBreak_LunarMine_Ore_Effect_27x17.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_38x83" href="media/FCBreak_LunarMine_Ore_Effect_38x83.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_43x41" href="media/FCBreak_LunarMine_Ore_Effect_43x41.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_49x43" href="media/FCBreak_LunarMine_Ore_Effect_49x43.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_50x67" href="media/FCBreak_LunarMine_Ore_Effect_50x67.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_51x112" href="media/FCBreak_LunarMine_Ore_Effect_51x112.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_59x57" href="media/FCBreak_LunarMine_Ore_Effect_59x57.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_65x21" href="media/FCBreak_LunarMine_Ore_Effect_65x21.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_65x56" href="media/FCBreak_LunarMine_Ore_Effect_65x56.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_66x25" href="media/FCBreak_LunarMine_Ore_Effect_66x25.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_71x77" href="media/FCBreak_LunarMine_Ore_Effect_71x77.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_74x51_2" href="media/FCBreak_LunarMine_Ore_Effect_74x51_2.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_80x72" href="media/FCBreak_LunarMine_Ore_Effect_80x72.png"/>
+        <DOMBitmapItem name="media/FCBreak_LunarMine_Ore_Effect_9x11" href="media/FCBreak_LunarMine_Ore_Effect_9x11.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_10x10" href="media/FC_LunarMine_Ore_Effect_10x10.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_13x12" href="media/FC_LunarMine_Ore_Effect_13x12.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_13x16" href="media/FC_LunarMine_Ore_Effect_13x16.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_13x16_2" href="media/FC_LunarMine_Ore_Effect_13x16_2.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_140x156" href="media/FC_LunarMine_Ore_Effect_140x156.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_162x164" href="media/FC_LunarMine_Ore_Effect_162x164.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_17x17" href="media/FC_LunarMine_Ore_Effect_17x17.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_17x18" href="media/FC_LunarMine_Ore_Effect_17x18.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_17x21" href="media/FC_LunarMine_Ore_Effect_17x21.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_18x17" href="media/FC_LunarMine_Ore_Effect_18x17.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_18x18" href="media/FC_LunarMine_Ore_Effect_18x18.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_20x20" href="media/FC_LunarMine_Ore_Effect_20x20.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_22x22" href="media/FC_LunarMine_Ore_Effect_22x22.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_24x23" href="media/FC_LunarMine_Ore_Effect_24x23.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_24x24" href="media/FC_LunarMine_Ore_Effect_24x24.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_26x31" href="media/FC_LunarMine_Ore_Effect_26x31.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_30x27" href="media/FC_LunarMine_Ore_Effect_30x27.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_31x30" href="media/FC_LunarMine_Ore_Effect_31x30.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_40x40" href="media/FC_LunarMine_Ore_Effect_40x40.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_41x41" href="media/FC_LunarMine_Ore_Effect_41x41.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_43x43" href="media/FC_LunarMine_Ore_Effect_43x43.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_44x56" href="media/FC_LunarMine_Ore_Effect_44x56.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_46x113" href="media/FC_LunarMine_Ore_Effect_46x113.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_46x46" href="media/FC_LunarMine_Ore_Effect_46x46.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_49x43" href="media/FC_LunarMine_Ore_Effect_49x43.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_50x67" href="media/FC_LunarMine_Ore_Effect_50x67.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_51x112" href="media/FC_LunarMine_Ore_Effect_51x112.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_54x124" href="media/FC_LunarMine_Ore_Effect_54x124.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_54x54" href="media/FC_LunarMine_Ore_Effect_54x54.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_55x49" href="media/FC_LunarMine_Ore_Effect_55x49.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_59x57" href="media/FC_LunarMine_Ore_Effect_59x57.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_64x52" href="media/FC_LunarMine_Ore_Effect_64x52.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_65x21" href="media/FC_LunarMine_Ore_Effect_65x21.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_65x56" href="media/FC_LunarMine_Ore_Effect_65x56.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_66x25" href="media/FC_LunarMine_Ore_Effect_66x25.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_70x76" href="media/FC_LunarMine_Ore_Effect_70x76.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_70x79" href="media/FC_LunarMine_Ore_Effect_70x79.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_71x77" href="media/FC_LunarMine_Ore_Effect_71x77.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_75x84" href="media/FC_LunarMine_Ore_Effect_75x84.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_78x93" href="media/FC_LunarMine_Ore_Effect_78x93.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_87x102" href="media/FC_LunarMine_Ore_Effect_87x102.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_89x78" href="media/FC_LunarMine_Ore_Effect_89x78.png"/>
+        <DOMBitmapItem name="media/FC_LunarMine_Ore_Effect_9x11" href="media/FC_LunarMine_Ore_Effect_9x11.png"/>
+    </media>
+    <symbols>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_13x16.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_140x96.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_149x134.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_162x164.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_171x118.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_17x18.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_17x21.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_190x130.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_23x33_2.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_23x38.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_27x17.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_38x83.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_43x41.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_49x43.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_50x67.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_51x112.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_59x57.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_65x21.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_65x56.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_66x25.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_71x77.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_74x51_2.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_80x72.xml"/>
+        <Include href="image/FCBreak_LunarMine_Ore_Effect_9x11.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_10x10.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_13x12.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_13x16.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_13x16_2.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_140x156.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_162x164.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_17x17.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_17x18.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_17x21.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_18x17.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_18x18.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_20x20.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_22x22.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_24x23.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_24x24.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_26x31.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_30x27.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_31x30.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_40x40.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_41x41.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_43x43.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_44x56.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_46x113.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_46x46.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_49x43.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_50x67.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_51x112.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_54x124.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_54x54.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_55x49.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_59x57.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_64x52.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_65x21.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_65x56.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_66x25.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_70x76.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_70x79.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_71x77.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_75x84.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_78x93.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_87x102.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_89x78.xml"/>
+        <Include href="image/FC_LunarMine_Ore_Effect_9x11.xml"/>
+        <Include href="sprite/FCBreak_purple_01.xml"/>
+        <Include href="sprite/FCBreak_purple_02.xml"/>
+        <Include href="sprite/FCBreak_purple_03.xml"/>
+        <Include href="sprite/FCBreak_purple_04.xml"/>
+        <Include href="sprite/FCBreak_purple_05_copy_2.xml"/>
+        <Include href="sprite/FCBreak_purple_06_copy_2.xml"/>
+        <Include href="sprite/FCBreak_purple_07_copy_2.xml"/>
+        <Include href="sprite/FCBreak_purple_08.xml"/>
+        <Include href="sprite/FCBreak_purple_08_1.xml"/>
+        <Include href="sprite/FCBreak_purple_08_copy_2.xml"/>
+        <Include href="sprite/FCBreak_rock back.xml"/>
+        <Include href="sprite/FCBreak_rock front.xml"/>
+        <Include href="sprite/MoonOreFragileCrystal_damage1_idle.xml"/>
+        <Include href="sprite/Symbol_6.xml"/>
+        <Include href="sprite/Symbol_6_1.xml"/>
+        <Include href="sprite/Symbol_6_2.xml"/>
+        <Include href="sprite/Symbol_6_3.xml"/>
+        <Include href="sprite/Symbol_6_4.xml"/>
+        <Include href="sprite/blue_boom_02.xml"/>
+        <Include href="sprite/mower_spawn_pow2.xml"/>
+        <Include href="sprite/mower_spawn_pow2_1.xml"/>
+        <Include href="sprite/mower_spawn_pow2_2.xml"/>
+        <Include href="sprite/mower_spawn_pow2_3.xml"/>
+        <Include href="sprite/purple_01.xml"/>
+        <Include href="sprite/purple_02.xml"/>
+        <Include href="sprite/purple_03.xml"/>
+        <Include href="sprite/purple_04.xml"/>
+        <Include href="sprite/purple_05_2.xml"/>
+        <Include href="sprite/purple_05_copy_2.xml"/>
+        <Include href="sprite/purple_05_copy_2_1.xml"/>
+        <Include href="sprite/purple_06_2.xml"/>
+        <Include href="sprite/purple_06_copy_2.xml"/>
+        <Include href="sprite/purple_07_1.xml"/>
+        <Include href="sprite/purple_07_copy_2.xml"/>
+        <Include href="sprite/purple_08.xml"/>
+        <Include href="sprite/purple_08_1.xml"/>
+        <Include href="sprite/purple_08_copy_2.xml"/>
+        <Include href="sprite/purple_08_copy_2_1.xml"/>
+        <Include href="sprite/purple_boom_01.xml"/>
+        <Include href="sprite/purple_boom_01_1.xml"/>
+        <Include href="sprite/purple_boom_01_2.xml"/>
+        <Include href="sprite/purple_boom_03.xml"/>
+        <Include href="sprite/purple_boom_03_1.xml"/>
+        <Include href="sprite/purple_boom_03_2.xml"/>
+        <Include href="sprite/purple_fly_a.xml"/>
+        <Include href="sprite/purple_fly_b.xml"/>
+        <Include href="sprite/purple_fly_c.xml"/>
+        <Include href="sprite/rock back.xml"/>
+        <Include href="sprite/rock front.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/idle2.xml"/>
+        <Include href="label/flash.xml"/>
+        <Include href="label/blast.xml"/>
+        <Include href="label/death.xml"/>
+        <Include href="main_sprite.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="1" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="77" name="walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="78" duration="18" name="die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements/>
+                        </DOMFrame>
+						<DOMFrame index="1">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="2" duration="15">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="17">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="18" duration="15">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="33">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="34" duration="15">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="49">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="50" duration="15">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="65">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="66" duration="10">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="76">
+							<Actionscript>
+								<script><![CDATA[fscommand("spawn_projectile", "Type:MoonOreFlyPlants,mX:0,mY:0,mZ:100,Team:Zombie");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+                        <DOMFrame index="77">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="78" duration="17">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="95">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="96">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="main_sprite" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

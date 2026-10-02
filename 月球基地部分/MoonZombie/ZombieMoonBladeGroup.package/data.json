@@ -1,0 +1,39 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"ZombieMoonBladeGroup": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_EFFECTS_MOON_BLADE_HIT_TX": {
+					"type": "PopAnim",
+					"path": "images/full/effects/moon_blade_hit_tx"
+				},
+				"POPANIM_EFFECTS_MOON_BLADE_TX": {
+					"type": "PopAnim",
+					"path": "images/full/effects/moon_blade_tx"
+				},
+				"POPANIM_ZOMBIE_MOON_BLADE": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/moon_blade"
+				},
+				"POPANIM_ZOMBIE_MOON_BLADE_GUARD_TYPE": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/moon_blade_guard"
+				}
+			}
+		}
+	}
+}

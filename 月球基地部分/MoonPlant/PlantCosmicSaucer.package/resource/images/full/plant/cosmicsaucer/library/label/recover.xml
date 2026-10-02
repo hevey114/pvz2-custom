@@ -1,0 +1,2276 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/recover" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="recover">
+            <layers>
+                <DOMLayer name="15">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="179.449997" ty="123.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.981232" b="0.000000" c="0.027603" d="1.053085" tx="176.399994" ty="118.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.964661" b="0.000000" c="0.053192" d="1.099350" tx="173.699997" ty="113.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.950302" b="0.000000" c="0.075821" d="1.138977" tx="171.350006" ty="109.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.938156" b="0.000000" c="0.098465" d="1.171967" tx="169.399994" ty="106.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.928223" b="0.000000" c="0.116776" d="1.198700" tx="167.750000" ty="103.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.920486" b="0.000000" c="0.134186" d="1.219009" tx="166.500000" ty="101.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.914978" b="0.000000" c="0.146378" d="1.233429" tx="165.600006" ty="99.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.911652" b="0.000000" c="0.152985" d="1.242126" tx="165.050003" ty="98.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910553" b="0.000000" c="0.156555" d="1.245361" tx="164.850006" ty="98.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.154205" d="1.246201" tx="164.800003" ty="98.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.159256" d="1.248688" tx="164.550003" ty="98.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.160904" d="1.253677" tx="164.100006" ty="98.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.171387" d="1.260132" tx="163.350006" ty="97.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.166351" d="1.257126" tx="163.600006" ty="97.650002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.165115" d="1.253479" tx="163.899994" ty="98.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.159576" d="1.249664" tx="164.300003" ty="98.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910553" b="0.000000" c="0.156555" d="1.245361" tx="164.850006" ty="98.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.911942" b="0.000000" c="0.152786" d="1.241333" tx="165.100006" ty="99.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.419608" greenMultiplier="0.419608" blueMultiplier="0.419608" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.916122" b="0.000000" c="0.141464" d="1.230652" tx="165.800003" ty="100.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.447059" greenMultiplier="0.447059" blueMultiplier="0.447059" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.923111" b="0.000000" c="0.128296" d="1.212082" tx="166.949997" ty="102.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.494118" greenMultiplier="0.494118" blueMultiplier="0.494118" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.932907" b="0.000000" c="0.109680" d="1.185959" tx="168.500000" ty="105.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.560784" greenMultiplier="0.560784" blueMultiplier="0.560784" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.945480" b="0.000000" c="0.086227" d="1.151978" tx="170.550003" ty="108.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.643137" greenMultiplier="0.643137" blueMultiplier="0.643137" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.960846" b="0.000000" c="0.058853" d="1.109879" tx="173.050003" ty="112.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.745098" greenMultiplier="0.745098" blueMultiplier="0.745098" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.979019" b="0.000000" c="0.028610" d="1.059311" tx="176.050003" ty="118.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.866667" greenMultiplier="0.866667" blueMultiplier="0.866667" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="179.449997" ty="123.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="14">
+                    <frames>
+                        <DOMFrame index="0" duration="25">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_01" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="206.149994" ty="182.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="13">
+                    <frames>
+                        <DOMFrame index="0" duration="7">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.900024" b="-0.184250" c="0.123001" d="0.553772" tx="202.800003" ty="172.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.887177" b="-0.189270" c="0.206406" d="0.892303" tx="202.750000" ty="172.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.874878" b="-0.194550" c="0.296921" d="1.230042" tx="202.649994" ty="173.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.873871" b="-0.194199" c="0.297455" d="1.233505" tx="202.500000" ty="173.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.873398" b="-0.194290" c="0.303192" d="1.236618" tx="202.350006" ty="173.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.872925" b="-0.194351" c="0.304916" d="1.240738" tx="202.300003" ty="173.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.872559" b="-0.196838" c="0.311554" d="1.244644" tx="202.050003" ty="173.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.872940" b="-0.194351" c="0.304901" d="1.240753" tx="202.199997" ty="173.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.873413" b="-0.194275" c="0.303223" d="1.236633" tx="202.250000" ty="173.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.873871" b="-0.194199" c="0.297455" d="1.233475" tx="202.500000" ty="173.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.874878" b="-0.194550" c="0.296921" d="1.230042" tx="202.649994" ty="173.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.892563" b="-0.170456" c="0.251602" d="1.205399" tx="203.100006" ty="174.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.486275" greenMultiplier="0.486275" blueMultiplier="0.486275" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.909622" b="-0.148834" c="0.209122" d="1.179977" tx="203.500000" ty="175.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.560784" greenMultiplier="0.560784" blueMultiplier="0.560784" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.926163" b="-0.126465" c="0.168472" d="1.153076" tx="203.949997" ty="177.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.635294" greenMultiplier="0.635294" blueMultiplier="0.635294" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.942139" b="-0.103302" c="0.133316" d="1.124390" tx="204.350006" ty="178.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.709804" greenMultiplier="0.709804" blueMultiplier="0.709804" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.957809" b="-0.076233" c="0.096222" d="1.094955" tx="204.800003" ty="179.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.780392" greenMultiplier="0.780392" blueMultiplier="0.780392" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.972519" b="-0.051544" c="0.061127" d="1.064407" tx="205.300003" ty="180.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.854902" greenMultiplier="0.854902" blueMultiplier="0.854902" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.986588" b="-0.026123" c="0.027939" d="1.032669" tx="205.600006" ty="181.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.929412" greenMultiplier="0.929412" blueMultiplier="0.929412" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="12">
+                    <frames>
+                        <DOMFrame index="0" duration="6">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_03_1" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.912598" b="-0.183228" c="0.045654" d="0.213989" tx="202.850006" ty="171.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="11">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.987857" b="-0.155368" c="0.155368" d="0.987857" tx="210.500000" ty="186.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.975006" b="-0.159470" c="0.166565" d="1.015366" tx="209.149994" ty="183.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.962280" b="-0.165543" c="0.183914" d="1.042236" tx="207.850006" ty="180.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.950073" b="-0.168350" c="0.198425" d="1.069565" tx="206.500000" ty="178.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.937302" b="-0.174088" c="0.213440" d="1.096664" tx="205.149994" ty="175.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/mouth_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.925156" b="-0.179138" c="0.229416" d="1.124252" tx="203.850006" ty="173.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="10">
+                    <frames>
+                        <DOMFrame index="0" duration="23">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.904434" b="-0.321472" c="0.264969" d="0.630478" tx="205.600006" ty="159.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.745098" greenMultiplier="0.745098" blueMultiplier="0.745098" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.962021" b="-0.178619" c="0.173599" d="0.812164" tx="208.649994" ty="160.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.866667" greenMultiplier="0.866667" blueMultiplier="0.866667" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="212.949997" ty="162.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="9">
+                    <frames>
+                        <DOMFrame index="0" duration="22">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r_1" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.838791" b="-0.433533" c="0.295181" d="0.475861" tx="203.750000" ty="157.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.643137" greenMultiplier="0.643137" blueMultiplier="0.643137" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="8">
+                    <frames>
+                        <DOMFrame index="0" duration="20">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r_2" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.720123" b="-0.575195" c="0.268051" d="0.269348" tx="201.899994" ty="155.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.494118" greenMultiplier="0.494118" blueMultiplier="0.494118" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r_2" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.775665" b="-0.518280" c="0.289322" d="0.355972" tx="202.600006" ty="156.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.560784" greenMultiplier="0.560784" blueMultiplier="0.560784" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="7">
+                    <frames>
+                        <DOMFrame index="0" duration="17">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r_3" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.643845" b="-0.643845" c="0.220566" d="0.171310" tx="201.300003" ty="154.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r_3" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.650986" b="-0.636475" c="0.226669" d="0.181015" tx="201.449997" ty="154.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.419608" greenMultiplier="0.419608" blueMultiplier="0.419608" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r_3" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.678299" b="-0.613571" c="0.243988" d="0.212875" tx="201.600006" ty="155.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.447059" greenMultiplier="0.447059" blueMultiplier="0.447059" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="6">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="214.550003" ty="165.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.981232" b="0.000000" c="0.027603" d="1.053085" tx="211.199997" ty="158.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.964661" b="0.000000" c="0.053192" d="1.099350" tx="208.199997" ty="152.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.950302" b="0.000000" c="0.075821" d="1.138977" tx="205.649994" ty="147.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.938156" b="0.000000" c="0.098465" d="1.171967" tx="203.500000" ty="143.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.928223" b="0.000000" c="0.116776" d="1.198700" tx="201.699997" ty="139.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.920486" b="0.000000" c="0.134186" d="1.219009" tx="200.250000" ty="136.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.914978" b="0.000000" c="0.146378" d="1.233429" tx="199.199997" ty="134.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.911652" b="0.000000" c="0.152985" d="1.242126" tx="198.649994" ty="133.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910553" b="0.000000" c="0.156555" d="1.245361" tx="198.350006" ty="133.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.154205" d="1.246201" tx="198.350006" ty="132.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.159256" d="1.248688" tx="198.149994" ty="132.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.160904" d="1.253677" tx="197.899994" ty="132.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.171387" d="1.260132" tx="197.300003" ty="131.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.166351" d="1.257126" tx="197.550003" ty="132.100006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.165115" d="1.253464" tx="197.800003" ty="132.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_r _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.161194" d="1.249969" tx="198.050003" ty="132.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="5">
+                    <frames>
+                        <DOMFrame index="0" duration="17">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.844543" b="0.340302" c="-0.079330" d="0.300644" tx="173.199997" ty="146.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.847229" b="0.334610" c="-0.080612" d="0.311172" tx="173.300003" ty="146.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.419608" greenMultiplier="0.419608" blueMultiplier="0.419608" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.856949" b="0.321106" c="-0.084290" d="0.343521" tx="173.399994" ty="147.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.447059" greenMultiplier="0.447059" blueMultiplier="0.447059" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.872986" b="0.297134" c="-0.088623" d="0.397781" tx="173.750000" ty="149.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.494118" greenMultiplier="0.494118" blueMultiplier="0.494118" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.894516" b="0.261887" c="-0.092377" d="0.473984" tx="174.050003" ty="151.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.560784" greenMultiplier="0.560784" blueMultiplier="0.560784" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.919479" b="0.217194" c="-0.090759" d="0.572647" tx="174.449997" ty="154.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.643137" greenMultiplier="0.643137" blueMultiplier="0.643137" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.947067" b="0.158997" c="-0.076706" d="0.694061" tx="174.899994" ty="158.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.745098" greenMultiplier="0.745098" blueMultiplier="0.745098" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.974960" b="0.085953" c="-0.048325" d="0.836929" tx="175.399994" ty="162.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.866667" greenMultiplier="0.866667" blueMultiplier="0.866667" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="176.149994" ty="167.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="4">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="183.800003" ty="172.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.981232" b="0.000000" c="0.027603" d="1.053085" tx="181.250000" ty="166.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.964661" b="0.000000" c="0.053192" d="1.099350" tx="179.000000" ty="160.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.950302" b="0.000000" c="0.075821" d="1.138977" tx="177.050003" ty="155.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.938156" b="0.000000" c="0.098465" d="1.171967" tx="175.399994" ty="151.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.928223" b="0.000000" c="0.116776" d="1.198700" tx="174.050003" ty="147.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.920486" b="0.000000" c="0.134186" d="1.219009" tx="172.899994" ty="145.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.914978" b="0.000000" c="0.146378" d="1.233429" tx="172.100006" ty="143.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.911652" b="0.000000" c="0.152985" d="1.242126" tx="171.699997" ty="142.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910553" b="0.000000" c="0.156555" d="1.245361" tx="171.449997" ty="141.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.154205" d="1.246201" tx="171.449997" ty="141.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.159256" d="1.248688" tx="171.199997" ty="141.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.160904" d="1.253677" tx="170.949997" ty="141.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.171387" d="1.260132" tx="170.449997" ty="140.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.166351" d="1.257126" tx="170.649994" ty="140.850006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.165115" d="1.253464" tx="170.899994" ty="141.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/eye_l _02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.161194" d="1.249969" tx="171.100006" ty="141.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="3">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="154.199997" ty="107.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.981232" b="0.000000" c="0.027603" d="1.053085" tx="151.250000" ty="101.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.964661" b="0.000000" c="0.053192" d="1.099350" tx="148.750000" ty="96.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.950302" b="0.000000" c="0.075821" d="1.138977" tx="146.399994" ty="91.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.938156" b="0.000000" c="0.098465" d="1.171967" tx="144.350006" ty="87.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.928223" b="0.000000" c="0.116776" d="1.198700" tx="142.649994" ty="84.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.920486" b="0.000000" c="0.134186" d="1.219009" tx="141.199997" ty="82.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.914978" b="0.000000" c="0.146378" d="1.233429" tx="140.199997" ty="80.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.911652" b="0.000000" c="0.152985" d="1.242126" tx="139.600006" ty="79.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910553" b="0.000000" c="0.156555" d="1.245361" tx="139.500000" ty="78.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.154205" d="1.246201" tx="139.550003" ty="78.900002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.159256" d="1.248688" tx="139.149994" ty="78.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.160904" d="1.253677" tx="138.699997" ty="78.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.171387" d="1.260132" tx="137.850006" ty="77.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.166351" d="1.257126" tx="138.250000" ty="77.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.165115" d="1.253479" tx="138.600006" ty="78.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.159576" d="1.249664" tx="139.149994" ty="78.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910553" b="0.000000" c="0.156555" d="1.245361" tx="139.500000" ty="78.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.911942" b="0.000000" c="0.152786" d="1.241333" tx="139.800003" ty="79.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.419608" greenMultiplier="0.419608" blueMultiplier="0.419608" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.916122" b="0.000000" c="0.141464" d="1.230652" tx="140.649994" ty="80.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.447059" greenMultiplier="0.447059" blueMultiplier="0.447059" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.923111" b="0.000000" c="0.128296" d="1.212082" tx="141.850006" ty="83.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.494118" greenMultiplier="0.494118" blueMultiplier="0.494118" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.932907" b="0.000000" c="0.109680" d="1.185959" tx="143.500000" ty="86.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.560784" greenMultiplier="0.560784" blueMultiplier="0.560784" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.945480" b="0.000000" c="0.086227" d="1.151978" tx="145.699997" ty="90.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.643137" greenMultiplier="0.643137" blueMultiplier="0.643137" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.960846" b="0.000000" c="0.058853" d="1.109879" tx="148.199997" ty="95.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.745098" greenMultiplier="0.745098" blueMultiplier="0.745098" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.979019" b="0.000000" c="0.028610" d="1.059311" tx="151.199997" ty="101.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.866667" greenMultiplier="0.866667" blueMultiplier="0.866667" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/head" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="154.199997" ty="107.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="179.600006" ty="118.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.981232" b="0.000000" c="0.027603" d="1.053085" tx="176.399994" ty="113.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.964661" b="0.000000" c="0.053192" d="1.099350" tx="173.550003" ty="108.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.950302" b="0.000000" c="0.075821" d="1.138977" tx="171.149994" ty="104.099998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.938156" b="0.000000" c="0.098465" d="1.171967" tx="169.000000" ty="100.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.928223" b="0.000000" c="0.116776" d="1.198700" tx="167.300003" ty="97.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.920486" b="0.000000" c="0.134186" d="1.219009" tx="165.949997" ty="95.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.914978" b="0.000000" c="0.146378" d="1.233429" tx="165.050003" ty="93.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.911652" b="0.000000" c="0.152985" d="1.242126" tx="164.449997" ty="92.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910553" b="0.000000" c="0.156555" d="1.245361" tx="164.199997" ty="92.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.154205" d="1.246201" tx="164.100006" ty="92.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.159256" d="1.248688" tx="163.800003" ty="92.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.160904" d="1.253677" tx="163.350006" ty="91.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.171387" d="1.260132" tx="162.600006" ty="91.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.166351" d="1.257126" tx="162.850006" ty="91.500000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.165115" d="1.253479" tx="163.250000" ty="91.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.159576" d="1.249664" tx="163.649994" ty="92.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910553" b="0.000000" c="0.156555" d="1.245361" tx="164.199997" ty="92.599998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.911942" b="0.000000" c="0.152786" d="1.241333" tx="164.449997" ty="92.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.419608" greenMultiplier="0.419608" blueMultiplier="0.419608" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.916122" b="0.000000" c="0.141464" d="1.230652" tx="165.149994" ty="94.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.447059" greenMultiplier="0.447059" blueMultiplier="0.447059" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.923111" b="0.000000" c="0.128296" d="1.212082" tx="166.350006" ty="96.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.494118" greenMultiplier="0.494118" blueMultiplier="0.494118" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.932907" b="0.000000" c="0.109680" d="1.185959" tx="168.000000" ty="99.150002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.560784" greenMultiplier="0.560784" blueMultiplier="0.560784" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.945480" b="0.000000" c="0.086227" d="1.151978" tx="170.199997" ty="102.849998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.643137" greenMultiplier="0.643137" blueMultiplier="0.643137" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.960846" b="0.000000" c="0.058853" d="1.109879" tx="172.800003" ty="107.400002"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.745098" greenMultiplier="0.745098" blueMultiplier="0.745098" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.979019" b="0.000000" c="0.028610" d="1.059311" tx="175.949997" ty="112.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.866667" greenMultiplier="0.866667" blueMultiplier="0.866667" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/halo_02" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="179.600006" ty="118.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="139.649994" ty="155.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.981232" b="0.000000" c="0.027603" d="1.053085" tx="138.550003" ty="152.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.964661" b="0.000000" c="0.053192" d="1.099350" tx="137.600006" ty="148.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.950302" b="0.000000" c="0.075821" d="1.138977" tx="136.699997" ty="146.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.938156" b="0.000000" c="0.098465" d="1.171967" tx="135.850006" ty="143.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.928223" b="0.000000" c="0.116776" d="1.198700" tx="135.149994" ty="141.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.920486" b="0.000000" c="0.134186" d="1.219009" tx="134.500000" ty="140.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.914978" b="0.000000" c="0.146378" d="1.233429" tx="134.100006" ty="139.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.911652" b="0.000000" c="0.152985" d="1.242126" tx="133.800003" ty="138.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910553" b="0.000000" c="0.156555" d="1.245361" tx="133.750000" ty="138.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.154205" d="1.246201" tx="133.850006" ty="138.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.159256" d="1.248688" tx="133.600006" ty="138.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.160904" d="1.253677" tx="133.399994" ty="137.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.171387" d="1.260132" tx="132.850006" ty="137.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910522" b="0.000000" c="0.166351" d="1.257126" tx="133.149994" ty="137.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.165115" d="1.253479" tx="133.250000" ty="137.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910538" b="0.000000" c="0.159576" d="1.249664" tx="133.550003" ty="137.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.910553" b="0.000000" c="0.156555" d="1.245361" tx="133.750000" ty="138.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.411765" greenMultiplier="0.411765" blueMultiplier="0.411765" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.911942" b="0.000000" c="0.152786" d="1.241333" tx="133.899994" ty="138.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.419608" greenMultiplier="0.419608" blueMultiplier="0.419608" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.916122" b="0.000000" c="0.141464" d="1.230652" tx="134.350006" ty="139.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.447059" greenMultiplier="0.447059" blueMultiplier="0.447059" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="20" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.923111" b="0.000000" c="0.128296" d="1.212082" tx="134.850006" ty="140.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.494118" greenMultiplier="0.494118" blueMultiplier="0.494118" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="21" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.932907" b="0.000000" c="0.109680" d="1.185959" tx="135.550003" ty="142.600006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.560784" greenMultiplier="0.560784" blueMultiplier="0.560784" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="22" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.945480" b="0.000000" c="0.086227" d="1.151978" tx="136.399994" ty="145.000000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.643137" greenMultiplier="0.643137" blueMultiplier="0.643137" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="23" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.960846" b="0.000000" c="0.058853" d="1.109879" tx="137.550003" ty="147.949997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.745098" greenMultiplier="0.745098" blueMultiplier="0.745098" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="24" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.979019" b="0.000000" c="0.028610" d="1.059311" tx="138.649994" ty="151.550003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="0.866667" greenMultiplier="0.866667" blueMultiplier="0.866667" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="25" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="sprite/body 复制" firstFrame="0" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="139.649994" ty="155.800003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

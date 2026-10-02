@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/moon_blade_zombie_190x109" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="moon_blade_zombie_190x109">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/moon_blade_zombie_190x109">
+                                    <matrix>
+                                        <Matrix a="1.171370" b="0.000000" c="0.000000" d="1.171370" tx="310.399994" ty="-133.949997"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

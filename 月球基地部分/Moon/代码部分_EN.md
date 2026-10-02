@@ -961,10 +961,98 @@
 				"HomeWorld": "moon",
 				"IsBasicZombie": true
 			}
+		},
+		{
+			"objclass": "ZombieType",
+			"aliases": [
+				"radiationorerandom"
+			],
+			"objdata": {
+				"TypeName": "radiationorerandom",
+				"ZombieClass": "ZombieGeneralCaesar",
+				"Properties": "RTID(RadiationOreRandomDefault@ZombieProperties)",
+				"ResourceGroups": [
+					"MoonOreRadiation",
+					"ZombieDummyGroup"
+				],
+				"AudioGroups": [],
+				"AnimRigClass": "ZombieAnimRig_GeneralCaesar",
+				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_DUMMY",
+				"HomeWorld": "moon",
+				"Placeable": true
+			}
+		},
+		{
+			"#comment": "####### Moon crystal, remade (this is what makes it a dynamic crystal) #######",
+			"objclass": "ZombieType",
+			"aliases": [
+				"moon_ore"
+			],
+			"objdata": {
+				"TypeName": "moon_ore",
+                "ZombieClass": "ZombieMech",
+				"Properties": "RTID(MoonOreDefault@ZombieProperties)",
+				"ResourceGroups": [
+					"MoonOre"
+				],
+				"AudioGroups": [],
+                "AnimRigClass": "ZombieAnimRig_ConeMech",
+				"PopAnim": "POPANIM_SUNORE_MOON",
+				"HomeWorld": "moon",
+				"IsBasicZombie": true,
+				"FlagType": "flag_normal"
+			}
+		},
+		{
+			"objclass": "ZombieType",
+			"aliases": [
+				"moon_fragile_ore"
+			],
+			"objdata": {
+				"TypeName": "moon_fragile_ore",
+                "ZombieClass": "ZombieMech",
+				"Properties": "RTID(MoonFragileOreDefault@ZombieProperties)",
+				"ResourceGroups": [
+					"MoonOreFragileCrystal"
+				],
+				"AudioGroups": [],
+                "AnimRigClass": "ZombieAnimRig_ConeMech",
+				"PopAnim": "POPANIM_MOONORE_FRAGILECRYSTALPF",
+				"HomeWorld": "moon",
+				"IsBasicZombie": true,
+				"FlagType": "flag_normal"
+			}
+		},
+		{
+			"objclass": "ZombieType",
+			"aliases": [
+				"moon_radiation_ore"
+			],
+			"objdata": {
+				"TypeName": "moon_radiation_ore",
+                "ZombieClass": "ZombieMech",
+				"Properties": "RTID(MoonRadiationOreDefault@ZombieProperties)",
+				"ResourceGroups": [
+					"MoonOreRadiation",
+					"ZombieMoonRadiationGargantuarGroup",
+					"ZombieGargantuarEffects",
+					"ZombieDummyGroup"
+				],
+				"AudioGroups": [
+					"ZombieSupernovaGargantuarAudio",
+					"PlantCherryBombAudio",
+					"ZombieGlobalGargantuarAudio"
+				],
+                "AnimRigClass": "ZombieAnimRig_ConeMech",
+				"PopAnim": "POPANIM_MOONORE_RADIATION",
+				"HomeWorld": "moon",
+				"IsBasicZombie": true,
+				"FlagType": "flag_normal"
+			}
 		}
 
 ## ZombieProperties code
-{
+			{
 			"aliases": [
 				"ZombieMoonRocket"
 			],
@@ -2616,6 +2704,884 @@
 					}
 				]
 			}
+		},
+		{
+			"aliases": [
+				"RadiationOreRandomDefault"
+			],
+			"objclass": "ZombieGeneralZmechProps",
+			"objdata": {
+				"Actions": [
+					"RTID(RandomDamagePlants@ZombieActions)",
+					"RTID(RandomDamageZombies@ZombieActions)",
+					"RTID(RandomBuffZombie@ZombieActions)",
+					"RTID(RandomTransformZombie@ZombieActions)",
+					"RTID(ManWhatCanISay@ZombieActions)"
+				],
+				"LifetimeSeconds": 99999,
+				"GeneralPhase": 0,
+				"ArtCenter": {
+					"x": 999999,
+					"y": 999999
+				},
+				"ShadowOffset": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"HypnoshroomEffectOffset": {
+					"x": 999999,
+					"y": 999999
+				},
+				"AttackRect": {
+					"mHeight": 0,
+					"mWidth": 0,
+					"mX": 999999,
+					"mY": 999999
+				},
+				"HitRect": {
+					"mHeight": 1,
+					"mWidth": 1,
+					"mX": 999999,
+					"mY": 999999
+				},
+				"ZombieArmorProps": [
+					"RTID(InvincibleArmor@ArmorTypes)"
+				],
+				"CollideHypnotizedZombies": "ignore",
+				"CollidePlants": "ignore",
+				"IgnoreWaterLine": true,
+				"SkipHeadDropState": true,
+				"CanTriggerZombieWin": false,
+				"ArtScale": 0,
+				"CanSurrender": true,
+				"CanBePlantTossedStrong": false,
+				"CanBePlantTossedWeak": false,
+				"CanSpawnPlantFood": false,
+				"ChillInsteadOfFreeze": true,
+				"SpeedVariance": 0,
+				"ScoreOverride": 1,
+				"FireDamageMultiplier": 0,
+				"Cost": 150,
+				"EatDPS": 0,
+				"GroundTrackName": "none",
+				"Hitpoints": 2,
+				"Speed": 2,
+				"WavePointCost": 900,
+				"Weight": 0,
+				"ConditionImmunities": [
+					{
+						"Condition": "chill"
+					},
+					{
+						"Condition": "stun"
+					},
+					{
+						"Condition": "invisibleslow"
+					},
+					{
+						"Condition": "stalled"
+					},
+					{
+						"Condition": "sapped"
+					},
+					{
+						"Condition": "poisoned"
+					},
+					{
+						"Condition": "decaypoison"
+					},
+					{
+						"Condition": "shrinking"
+					},
+					{
+						"Condition": "shrunken"
+					},
+					{
+						"Condition": "contagiouspoison"
+					},
+					{
+						"Condition": "dazeystunned"
+					},
+					{
+						"Condition": "buttered"
+					},
+					{
+						"Condition": "gummed"
+					},
+					{
+						"Condition": "stickybombed"
+					},
+					{
+						"Condition": "hasplantfood"
+					},
+					{
+						"Condition": "invincible"
+					},
+					{
+						"Condition": "bleeding"
+					},
+					{
+						"Condition": "suncarrier50"
+					},
+					{
+						"Condition": "suncarrier100"
+					},
+					{
+						"Condition": "suncarrier250"
+					},
+					{
+						"Condition": "warpingIn"
+					},
+					{
+						"Condition": "warpingOut"
+					},
+					{
+						"Condition": "stackableslow"
+					},
+					{
+						"Condition": "terrified"
+					}
+				]
+			}
+		},
+		{
+			"aliases": [
+				"MoonOreDefault"
+			],
+            "objclass": "ZombieMechProps",
+			"objdata": {
+				"ArtCenter": {
+					"x": 98,
+					"y": 127
+				},
+				"AttackRect": {
+					"mHeight": 95,
+					"mWidth": 20,
+					"mX": 99999,
+					"mY": 99999
+				},
+                "ExplodesWhenMowed": false,
+                "NormalDeathOnExplosion": true,
+                "NormalDeathWhenMowed": true,
+				"CanSpawnPlantFood": false,
+                "SoundOnActivate": "",
+                "SoundOnDeactivate": "",
+                "SoundOnDeath": "",
+                "SoundOnTakeDamage": "",
+				"Cost": 150,
+				"EatDPS": 0,
+				"GroundTrackName": "none",
+				"HitRect": {
+					"mHeight": 95,
+					"mWidth": 32,
+					"mX": 10,
+					"mY": 10
+				},
+				"Hitpoints": 800,
+				"ScaledProps": [
+					{
+						"Arg1": 1.3,
+						"Arg2": 0.05,
+						"Formula": "standard",
+						"Key": "Hitpoints"
+					},
+					{
+						"Arg1": 1.3,
+						"Arg2": 0.05,
+						"Formula": "standard",
+						"Key": "EatDPS"
+					},
+					{
+						"Formula": "constant",
+						"Key": "Speed"
+					},
+					{
+						"Formula": "constant",
+						"Key": "WavePointCost"
+					}
+				],
+				"ShadowOffset": {
+					"x": 0,
+					"y": 0,
+					"z": 1.2
+				},
+				"CollideHypnotizedZombies": "ignore",
+				"CollidePlants": "ignore",
+				"SkipHeadDropState": true,
+				"CanTriggerZombieWin": false,
+				"ArmDropFraction":-1,
+				"HeadDropFraction":-1,
+				"ArtScale": 1,
+				"CanSurrender": true,
+				"CanBePlantTossedStrong": false,
+				"CanBePlantTossedWeak": false,
+				"ChillInsteadOfFreeze": true,
+				"ScoreOverride": 1,
+				"ConditionImmunities": [
+					{
+						"Condition": "chill"
+					},
+					{
+						"Condition": "stun"
+					},
+					{
+						"Condition": "invisibleslow"
+					},
+					{
+						"Condition": "stalled"
+					},
+					{
+						"Condition": "sapped"
+					},
+					{
+						"Condition": "poisoned"
+					},
+					{
+						"Condition": "decaypoison"
+					},
+					{
+						"Condition": "shrinking"
+					},
+					{
+						"Condition": "shrunken"
+					},
+					{
+						"Condition": "contagiouspoison"
+					},
+					{
+						"Condition": "dazeystunned"
+					},
+					{
+						"Condition": "buttered"
+					},
+					{
+						"Condition": "gummed"
+					},
+					{
+						"Condition": "stickybombed"
+					},
+					{
+						"Condition": "hasplantfood"
+					},
+					{
+						"Condition": "invincible"
+					},
+					{
+						"Condition": "bleeding"
+					},
+					{
+						"Condition": "suncarrier50"
+					},
+					{
+						"Condition": "suncarrier100"
+					},
+					{
+						"Condition": "suncarrier250"
+					},
+					{
+						"Condition": "warpingIn"
+					},
+					{
+						"Condition": "warpingOut"
+					},
+					{
+						"Condition": "stackableslow"
+					},
+					{
+						"Condition": "terrified"
+					},
+					{
+						"Condition": "freeze"
+					},
+					{
+						"Condition": "butter"
+					},
+					{
+						"Condition": "speedup1"
+					},
+					{
+						"Condition": "speedup2"
+					},
+					{
+						"Condition": "speedup3"
+					},
+					{
+						"Condition": "speedup4"
+					},
+					{
+						"Condition": "terrified"
+					},
+					{
+						"Condition": "potionspeed1"
+					},
+					{
+						"Condition": "potionspeed2"
+					},
+					{
+						"Condition": "potionspeed3"
+					},
+					{
+						"Condition": "potiontoughness1"
+					},
+					{
+						"Condition": "potiontoughness2"
+					},
+					{
+						"Condition": "potiontoughness3"
+					},
+					{
+						"Condition": "potionsuper1"
+					},
+					{
+						"Condition": "potionsuper2"
+					},
+					{
+						"Condition": "potionsuper3"
+					},
+					{
+						"Condition": "sunbeaned"
+					},
+					{
+						"Condition": "haunted"
+					},
+					{
+						"Condition": "icecubed"
+					},
+					{
+						"Condition": "speeddown1"
+					},
+					{
+						"Condition": "speeddown2"
+					},
+					{
+						"Condition": "speeddown3"
+					},
+					{
+						"Condition": "speeddown4"
+					},
+					{
+						"Condition": "invincible"
+					},
+					{
+						"Condition": "gummed"
+					},
+					{
+						"Condition": "iceblocked"
+					},
+					{
+						"Condition": "blockolistunned"
+					},
+					{
+						"Condition": "bloomingheartdebuff"
+					}
+				],
+				"Speed": 0.15,
+				"WavePointCost": 1,
+				"Weight": 3000,
+				"ZombieStats": [
+					{
+						"Type": "toughness",
+						"Value": "toughness3"
+					},
+					{
+						"Type": "speed",
+						"Value": "speed2"
+					}
+				]
+			}
+		},
+		{
+			"aliases": [
+				"MoonFragileOreDefault"
+			],
+            "objclass": "ZombieMechProps",
+			"objdata": {
+				"ArtCenter": {
+					"x": 98,
+					"y": 127
+				},
+				"AttackRect": {
+					"mHeight": 95,
+					"mWidth": 20,
+					"mX": 99999,
+					"mY": 99999
+				},
+                "ExplodesWhenMowed": false,
+                "NormalDeathOnExplosion": true,
+                "NormalDeathWhenMowed": true,
+                "SoundOnActivate": "",
+                "SoundOnDeactivate": "",
+                "SoundOnDeath": "",
+                "SoundOnTakeDamage": "",
+				"CanSpawnPlantFood": false,
+				"Cost": 150,
+				"EatDPS": 0,
+				"GroundTrackName": "none",
+				"HitRect": {
+					"mHeight": 95,
+					"mWidth": 32,
+					"mX": 10,
+					"mY": 10
+				},
+				"Hitpoints": 800,
+				"ScaledProps": [
+					{
+						"Arg1": 1.3,
+						"Arg2": 0.05,
+						"Formula": "standard",
+						"Key": "Hitpoints"
+					},
+					{
+						"Arg1": 1.3,
+						"Arg2": 0.05,
+						"Formula": "standard",
+						"Key": "EatDPS"
+					},
+					{
+						"Formula": "constant",
+						"Key": "Speed"
+					},
+					{
+						"Formula": "constant",
+						"Key": "WavePointCost"
+					}
+				],
+				"ShadowOffset": {
+					"x": 0,
+					"y": 0,
+					"z": 1.2
+				},
+				"CollideHypnotizedZombies": "ignore",
+				"CollidePlants": "ignore",
+				"SkipHeadDropState": true,
+				"CanTriggerZombieWin": false,
+				"ArmDropFraction":-1,
+				"HeadDropFraction":-1,
+				"ArtScale": 1,
+				"CanSurrender": true,
+				"CanBePlantTossedStrong": false,
+				"CanBePlantTossedWeak": false,
+				"ChillInsteadOfFreeze": true,
+				"ScoreOverride": 1,
+				"ConditionImmunities": [
+					{
+						"Condition": "chill"
+					},
+					{
+						"Condition": "stun"
+					},
+					{
+						"Condition": "invisibleslow"
+					},
+					{
+						"Condition": "stalled"
+					},
+					{
+						"Condition": "sapped"
+					},
+					{
+						"Condition": "poisoned"
+					},
+					{
+						"Condition": "decaypoison"
+					},
+					{
+						"Condition": "shrinking"
+					},
+					{
+						"Condition": "shrunken"
+					},
+					{
+						"Condition": "contagiouspoison"
+					},
+					{
+						"Condition": "dazeystunned"
+					},
+					{
+						"Condition": "buttered"
+					},
+					{
+						"Condition": "gummed"
+					},
+					{
+						"Condition": "stickybombed"
+					},
+					{
+						"Condition": "hasplantfood"
+					},
+					{
+						"Condition": "invincible"
+					},
+					{
+						"Condition": "bleeding"
+					},
+					{
+						"Condition": "suncarrier50"
+					},
+					{
+						"Condition": "suncarrier100"
+					},
+					{
+						"Condition": "suncarrier250"
+					},
+					{
+						"Condition": "warpingIn"
+					},
+					{
+						"Condition": "warpingOut"
+					},
+					{
+						"Condition": "stackableslow"
+					},
+					{
+						"Condition": "terrified"
+					},
+					{
+						"Condition": "freeze"
+					},
+					{
+						"Condition": "butter"
+					},
+					{
+						"Condition": "speedup1"
+					},
+					{
+						"Condition": "speedup2"
+					},
+					{
+						"Condition": "speedup3"
+					},
+					{
+						"Condition": "speedup4"
+					},
+					{
+						"Condition": "terrified"
+					},
+					{
+						"Condition": "potionspeed1"
+					},
+					{
+						"Condition": "potionspeed2"
+					},
+					{
+						"Condition": "potionspeed3"
+					},
+					{
+						"Condition": "potiontoughness1"
+					},
+					{
+						"Condition": "potiontoughness2"
+					},
+					{
+						"Condition": "potiontoughness3"
+					},
+					{
+						"Condition": "potionsuper1"
+					},
+					{
+						"Condition": "potionsuper2"
+					},
+					{
+						"Condition": "potionsuper3"
+					},
+					{
+						"Condition": "sunbeaned"
+					},
+					{
+						"Condition": "haunted"
+					},
+					{
+						"Condition": "icecubed"
+					},
+					{
+						"Condition": "speeddown1"
+					},
+					{
+						"Condition": "speeddown2"
+					},
+					{
+						"Condition": "speeddown3"
+					},
+					{
+						"Condition": "speeddown4"
+					},
+					{
+						"Condition": "invincible"
+					},
+					{
+						"Condition": "gummed"
+					},
+					{
+						"Condition": "iceblocked"
+					},
+					{
+						"Condition": "blockolistunned"
+					},
+					{
+						"Condition": "bloomingheartdebuff"
+					}
+				],
+				"Speed": 0.15,
+				"WavePointCost": 1,
+				"Weight": 3000,
+				"ZombieStats": [
+					{
+						"Type": "toughness",
+						"Value": "toughness3"
+					},
+					{
+						"Type": "speed",
+						"Value": "speed2"
+					}
+				]
+			}
+		},
+		{
+			"aliases": [
+				"MoonRadiationOreDefault"
+			],
+            "objclass": "ZombieMechProps",
+			"objdata": {
+				"ArtCenter": {
+					"x": 98,
+					"y": 127
+				},
+				"AttackRect": {
+					"mHeight": 95,
+					"mWidth": 20,
+					"mX": 99999,
+					"mY": 99999
+				},
+                "ExplodesWhenMowed": false,
+                "NormalDeathOnExplosion": true,
+                "NormalDeathWhenMowed": true,
+                "SoundOnActivate": "",
+                "SoundOnDeactivate": "",
+                "SoundOnDeath": "",
+                "SoundOnTakeDamage": "",
+				"CanSpawnPlantFood": false,
+				"Cost": 150,
+				"EatDPS": 0,
+				"GroundTrackName": "none",
+				"HitRect": {
+					"mHeight": 95,
+					"mWidth": 32,
+					"mX": 10,
+					"mY": 10
+				},
+				"Hitpoints": 1800,
+				"ScaledProps": [
+					{
+						"Arg1": 1.3,
+						"Arg2": 0.05,
+						"Formula": "standard",
+						"Key": "Hitpoints"
+					},
+					{
+						"Arg1": 1.3,
+						"Arg2": 0.05,
+						"Formula": "standard",
+						"Key": "EatDPS"
+					},
+					{
+						"Formula": "constant",
+						"Key": "Speed"
+					},
+					{
+						"Formula": "constant",
+						"Key": "WavePointCost"
+					}
+				],
+				"ShadowOffset": {
+					"x": 0,
+					"y": 0,
+					"z": 1.2
+				},
+				"CollideHypnotizedZombies": "ignore",
+				"CollidePlants": "ignore",
+				"SkipHeadDropState": true,
+				"CanTriggerZombieWin": false,
+				"ArmDropFraction":-1,
+				"HeadDropFraction":-1,
+				"ArtScale": 1,
+				"CanSurrender": true,
+				"CanBePlantTossedStrong": false,
+				"CanBePlantTossedWeak": false,
+				"ChillInsteadOfFreeze": true,
+				"ScoreOverride": 1,
+				"ConditionImmunities": [
+					{
+						"Condition": "chill"
+					},
+					{
+						"Condition": "stun"
+					},
+					{
+						"Condition": "invisibleslow"
+					},
+					{
+						"Condition": "stalled"
+					},
+					{
+						"Condition": "sapped"
+					},
+					{
+						"Condition": "poisoned"
+					},
+					{
+						"Condition": "decaypoison"
+					},
+					{
+						"Condition": "shrinking"
+					},
+					{
+						"Condition": "shrunken"
+					},
+					{
+						"Condition": "contagiouspoison"
+					},
+					{
+						"Condition": "dazeystunned"
+					},
+					{
+						"Condition": "buttered"
+					},
+					{
+						"Condition": "gummed"
+					},
+					{
+						"Condition": "stickybombed"
+					},
+					{
+						"Condition": "hasplantfood"
+					},
+					{
+						"Condition": "invincible"
+					},
+					{
+						"Condition": "bleeding"
+					},
+					{
+						"Condition": "suncarrier50"
+					},
+					{
+						"Condition": "suncarrier100"
+					},
+					{
+						"Condition": "suncarrier250"
+					},
+					{
+						"Condition": "warpingIn"
+					},
+					{
+						"Condition": "warpingOut"
+					},
+					{
+						"Condition": "stackableslow"
+					},
+					{
+						"Condition": "terrified"
+					},
+					{
+						"Condition": "freeze"
+					},
+					{
+						"Condition": "butter"
+					},
+					{
+						"Condition": "speedup1"
+					},
+					{
+						"Condition": "speedup2"
+					},
+					{
+						"Condition": "speedup3"
+					},
+					{
+						"Condition": "speedup4"
+					},
+					{
+						"Condition": "terrified"
+					},
+					{
+						"Condition": "potionspeed1"
+					},
+					{
+						"Condition": "potionspeed2"
+					},
+					{
+						"Condition": "potionspeed3"
+					},
+					{
+						"Condition": "potiontoughness1"
+					},
+					{
+						"Condition": "potiontoughness2"
+					},
+					{
+						"Condition": "potiontoughness3"
+					},
+					{
+						"Condition": "potionsuper1"
+					},
+					{
+						"Condition": "potionsuper2"
+					},
+					{
+						"Condition": "potionsuper3"
+					},
+					{
+						"Condition": "sunbeaned"
+					},
+					{
+						"Condition": "haunted"
+					},
+					{
+						"Condition": "icecubed"
+					},
+					{
+						"Condition": "speeddown1"
+					},
+					{
+						"Condition": "speeddown2"
+					},
+					{
+						"Condition": "speeddown3"
+					},
+					{
+						"Condition": "speeddown4"
+					},
+					{
+						"Condition": "invincible"
+					},
+					{
+						"Condition": "gummed"
+					},
+					{
+						"Condition": "iceblocked"
+					},
+					{
+						"Condition": "blockolistunned"
+					},
+					{
+						"Condition": "bloomingheartdebuff"
+					}
+				],
+				"Speed": 0.15,
+				"WavePointCost": 1,
+				"Weight": 3000,
+				"ZombieStats": [
+					{
+						"Type": "toughness",
+						"Value": "toughness3"
+					},
+					{
+						"Type": "speed",
+						"Value": "speed2"
+					}
+				]
+			}
 		}
 
 ## ZombieActions code
@@ -2924,11 +3890,107 @@
 				"EffectTypeToShow": "",
 				"DropAudioEvent": ""
 			}
+		},
+		{
+			"objclass": "ZombieProjectileActionDefinition",
+			"aliases": [
+				"RandomDamagePlants"
+			],
+			"objdata": {
+				"Weight": 5,
+				"RepeatMin": 0,
+				"RepeatMax": 0,
+				"Phase": "Entering",
+				"PhaseAfter": "Dying",
+				"Invulnerable": true,
+				"Projectile": "RTID(RadiationDamagePlants@ProjectileTypes)",
+				"ProjectileSound": "",
+				"SpawnOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 100.0
+				},
+				"ApexHeight": 100,
+				"TimeUntilHit": 4,
+				"OverrideProjectileAnimation": "die"
+			}
+		},
+		{
+			"objclass": "ZombieProjectileActionDefinition",
+			"aliases": [
+				"RandomDamageZombies"
+			],
+			"objdata": {
+				"Weight": 4,
+				"RepeatMin": 0,
+				"RepeatMax": 0,
+				"Phase": "Entering",
+				"PhaseAfter": "Dying",
+				"Invulnerable": true,
+				"Projectile": "RTID(RadiationDamageZombies@ProjectileTypes)",
+				"ProjectileSound": "",
+				"SpawnOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 100.0
+				},
+				"ApexHeight": 100,
+				"TimeUntilHit": 4,
+				"OverrideProjectileAnimation": "die"
+			}
+		},
+		{
+			"objclass": "ZombieProjectileActionDefinition",
+			"aliases": [
+				"RandomBuffZombie"
+			],
+			"objdata": {
+				"Weight": 5,
+				"RepeatMin": 0,
+				"RepeatMax": 0,
+				"Phase": "Entering",
+				"PhaseAfter": "Dying",
+				"Invulnerable": true,
+				"Projectile": "RTID(RadiationBuffZombies@ProjectileTypes)",
+				"ProjectileSound": "",
+				"SpawnOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 100.0
+				},
+				"ApexHeight": 100,
+				"TimeUntilHit": 4,
+				"OverrideProjectileAnimation": "die"
+			}
+		},
+		{
+			"objclass": "ZombieProjectileActionDefinition",
+			"aliases": [
+				"RandomTransformZombie"
+			],
+			"objdata": {
+				"Weight": 1,
+				"RepeatMin": 0,
+				"RepeatMax": 0,
+				"Phase": "Entering",
+				"PhaseAfter": "Dying",
+				"Invulnerable": true,
+				"Projectile": "RTID(RadiationTransformZombie@ProjectileTypes)",
+				"ProjectileSound": "",
+				"SpawnOffset": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 100.0
+				},
+				"ApexHeight": 100,
+				"TimeUntilHit": 4,
+				"OverrideProjectileAnimation": "die"
+			}
 		}
 
 ## ProjectileTypes code
 		{
-			"#comment": "Moon Floor — thanks to Teacher Nuclear Beet, love ya mua"
+			"#comment": "Moon Floor — thanks to 核甜菜, love ya mua"
 		},
 		{
 			"#comment": "If the tile is empty, spawn a placeholder crack; if it isn't, spawn a non-placeholder crack",
@@ -3522,6 +4584,714 @@
 					}
 				]
 			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"RadiationDamagePlants"
+			],
+			"objdata": {
+				"BaseDamage": 0,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 2000000000,
+				"PierceChanceReductionPerHit": 1,
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 9999,
+				"Pierces": false,
+				"HasShadow":false,
+				"DiesOnImpact": true,
+				"ImpactSoundForce": false,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationDamage,mX:1,mY:1,mZ:1,Team:Zombie,OffsetByGrid",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationDamage,mX:1,mY:0,mZ:1,Team:Zombie,OffsetByGrid",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationDamage,mX:1,mY:-1,mZ:1,Team:Zombie,OffsetByGrid",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationDamage,mX:0,mY:1,mZ:1,Team:Zombie,OffsetByGrid",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationDamage,mX:0,mY:0,mZ:1,Team:Zombie,OffsetByGrid",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationDamage,mX:0,mY:-1,mZ:1,Team:Zombie,OffsetByGrid",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationDamage,mX:-1,mY:1,mZ:1,Team:Zombie,OffsetByGrid",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationDamage,mX:-1,mY:0,mZ:1,Team:Zombie,OffsetByGrid",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationDamage,mX:-1,mY:-1,mZ:1,Team:Zombie,OffsetByGrid",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"ground",
+					"plants",
+					"low_plants",
+					"tall_plants",
+					"ground_plants",
+					"normal_plants"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -1000,
+						"Max": -1000
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -130
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -20,
+					"mY": -10,
+					"mWidth": 30,
+					"mHeight": 20
+				},
+				"ImpactSoundEvent": "",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_MOONORE_RADIATION_TX",
+				"ImpactPAMAnimationToPlay": [
+					"spawn"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "ProjectilePropertySheet",
+			"aliases": [
+				"RadiationDamage"
+			],
+			"objdata": {
+				"BaseDamage": 150,
+				"ShakeBoardOnSplash": true,
+				"HasShadow":false,
+				"CollisionFlags": [
+					"ground",
+					"plants",
+					"low_plants",
+					"tall_plants",
+					"ground_plants",
+					"normal_plants"
+				],
+				"DamageFlags": [
+					"lobbed",
+					"fire",
+					"shooter"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -1000,
+						"Max": -1000
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1e-06,
+					"Max": 1e-06
+				},
+				"AttachedPAM": "",
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -97
+				},
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"ImpactSoundEvent": ""
+			}
+		},
+		{
+			"objclass": "ProjectilePropertySheet",
+			"aliases": [
+				"RadiationDamageZombies"
+			],
+			"objdata": {
+				"BaseDamage": 0,
+				"SplashDamage": 300,
+				"SplashRadius": 3,
+				"HasShadow":false,
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"ground"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 0,
+					"Max": 0
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -112.5,
+					"y": -111.5
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_MOONORE_RADIATION_TX",
+				"ImpactPAMAnimationToPlay": [
+					"spawn"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "ProjectilePropertySheet",
+			"aliases": [
+				"RadiationBuffZombies"
+			],
+			"objdata": {
+				"BaseDamage": 0.0001,
+				"SplashDamage": 0.0001,
+				"SplashRadius": 3,
+				"HasShadow": false,
+				"DamageFlags": [
+					"shooter",
+					"no_flash"
+				],
+				"CollisionFlags": [
+					"ground"
+				],
+				"Conditions": [
+					{
+						"Condition": "potionsuper1",
+						"Duration": {
+							"Min": 15,
+							"Max": 15
+						}
+					}
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -200,
+						"Max": -200
+					}
+				],
+				"InitialScale": {
+					"Min": 0.95,
+					"Max": 1.05
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -112.5,
+					"y": -111.5
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactSoundEvent": "",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_MOONORE_RADIATION_TX",
+				"ImpactPAMAnimationToPlay": [
+					"spawn"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"RadiationTransformZombie"
+			],
+			"objdata": {
+				"BaseDamage": 0,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 2000000000,
+				"PierceChanceReductionPerHit": 1,
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 9999,
+				"Pierces": false,
+				"HasShadow":false,
+				"DiesOnImpact": true,
+				"ImpactSoundForce": false,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationTransform,mX:-64,mY:-80,mZ:100,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationTransform,mX:-64,mY:0,mZ:100,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationTransform,mX:-64,mY:80,mZ:100,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationTransform,mX:0,mY:-80,mZ:100,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationTransform,mX:0,mY:0,mZ:100,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationTransform,mX:0,mY:80,mZ:100,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationTransform,mX:64,mY:-80,mZ:100,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationTransform,mX:64,mY:0,mZ:100,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					},
+					{
+						"ActionType": "spawn_projectile",
+						"ActionArgs": "Type:RadiationTransform,mX:64,mY:80,mZ:100,Team:Plant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					}
+				],
+				"DamageFlags": [
+					"shooter"
+				],
+				"CollisionFlags": [
+					"ground"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -1000,
+						"Max": -1000
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -130
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -20,
+					"mY": -10,
+					"mWidth": 30,
+					"mHeight": 20
+				},
+				"ImpactSoundEvent": "",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "POPANIM_MOONORE_RADIATION_TX",
+				"ImpactPAMAnimationToPlay": [
+					"spawn"
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				]
+			}
+		},
+		{
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"RadiationTransform"
+			],
+			"objdata": {
+				"ClassName": "SnowieProjectile",
+				"BaseDamage": 0.0001,
+				"InitialPierceChance": 20000,
+				"PierceChanceReductionPerHit": 0,
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"HasShadow":false,
+				"LifeTime": 1,
+				"Pierces": true,
+				"DiesOnImpact": true,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "transform",
+						"ActionArgs": "TransformArgs[Zombie,moon_radiation_gargantuar_intro], Include[moon,moon_flag,moon_imp,moon_armor1,moon_armor2,moon_armor4,moon_walker,moon_walker_mid,moon_walker_nojump,moon_walker_teleport,moon_walker_mid_teleport,moon_walker_nojump_teleport]",
+						"ActionOwner": "Target",
+						"ActivateOn": "Collision"
+					}
+				],
+				"CollisionFlags": [
+					"ground_zombies",
+					"off_ground_zombies",
+					"ground"
+				],
+				"DamageFlags": [
+					"lobbed",
+					"catapult"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -1000,
+						"Max": -1000
+					}
+				],
+				"InitialAcceleration": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -100
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": -15,
+					"mY": -15,
+					"mWidth": 30,
+					"mHeight": 30
+				},
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					}
+				],
+				"ImpactSoundEvent": ""
+			}
+		},
+		{
+			"#comment": "Keeps pushing the plant out of its tile",
+			"objclass": "SnowieProjectileProps",
+			"aliases": [
+				"MoonOreFlyPlants"
+			],
+			"objdata": {
+				"BaseDamage": 0,
+				"ClassName": "SnowieProjectile",
+				"InitialPierceChance": 2000000000,
+				"PierceChanceReductionPerHit": 1,
+				"FriendlyFire": false,
+				"FriendlyFireCanHitOwner": false,
+				"LifeTime": 1,
+				"Pierces": false,
+				"DiesOnImpact": true,
+				"HasShadow": false,
+				"EntitiesToSpawn": [
+					{
+						"ActionType": "spawn_grid",
+						"ActionArgs": "Type:moon_rocket_ground, mX:0, mY:0, mZ:0, IgnoreGridLayers, DisplacePlant",
+						"ActionOwner": "Projectile",
+						"ActivateOn": "Collision"
+					}
+				],
+				"DamageFlags": [
+					"no_flash",
+					"shooter"
+				],
+				"CollisionFlags": [
+					"ground"
+				],
+				"InitialVelocity": [
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": 0,
+						"Max": 0
+					},
+					{
+						"Min": -1000,
+						"Max": -1000
+					}
+				],
+				"InitialScale": {
+					"Min": 0,
+					"Max": 0
+				},
+				"AttachedPAM": "",
+				"AttachedPAMOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMEffectOffset": {
+					"x": 0,
+					"y": 0
+				},
+				"AttachedPAMAnimationToPlay": [
+					""
+				],
+				"CollisionRect": {
+					"mX": 0,
+					"mY": 0,
+					"mWidth": 25,
+					"mHeight": 25
+				},
+				"ImpactSoundEvent": "",
+				"ImpactSoundThrottleTimer": 0.075,
+				"ImpactPAM": "",
+				"ImpactPAMAnimationToPlay": [
+					""
+				],
+				"ImpactOffset": [
+					{
+						"Min": 9999,
+						"Max": 9999
+					},
+					{
+						"Min": 9999,
+						"Max": 9999
+					}
+				]
+			}
 		}
 
 ## PropertySheet code (the plant/zombie ash & shock declarations live here too, so I don't have to scatter them around)
@@ -3633,7 +5403,16 @@
 						"IsVisible": false,
 						"CanPlantfood": false,
 						"HasShadow": false
-					}
+					},
+					{
+						"Type": "cosmicsaucer_guard",
+						"CanSink": false,
+						"CountsToPlantLoss": false,
+						"CanShovel": true,
+						"IsVisible": true,
+						"CanPlantfood": false,
+						"HasShadow": false
+					},
 ### Zombie section
 
 					{
@@ -3960,6 +5739,134 @@
 						"Type": "moon_rocket_intro_anim",
 						"AshAnim": "POPANIM_EFFECTS_ZOMBIE_MOON_ASH",
 						"ShockAnim": "POPANIM_EFFECTS_ZOMBIE_IMP_SHOCK",
+						"CountsToZombiesKilled": false,
+						"CanBeAshed": false,
+						"CanBeShocked": false
+					},
+					{
+						"Type": "moon_blade_block",
+						"AshAnim": "",
+						"ShockAnim": "",
+						"CountsToZombiesKilled": false,
+						"CanBeAshed": false,
+						"CanBeShocked": false
+					},
+					{
+						"Type": "moon_blade",
+						"AshAnim": "POPANIM_EFFECTS_ZOMBIE_MOON_ASH",
+						"ShockAnim": "POPANIM_EFFECTS_ZOMBIE_SHOCK",
+						"CountsToZombiesKilled": true,
+						"CanBeAshed": true,
+						"CanBeShocked": true
+					},
+					{
+						"Type": "moon_blade_block",
+						"AshAnim": "POPANIM_EFFECTS_ZOMBIE_MOON_ASH",
+						"ShockAnim": "POPANIM_EFFECTS_ZOMBIE_SHOCK",
+						"CountsToZombiesKilled": true,
+						"CanBeAshed": true,
+						"CanBeShocked": true
+					},
+					{
+						"Type": "supernova_imp",
+						"AshAnim": "POPANIM_EFFECTS_ZOMBIE_MOON_IMP_ASH",
+						"ShockAnim": "POPANIM_EFFECTS_ZOMBIE_IMP_SHOCK",
+						"CountsToZombiesKilled": true,
+						"CanBeAshed": true,
+						"CanBeShocked": true
+					},
+					{
+						"Type": "supernova_imp_intro",
+						"AshAnim": "POPANIM_EFFECTS_ZOMBIE_MOON_ASH",
+						"ShockAnim": "POPANIM_EFFECTS_ZOMBIE_IMP_SHOCK",
+						"CountsToZombiesKilled": false,
+						"CanBeAshed": false,
+						"CanBeShocked": false
+					},
+					{
+						"Type": "supernova_warning",
+						"AshAnim": "",
+						"ShockAnim": "",
+						"CountsToZombiesKilled": false,
+						"CanBeAshed": false,
+						"CanBeShocked": false
+					},
+					{
+						"Type": "moon_radiation_gargantuar_intro",
+						"AshAnim": "",
+						"ShockAnim": "",
+						"CountsToZombiesKilled": false,
+						"CanBeAshed": false,
+						"CanBeShocked": false
+					},
+					{
+						"Type": "moon_multidimension",
+						"AshAnim": "POPANIM_EFFECTS_ZOMBIE_MOON_ASH",
+						"ShockAnim": "POPANIM_EFFECTS_ZOMBIE_SHOCK",
+						"CountsToZombiesKilled": true,
+						"CanBeAshed": true,
+						"CanBeShocked": true
+					},
+					{
+						"Type": "moon_multidimension_half",
+						"AshAnim": "POPANIM_EFFECTS_ZOMBIE_MOON_ASH",
+						"ShockAnim": "POPANIM_EFFECTS_ZOMBIE_SHOCK",
+						"CountsToZombiesKilled": true,
+						"CanBeAshed": true,
+						"CanBeShocked": true
+					},
+					{
+						"Type": "moon_multidimension_half_transform",
+						"AshAnim": "POPANIM_EFFECTS_ZOMBIE_MOON_ASH",
+						"ShockAnim": "POPANIM_EFFECTS_ZOMBIE_SHOCK",
+						"CountsToZombiesKilled": false,
+						"CanBeAshed": false,
+						"CanBeShocked": false
+					},
+					{
+						"Type": "moon_multidimension_normal",
+						"AshAnim": "POPANIM_EFFECTS_ZOMBIE_MOON_ASH",
+						"ShockAnim": "POPANIM_EFFECTS_ZOMBIE_SHOCK",
+						"CountsToZombiesKilled": true,
+						"CanBeAshed": true,
+						"CanBeShocked": true
+					},
+					{
+						"Type": "cosmicrandom",
+						"AshAnim": "",
+						"ShockAnim": "",
+						"CountsToZombiesKilled": false,
+						"CanBeAshed": false,
+						"CanBeShocked": false
+					},
+					{
+						"Type": "radiationorerandom",
+						"AshAnim": "",
+						"ShockAnim": "",
+						"CountsToZombiesKilled": false,
+						"CanBeAshed": false,
+						"CanBeShocked": false
+					},
+					{
+						"Type": "moon_ore",
+						"AshAnim": "",
+						"ShockAnim": "",
+						"CountsToZombiesKilled": false,
+						"CanBeAshed": false,
+						"CanBeShocked": false
+					},
+					{
+						"Type": "moon_fragile_ore",
+						"AshAnim": "",
+						"ShockAnim": "",
+						"CountsToZombiesKilled": false,
+						"CanBeAshed": false,
+						"CanBeShocked": false
+					},
+					{
+						"Type": "moon_radiation_ore",
+						"AshAnim": "",
+						"ShockAnim": "",
 						"CountsToZombiesKilled": false,
 						"CanBeAshed": false,
 						"CanBeShocked": false

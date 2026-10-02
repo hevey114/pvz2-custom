@@ -1,0 +1,1026 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="label/idle" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="idle">
+            <layers>
+                <DOMLayer name="10">
+                    <frames>
+                        <DOMFrame index="0" duration="6">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="1.007080" c="-1.320984" d="0.000000" tx="250.800003" ty="249.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="1.004196" c="-1.326523" d="0.000000" tx="251.000000" ty="248.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.058824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.998032" c="-1.338333" d="0.000000" tx="251.550003" ty="245.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.074510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.988220" c="-1.357132" d="0.000000" tx="252.300003" ty="241.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.101961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.974396" c="-1.383636" d="0.000000" tx="253.399994" ty="235.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.137255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.956207" c="-1.418503" d="0.000000" tx="254.850006" ty="227.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.188235"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.933411" c="-1.462204" d="0.000000" tx="256.700012" ty="217.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.247059"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.905975" c="-1.514771" d="0.000000" tx="258.899994" ty="205.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.321569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.874268" c="-1.575562" d="0.000000" tx="261.450012" ty="192.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.407843"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.839096" c="-1.642990" d="0.000000" tx="264.100006" ty="177.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.801819" c="-1.516708" d="0.000000" tx="258.799988" ty="167.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.435294"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.764145" c="-1.389099" d="0.000000" tx="253.399994" ty="158.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.372549"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.727829" c="-1.266113" d="0.000000" tx="248.350006" ty="149.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.309804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.664536" c="-1.051743" d="0.000000" tx="239.500000" ty="133.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.200000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="9">
+                    <frames>
+                        <DOMFrame index="0" duration="3">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_62x96" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.600677" c="-0.835403" d="0.000000" tx="230.449997" ty="117.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.090196"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_62x96" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.587463" c="-0.790649" d="0.000000" tx="228.600006" ty="113.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.066667"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_62x96" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.577789" c="-0.757889" d="0.000000" tx="227.350006" ty="111.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.050980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="8">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.664536" c="-1.051743" d="0.000000" tx="239.500000" ty="133.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.200000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.638992" c="-0.965210" d="0.000000" tx="235.800003" ty="126.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.156863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.617767" c="-0.893280" d="0.000000" tx="232.850006" ty="121.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.117647"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="7">
+                    <frames>
+                        <DOMFrame index="0" duration="11">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="1.007080" c="-1.320984" d="0.000000" tx="250.800003" ty="249.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="1.000000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="1.004196" c="-1.326523" d="0.000000" tx="251.000000" ty="248.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.058824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.998032" c="-1.338333" d="0.000000" tx="251.550003" ty="245.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.074510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.988220" c="-1.357132" d="0.000000" tx="252.300003" ty="241.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.101961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.974396" c="-1.383636" d="0.000000" tx="253.399994" ty="235.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.137255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.956207" c="-1.418503" d="0.000000" tx="254.850006" ty="227.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.188235"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.933411" c="-1.462204" d="0.000000" tx="256.700012" ty="217.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.247059"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.905975" c="-1.514771" d="0.000000" tx="258.899994" ty="205.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.321569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.839096" c="-1.642990" d="0.000000" tx="264.100006" ty="177.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="6">
+                    <frames>
+                        <DOMFrame index="0" duration="8">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_62x96" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.600677" c="-0.835403" d="0.000000" tx="230.449997" ty="117.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.090196"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_62x96" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.587463" c="-0.790649" d="0.000000" tx="228.600006" ty="113.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.066667"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_62x96" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.577789" c="-0.757889" d="0.000000" tx="227.350006" ty="111.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.050980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="5">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.839096" c="-1.642990" d="0.000000" tx="264.100006" ty="177.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.801819" c="-1.516708" d="0.000000" tx="258.799988" ty="167.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.435294"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.764145" c="-1.389099" d="0.000000" tx="253.399994" ty="158.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.372549"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.727829" c="-1.266113" d="0.000000" tx="248.350006" ty="149.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.309804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.694305" c="-1.152573" d="0.000000" tx="243.649994" ty="140.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.250980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.664536" c="-1.051743" d="0.000000" tx="239.500000" ty="133.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.200000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.638992" c="-0.965210" d="0.000000" tx="235.800003" ty="126.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.156863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.617767" c="-0.893280" d="0.000000" tx="232.850006" ty="121.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.117647"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="4">
+                    <frames>
+                        <DOMFrame index="0" duration="19">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="1.007095" c="-1.320984" d="0.000000" tx="250.800003" ty="249.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.050980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="3">
+                    <frames>
+                        <DOMFrame index="0" duration="17">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_62x96" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.600693" c="-0.835403" d="0.000000" tx="230.449997" ty="117.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.090196"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_62x96" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.587479" c="-0.790649" d="0.000000" tx="228.600006" ty="113.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.066667"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="2">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="1.007095" c="-1.320984" d="0.000000" tx="250.800003" ty="249.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.050980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="1.004211" c="-1.326523" d="0.000000" tx="251.000000" ty="248.050003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.058824"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.998047" c="-1.338333" d="0.000000" tx="251.550003" ty="245.350006"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.074510"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.988235" c="-1.357132" d="0.000000" tx="252.300003" ty="241.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.101961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.974411" c="-1.383636" d="0.000000" tx="253.399994" ty="235.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.137255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.956223" c="-1.418503" d="0.000000" tx="254.850006" ty="227.449997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.188235"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.933426" c="-1.462204" d="0.000000" tx="256.700012" ty="217.649994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.247059"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.905991" c="-1.514771" d="0.000000" tx="258.899994" ty="205.899994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.321569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.874283" c="-1.575562" d="0.000000" tx="261.450012" ty="192.250000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.407843"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.839096" c="-1.642990" d="0.000000" tx="264.100006" ty="177.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.501961"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.801834" c="-1.516708" d="0.000000" tx="258.799988" ty="167.750000"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.435294"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.764145" c="-1.389099" d="0.000000" tx="253.399994" ty="158.300003"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.372549"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.727829" c="-1.266113" d="0.000000" tx="248.350006" ty="149.149994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.309804"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.694321" c="-1.152573" d="0.000000" tx="243.649994" ty="140.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.250980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.664551" c="-1.051743" d="0.000000" tx="239.500000" ty="133.199997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.200000"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.639008" c="-0.965210" d="0.000000" tx="235.800003" ty="126.699997"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.156863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_81x135" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="0.617767" c="-0.893280" d="0.000000" tx="232.850006" ty="121.349998"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.117647"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="1">
+                    <frames>
+                        <DOMFrame index="0" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.276627" d="0.000000" tx="178.350006" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.486275"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="1" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.282959" d="0.000000" tx="178.100006" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.521569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="2" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.289307" d="0.000000" tx="177.800003" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.556863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="3" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.295639" d="0.000000" tx="177.500000" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.592157"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="4" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.290558" d="0.000000" tx="177.750000" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.564706"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="5" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.285507" d="0.000000" tx="177.949997" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.537255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="6" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.280426" d="0.000000" tx="178.149994" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.505882"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="7" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.275375" d="0.000000" tx="178.449997" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.478431"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="8" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.270294" d="0.000000" tx="178.649994" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.450980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="9" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.270294" d="0.000000" tx="178.649994" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.450980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="10" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.276627" d="0.000000" tx="178.350006" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.486275"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="11" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.282959" d="0.000000" tx="178.100006" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.521569"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="12" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.289307" d="0.000000" tx="177.800003" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.556863"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="13" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.295639" d="0.000000" tx="177.500000" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.592157"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="14" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.290558" d="0.000000" tx="177.750000" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.564706"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="15" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.285507" d="0.000000" tx="177.949997" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.537255"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="16" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.280426" d="0.000000" tx="178.149994" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.505882"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="17" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.275375" d="0.000000" tx="178.449997" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.478431"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="18" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.270294" d="0.000000" tx="178.649994" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.450980"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="19" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="image/moon_blade_zombie_hit_tx_216x158" symbolType="graphic" loop="loop">
+                                    <matrix>
+                                        <Matrix a="0.000000" b="-0.270294" c="0.276627" d="0.000000" tx="178.350006" ty="254.399994"/>
+                                    </matrix>
+                                    <color>
+                                        <Color redMultiplier="1.000000" greenMultiplier="1.000000" blueMultiplier="1.000000" alphaMultiplier="0.486275"/>
+                                    </color>
+                                </DOMSymbolInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

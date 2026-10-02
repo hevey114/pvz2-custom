@@ -1,0 +1,75 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"moon_blade_zombie_tx_415x55": {
+			"id": "IMAGE_EFFECTS_MOON_BLADE_ZOMBIE_TX_MOON_BLADE_ZOMBIE_TX_415X55",
+			"dimension": {
+				"width": 415,
+				"height": 55
+			},
+			"additional": null
+		},
+		"moon_blade_zombie_tx_419x70": {
+			"id": "IMAGE_EFFECTS_MOON_BLADE_ZOMBIE_TX_MOON_BLADE_ZOMBIE_TX_419X70",
+			"dimension": {
+				"width": 419,
+				"height": 70
+			},
+			"additional": null
+		},
+		"moon_blade_zombie_tx_48x65": {
+			"id": "IMAGE_EFFECTS_MOON_BLADE_ZOMBIE_TX_MOON_BLADE_ZOMBIE_TX_48X65",
+			"dimension": {
+				"width": 48,
+				"height": 65
+			},
+			"additional": null
+		},
+		"moon_blade_zombie_tx_53x75": {
+			"id": "IMAGE_EFFECTS_MOON_BLADE_ZOMBIE_TX_MOON_BLADE_ZOMBIE_TX_53X75",
+			"dimension": {
+				"width": 53,
+				"height": 75
+			},
+			"additional": null
+		},
+		"moon_blade_zombie_tx_61x93": {
+			"id": "IMAGE_EFFECTS_MOON_BLADE_ZOMBIE_TX_MOON_BLADE_ZOMBIE_TX_61X93",
+			"dimension": {
+				"width": 61,
+				"height": 93
+			},
+			"additional": null
+		},
+		"moon_blade_zombie_tx_6x6": {
+			"id": "IMAGE_EFFECTS_MOON_BLADE_ZOMBIE_TX_MOON_BLADE_ZOMBIE_TX_6X6",
+			"dimension": {
+				"width": 6,
+				"height": 6
+			},
+			"additional": null
+		},
+		"moon_blade_zombie_tx_72x72": {
+			"id": "IMAGE_EFFECTS_MOON_BLADE_ZOMBIE_TX_MOON_BLADE_ZOMBIE_TX_72X72",
+			"dimension": {
+				"width": 72,
+				"height": 72
+			},
+			"additional": null
+		},
+		"moon_blade_zombie_tx_87x148": {
+			"id": "IMAGE_EFFECTS_MOON_BLADE_ZOMBIE_TX_MOON_BLADE_ZOMBIE_TX_87X148",
+			"dimension": {
+				"width": 87,
+				"height": 148
+			},
+			"additional": null
+		}
+	},
+	"sprite": {}
+}

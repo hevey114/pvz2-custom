@@ -1,0 +1,87 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"ZombieIceMoonMultiDimensionGroup": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/moon_multidimension"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_HALF": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/moon_multidimension_half"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_HALF_TRANSFORM": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/moon_multidimension_half_transform"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_NORMAL": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/moon_multidimension_normal"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_QIGONG": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/moon_multidimension_qigong"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_UFO": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/moon_multidimension_ufo"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_ZMECH": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/moon_multidimension_zmech"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_ZOMBOSS": {
+					"type": "PopAnim",
+					"path": "images/full/zombie/moon_multidimension_zomboss"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_GLASS_BROKEN": {
+					"type": "PopAnim",
+					"path": "images/full/effects/moon_multidimension_glass_broken"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_GRAVESTONE": {
+					"type": "PopAnim",
+					"path": "images/full/effects/moon_multidimension_gravestone"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_GRAVESTONE_DAMAGE": {
+					"type": "PopAnim",
+					"path": "images/full/effects/moon_multidimension_gravestone_damage"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_QIGONG_HOLDPLANTS": {
+					"type": "PopAnim",
+					"path": "images/full/effects/moon_multidimension_qigong_holdplants"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_UFO_EFFECTS": {
+					"type": "PopAnim",
+					"path": "images/full/effects/moon_multidimension_ufo_effects"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_ZMECH_PORT_FX": {
+					"type": "PopAnim",
+					"path": "images/full/effects/moon_multidimension_zmech_port_fx"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_ZOMBOSS_BONE": {
+					"type": "PopAnim",
+					"path": "images/full/effects/moon_multidimension_zomboss_bone"
+				},
+				"POPANIM_ZOMBIE_ZOMBIE_MOON_MULTIDIMENSION_ZOMBOSS_MISSILE": {
+					"type": "PopAnim",
+					"path": "images/full/effects/moon_multidimension_zomboss_missile"
+				}
+			}
+		}
+	}
+}

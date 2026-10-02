@@ -43,3 +43,7 @@ Play_Plantfood_CosmicPuff  Cosmic Puff-shroom Plant Food
 Gravity Tree
 Play_GravityTree_Attack  Gravity Tree summoning apples
 No sound for the Plant Food — just play the Coconut Cannon’s Plant Food when it slams down.
+
+Cosmic Saucer
+Play_CosmicSaucer_Normal  normal attack, sends zombies flying
+Play_CosmicSaucer_Plantfood  Cosmic Saucer Plant Food

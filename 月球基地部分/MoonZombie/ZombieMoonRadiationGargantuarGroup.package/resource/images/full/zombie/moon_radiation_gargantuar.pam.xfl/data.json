@@ -1,0 +1,2312 @@
+{
+	"version": 6,
+	"resolution": 1536,
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"image": {
+		"radiation_gargantuar_100x86": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_100X86",
+			"dimension": {
+				"width": 100,
+				"height": 86
+			}
+		},
+		"radiation_gargantuar_102x68": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_102X68",
+			"dimension": {
+				"width": 102,
+				"height": 68
+			}
+		},
+		"radiation_gargantuar_102x77": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_102X77",
+			"dimension": {
+				"width": 102,
+				"height": 77
+			}
+		},
+		"radiation_gargantuar_105x266": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_105X266",
+			"dimension": {
+				"width": 105,
+				"height": 266
+			}
+		},
+		"radiation_gargantuar_105x89": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_105X89",
+			"dimension": {
+				"width": 105,
+				"height": 89
+			}
+		},
+		"radiation_gargantuar_106x106": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_106X106",
+			"dimension": {
+				"width": 106,
+				"height": 106
+			}
+		},
+		"radiation_gargantuar_107x106": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_107X106",
+			"dimension": {
+				"width": 107,
+				"height": 106
+			}
+		},
+		"radiation_gargantuar_107x56": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_107X56",
+			"dimension": {
+				"width": 107,
+				"height": 56
+			}
+		},
+		"radiation_gargantuar_107x57": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_107X57",
+			"dimension": {
+				"width": 107,
+				"height": 57
+			}
+		},
+		"radiation_gargantuar_108x62": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_108X62",
+			"dimension": {
+				"width": 108,
+				"height": 62
+			}
+		},
+		"radiation_gargantuar_10x18": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_10X18",
+			"dimension": {
+				"width": 10,
+				"height": 18
+			}
+		},
+		"radiation_gargantuar_10x25": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_10X25",
+			"dimension": {
+				"width": 10,
+				"height": 25
+			}
+		},
+		"radiation_gargantuar_110x126": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_110X126",
+			"dimension": {
+				"width": 110,
+				"height": 126
+			}
+		},
+		"radiation_gargantuar_111x94": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_111X94",
+			"dimension": {
+				"width": 111,
+				"height": 94
+			}
+		},
+		"radiation_gargantuar_112x100": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_112X100",
+			"dimension": {
+				"width": 112,
+				"height": 100
+			}
+		},
+		"radiation_gargantuar_112x106": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_112X106",
+			"dimension": {
+				"width": 112,
+				"height": 106
+			}
+		},
+		"radiation_gargantuar_112x126": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_112X126",
+			"dimension": {
+				"width": 112,
+				"height": 126
+			}
+		},
+		"radiation_gargantuar_114x138": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_114X138",
+			"dimension": {
+				"width": 114,
+				"height": 138
+			}
+		},
+		"radiation_gargantuar_114x62": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_114X62",
+			"dimension": {
+				"width": 114,
+				"height": 62
+			}
+		},
+		"radiation_gargantuar_116x123": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_116X123",
+			"dimension": {
+				"width": 116,
+				"height": 123
+			}
+		},
+		"radiation_gargantuar_11x11": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_11X11",
+			"dimension": {
+				"width": 11,
+				"height": 11
+			}
+		},
+		"radiation_gargantuar_11x14": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_11X14",
+			"dimension": {
+				"width": 11,
+				"height": 14
+			}
+		},
+		"radiation_gargantuar_11x51": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_11X51",
+			"dimension": {
+				"width": 11,
+				"height": 51
+			}
+		},
+		"radiation_gargantuar_120x120": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_120X120",
+			"dimension": {
+				"width": 120,
+				"height": 120
+			}
+		},
+		"radiation_gargantuar_122x122": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_122X122",
+			"dimension": {
+				"width": 122,
+				"height": 122
+			}
+		},
+		"radiation_gargantuar_122x170": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_122X170",
+			"dimension": {
+				"width": 122,
+				"height": 170
+			}
+		},
+		"radiation_gargantuar_123x90": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_123X90",
+			"dimension": {
+				"width": 123,
+				"height": 90
+			}
+		},
+		"radiation_gargantuar_12x33": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_12X33",
+			"dimension": {
+				"width": 12,
+				"height": 33
+			}
+		},
+		"radiation_gargantuar_133x132": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_133X132",
+			"dimension": {
+				"width": 133,
+				"height": 132
+			}
+		},
+		"radiation_gargantuar_135x135": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_135X135",
+			"dimension": {
+				"width": 135,
+				"height": 135
+			}
+		},
+		"radiation_gargantuar_135x8": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_135X8",
+			"dimension": {
+				"width": 135,
+				"height": 8
+			}
+		},
+		"radiation_gargantuar_136x142": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_136X142",
+			"dimension": {
+				"width": 136,
+				"height": 142
+			}
+		},
+		"radiation_gargantuar_139x139": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_139X139",
+			"dimension": {
+				"width": 139,
+				"height": 139
+			}
+		},
+		"radiation_gargantuar_13x13": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_13X13",
+			"dimension": {
+				"width": 13,
+				"height": 13
+			}
+		},
+		"radiation_gargantuar_13x16": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_13X16",
+			"dimension": {
+				"width": 13,
+				"height": 16
+			}
+		},
+		"radiation_gargantuar_13x18": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_13X18",
+			"dimension": {
+				"width": 13,
+				"height": 18
+			}
+		},
+		"radiation_gargantuar_13x25": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_13X25",
+			"dimension": {
+				"width": 13,
+				"height": 25
+			}
+		},
+		"radiation_gargantuar_13x9": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_13X9",
+			"dimension": {
+				"width": 13,
+				"height": 9
+			}
+		},
+		"radiation_gargantuar_14x12": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_14X12",
+			"dimension": {
+				"width": 14,
+				"height": 12
+			}
+		},
+		"radiation_gargantuar_14x14": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_14X14",
+			"dimension": {
+				"width": 14,
+				"height": 14
+			}
+		},
+		"radiation_gargantuar_150x149": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_150X149",
+			"dimension": {
+				"width": 150,
+				"height": 149
+			}
+		},
+		"radiation_gargantuar_151x129": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_151X129",
+			"dimension": {
+				"width": 151,
+				"height": 129
+			}
+		},
+		"radiation_gargantuar_153x104": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_153X104",
+			"dimension": {
+				"width": 153,
+				"height": 104
+			}
+		},
+		"radiation_gargantuar_154x82": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_154X82",
+			"dimension": {
+				"width": 154,
+				"height": 82
+			}
+		},
+		"radiation_gargantuar_155x137": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_155X137",
+			"dimension": {
+				"width": 155,
+				"height": 137
+			}
+		},
+		"radiation_gargantuar_15x15": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_15X15",
+			"dimension": {
+				"width": 15,
+				"height": 15
+			}
+		},
+		"radiation_gargantuar_15x17": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_15X17",
+			"dimension": {
+				"width": 15,
+				"height": 17
+			}
+		},
+		"radiation_gargantuar_164x155": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_164X155",
+			"dimension": {
+				"width": 164,
+				"height": 155
+			}
+		},
+		"radiation_gargantuar_167x123": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_167X123",
+			"dimension": {
+				"width": 167,
+				"height": 123
+			}
+		},
+		"radiation_gargantuar_16x46": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_16X46",
+			"dimension": {
+				"width": 16,
+				"height": 46
+			}
+		},
+		"radiation_gargantuar_172x171": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_172X171",
+			"dimension": {
+				"width": 172,
+				"height": 171
+			}
+		},
+		"radiation_gargantuar_174x90": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_174X90",
+			"dimension": {
+				"width": 174,
+				"height": 90
+			}
+		},
+		"radiation_gargantuar_17x11": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_17X11",
+			"dimension": {
+				"width": 17,
+				"height": 11
+			}
+		},
+		"radiation_gargantuar_17x33": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_17X33",
+			"dimension": {
+				"width": 17,
+				"height": 33
+			}
+		},
+		"radiation_gargantuar_187x187": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_187X187",
+			"dimension": {
+				"width": 187,
+				"height": 187
+			}
+		},
+		"radiation_gargantuar_18x18": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_18X18",
+			"dimension": {
+				"width": 18,
+				"height": 18
+			}
+		},
+		"radiation_gargantuar_196x325": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_196X325",
+			"dimension": {
+				"width": 196,
+				"height": 325
+			}
+		},
+		"radiation_gargantuar_19x19": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_19X19",
+			"dimension": {
+				"width": 19,
+				"height": 19
+			}
+		},
+		"radiation_gargantuar_19x24": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_19X24",
+			"dimension": {
+				"width": 19,
+				"height": 24
+			}
+		},
+		"radiation_gargantuar_19x24_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_19X24_2",
+			"dimension": {
+				"width": 19,
+				"height": 24
+			}
+		},
+		"radiation_gargantuar_19x28": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_19X28",
+			"dimension": {
+				"width": 19,
+				"height": 28
+			}
+		},
+		"radiation_gargantuar_1x1": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			}
+		},
+		"radiation_gargantuar_1x1_10": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_10",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			}
+		},
+		"radiation_gargantuar_1x1_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_2",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			}
+		},
+		"radiation_gargantuar_1x1_3": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_3",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			}
+		},
+		"radiation_gargantuar_1x1_4": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_4",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			}
+		},
+		"radiation_gargantuar_1x1_5": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_5",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			}
+		},
+		"radiation_gargantuar_1x1_6": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_6",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			}
+		},
+		"radiation_gargantuar_1x1_7": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_7",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			}
+		},
+		"radiation_gargantuar_1x1_8": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_8",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			}
+		},
+		"radiation_gargantuar_1x1_9": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_1X1_9",
+			"dimension": {
+				"width": 1,
+				"height": 1
+			}
+		},
+		"radiation_gargantuar_207x207": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_207X207",
+			"dimension": {
+				"width": 207,
+				"height": 207
+			}
+		},
+		"radiation_gargantuar_20x21": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_20X21",
+			"dimension": {
+				"width": 20,
+				"height": 21
+			}
+		},
+		"radiation_gargantuar_213x112": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_213X112",
+			"dimension": {
+				"width": 213,
+				"height": 112
+			}
+		},
+		"radiation_gargantuar_21x17": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_21X17",
+			"dimension": {
+				"width": 21,
+				"height": 17
+			}
+		},
+		"radiation_gargantuar_21x33": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_21X33",
+			"dimension": {
+				"width": 21,
+				"height": 33
+			}
+		},
+		"radiation_gargantuar_223x118": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_223X118",
+			"dimension": {
+				"width": 223,
+				"height": 118
+			}
+		},
+		"radiation_gargantuar_223x211": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_223X211",
+			"dimension": {
+				"width": 223,
+				"height": 211
+			}
+		},
+		"radiation_gargantuar_22x26": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_22X26",
+			"dimension": {
+				"width": 22,
+				"height": 26
+			}
+		},
+		"radiation_gargantuar_230x270": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_230X270",
+			"dimension": {
+				"width": 230,
+				"height": 270
+			}
+		},
+		"radiation_gargantuar_231x95": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_231X95",
+			"dimension": {
+				"width": 231,
+				"height": 95
+			}
+		},
+		"radiation_gargantuar_23x14": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X14",
+			"dimension": {
+				"width": 23,
+				"height": 14
+			}
+		},
+		"radiation_gargantuar_23x16": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X16",
+			"dimension": {
+				"width": 23,
+				"height": 16
+			}
+		},
+		"radiation_gargantuar_23x19": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X19",
+			"dimension": {
+				"width": 23,
+				"height": 19
+			}
+		},
+		"radiation_gargantuar_23x22": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X22",
+			"dimension": {
+				"width": 23,
+				"height": 22
+			}
+		},
+		"radiation_gargantuar_23x29": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X29",
+			"dimension": {
+				"width": 23,
+				"height": 29
+			}
+		},
+		"radiation_gargantuar_23x48": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_23X48",
+			"dimension": {
+				"width": 23,
+				"height": 48
+			}
+		},
+		"radiation_gargantuar_241x113": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_241X113",
+			"dimension": {
+				"width": 241,
+				"height": 113
+			}
+		},
+		"radiation_gargantuar_249x128": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_249X128",
+			"dimension": {
+				"width": 249,
+				"height": 128
+			}
+		},
+		"radiation_gargantuar_24x22": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_24X22",
+			"dimension": {
+				"width": 24,
+				"height": 22
+			}
+		},
+		"radiation_gargantuar_24x24": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_24X24",
+			"dimension": {
+				"width": 24,
+				"height": 24
+			}
+		},
+		"radiation_gargantuar_24x24_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_24X24_2",
+			"dimension": {
+				"width": 24,
+				"height": 24
+			}
+		},
+		"radiation_gargantuar_254x418": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_254X418",
+			"dimension": {
+				"width": 254,
+				"height": 418
+			}
+		},
+		"radiation_gargantuar_25x32": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_25X32",
+			"dimension": {
+				"width": 25,
+				"height": 32
+			}
+		},
+		"radiation_gargantuar_25x34": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_25X34",
+			"dimension": {
+				"width": 25,
+				"height": 34
+			}
+		},
+		"radiation_gargantuar_269x95": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_269X95",
+			"dimension": {
+				"width": 269,
+				"height": 95
+			}
+		},
+		"radiation_gargantuar_26x26": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_26X26",
+			"dimension": {
+				"width": 26,
+				"height": 26
+			}
+		},
+		"radiation_gargantuar_26x33": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_26X33",
+			"dimension": {
+				"width": 26,
+				"height": 33
+			}
+		},
+		"radiation_gargantuar_26x38": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_26X38",
+			"dimension": {
+				"width": 26,
+				"height": 38
+			}
+		},
+		"radiation_gargantuar_274x90": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_274X90",
+			"dimension": {
+				"width": 274,
+				"height": 90
+			}
+		},
+		"radiation_gargantuar_275x105": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_275X105",
+			"dimension": {
+				"width": 275,
+				"height": 105
+			}
+		},
+		"radiation_gargantuar_27x29": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_27X29",
+			"dimension": {
+				"width": 27,
+				"height": 29
+			}
+		},
+		"radiation_gargantuar_27x44": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_27X44",
+			"dimension": {
+				"width": 27,
+				"height": 44
+			}
+		},
+		"radiation_gargantuar_288x288": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_288X288",
+			"dimension": {
+				"width": 288,
+				"height": 288
+			}
+		},
+		"radiation_gargantuar_28x23": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_28X23",
+			"dimension": {
+				"width": 28,
+				"height": 23
+			}
+		},
+		"radiation_gargantuar_28x25": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_28X25",
+			"dimension": {
+				"width": 28,
+				"height": 25
+			}
+		},
+		"radiation_gargantuar_28x25_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_28X25_2",
+			"dimension": {
+				"width": 28,
+				"height": 25
+			}
+		},
+		"radiation_gargantuar_28x25_3": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_28X25_3",
+			"dimension": {
+				"width": 28,
+				"height": 25
+			}
+		},
+		"radiation_gargantuar_29x29": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_29X29",
+			"dimension": {
+				"width": 29,
+				"height": 29
+			}
+		},
+		"radiation_gargantuar_29x42": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_29X42",
+			"dimension": {
+				"width": 29,
+				"height": 42
+			}
+		},
+		"radiation_gargantuar_309x158": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_309X158",
+			"dimension": {
+				"width": 309,
+				"height": 158
+			}
+		},
+		"radiation_gargantuar_30x30": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_30X30",
+			"dimension": {
+				"width": 30,
+				"height": 30
+			}
+		},
+		"radiation_gargantuar_30x36": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_30X36",
+			"dimension": {
+				"width": 30,
+				"height": 36
+			}
+		},
+		"radiation_gargantuar_30x64": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_30X64",
+			"dimension": {
+				"width": 30,
+				"height": 64
+			}
+		},
+		"radiation_gargantuar_310x287": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_310X287",
+			"dimension": {
+				"width": 310,
+				"height": 287
+			}
+		},
+		"radiation_gargantuar_31x18": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_31X18",
+			"dimension": {
+				"width": 31,
+				"height": 18
+			}
+		},
+		"radiation_gargantuar_31x31": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_31X31",
+			"dimension": {
+				"width": 31,
+				"height": 31
+			}
+		},
+		"radiation_gargantuar_31x35": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_31X35",
+			"dimension": {
+				"width": 31,
+				"height": 35
+			}
+		},
+		"radiation_gargantuar_32x12": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X12",
+			"dimension": {
+				"width": 32,
+				"height": 12
+			}
+		},
+		"radiation_gargantuar_32x29": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X29",
+			"dimension": {
+				"width": 32,
+				"height": 29
+			}
+		},
+		"radiation_gargantuar_32x31": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X31",
+			"dimension": {
+				"width": 32,
+				"height": 31
+			}
+		},
+		"radiation_gargantuar_32x32": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X32",
+			"dimension": {
+				"width": 32,
+				"height": 32
+			}
+		},
+		"radiation_gargantuar_32x45": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X45",
+			"dimension": {
+				"width": 32,
+				"height": 45
+			}
+		},
+		"radiation_gargantuar_32x56": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_32X56",
+			"dimension": {
+				"width": 32,
+				"height": 56
+			}
+		},
+		"radiation_gargantuar_34x34": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_34X34",
+			"dimension": {
+				"width": 34,
+				"height": 34
+			}
+		},
+		"radiation_gargantuar_34x35": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_34X35",
+			"dimension": {
+				"width": 34,
+				"height": 35
+			}
+		},
+		"radiation_gargantuar_34x51": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_34X51",
+			"dimension": {
+				"width": 34,
+				"height": 51
+			}
+		},
+		"radiation_gargantuar_352x129": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_352X129",
+			"dimension": {
+				"width": 352,
+				"height": 129
+			}
+		},
+		"radiation_gargantuar_35x28": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_35X28",
+			"dimension": {
+				"width": 35,
+				"height": 28
+			}
+		},
+		"radiation_gargantuar_363x65": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_363X65",
+			"dimension": {
+				"width": 363,
+				"height": 65
+			}
+		},
+		"radiation_gargantuar_368x79": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_368X79",
+			"dimension": {
+				"width": 368,
+				"height": 79
+			}
+		},
+		"radiation_gargantuar_36x24": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_36X24",
+			"dimension": {
+				"width": 36,
+				"height": 24
+			}
+		},
+		"radiation_gargantuar_36x27": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_36X27",
+			"dimension": {
+				"width": 36,
+				"height": 27
+			}
+		},
+		"radiation_gargantuar_36x28": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_36X28",
+			"dimension": {
+				"width": 36,
+				"height": 28
+			}
+		},
+		"radiation_gargantuar_36x46": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_36X46",
+			"dimension": {
+				"width": 36,
+				"height": 46
+			}
+		},
+		"radiation_gargantuar_37x33": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_37X33",
+			"dimension": {
+				"width": 37,
+				"height": 33
+			}
+		},
+		"radiation_gargantuar_37x37": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_37X37",
+			"dimension": {
+				"width": 37,
+				"height": 37
+			}
+		},
+		"radiation_gargantuar_37x42": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_37X42",
+			"dimension": {
+				"width": 37,
+				"height": 42
+			}
+		},
+		"radiation_gargantuar_38x34": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_38X34",
+			"dimension": {
+				"width": 38,
+				"height": 34
+			}
+		},
+		"radiation_gargantuar_38x34_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_38X34_2",
+			"dimension": {
+				"width": 38,
+				"height": 34
+			}
+		},
+		"radiation_gargantuar_38x34_3": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_38X34_3",
+			"dimension": {
+				"width": 38,
+				"height": 34
+			}
+		},
+		"radiation_gargantuar_38x62": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_38X62",
+			"dimension": {
+				"width": 38,
+				"height": 62
+			}
+		},
+		"radiation_gargantuar_391x212": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_391X212",
+			"dimension": {
+				"width": 391,
+				"height": 212
+			}
+		},
+		"radiation_gargantuar_39x30": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_39X30",
+			"dimension": {
+				"width": 39,
+				"height": 30
+			}
+		},
+		"radiation_gargantuar_39x39": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_39X39",
+			"dimension": {
+				"width": 39,
+				"height": 39
+			}
+		},
+		"radiation_gargantuar_40x24": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_40X24",
+			"dimension": {
+				"width": 40,
+				"height": 24
+			}
+		},
+		"radiation_gargantuar_40x40": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_40X40",
+			"dimension": {
+				"width": 40,
+				"height": 40
+			}
+		},
+		"radiation_gargantuar_41x41": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_41X41",
+			"dimension": {
+				"width": 41,
+				"height": 41
+			}
+		},
+		"radiation_gargantuar_41x46": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_41X46",
+			"dimension": {
+				"width": 41,
+				"height": 46
+			}
+		},
+		"radiation_gargantuar_41x47": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_41X47",
+			"dimension": {
+				"width": 41,
+				"height": 47
+			}
+		},
+		"radiation_gargantuar_41x47_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_41X47_2",
+			"dimension": {
+				"width": 41,
+				"height": 47
+			}
+		},
+		"radiation_gargantuar_41x47_3": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_41X47_3",
+			"dimension": {
+				"width": 41,
+				"height": 47
+			}
+		},
+		"radiation_gargantuar_42x16": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_42X16",
+			"dimension": {
+				"width": 42,
+				"height": 16
+			}
+		},
+		"radiation_gargantuar_42x24": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_42X24",
+			"dimension": {
+				"width": 42,
+				"height": 24
+			}
+		},
+		"radiation_gargantuar_42x60": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_42X60",
+			"dimension": {
+				"width": 42,
+				"height": 60
+			}
+		},
+		"radiation_gargantuar_43x43": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_43X43",
+			"dimension": {
+				"width": 43,
+				"height": 43
+			}
+		},
+		"radiation_gargantuar_43x61": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_43X61",
+			"dimension": {
+				"width": 43,
+				"height": 61
+			}
+		},
+		"radiation_gargantuar_443x76": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_443X76",
+			"dimension": {
+				"width": 443,
+				"height": 76
+			}
+		},
+		"radiation_gargantuar_449x94": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_449X94",
+			"dimension": {
+				"width": 449,
+				"height": 94
+			}
+		},
+		"radiation_gargantuar_44x41": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_44X41",
+			"dimension": {
+				"width": 44,
+				"height": 41
+			}
+		},
+		"radiation_gargantuar_44x42": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_44X42",
+			"dimension": {
+				"width": 44,
+				"height": 42
+			}
+		},
+		"radiation_gargantuar_44x77": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_44X77",
+			"dimension": {
+				"width": 44,
+				"height": 77
+			}
+		},
+		"radiation_gargantuar_458x458": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_458X458",
+			"dimension": {
+				"width": 458,
+				"height": 458
+			}
+		},
+		"radiation_gargantuar_45x30": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_45X30",
+			"dimension": {
+				"width": 45,
+				"height": 30
+			}
+		},
+		"radiation_gargantuar_45x45": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_45X45",
+			"dimension": {
+				"width": 45,
+				"height": 45
+			}
+		},
+		"radiation_gargantuar_45x70": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_45X70",
+			"dimension": {
+				"width": 45,
+				"height": 70
+			}
+		},
+		"radiation_gargantuar_46x45": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_46X45",
+			"dimension": {
+				"width": 46,
+				"height": 45
+			}
+		},
+		"radiation_gargantuar_46x47": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_46X47",
+			"dimension": {
+				"width": 46,
+				"height": 47
+			}
+		},
+		"radiation_gargantuar_46x64": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_46X64",
+			"dimension": {
+				"width": 46,
+				"height": 64
+			}
+		},
+		"radiation_gargantuar_46x68": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_46X68",
+			"dimension": {
+				"width": 46,
+				"height": 68
+			}
+		},
+		"radiation_gargantuar_47x43": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_47X43",
+			"dimension": {
+				"width": 47,
+				"height": 43
+			}
+		},
+		"radiation_gargantuar_47x76": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_47X76",
+			"dimension": {
+				"width": 47,
+				"height": 76
+			}
+		},
+		"radiation_gargantuar_481x595": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_481X595",
+			"dimension": {
+				"width": 481,
+				"height": 595
+			}
+		},
+		"radiation_gargantuar_48x48": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_48X48",
+			"dimension": {
+				"width": 48,
+				"height": 48
+			}
+		},
+		"radiation_gargantuar_48x49": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_48X49",
+			"dimension": {
+				"width": 48,
+				"height": 49
+			}
+		},
+		"radiation_gargantuar_48x61": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_48X61",
+			"dimension": {
+				"width": 48,
+				"height": 61
+			}
+		},
+		"radiation_gargantuar_49x39": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_49X39",
+			"dimension": {
+				"width": 49,
+				"height": 39
+			}
+		},
+		"radiation_gargantuar_49x49": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_49X49",
+			"dimension": {
+				"width": 49,
+				"height": 49
+			}
+		},
+		"radiation_gargantuar_4x10": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_4X10",
+			"dimension": {
+				"width": 4,
+				"height": 10
+			}
+		},
+		"radiation_gargantuar_50x33": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_50X33",
+			"dimension": {
+				"width": 50,
+				"height": 33
+			}
+		},
+		"radiation_gargantuar_50x46": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_50X46",
+			"dimension": {
+				"width": 50,
+				"height": 46
+			}
+		},
+		"radiation_gargantuar_50x52": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_50X52",
+			"dimension": {
+				"width": 50,
+				"height": 52
+			}
+		},
+		"radiation_gargantuar_50x56": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_50X56",
+			"dimension": {
+				"width": 50,
+				"height": 56
+			}
+		},
+		"radiation_gargantuar_51x83": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_51X83",
+			"dimension": {
+				"width": 51,
+				"height": 83
+			}
+		},
+		"radiation_gargantuar_51x92": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_51X92",
+			"dimension": {
+				"width": 51,
+				"height": 92
+			}
+		},
+		"radiation_gargantuar_52x40": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X40",
+			"dimension": {
+				"width": 52,
+				"height": 40
+			}
+		},
+		"radiation_gargantuar_52x40_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X40_2",
+			"dimension": {
+				"width": 52,
+				"height": 40
+			}
+		},
+		"radiation_gargantuar_52x46": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X46",
+			"dimension": {
+				"width": 52,
+				"height": 46
+			}
+		},
+		"radiation_gargantuar_52x46_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X46_2",
+			"dimension": {
+				"width": 52,
+				"height": 46
+			}
+		},
+		"radiation_gargantuar_52x56": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X56",
+			"dimension": {
+				"width": 52,
+				"height": 56
+			}
+		},
+		"radiation_gargantuar_52x85": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X85",
+			"dimension": {
+				"width": 52,
+				"height": 85
+			}
+		},
+		"radiation_gargantuar_52x93": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_52X93",
+			"dimension": {
+				"width": 52,
+				"height": 93
+			}
+		},
+		"radiation_gargantuar_53x32": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_53X32",
+			"dimension": {
+				"width": 53,
+				"height": 32
+			}
+		},
+		"radiation_gargantuar_53x95": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_53X95",
+			"dimension": {
+				"width": 53,
+				"height": 95
+			}
+		},
+		"radiation_gargantuar_54x46": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_54X46",
+			"dimension": {
+				"width": 54,
+				"height": 46
+			}
+		},
+		"radiation_gargantuar_54x48": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_54X48",
+			"dimension": {
+				"width": 54,
+				"height": 48
+			}
+		},
+		"radiation_gargantuar_54x54": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_54X54",
+			"dimension": {
+				"width": 54,
+				"height": 54
+			}
+		},
+		"radiation_gargantuar_54x54_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_54X54_2",
+			"dimension": {
+				"width": 54,
+				"height": 54
+			}
+		},
+		"radiation_gargantuar_54x54_3": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_54X54_3",
+			"dimension": {
+				"width": 54,
+				"height": 54
+			}
+		},
+		"radiation_gargantuar_55x33": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_55X33",
+			"dimension": {
+				"width": 55,
+				"height": 33
+			}
+		},
+		"radiation_gargantuar_55x48": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_55X48",
+			"dimension": {
+				"width": 55,
+				"height": 48
+			}
+		},
+		"radiation_gargantuar_55x49": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_55X49",
+			"dimension": {
+				"width": 55,
+				"height": 49
+			}
+		},
+		"radiation_gargantuar_55x49_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_55X49_2",
+			"dimension": {
+				"width": 55,
+				"height": 49
+			}
+		},
+		"radiation_gargantuar_55x59": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_55X59",
+			"dimension": {
+				"width": 55,
+				"height": 59
+			}
+		},
+		"radiation_gargantuar_56x64": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_56X64",
+			"dimension": {
+				"width": 56,
+				"height": 64
+			}
+		},
+		"radiation_gargantuar_575x582": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_575X582",
+			"dimension": {
+				"width": 575,
+				"height": 582
+			}
+		},
+		"radiation_gargantuar_57x52": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_57X52",
+			"dimension": {
+				"width": 57,
+				"height": 52
+			}
+		},
+		"radiation_gargantuar_57x52_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_57X52_2",
+			"dimension": {
+				"width": 57,
+				"height": 52
+			}
+		},
+		"radiation_gargantuar_57x64": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_57X64",
+			"dimension": {
+				"width": 57,
+				"height": 64
+			}
+		},
+		"radiation_gargantuar_58x32": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_58X32",
+			"dimension": {
+				"width": 58,
+				"height": 32
+			}
+		},
+		"radiation_gargantuar_58x43": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_58X43",
+			"dimension": {
+				"width": 58,
+				"height": 43
+			}
+		},
+		"radiation_gargantuar_58x52": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_58X52",
+			"dimension": {
+				"width": 58,
+				"height": 52
+			}
+		},
+		"radiation_gargantuar_58x58": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_58X58",
+			"dimension": {
+				"width": 58,
+				"height": 58
+			}
+		},
+		"radiation_gargantuar_58x67": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_58X67",
+			"dimension": {
+				"width": 58,
+				"height": 67
+			}
+		},
+		"radiation_gargantuar_59x103": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_59X103",
+			"dimension": {
+				"width": 59,
+				"height": 103
+			}
+		},
+		"radiation_gargantuar_59x113": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_59X113",
+			"dimension": {
+				"width": 59,
+				"height": 113
+			}
+		},
+		"radiation_gargantuar_59x21": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_59X21",
+			"dimension": {
+				"width": 59,
+				"height": 21
+			}
+		},
+		"radiation_gargantuar_5x10": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_5X10",
+			"dimension": {
+				"width": 5,
+				"height": 10
+			}
+		},
+		"radiation_gargantuar_5x12": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_5X12",
+			"dimension": {
+				"width": 5,
+				"height": 12
+			}
+		},
+		"radiation_gargantuar_60x45": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_60X45",
+			"dimension": {
+				"width": 60,
+				"height": 45
+			}
+		},
+		"radiation_gargantuar_60x51": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_60X51",
+			"dimension": {
+				"width": 60,
+				"height": 51
+			}
+		},
+		"radiation_gargantuar_60x55": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_60X55",
+			"dimension": {
+				"width": 60,
+				"height": 55
+			}
+		},
+		"radiation_gargantuar_60x86": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_60X86",
+			"dimension": {
+				"width": 60,
+				"height": 86
+			}
+		},
+		"radiation_gargantuar_61x109": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_61X109",
+			"dimension": {
+				"width": 61,
+				"height": 109
+			}
+		},
+		"radiation_gargantuar_62x86": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_62X86",
+			"dimension": {
+				"width": 62,
+				"height": 86
+			}
+		},
+		"radiation_gargantuar_63x112": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_63X112",
+			"dimension": {
+				"width": 63,
+				"height": 112
+			}
+		},
+		"radiation_gargantuar_63x46": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_63X46",
+			"dimension": {
+				"width": 63,
+				"height": 46
+			}
+		},
+		"radiation_gargantuar_64x54": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_64X54",
+			"dimension": {
+				"width": 64,
+				"height": 54
+			}
+		},
+		"radiation_gargantuar_64x60": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_64X60",
+			"dimension": {
+				"width": 64,
+				"height": 60
+			}
+		},
+		"radiation_gargantuar_64x76": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_64X76",
+			"dimension": {
+				"width": 64,
+				"height": 76
+			}
+		},
+		"radiation_gargantuar_65x65": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_65X65",
+			"dimension": {
+				"width": 65,
+				"height": 65
+			}
+		},
+		"radiation_gargantuar_66x59": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_66X59",
+			"dimension": {
+				"width": 66,
+				"height": 59
+			}
+		},
+		"radiation_gargantuar_66x67": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_66X67",
+			"dimension": {
+				"width": 66,
+				"height": 67
+			}
+		},
+		"radiation_gargantuar_67x37": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_67X37",
+			"dimension": {
+				"width": 67,
+				"height": 37
+			}
+		},
+		"radiation_gargantuar_67x67": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_67X67",
+			"dimension": {
+				"width": 67,
+				"height": 67
+			}
+		},
+		"radiation_gargantuar_6x17": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_6X17",
+			"dimension": {
+				"width": 6,
+				"height": 17
+			}
+		},
+		"radiation_gargantuar_6x22": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_6X22",
+			"dimension": {
+				"width": 6,
+				"height": 22
+			}
+		},
+		"radiation_gargantuar_6x6": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_6X6",
+			"dimension": {
+				"width": 6,
+				"height": 6
+			}
+		},
+		"radiation_gargantuar_6x7": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_6X7",
+			"dimension": {
+				"width": 6,
+				"height": 7
+			}
+		},
+		"radiation_gargantuar_6x9": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_6X9",
+			"dimension": {
+				"width": 6,
+				"height": 9
+			}
+		},
+		"radiation_gargantuar_71x63": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_71X63",
+			"dimension": {
+				"width": 71,
+				"height": 63
+			}
+		},
+		"radiation_gargantuar_71x80": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_71X80",
+			"dimension": {
+				"width": 71,
+				"height": 80
+			}
+		},
+		"radiation_gargantuar_74x56": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_74X56",
+			"dimension": {
+				"width": 74,
+				"height": 56
+			}
+		},
+		"radiation_gargantuar_74x65": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_74X65",
+			"dimension": {
+				"width": 74,
+				"height": 65
+			}
+		},
+		"radiation_gargantuar_74x65_2": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_74X65_2",
+			"dimension": {
+				"width": 74,
+				"height": 65
+			}
+		},
+		"radiation_gargantuar_75x64": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_75X64",
+			"dimension": {
+				"width": 75,
+				"height": 64
+			}
+		},
+		"radiation_gargantuar_76x62": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_76X62",
+			"dimension": {
+				"width": 76,
+				"height": 62
+			}
+		},
+		"radiation_gargantuar_76x78": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_76X78",
+			"dimension": {
+				"width": 76,
+				"height": 78
+			}
+		},
+		"radiation_gargantuar_77x90": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_77X90",
+			"dimension": {
+				"width": 77,
+				"height": 90
+			}
+		},
+		"radiation_gargantuar_78x70": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_78X70",
+			"dimension": {
+				"width": 78,
+				"height": 70
+			}
+		},
+		"radiation_gargantuar_78x77": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_78X77",
+			"dimension": {
+				"width": 78,
+				"height": 77
+			}
+		},
+		"radiation_gargantuar_79x43": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_79X43",
+			"dimension": {
+				"width": 79,
+				"height": 43
+			}
+		},
+		"radiation_gargantuar_79x69": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_79X69",
+			"dimension": {
+				"width": 79,
+				"height": 69
+			}
+		},
+		"radiation_gargantuar_79x79": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_79X79",
+			"dimension": {
+				"width": 79,
+				"height": 79
+			}
+		},
+		"radiation_gargantuar_7x11": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_7X11",
+			"dimension": {
+				"width": 7,
+				"height": 11
+			}
+		},
+		"radiation_gargantuar_7x15": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_7X15",
+			"dimension": {
+				"width": 7,
+				"height": 15
+			}
+		},
+		"radiation_gargantuar_7x29": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_7X29",
+			"dimension": {
+				"width": 7,
+				"height": 29
+			}
+		},
+		"radiation_gargantuar_7x9": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_7X9",
+			"dimension": {
+				"width": 7,
+				"height": 9
+			}
+		},
+		"radiation_gargantuar_80x47": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_80X47",
+			"dimension": {
+				"width": 80,
+				"height": 47
+			}
+		},
+		"radiation_gargantuar_80x72": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_80X72",
+			"dimension": {
+				"width": 80,
+				"height": 72
+			}
+		},
+		"radiation_gargantuar_80x91": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_80X91",
+			"dimension": {
+				"width": 80,
+				"height": 91
+			}
+		},
+		"radiation_gargantuar_81x28": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_81X28",
+			"dimension": {
+				"width": 81,
+				"height": 28
+			}
+		},
+		"radiation_gargantuar_81x60": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_81X60",
+			"dimension": {
+				"width": 81,
+				"height": 60
+			}
+		},
+		"radiation_gargantuar_81x76": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_81X76",
+			"dimension": {
+				"width": 81,
+				"height": 76
+			}
+		},
+		"radiation_gargantuar_81x93": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_81X93",
+			"dimension": {
+				"width": 81,
+				"height": 93
+			}
+		},
+		"radiation_gargantuar_82x119": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_82X119",
+			"dimension": {
+				"width": 82,
+				"height": 119
+			}
+		},
+		"radiation_gargantuar_82x93": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_82X93",
+			"dimension": {
+				"width": 82,
+				"height": 93
+			}
+		},
+		"radiation_gargantuar_84x46": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_84X46",
+			"dimension": {
+				"width": 84,
+				"height": 46
+			}
+		},
+		"radiation_gargantuar_84x62": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_84X62",
+			"dimension": {
+				"width": 84,
+				"height": 62
+			}
+		},
+		"radiation_gargantuar_85x153": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_85X153",
+			"dimension": {
+				"width": 85,
+				"height": 153
+			}
+		},
+		"radiation_gargantuar_85x42": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_85X42",
+			"dimension": {
+				"width": 85,
+				"height": 42
+			}
+		},
+		"radiation_gargantuar_86x81": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_86X81",
+			"dimension": {
+				"width": 86,
+				"height": 81
+			}
+		},
+		"radiation_gargantuar_87x102": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_87X102",
+			"dimension": {
+				"width": 87,
+				"height": 102
+			}
+		},
+		"radiation_gargantuar_87x75": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_87X75",
+			"dimension": {
+				"width": 87,
+				"height": 75
+			}
+		},
+		"radiation_gargantuar_87x90": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_87X90",
+			"dimension": {
+				"width": 87,
+				"height": 90
+			}
+		},
+		"radiation_gargantuar_88x123": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_88X123",
+			"dimension": {
+				"width": 88,
+				"height": 123
+			}
+		},
+		"radiation_gargantuar_89x89": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_89X89",
+			"dimension": {
+				"width": 89,
+				"height": 89
+			}
+		},
+		"radiation_gargantuar_8x14": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_8X14",
+			"dimension": {
+				"width": 8,
+				"height": 14
+			}
+		},
+		"radiation_gargantuar_8x19": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_8X19",
+			"dimension": {
+				"width": 8,
+				"height": 19
+			}
+		},
+		"radiation_gargantuar_91x107": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_91X107",
+			"dimension": {
+				"width": 91,
+				"height": 107
+			}
+		},
+		"radiation_gargantuar_91x114": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_91X114",
+			"dimension": {
+				"width": 91,
+				"height": 114
+			}
+		},
+		"radiation_gargantuar_96x96": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_96X96",
+			"dimension": {
+				"width": 96,
+				"height": 96
+			}
+		},
+		"radiation_gargantuar_97x110": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_97X110",
+			"dimension": {
+				"width": 97,
+				"height": 110
+			}
+		},
+		"radiation_gargantuar_98x101": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_98X101",
+			"dimension": {
+				"width": 98,
+				"height": 101
+			}
+		},
+		"radiation_gargantuar_99x101": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_99X101",
+			"dimension": {
+				"width": 99,
+				"height": 101
+			}
+		},
+		"radiation_gargantuar_99x41": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_99X41",
+			"dimension": {
+				"width": 99,
+				"height": 41
+			}
+		},
+		"radiation_gargantuar_9x11": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_9X11",
+			"dimension": {
+				"width": 9,
+				"height": 11
+			}
+		},
+		"radiation_gargantuar_9x38": {
+			"id": "IMAGE_ZOMBIE_RADIATION_GARGANTUAR_RADIATION_GARGANTUAR_9X38",
+			"dimension": {
+				"width": 9,
+				"height": 38
+			}
+		}
+	},
+	"sprite": {
+		"": [
+			"sprite",
+			"sprite_2",
+			"sprite_3",
+			"sprite_4",
+			"sprite_5",
+			"sprite_6",
+			"sprite_7",
+			"sprite_8",
+			"sprite_9",
+			"sprite_10",
+			"sprite_11",
+			"sprite_12",
+			"sprite_13",
+			"sprite_14",
+			"sprite_15",
+			"sprite_16",
+			"sprite_17",
+			"sprite_18",
+			"sprite_19",
+			"sprite_20",
+			"sprite_21",
+			"sprite_22",
+			"sprite_23",
+			"sprite_24",
+			"sprite_25",
+			"sprite_26",
+			"sprite_27",
+			"sprite_28",
+			"sprite_29",
+			"sprite_30",
+			"sprite_31",
+			"sprite_32",
+			"sprite_33",
+			"sprite_34",
+			"sprite_35",
+			"sprite_36",
+			"sprite_37",
+			"sprite_38",
+			"sprite_39",
+			"sprite_40",
+			"sprite_41",
+			"sprite_42",
+			"sprite_43",
+			"sprite_44",
+			"sprite_45",
+			"sprite_46",
+			"sprite_47",
+			"sprite_48",
+			"sprite_49",
+			"sprite_50",
+			"sprite_51",
+			"sprite_52",
+			"sprite_53",
+			"sprite_54",
+			"sprite_55",
+			"sprite_56",
+			"sprite_57",
+			"sprite_58"
+		],
+		"Gargantuar_Body_Belly": [
+			"Gargantuar_Body_Belly_1",
+			"Gargantuar_Body_Belly_2",
+			"Gargantuar_Body_Belly_3"
+		],
+		"Gargantuar_Head_Helmet": [
+			"Gargantuar_Head_Helmet_1",
+			"Gargantuar_Head_Helmet_2",
+			"Gargantuar_Head_Helmet_3"
+		],
+		"Gargantuar_Upper_Body": [
+			"Gargantuar_Upper_Body_1",
+			"Gargantuar_Upper_Body_2",
+			"Gargantuar_Upper_Body_3"
+		],
+		"Gargantuar_Upper_Body_Base": [
+			"Gargantuar_Upper_Body_Base_1",
+			"Gargantuar_Upper_Body_Base_2",
+			"Gargantuar_Upper_Body_Base_3"
+		],
+		"Zombie_gargantua_body2": [
+			"Zombie_gargantua_body2_1",
+			"Zombie_gargantua_body2_2",
+			"Zombie_gargantua_body2_3"
+		],
+		"Zombie_gargantua_innerleg_upper": [
+			"Zombie_gargantua_innerleg_upper_1",
+			"Zombie_gargantua_innerleg_upper_2",
+			"Zombie_gargantua_innerleg_upper_3"
+		],
+		"Zombie_gargantuar_head": [
+			"Zombie_gargantuar_head_1",
+			"Zombie_gargantuar_head_2",
+			"Zombie_gargantuar_head_3"
+		],
+		"Zombie_gargantuar_innerarm_lower": [
+			"Zombie_gargantuar_innerarm_lower_1",
+			"Zombie_gargantuar_innerarm_lower_2",
+			"Zombie_gargantuar_innerarm_lower_3"
+		],
+		"Zombie_gargantuar_innerarm_upper": [
+			"Zombie_gargantuar_innerarm_upper_1",
+			"Zombie_gargantuar_innerarm_upper_2",
+			"Zombie_gargantuar_innerarm_upper_3"
+		],
+		"Zombie_gargantuar_innerarm_upper_base": [
+			"Zombie_gargantuar_innerarm_upper_base_1",
+			"Zombie_gargantuar_innerarm_upper_base_2",
+			"Zombie_gargantuar_innerarm_upper_base_3"
+		],
+		"Zombie_gargantuar_innerleg_lower": [
+			"Zombie_gargantuar_innerleg_lower_1",
+			"Zombie_gargantuar_innerleg_lower_2",
+			"Zombie_gargantuar_innerleg_lower_3"
+		],
+		"Zombie_gargantuar_jaw": [
+			"Zombie_gargantuar_jaw_1",
+			"Zombie_gargantuar_jaw_2",
+			"Zombie_gargantuar_jaw_3"
+		],
+		"Zombie_gargantuar_outerarm_finger": [
+			"Zombie_gargantuar_outerarm_finger_1",
+			"Zombie_gargantuar_outerarm_finger_2"
+		],
+		"Zombie_gargantuar_outerarm_hand": [
+			"Zombie_gargantuar_outerarm_hand_1",
+			"Zombie_gargantuar_outerarm_hand_2"
+		],
+		"Zombie_gargantuar_outerarm_lower": [
+			"Zombie_gargantuar_outerarm_lower_1",
+			"Zombie_gargantuar_outerarm_lower_2"
+		],
+		"Zombie_gargantuar_outerarm_lower_base": [
+			"Zombie_gargantuar_outerarm_lower_base_1",
+			"Zombie_gargantuar_outerarm_lower_base_2"
+		],
+		"Zombie_gargantuar_outerarm_thumb": [
+			"Zombie_gargantuar_outerarm_thumb_1",
+			"Zombie_gargantuar_outerarm_thumb_2"
+		],
+		"Zombie_gargantuar_outerarm_upper": [
+			"Zombie_gargantuar_outerarm_upper_1",
+			"Zombie_gargantuar_outerarm_upper_2",
+			"Zombie_gargantuar_outerarm_upper_3"
+		],
+		"Zombie_gargantuar_outerarm_upper2": [
+			"Zombie_gargantuar_outerarm_upper2_1",
+			"Zombie_gargantuar_outerarm_upper2_2",
+			"Zombie_gargantuar_outerarm_upper2_3"
+		],
+		"Zombie_gargantuar_outerarm_upper2_base": [
+			"Zombie_gargantuar_outerarm_upper2_base_1",
+			"Zombie_gargantuar_outerarm_upper2_base_2",
+			"Zombie_gargantuar_outerarm_upper2_base_3"
+		],
+		"Zombie_gargantuar_outerleg_lower": [
+			"Zombie_gargantuar_outerleg_lower_1",
+			"Zombie_gargantuar_outerleg_lower_2",
+			"Zombie_gargantuar_outerleg_lower_3"
+		],
+		"Zombie_gargantuar_outerleg_upper": [
+			"Zombie_gargantuar_outerleg_upper_1",
+			"Zombie_gargantuar_outerleg_upper_2"
+		],
+		"Zombie_gargantuar_telephonepole": [
+			"Zombie_gargantuar_telephonepole_1",
+			"Zombie_gargantuar_telephonepole_2"
+		],
+		"Zombie_gargantuar_telephonepole_base": [
+			"Zombie_gargantuar_telephonepole_base_1",
+			"Zombie_gargantuar_telephonepole_base_2"
+		],
+		"butter": [
+			"butter_1",
+			"butter_2",
+			"butter_3"
+		],
+		"crystal_01": [
+			"crystal_01_1",
+			"crystal_01_2",
+			"crystal_01_3"
+		],
+		"crystal_02": [
+			"crystal_02_1",
+			"crystal_02_2",
+			"crystal_02_3"
+		],
+		"crystal_03": [
+			"crystal_03_1",
+			"crystal_03_2",
+			"crystal_03_3"
+		],
+		"crystal_04": [
+			"crystal_04_1",
+			"crystal_04_2",
+			"crystal_04_3"
+		],
+		"crystal_05": [
+			"crystal_05_1",
+			"crystal_05_2",
+			"crystal_05_3"
+		],
+		"crystal_06": [
+			"crystal_06_1",
+			"crystal_06_2",
+			"crystal_06_3"
+		],
+		"crystal_07": [
+			"crystal_07_1",
+			"crystal_07_2",
+			"crystal_07_3"
+		],
+		"empeach_arc_01": [
+			"empeach_arc_01_1",
+			"empeach_arc_01_2",
+			"empeach_arc_01_3"
+		],
+		"empeach_arc_02": [
+			"empeach_arc_02_1",
+			"empeach_arc_02_2",
+			"empeach_arc_02_3"
+		],
+		"empeach_arc_03": [
+			"empeach_arc_03_1",
+			"empeach_arc_03_2",
+			"empeach_arc_03_3",
+			"empeach_arc_03_4"
+		],
+		"empeach_arc_05": [
+			"empeach_arc_05_1",
+			"empeach_arc_05_2"
+		],
+		"empeach_arc_06": [
+			"empeach_arc_06_1",
+			"empeach_arc_06_2"
+		],
+		"ink": [
+			"ink_1",
+			"ink_2",
+			"ink_3"
+		],
+		"mower_cloud": [
+			"mower_cloud_1",
+			"mower_cloud_2"
+		],
+		"powervine_arc_01a": [
+			"powervine_arc_01a_1"
+		],
+		"powervine_arc_02": [
+			"powervine_arc_02_1"
+		],
+		"powervine_arc_03": [
+			"powervine_arc_03_1"
+		],
+		"powervine_arc_04": [
+			"powervine_arc_04_1"
+		],
+		"powervine_arc_07": [
+			"powervine_arc_07_1"
+		],
+		"spacesuit light_02": [
+			"spacesuit light_02_1",
+			"spacesuit light_02_2",
+			"spacesuit light_02_3",
+			"spacesuit light_02_4"
+		],
+		"spacesuit light_04": [
+			"spacesuit light_04_1",
+			"spacesuit light_04_2",
+			"spacesuit light_04_3"
+		],
+		"spacesuit light_06": [
+			"spacesuit light_06_1",
+			"spacesuit light_06_2"
+		],
+		"weapon light": [
+			"weapon light_1",
+			"weapon light_2"
+		],
+		"weapon light_1": [
+			"weapon light_1_1",
+			"weapon light_1_2",
+			"weapon light_1_3"
+		]
+	}
+}

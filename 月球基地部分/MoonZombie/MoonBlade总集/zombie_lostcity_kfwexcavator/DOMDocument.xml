@@ -1,0 +1,389 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/blow" href="media/blow.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_104x77" href="media/zombie_lostcity_kfwexcavator_104x77.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_135x8" href="media/zombie_lostcity_kfwexcavator_135x8.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_159x69" href="media/zombie_lostcity_kfwexcavator_159x69.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_16x16" href="media/zombie_lostcity_kfwexcavator_16x16.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_18x17" href="media/zombie_lostcity_kfwexcavator_18x17.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_22x36" href="media/zombie_lostcity_kfwexcavator_22x36.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_22x43" href="media/zombie_lostcity_kfwexcavator_22x43.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_22x49" href="media/zombie_lostcity_kfwexcavator_22x49.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_22x49_2" href="media/zombie_lostcity_kfwexcavator_22x49_2.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_23x41" href="media/zombie_lostcity_kfwexcavator_23x41.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_24x21" href="media/zombie_lostcity_kfwexcavator_24x21.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_24x49" href="media/zombie_lostcity_kfwexcavator_24x49.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_24x58" href="media/zombie_lostcity_kfwexcavator_24x58.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_28x32" href="media/zombie_lostcity_kfwexcavator_28x32.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_28x32_2" href="media/zombie_lostcity_kfwexcavator_28x32_2.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_29x37" href="media/zombie_lostcity_kfwexcavator_29x37.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_29x40" href="media/zombie_lostcity_kfwexcavator_29x40.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_30x21" href="media/zombie_lostcity_kfwexcavator_30x21.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_31x62" href="media/zombie_lostcity_kfwexcavator_31x62.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_32x56" href="media/zombie_lostcity_kfwexcavator_32x56.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_34x28" href="media/zombie_lostcity_kfwexcavator_34x28.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_35x20" href="media/zombie_lostcity_kfwexcavator_35x20.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_36x36" href="media/zombie_lostcity_kfwexcavator_36x36.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_36x45" href="media/zombie_lostcity_kfwexcavator_36x45.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_37x46" href="media/zombie_lostcity_kfwexcavator_37x46.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_38x23" href="media/zombie_lostcity_kfwexcavator_38x23.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_40x26" href="media/zombie_lostcity_kfwexcavator_40x26.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_42x31" href="media/zombie_lostcity_kfwexcavator_42x31.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_47x67" href="media/zombie_lostcity_kfwexcavator_47x67.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_52x31" href="media/zombie_lostcity_kfwexcavator_52x31.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_56x30" href="media/zombie_lostcity_kfwexcavator_56x30.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_57x158" href="media/zombie_lostcity_kfwexcavator_57x158.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_6x6" href="media/zombie_lostcity_kfwexcavator_6x6.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_70x71" href="media/zombie_lostcity_kfwexcavator_70x71.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_79x69" href="media/zombie_lostcity_kfwexcavator_79x69.png"/>
+        <DOMBitmapItem name="media/zombie_lostcity_kfwexcavator_7x7" href="media/zombie_lostcity_kfwexcavator_7x7.png"/>
+    </media>
+    <symbols>
+        <Include href="image/blow.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_104x77.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_135x8.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_159x69.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_16x16.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_18x17.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_22x36.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_22x43.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_22x49.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_22x49_2.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_23x41.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_24x21.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_24x49.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_24x58.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_28x32.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_28x32_2.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_29x37.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_29x40.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_30x21.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_31x62.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_32x56.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_34x28.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_35x20.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_36x36.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_36x45.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_37x46.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_38x23.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_40x26.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_42x31.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_47x67.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_52x31.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_56x30.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_57x158.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_6x6.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_70x71.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_79x69.xml"/>
+        <Include href="image/zombie_lostcity_kfwexcavator_7x7.xml"/>
+        <Include href="sprite/_particles.xml"/>
+        <Include href="sprite/butter.xml"/>
+        <Include href="sprite/ground_swatch.xml"/>
+        <Include href="sprite/ground_swatch_plane.xml"/>
+        <Include href="sprite/ink.xml"/>
+        <Include href="sprite/particle_arm.xml"/>
+        <Include href="sprite/particle_head.xml"/>
+        <Include href="sprite/particle_shovel.xml"/>
+        <Include href="sprite/particle_shovel_1.xml"/>
+        <Include href="sprite/plant_unplanted_rock_01.xml"/>
+        <Include href="sprite/plant_unplanted_rock_02.xml"/>
+        <Include href="sprite/plant_unplanted_rock_03.xml"/>
+        <Include href="sprite/spikeweed_dirtWave.xml"/>
+        <Include href="sprite/zombie_arm_inner_lower.xml"/>
+        <Include href="sprite/zombie_arm_inner_upper.xml"/>
+        <Include href="sprite/zombie_arm_inner_upper_curve.xml"/>
+        <Include href="sprite/zombie_arm_outer_lower.xml"/>
+        <Include href="sprite/zombie_arm_outer_upper.xml"/>
+        <Include href="sprite/zombie_arm_outer_upper_bone.xml"/>
+        <Include href="sprite/zombie_arms_outer_upper.xml"/>
+        <Include href="sprite/zombie_foot_inner_heel.xml"/>
+        <Include href="sprite/zombie_foot_inner_toe_01.xml"/>
+        <Include href="sprite/zombie_foot_inner_toe_02.xml"/>
+        <Include href="sprite/zombie_foot_outer_heel.xml"/>
+        <Include href="sprite/zombie_foot_outer_toe.xml"/>
+        <Include href="sprite/zombie_hand_grip.xml"/>
+        <Include href="sprite/zombie_hand_inner_01.xml"/>
+        <Include href="sprite/zombie_hand_inner_01_no_shovel.xml"/>
+        <Include href="sprite/zombie_hand_inner_02.xml"/>
+        <Include href="sprite/zombie_hand_outer_02.xml"/>
+        <Include href="sprite/zombie_hand_outer_03.xml"/>
+        <Include href="sprite/zombie_hand_outer_no_shovel.xml"/>
+        <Include href="sprite/zombie_jaw.xml"/>
+        <Include href="sprite/zombie_leg_inner_lower.xml"/>
+        <Include href="sprite/zombie_leg_inner_upper.xml"/>
+        <Include href="sprite/zombie_leg_outer_lower.xml"/>
+        <Include href="sprite/zombie_leg_upper_outer.xml"/>
+        <Include href="sprite/zombie_pupil.xml"/>
+        <Include href="sprite/zombie_skull.xml"/>
+        <Include href="sprite/zombie_torso.xml"/>
+        <Include href="sprite/zombie_waist.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/idle_no_shovel.xml"/>
+        <Include href="label/drop_shovel.xml"/>
+        <Include href="label/walk.xml"/>
+        <Include href="label/walk_no_shovel.xml"/>
+        <Include href="label/shovel_attack.xml"/>
+        <Include href="label/eat_shovel.xml"/>
+        <Include href="label/eat.xml"/>
+        <Include href="label/die_shovel.xml"/>
+        <Include href="label/die.xml"/>
+        <Include href="label/particles.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="100" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="100" duration="100" name="idle_no_shovel" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="200" duration="24" name="drop_shovel" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="224" duration="90" name="walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="314" duration="89" name="walk_no_shovel" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="403" duration="2" name="shovel_attack" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="405" duration="46" name="eat_shovel" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="451" duration="259" name="eat" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="710" duration="55" name="die_shovel" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="765" duration="55" name="die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="820" duration="1" name="particles" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="99">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="99">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="100" duration="99">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="199">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="200">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_action", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="201" duration="22">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="223">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="224" duration="23">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="247">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_LostCity_KFWExcavator_VO_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="248" duration="65">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="313">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="314" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="343">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_LostCity_KFWExcavator_VO_Walk");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="344" duration="58">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="402">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="403">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_shovel", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="404">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="405" duration="22">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="427">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_LostCity_KFWExcavator_Shovel_Impact");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="428" duration="22">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="450">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="451">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_LostCity_KFWExcavator_Dig");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="452" duration="257">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="709">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="710" duration="54">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="764">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="765">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_LostCity_KFWExcavator_Dig");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="766" duration="53">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="819">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="820">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Zomb_LostCity_KFWExcavator_Die");
+stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="100">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="100" duration="100">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle_no_shovel" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="200" duration="24">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/drop_shovel" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="224" duration="90">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/walk" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="314" duration="89">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/walk_no_shovel" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="403" duration="2">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/shovel_attack" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="405" duration="46">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/eat_shovel" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="451" duration="259">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/eat" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="710" duration="55">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die_shovel" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="765" duration="55">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="820" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/particles" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

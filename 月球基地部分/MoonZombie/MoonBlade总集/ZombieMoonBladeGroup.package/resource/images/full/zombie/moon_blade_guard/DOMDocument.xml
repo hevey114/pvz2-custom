@@ -1,0 +1,596 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/moon_blade_zombie_101x99" href="media/moon_blade_zombie_101x99.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_103x30" href="media/moon_blade_zombie_103x30.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_109x31" href="media/moon_blade_zombie_109x31.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_10x10" href="media/moon_blade_zombie_10x10.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_112x112" href="media/moon_blade_zombie_112x112.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_112x17" href="media/moon_blade_zombie_112x17.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_113x205" href="media/moon_blade_zombie_113x205.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_120x92" href="media/moon_blade_zombie_120x92.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_125x216" href="media/moon_blade_zombie_125x216.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_126x161" href="media/moon_blade_zombie_126x161.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_126x52" href="media/moon_blade_zombie_126x52.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_12x12" href="media/moon_blade_zombie_12x12.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_12x35" href="media/moon_blade_zombie_12x35.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_131x263" href="media/moon_blade_zombie_131x263.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_133x130" href="media/moon_blade_zombie_133x130.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_134x152" href="media/moon_blade_zombie_134x152.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_135x35" href="media/moon_blade_zombie_135x35.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_135x8" href="media/moon_blade_zombie_135x8.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_137x229" href="media/moon_blade_zombie_137x229.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_147x238" href="media/moon_blade_zombie_147x238.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_154x47" href="media/moon_blade_zombie_154x47.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_159x250" href="media/moon_blade_zombie_159x250.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_15x23" href="media/moon_blade_zombie_15x23.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_163x60" href="media/moon_blade_zombie_163x60.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_163x64" href="media/moon_blade_zombie_163x64.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_170x34" href="media/moon_blade_zombie_170x34.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_171x262" href="media/moon_blade_zombie_171x262.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_172x28" href="media/moon_blade_zombie_172x28.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_184x179" href="media/moon_blade_zombie_184x179.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_188x85" href="media/moon_blade_zombie_188x85.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_18x35" href="media/moon_blade_zombie_18x35.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_18x40" href="media/moon_blade_zombie_18x40.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_190x109" href="media/moon_blade_zombie_190x109.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_191x219" href="media/moon_blade_zombie_191x219.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_196x49" href="media/moon_blade_zombie_196x49.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_197x94" href="media/moon_blade_zombie_197x94.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_198x84" href="media/moon_blade_zombie_198x84.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_198x94" href="media/moon_blade_zombie_198x94.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_210x106" href="media/moon_blade_zombie_210x106.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_21x40" href="media/moon_blade_zombie_21x40.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_222x118" href="media/moon_blade_zombie_222x118.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_23x23" href="media/moon_blade_zombie_23x23.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_23x23_2" href="media/moon_blade_zombie_23x23_2.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_23x23_3" href="media/moon_blade_zombie_23x23_3.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_246x142" href="media/moon_blade_zombie_246x142.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_24x26" href="media/moon_blade_zombie_24x26.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_24x29" href="media/moon_blade_zombie_24x29.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_24x47" href="media/moon_blade_zombie_24x47.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_24x91" href="media/moon_blade_zombie_24x91.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_263x122" href="media/moon_blade_zombie_263x122.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_26x25" href="media/moon_blade_zombie_26x25.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_26x25_2" href="media/moon_blade_zombie_26x25_2.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_26x26" href="media/moon_blade_zombie_26x26.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_27x27" href="media/moon_blade_zombie_27x27.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_27x32" href="media/moon_blade_zombie_27x32.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_27x34" href="media/moon_blade_zombie_27x34.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_288x99" href="media/moon_blade_zombie_288x99.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_28x39" href="media/moon_blade_zombie_28x39.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_30x107" href="media/moon_blade_zombie_30x107.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_30x30" href="media/moon_blade_zombie_30x30.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_31x122" href="media/moon_blade_zombie_31x122.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_32x31" href="media/moon_blade_zombie_32x31.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_334x334" href="media/moon_blade_zombie_334x334.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_33x31" href="media/moon_blade_zombie_33x31.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_345x148" href="media/moon_blade_zombie_345x148.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_34x29" href="media/moon_blade_zombie_34x29.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_34x32" href="media/moon_blade_zombie_34x32.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_35x11" href="media/moon_blade_zombie_35x11.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_35x29" href="media/moon_blade_zombie_35x29.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_35x39" href="media/moon_blade_zombie_35x39.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_36x45" href="media/moon_blade_zombie_36x45.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_37x24" href="media/moon_blade_zombie_37x24.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_37x37" href="media/moon_blade_zombie_37x37.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_38x35" href="media/moon_blade_zombie_38x35.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_38x38" href="media/moon_blade_zombie_38x38.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_38x38_2" href="media/moon_blade_zombie_38x38_2.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_39x144" href="media/moon_blade_zombie_39x144.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_39x29" href="media/moon_blade_zombie_39x29.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_40x40" href="media/moon_blade_zombie_40x40.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_42x31" href="media/moon_blade_zombie_42x31.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_42x37" href="media/moon_blade_zombie_42x37.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_42x41" href="media/moon_blade_zombie_42x41.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_46x40" href="media/moon_blade_zombie_46x40.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_48x34" href="media/moon_blade_zombie_48x34.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_50x50" href="media/moon_blade_zombie_50x50.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_52x31" href="media/moon_blade_zombie_52x31.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_53x119" href="media/moon_blade_zombie_53x119.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_56x60" href="media/moon_blade_zombie_56x60.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_57x151" href="media/moon_blade_zombie_57x151.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_58x48" href="media/moon_blade_zombie_58x48.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_59x56" href="media/moon_blade_zombie_59x56.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_60x66" href="media/moon_blade_zombie_60x66.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_61x114" href="media/moon_blade_zombie_61x114.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_61x23" href="media/moon_blade_zombie_61x23.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_61x63" href="media/moon_blade_zombie_61x63.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_64x144" href="media/moon_blade_zombie_64x144.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_68x72" href="media/moon_blade_zombie_68x72.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_70x71" href="media/moon_blade_zombie_70x71.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_71x57" href="media/moon_blade_zombie_71x57.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_75x70" href="media/moon_blade_zombie_75x70.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_76x61" href="media/moon_blade_zombie_76x61.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_76x76" href="media/moon_blade_zombie_76x76.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_77x77" href="media/moon_blade_zombie_77x77.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_78x81" href="media/moon_blade_zombie_78x81.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_79x26" href="media/moon_blade_zombie_79x26.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_79x61" href="media/moon_blade_zombie_79x61.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_79x69" href="media/moon_blade_zombie_79x69.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_8x8" href="media/moon_blade_zombie_8x8.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_90x32" href="media/moon_blade_zombie_90x32.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_91x91" href="media/moon_blade_zombie_91x91.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_93x105" href="media/moon_blade_zombie_93x105.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_93x72" href="media/moon_blade_zombie_93x72.png"/>
+        <DOMBitmapItem name="media/moon_blade_zombie_97x65" href="media/moon_blade_zombie_97x65.png"/>
+    </media>
+    <symbols>
+        <Include href="image/moon_blade_zombie_101x99.xml"/>
+        <Include href="image/moon_blade_zombie_103x30.xml"/>
+        <Include href="image/moon_blade_zombie_109x31.xml"/>
+        <Include href="image/moon_blade_zombie_10x10.xml"/>
+        <Include href="image/moon_blade_zombie_112x112.xml"/>
+        <Include href="image/moon_blade_zombie_112x17.xml"/>
+        <Include href="image/moon_blade_zombie_113x205.xml"/>
+        <Include href="image/moon_blade_zombie_120x92.xml"/>
+        <Include href="image/moon_blade_zombie_125x216.xml"/>
+        <Include href="image/moon_blade_zombie_126x161.xml"/>
+        <Include href="image/moon_blade_zombie_126x52.xml"/>
+        <Include href="image/moon_blade_zombie_12x12.xml"/>
+        <Include href="image/moon_blade_zombie_12x35.xml"/>
+        <Include href="image/moon_blade_zombie_131x263.xml"/>
+        <Include href="image/moon_blade_zombie_133x130.xml"/>
+        <Include href="image/moon_blade_zombie_134x152.xml"/>
+        <Include href="image/moon_blade_zombie_135x35.xml"/>
+        <Include href="image/moon_blade_zombie_135x8.xml"/>
+        <Include href="image/moon_blade_zombie_137x229.xml"/>
+        <Include href="image/moon_blade_zombie_147x238.xml"/>
+        <Include href="image/moon_blade_zombie_154x47.xml"/>
+        <Include href="image/moon_blade_zombie_159x250.xml"/>
+        <Include href="image/moon_blade_zombie_15x23.xml"/>
+        <Include href="image/moon_blade_zombie_163x60.xml"/>
+        <Include href="image/moon_blade_zombie_163x64.xml"/>
+        <Include href="image/moon_blade_zombie_170x34.xml"/>
+        <Include href="image/moon_blade_zombie_171x262.xml"/>
+        <Include href="image/moon_blade_zombie_172x28.xml"/>
+        <Include href="image/moon_blade_zombie_184x179.xml"/>
+        <Include href="image/moon_blade_zombie_188x85.xml"/>
+        <Include href="image/moon_blade_zombie_18x35.xml"/>
+        <Include href="image/moon_blade_zombie_18x40.xml"/>
+        <Include href="image/moon_blade_zombie_190x109.xml"/>
+        <Include href="image/moon_blade_zombie_191x219.xml"/>
+        <Include href="image/moon_blade_zombie_196x49.xml"/>
+        <Include href="image/moon_blade_zombie_197x94.xml"/>
+        <Include href="image/moon_blade_zombie_198x84.xml"/>
+        <Include href="image/moon_blade_zombie_198x94.xml"/>
+        <Include href="image/moon_blade_zombie_210x106.xml"/>
+        <Include href="image/moon_blade_zombie_21x40.xml"/>
+        <Include href="image/moon_blade_zombie_222x118.xml"/>
+        <Include href="image/moon_blade_zombie_23x23.xml"/>
+        <Include href="image/moon_blade_zombie_23x23_2.xml"/>
+        <Include href="image/moon_blade_zombie_23x23_3.xml"/>
+        <Include href="image/moon_blade_zombie_246x142.xml"/>
+        <Include href="image/moon_blade_zombie_24x26.xml"/>
+        <Include href="image/moon_blade_zombie_24x29.xml"/>
+        <Include href="image/moon_blade_zombie_24x47.xml"/>
+        <Include href="image/moon_blade_zombie_24x91.xml"/>
+        <Include href="image/moon_blade_zombie_263x122.xml"/>
+        <Include href="image/moon_blade_zombie_26x25.xml"/>
+        <Include href="image/moon_blade_zombie_26x25_2.xml"/>
+        <Include href="image/moon_blade_zombie_26x26.xml"/>
+        <Include href="image/moon_blade_zombie_27x27.xml"/>
+        <Include href="image/moon_blade_zombie_27x32.xml"/>
+        <Include href="image/moon_blade_zombie_27x34.xml"/>
+        <Include href="image/moon_blade_zombie_288x99.xml"/>
+        <Include href="image/moon_blade_zombie_28x39.xml"/>
+        <Include href="image/moon_blade_zombie_30x107.xml"/>
+        <Include href="image/moon_blade_zombie_30x30.xml"/>
+        <Include href="image/moon_blade_zombie_31x122.xml"/>
+        <Include href="image/moon_blade_zombie_32x31.xml"/>
+        <Include href="image/moon_blade_zombie_334x334.xml"/>
+        <Include href="image/moon_blade_zombie_33x31.xml"/>
+        <Include href="image/moon_blade_zombie_345x148.xml"/>
+        <Include href="image/moon_blade_zombie_34x29.xml"/>
+        <Include href="image/moon_blade_zombie_34x32.xml"/>
+        <Include href="image/moon_blade_zombie_35x11.xml"/>
+        <Include href="image/moon_blade_zombie_35x29.xml"/>
+        <Include href="image/moon_blade_zombie_35x39.xml"/>
+        <Include href="image/moon_blade_zombie_36x45.xml"/>
+        <Include href="image/moon_blade_zombie_37x24.xml"/>
+        <Include href="image/moon_blade_zombie_37x37.xml"/>
+        <Include href="image/moon_blade_zombie_38x35.xml"/>
+        <Include href="image/moon_blade_zombie_38x38.xml"/>
+        <Include href="image/moon_blade_zombie_38x38_2.xml"/>
+        <Include href="image/moon_blade_zombie_39x144.xml"/>
+        <Include href="image/moon_blade_zombie_39x29.xml"/>
+        <Include href="image/moon_blade_zombie_40x40.xml"/>
+        <Include href="image/moon_blade_zombie_42x31.xml"/>
+        <Include href="image/moon_blade_zombie_42x37.xml"/>
+        <Include href="image/moon_blade_zombie_42x41.xml"/>
+        <Include href="image/moon_blade_zombie_46x40.xml"/>
+        <Include href="image/moon_blade_zombie_48x34.xml"/>
+        <Include href="image/moon_blade_zombie_50x50.xml"/>
+        <Include href="image/moon_blade_zombie_52x31.xml"/>
+        <Include href="image/moon_blade_zombie_53x119.xml"/>
+        <Include href="image/moon_blade_zombie_56x60.xml"/>
+        <Include href="image/moon_blade_zombie_57x151.xml"/>
+        <Include href="image/moon_blade_zombie_58x48.xml"/>
+        <Include href="image/moon_blade_zombie_59x56.xml"/>
+        <Include href="image/moon_blade_zombie_60x66.xml"/>
+        <Include href="image/moon_blade_zombie_61x114.xml"/>
+        <Include href="image/moon_blade_zombie_61x23.xml"/>
+        <Include href="image/moon_blade_zombie_61x63.xml"/>
+        <Include href="image/moon_blade_zombie_64x144.xml"/>
+        <Include href="image/moon_blade_zombie_68x72.xml"/>
+        <Include href="image/moon_blade_zombie_70x71.xml"/>
+        <Include href="image/moon_blade_zombie_71x57.xml"/>
+        <Include href="image/moon_blade_zombie_75x70.xml"/>
+        <Include href="image/moon_blade_zombie_76x61.xml"/>
+        <Include href="image/moon_blade_zombie_76x76.xml"/>
+        <Include href="image/moon_blade_zombie_77x77.xml"/>
+        <Include href="image/moon_blade_zombie_78x81.xml"/>
+        <Include href="image/moon_blade_zombie_79x26.xml"/>
+        <Include href="image/moon_blade_zombie_79x61.xml"/>
+        <Include href="image/moon_blade_zombie_79x69.xml"/>
+        <Include href="image/moon_blade_zombie_8x8.xml"/>
+        <Include href="image/moon_blade_zombie_90x32.xml"/>
+        <Include href="image/moon_blade_zombie_91x91.xml"/>
+        <Include href="image/moon_blade_zombie_93x105.xml"/>
+        <Include href="image/moon_blade_zombie_93x72.xml"/>
+        <Include href="image/moon_blade_zombie_97x65.xml"/>
+        <Include href="sprite/00.xml"/>
+        <Include href="sprite/00_1.xml"/>
+        <Include href="sprite/00_2.xml"/>
+        <Include href="sprite/_dian.xml"/>
+        <Include href="sprite/_particles.xml"/>
+        <Include href="sprite/butter.xml"/>
+        <Include href="sprite/cloak00.xml"/>
+        <Include href="sprite/cloak00_1.xml"/>
+        <Include href="sprite/cloak01.xml"/>
+        <Include href="sprite/cloak01_1.xml"/>
+        <Include href="sprite/flag_stick.xml"/>
+        <Include href="sprite/ground_swatch.xml"/>
+        <Include href="sprite/ink.xml"/>
+        <Include href="sprite/particle_arm.xml"/>
+        <Include href="sprite/particle_head.xml"/>
+        <Include href="sprite/shanke.cn_1_476_30791.xml"/>
+        <Include href="sprite/shanke.cn_1_476_30791_1.xml"/>
+        <Include href="sprite/shanke.cn_1_476_30791_2.xml"/>
+        <Include href="sprite/sprite 37.xml"/>
+        <Include href="sprite/sprite 39.xml"/>
+        <Include href="sprite/sprite 41.xml"/>
+        <Include href="sprite/sprite 43.xml"/>
+        <Include href="sprite/stick2.xml"/>
+        <Include href="sprite/zombie_blade_base.xml"/>
+        <Include href="sprite/zombie_egyptflag_hand_inner3b.xml"/>
+        <Include href="sprite/zombie_egyptflag_hand_inner3c.xml"/>
+        <Include href="sprite/zombie_goggles.xml"/>
+        <Include href="sprite/zombie_hand_outer_01.xml"/>
+        <Include href="sprite/zombie_hand_outer_02.xml"/>
+        <Include href="sprite/zombie_jaw.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_arm_outer_upper_01.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_arm_outer_upper_02.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_knife.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_knife2.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_left dt.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_left foot.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_left hand.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_left jz.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_left ssb.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_left xsb.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_letf xt.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_pg.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_right dt.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_right foot.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_right hand.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_right jz.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_right ssb.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_right sz.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_right xsb.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_right xt.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_right xt_1.xml"/>
+        <Include href="sprite/zombie_kongfu_knife_st.xml"/>
+        <Include href="sprite/zombie_skull.xml"/>
+        <Include href="sprite/zombie_swash_hand_inner3b.xml"/>
+        <Include href="sprite/zombie_swash_hand_inner_01.xml"/>
+        <Include href="sprite/zombie_swash_hand_inner_02.xml"/>
+        <Include href="sprite/zombie_swash_hand_inner_03.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/walk_unused.xml"/>
+        <Include href="label/IWontUseTheEat.xml"/>
+        <Include href="label/unused_eat.xml"/>
+        <Include href="label/walk.xml"/>
+        <Include href="label/pull_start.xml"/>
+        <Include href="label/pull.xml"/>
+        <Include href="label/die.xml"/>
+        <Include href="label/die_moon.xml"/>
+        <Include href="label/particles.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="60" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="60" name="walk_unused" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="194" name="IWontUseTheEat" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="314" duration="90" name="unused_eat" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="404" duration="300" name="walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="704" duration="19" name="pull_start" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="723" duration="55" name="pull" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="778" duration="70" name="die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="848" duration="85" name="die_moon" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="933" duration="1" name="particles" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="59">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="119">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="193">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="313">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="314" duration="21">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="335">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Moon_Blade_Attack");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="336">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:MoonBladeDamage,mX:0,mY:0,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonBladeDamage,mX:64,mY:0,mZ:100,Team:Zombie");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="337" duration="17">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="354">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:MoonBladeDamage,mX:0,mY:0,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonBladeDamage,mX:64,mY:0,mZ:100,Team:Zombie");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="355" duration="27">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="382">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:MoonBladeDamage,mX:0,mY:0,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonBladeDamage,mX:64,mY:0,mZ:100,Team:Zombie");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="383" duration="20">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="403">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="404">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Moon_Blade_Block");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="405" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="464">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Moon_Blade_Block");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="465" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="524">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Moon_Blade_Block");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="525" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="584">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Moon_Blade_Block");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="585" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="644">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Moon_Blade_Block");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="645" duration="57">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="702">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("transform", "IfAlive,TransformArgs[Zombie,moon_blade,KeepHP], Include[moon_blade_guard_type]");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="703">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="704" duration="18">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="722">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="723">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("use_action", "");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="724" duration="21">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="745">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("PlaySample", "Play_Moon_Blade_Attack_Special");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="746">
+                            <Actionscript>
+                                <script><![CDATA[fscommand("spawn_projectile", "Type:MoonBladeDamage,mX:0,mY:0,mZ:100,Team:Zombie");
+fscommand("spawn_projectile", "Type:MoonBladeDamage,mX:64,mY:0,mZ:100,Team:Zombie");]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="747" duration="30">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="777">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="778" duration="69">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="847">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="848" duration="84">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="932">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="933">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/walk_unused" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="194">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/IWontUseTheEat" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="314" duration="90">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/unused_eat" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="404" duration="300">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/walk" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="704" duration="19">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/pull_start" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="723" duration="55">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/pull" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="778" duration="70">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="848" duration="85">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die_moon" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="933" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/particles" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

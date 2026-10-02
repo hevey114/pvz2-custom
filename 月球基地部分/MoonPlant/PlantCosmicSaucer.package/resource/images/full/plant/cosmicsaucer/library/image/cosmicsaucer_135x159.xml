@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/cosmicsaucer_135x159" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="cosmicsaucer_135x159">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/cosmicsaucer_135x159">
+                                    <matrix>
+                                        <Matrix a="1.232906" b="0.000000" c="0.000000" d="1.232906" tx="48.750000" ty="24.950001"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

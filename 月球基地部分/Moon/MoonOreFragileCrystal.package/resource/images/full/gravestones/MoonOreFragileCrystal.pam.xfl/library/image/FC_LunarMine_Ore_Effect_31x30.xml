@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/FC_LunarMine_Ore_Effect_31x30" symbolType="graphic">
+    <timeline>
+        <DOMTimeline name="FC_LunarMine_Ore_Effect_31x30">
+            <layers>
+                <DOMLayer>
+                    <frames>
+                        <DOMFrame index="0">
+                            <elements>
+                                <DOMBitmapInstance libraryItemName="media/FC_LunarMine_Ore_Effect_31x30">
+                                    <matrix>
+                                        <Matrix a="12.235592" b="0.000000" c="0.000000" d="12.235592" tx="-2.350000" ty="-34.099998"/>
+                                    </matrix>
+                                </DOMBitmapInstance>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,572 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_101x102" href="media/zombie_galactic_supernova_imp_101x102.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_101x105" href="media/zombie_galactic_supernova_imp_101x105.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_113x102" href="media/zombie_galactic_supernova_imp_113x102.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_117x110" href="media/zombie_galactic_supernova_imp_117x110.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_118x132" href="media/zombie_galactic_supernova_imp_118x132.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_118x49" href="media/zombie_galactic_supernova_imp_118x49.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_11x18" href="media/zombie_galactic_supernova_imp_11x18.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_120x153" href="media/zombie_galactic_supernova_imp_120x153.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_122x121" href="media/zombie_galactic_supernova_imp_122x121.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_123x125" href="media/zombie_galactic_supernova_imp_123x125.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_125x119" href="media/zombie_galactic_supernova_imp_125x119.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_12x12" href="media/zombie_galactic_supernova_imp_12x12.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_12x12_2" href="media/zombie_galactic_supernova_imp_12x12_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_12x18" href="media/zombie_galactic_supernova_imp_12x18.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_12x18_2" href="media/zombie_galactic_supernova_imp_12x18_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_131x72" href="media/zombie_galactic_supernova_imp_131x72.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_136x128" href="media/zombie_galactic_supernova_imp_136x128.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_146x148" href="media/zombie_galactic_supernova_imp_146x148.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_149x136" href="media/zombie_galactic_supernova_imp_149x136.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_149x63" href="media/zombie_galactic_supernova_imp_149x63.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_14x11" href="media/zombie_galactic_supernova_imp_14x11.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_14x19" href="media/zombie_galactic_supernova_imp_14x19.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_14x24" href="media/zombie_galactic_supernova_imp_14x24.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_14x24_2" href="media/zombie_galactic_supernova_imp_14x24_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_15x24" href="media/zombie_galactic_supernova_imp_15x24.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_15x24_2" href="media/zombie_galactic_supernova_imp_15x24_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_15x24_3" href="media/zombie_galactic_supernova_imp_15x24_3.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_15x24_4" href="media/zombie_galactic_supernova_imp_15x24_4.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_15x25" href="media/zombie_galactic_supernova_imp_15x25.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_161x80" href="media/zombie_galactic_supernova_imp_161x80.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_167x8" href="media/zombie_galactic_supernova_imp_167x8.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_168x166" href="media/zombie_galactic_supernova_imp_168x166.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_170x171" href="media/zombie_galactic_supernova_imp_170x171.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_171x156" href="media/zombie_galactic_supernova_imp_171x156.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_17x22" href="media/zombie_galactic_supernova_imp_17x22.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_17x27" href="media/zombie_galactic_supernova_imp_17x27.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_17x28" href="media/zombie_galactic_supernova_imp_17x28.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_183x64" href="media/zombie_galactic_supernova_imp_183x64.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_18x25" href="media/zombie_galactic_supernova_imp_18x25.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_18x29" href="media/zombie_galactic_supernova_imp_18x29.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_193x194" href="media/zombie_galactic_supernova_imp_193x194.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_19x15" href="media/zombie_galactic_supernova_imp_19x15.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_19x23" href="media/zombie_galactic_supernova_imp_19x23.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_19x25" href="media/zombie_galactic_supernova_imp_19x25.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_1x1" href="media/zombie_galactic_supernova_imp_1x1.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_1x1_2" href="media/zombie_galactic_supernova_imp_1x1_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_20x15" href="media/zombie_galactic_supernova_imp_20x15.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_20x25" href="media/zombie_galactic_supernova_imp_20x25.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_20x35" href="media/zombie_galactic_supernova_imp_20x35.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_212x64" href="media/zombie_galactic_supernova_imp_212x64.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_216x192" href="media/zombie_galactic_supernova_imp_216x192.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_21x25" href="media/zombie_galactic_supernova_imp_21x25.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_21x27" href="media/zombie_galactic_supernova_imp_21x27.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_21x35" href="media/zombie_galactic_supernova_imp_21x35.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_22x25" href="media/zombie_galactic_supernova_imp_22x25.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_22x27" href="media/zombie_galactic_supernova_imp_22x27.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_22x29" href="media/zombie_galactic_supernova_imp_22x29.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_23x18" href="media/zombie_galactic_supernova_imp_23x18.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_23x19" href="media/zombie_galactic_supernova_imp_23x19.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_23x29" href="media/zombie_galactic_supernova_imp_23x29.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_23x36" href="media/zombie_galactic_supernova_imp_23x36.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_24x38" href="media/zombie_galactic_supernova_imp_24x38.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_24x52" href="media/zombie_galactic_supernova_imp_24x52.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_25x29" href="media/zombie_galactic_supernova_imp_25x29.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_27x21" href="media/zombie_galactic_supernova_imp_27x21.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_31x31" href="media/zombie_galactic_supernova_imp_31x31.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_31x32" href="media/zombie_galactic_supernova_imp_31x32.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_35x35" href="media/zombie_galactic_supernova_imp_35x35.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_36x42" href="media/zombie_galactic_supernova_imp_36x42.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_36x43" href="media/zombie_galactic_supernova_imp_36x43.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_36x43_2" href="media/zombie_galactic_supernova_imp_36x43_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_37x43" href="media/zombie_galactic_supernova_imp_37x43.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_38x41" href="media/zombie_galactic_supernova_imp_38x41.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_38x42" href="media/zombie_galactic_supernova_imp_38x42.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_38x48" href="media/zombie_galactic_supernova_imp_38x48.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_38x48_2" href="media/zombie_galactic_supernova_imp_38x48_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_39x36" href="media/zombie_galactic_supernova_imp_39x36.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_39x39" href="media/zombie_galactic_supernova_imp_39x39.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_39x43" href="media/zombie_galactic_supernova_imp_39x43.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_40x37" href="media/zombie_galactic_supernova_imp_40x37.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_40x44" href="media/zombie_galactic_supernova_imp_40x44.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_40x45" href="media/zombie_galactic_supernova_imp_40x45.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_41x49" href="media/zombie_galactic_supernova_imp_41x49.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_41x49_2" href="media/zombie_galactic_supernova_imp_41x49_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_42x45" href="media/zombie_galactic_supernova_imp_42x45.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_42x48" href="media/zombie_galactic_supernova_imp_42x48.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_43x48" href="media/zombie_galactic_supernova_imp_43x48.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_44x40" href="media/zombie_galactic_supernova_imp_44x40.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_44x40_2" href="media/zombie_galactic_supernova_imp_44x40_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_44x49" href="media/zombie_galactic_supernova_imp_44x49.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_44x50" href="media/zombie_galactic_supernova_imp_44x50.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_44x63" href="media/zombie_galactic_supernova_imp_44x63.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_44x67" href="media/zombie_galactic_supernova_imp_44x67.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_47x42" href="media/zombie_galactic_supernova_imp_47x42.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_47x47" href="media/zombie_galactic_supernova_imp_47x47.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_48x47" href="media/zombie_galactic_supernova_imp_48x47.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_48x49" href="media/zombie_galactic_supernova_imp_48x49.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_51x45" href="media/zombie_galactic_supernova_imp_51x45.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_51x52" href="media/zombie_galactic_supernova_imp_51x52.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_51x88" href="media/zombie_galactic_supernova_imp_51x88.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_51x93" href="media/zombie_galactic_supernova_imp_51x93.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_52x34" href="media/zombie_galactic_supernova_imp_52x34.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_52x48" href="media/zombie_galactic_supernova_imp_52x48.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_52x84" href="media/zombie_galactic_supernova_imp_52x84.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_53x59" href="media/zombie_galactic_supernova_imp_53x59.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_54x55" href="media/zombie_galactic_supernova_imp_54x55.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_56x38" href="media/zombie_galactic_supernova_imp_56x38.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_57x108" href="media/zombie_galactic_supernova_imp_57x108.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_57x46" href="media/zombie_galactic_supernova_imp_57x46.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_58x37" href="media/zombie_galactic_supernova_imp_58x37.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_58x76" href="media/zombie_galactic_supernova_imp_58x76.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_59x51" href="media/zombie_galactic_supernova_imp_59x51.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_62x62" href="media/zombie_galactic_supernova_imp_62x62.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_62x64" href="media/zombie_galactic_supernova_imp_62x64.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_62x87" href="media/zombie_galactic_supernova_imp_62x87.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_63x114" href="media/zombie_galactic_supernova_imp_63x114.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_63x50" href="media/zombie_galactic_supernova_imp_63x50.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_64x70" href="media/zombie_galactic_supernova_imp_64x70.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_66x33" href="media/zombie_galactic_supernova_imp_66x33.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_66x91" href="media/zombie_galactic_supernova_imp_66x91.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_68x74" href="media/zombie_galactic_supernova_imp_68x74.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_69x41" href="media/zombie_galactic_supernova_imp_69x41.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_69x54" href="media/zombie_galactic_supernova_imp_69x54.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_69x71" href="media/zombie_galactic_supernova_imp_69x71.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_6x6" href="media/zombie_galactic_supernova_imp_6x6.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_71x46" href="media/zombie_galactic_supernova_imp_71x46.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_71x60" href="media/zombie_galactic_supernova_imp_71x60.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_71x72" href="media/zombie_galactic_supernova_imp_71x72.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_71x74" href="media/zombie_galactic_supernova_imp_71x74.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_73x129" href="media/zombie_galactic_supernova_imp_73x129.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_74x54" href="media/zombie_galactic_supernova_imp_74x54.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_75x81" href="media/zombie_galactic_supernova_imp_75x81.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_75x81_2" href="media/zombie_galactic_supernova_imp_75x81_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_76x67" href="media/zombie_galactic_supernova_imp_76x67.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_78x139" href="media/zombie_galactic_supernova_imp_78x139.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_78x77" href="media/zombie_galactic_supernova_imp_78x77.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_78x79" href="media/zombie_galactic_supernova_imp_78x79.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_79x60" href="media/zombie_galactic_supernova_imp_79x60.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_79x74" href="media/zombie_galactic_supernova_imp_79x74.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_7x7" href="media/zombie_galactic_supernova_imp_7x7.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_80x83" href="media/zombie_galactic_supernova_imp_80x83.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_83x129" href="media/zombie_galactic_supernova_imp_83x129.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_88x104" href="media/zombie_galactic_supernova_imp_88x104.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_91x95" href="media/zombie_galactic_supernova_imp_91x95.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_92x84" href="media/zombie_galactic_supernova_imp_92x84.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_supernova_imp_94x81" href="media/zombie_galactic_supernova_imp_94x81.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zombie_galactic_supernova_imp_101x102.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_101x105.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_113x102.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_117x110.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_118x132.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_118x49.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_11x18.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_120x153.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_122x121.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_123x125.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_125x119.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_12x12.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_12x12_2.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_12x18.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_12x18_2.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_131x72.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_136x128.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_146x148.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_149x136.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_149x63.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_14x11.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_14x19.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_14x24.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_14x24_2.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_15x24.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_15x24_2.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_15x24_3.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_15x24_4.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_15x25.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_161x80.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_167x8.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_168x166.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_170x171.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_171x156.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_17x22.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_17x27.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_17x28.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_183x64.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_18x25.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_18x29.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_193x194.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_19x15.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_19x23.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_19x25.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_1x1.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_1x1_2.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_20x15.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_20x25.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_20x35.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_212x64.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_216x192.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_21x25.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_21x27.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_21x35.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_22x25.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_22x27.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_22x29.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_23x18.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_23x19.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_23x29.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_23x36.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_24x38.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_24x52.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_25x29.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_27x21.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_31x31.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_31x32.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_35x35.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_36x42.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_36x43.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_36x43_2.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_37x43.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_38x41.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_38x42.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_38x48.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_38x48_2.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_39x36.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_39x39.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_39x43.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_40x37.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_40x44.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_40x45.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_41x49.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_41x49_2.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_42x45.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_42x48.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_43x48.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_44x40.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_44x40_2.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_44x49.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_44x50.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_44x63.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_44x67.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_47x42.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_47x47.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_48x47.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_48x49.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_51x45.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_51x52.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_51x88.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_51x93.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_52x34.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_52x48.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_52x84.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_53x59.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_54x55.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_56x38.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_57x108.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_57x46.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_58x37.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_58x76.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_59x51.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_62x62.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_62x64.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_62x87.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_63x114.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_63x50.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_64x70.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_66x33.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_66x91.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_68x74.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_69x41.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_69x54.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_69x71.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_6x6.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_71x46.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_71x60.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_71x72.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_71x74.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_73x129.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_74x54.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_75x81.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_75x81_2.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_76x67.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_78x139.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_78x77.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_78x79.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_79x60.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_79x74.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_7x7.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_80x83.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_83x129.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_88x104.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_91x95.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_92x84.xml"/>
+        <Include href="image/zombie_galactic_supernova_imp_94x81.xml"/>
+        <Include href="sprite/Space.xml"/>
+        <Include href="sprite/Space_1.xml"/>
+        <Include href="sprite/Space_2.xml"/>
+        <Include href="sprite/Space_3.xml"/>
+        <Include href="sprite/Space_4.xml"/>
+        <Include href="sprite/Space_5.xml"/>
+        <Include href="sprite/_particles.xml"/>
+        <Include href="sprite/_zombie_imp_head_top.xml"/>
+        <Include href="sprite/_zombie_imp_head_transition.xml"/>
+        <Include href="sprite/butter.xml"/>
+        <Include href="sprite/emp_blast_dome.xml"/>
+        <Include href="sprite/emp_blast_dome_1.xml"/>
+        <Include href="sprite/emp_blast_dome_2.xml"/>
+        <Include href="sprite/empeach_arc_01.xml"/>
+        <Include href="sprite/empeach_arc_01_1.xml"/>
+        <Include href="sprite/empeach_arc_01_2.xml"/>
+        <Include href="sprite/empeach_arc_01_3.xml"/>
+        <Include href="sprite/empeach_arc_02.xml"/>
+        <Include href="sprite/empeach_arc_02_1.xml"/>
+        <Include href="sprite/empeach_arc_02_2.xml"/>
+        <Include href="sprite/empeach_arc_03.xml"/>
+        <Include href="sprite/empeach_arc_03_1.xml"/>
+        <Include href="sprite/empeach_arc_04.xml"/>
+        <Include href="sprite/empeach_arc_05.xml"/>
+        <Include href="sprite/empeach_arc_05_1.xml"/>
+        <Include href="sprite/empeach_arc_05_2.xml"/>
+        <Include href="sprite/empeach_arc_06.xml"/>
+        <Include href="sprite/empeach_arc_06_1.xml"/>
+        <Include href="sprite/empeach_arc_07.xml"/>
+        <Include href="sprite/empeach_arc_07_1.xml"/>
+        <Include href="sprite/empeach_electric.xml"/>
+        <Include href="sprite/empeach_electric_1.xml"/>
+        <Include href="sprite/empeach_electric_2.xml"/>
+        <Include href="sprite/empeach_electric_3.xml"/>
+        <Include href="sprite/ground_swatch.xml"/>
+        <Include href="sprite/ground_swatch_plane.xml"/>
+        <Include href="sprite/ink.xml"/>
+        <Include href="sprite/particle_arm.xml"/>
+        <Include href="sprite/particle_head.xml"/>
+        <Include href="sprite/plantfood_fx_column_filtered.xml"/>
+        <Include href="sprite/star_base.xml"/>
+        <Include href="sprite/star_base_1.xml"/>
+        <Include href="sprite/star_base_2.xml"/>
+        <Include href="sprite/star_base_3.xml"/>
+        <Include href="sprite/star_base_4.xml"/>
+        <Include href="sprite/star_base_5.xml"/>
+        <Include href="sprite/supernova_wave_1.xml"/>
+        <Include href="sprite/supernova_wave_1_1.xml"/>
+        <Include href="sprite/supernova_wave_2.xml"/>
+        <Include href="sprite/supernova_wave_2_1.xml"/>
+        <Include href="sprite/zombie_imp_arm_inner_lower.xml"/>
+        <Include href="sprite/zombie_imp_arm_inner_upper.xml"/>
+        <Include href="sprite/zombie_imp_arm_inner_upper_1.xml"/>
+        <Include href="sprite/zombie_imp_arm_outer_lower.xml"/>
+        <Include href="sprite/zombie_imp_arm_outer_upper_01.xml"/>
+        <Include href="sprite/zombie_imp_arm_outer_upper_02.xml"/>
+        <Include href="sprite/zombie_imp_arms_outer_upper.xml"/>
+        <Include href="sprite/zombie_imp_hand_inner.xml"/>
+        <Include href="sprite/zombie_imp_hand_outer.xml"/>
+        <Include href="sprite/zombie_imp_helmet.xml"/>
+        <Include href="sprite/zombie_imp_helmet_back.xml"/>
+        <Include href="sprite/zombie_imp_helmet_front.xml"/>
+        <Include href="sprite/zombie_imp_jaw.xml"/>
+        <Include href="sprite/zombie_imp_leg_inner_lower.xml"/>
+        <Include href="sprite/zombie_imp_leg_inner_lower_1.xml"/>
+        <Include href="sprite/zombie_imp_leg_inner_upper.xml"/>
+        <Include href="sprite/zombie_imp_leg_outer_lower.xml"/>
+        <Include href="sprite/zombie_imp_leg_outer_upper.xml"/>
+        <Include href="sprite/zombie_imp_leg_outer_upper_1.xml"/>
+        <Include href="sprite/zombie_imp_pupil.xml"/>
+        <Include href="sprite/zombie_imp_skull.xml"/>
+        <Include href="sprite/zombie_imp_toe_inner.xml"/>
+        <Include href="sprite/zombie_imp_toe_outer.xml"/>
+        <Include href="sprite/zombie_imp_toe_outer_1.xml"/>
+        <Include href="sprite/zombie_imp_torso.xml"/>
+        <Include href="sprite/zombie_imp_waist.xml"/>
+        <Include href="label/idle.xml"/>
+        <Include href="label/walk.xml"/>
+        <Include href="label/eat.xml"/>
+        <Include href="label/die_gunmu.xml"/>
+        <Include href="label/die.xml"/>
+        <Include href="label/die_moon.xml"/>
+        <Include href="label/particles.xml"/>
+        <Include href="label/land.xml"/>
+        <Include href="label/fly.xml"/>
+        <Include href="label/transition.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="60" name="idle" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="60" name="walk" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="128" name="eat" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="248" duration="36" name="die_gunmu" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="284" duration="50" name="die" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="334" duration="70" name="die_moon" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="404" duration="1" name="particles" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="405" duration="30" name="land" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="435" duration="1" name="fly" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="436" duration="37" name="transition" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="59">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="119">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="127">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="247">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="248" duration="35">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="283">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="284" duration="49">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="333">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="334" duration="69">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="403">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="404">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="405" duration="29">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="434">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="435">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="436" duration="36">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="472">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/idle" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/walk" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="128">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/eat" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="248" duration="36">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die_gunmu" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="284" duration="50">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="334" duration="70">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/die_moon" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="404" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/particles" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="405" duration="30">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/land" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="435" duration="1">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/fly" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="436" duration="37">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/transition" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>

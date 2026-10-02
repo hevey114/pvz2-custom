@@ -1,0 +1,180 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390.000000" height="390.000000" xflVersion="2.971">
+    <folders>
+        <DOMFolderItem name="media" isExpanded="true"/>
+        <DOMFolderItem name="image" isExpanded="true"/>
+        <DOMFolderItem name="sprite" isExpanded="true"/>
+        <DOMFolderItem name="label" isExpanded="true"/>
+    </folders>
+    <media>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_109x141" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_109x141.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_110x146" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_110x146.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_111x146" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_111x146.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_119x149" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_119x149.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_119x149_2" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_119x149_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_123x155" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_123x155.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_124x143" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_124x143.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_124x160" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_124x160.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_125x160" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_125x160.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_133x163" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_133x163.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_133x163_2" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_133x163_2.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_32x40" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_32x40.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_39x51" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_39x51.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_48x43" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_48x43.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_61x56" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_61x56.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_6x10" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_6x10.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_6x11" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_6x11.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_80x106" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_80x106.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_81x104" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_81x104.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_85x89" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_85x89.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_8x11" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_8x11.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_93x107" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_93x107.png"/>
+        <DOMBitmapItem name="media/zombie_galactic_mysterio_zomboss_hieroglyph_98x101" href="media/zombie_galactic_mysterio_zomboss_hieroglyph_98x101.png"/>
+    </media>
+    <symbols>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_109x141.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_110x146.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_111x146.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_119x149.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_119x149_2.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_123x155.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_124x143.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_124x160.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_125x160.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_133x163.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_133x163_2.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_32x40.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_39x51.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_48x43.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_61x56.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_6x10.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_6x11.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_80x106.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_81x104.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_85x89.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_8x11.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_93x107.xml"/>
+        <Include href="image/zombie_galactic_mysterio_zomboss_hieroglyph_98x101.xml"/>
+        <Include href="sprite/_zombie_zomboss_head_top.xml"/>
+        <Include href="sprite/damage1_base.xml"/>
+        <Include href="sprite/damage2_base.xml"/>
+        <Include href="sprite/damage3_base.xml"/>
+        <Include href="sprite/damage3_base_1.xml"/>
+        <Include href="sprite/damage3_base_2.xml"/>
+        <Include href="sprite/damage4_base.xml"/>
+        <Include href="sprite/damage4_base_1.xml"/>
+        <Include href="sprite/damage4_base_2.xml"/>
+        <Include href="sprite/infinut_static.xml"/>
+        <Include href="sprite/infinut_static_1.xml"/>
+        <Include href="sprite/undamaged_base.xml"/>
+        <Include href="sprite/zombie_zomboss_jaw.xml"/>
+        <Include href="sprite/zombie_zomboss_skull.xml"/>
+        <Include href="label/undamaged.xml"/>
+        <Include href="label/damage1.xml"/>
+        <Include href="label/damage2.xml"/>
+        <Include href="label/damage3.xml"/>
+        <Include href="label/damage4.xml"/>
+    </symbols>
+    <timelines>
+        <DOMTimeline name="animation">
+            <layers>
+                <DOMLayer name="label">
+                    <frames>
+                        <DOMFrame index="0" duration="60" name="undamaged" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="60" name="damage1" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="60" name="damage2" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="180" duration="60" name="damage3" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="240" duration="60" name="damage4" labelType="name">
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="action">
+                    <frames>
+                        <DOMFrame index="0" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="59">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="119">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="179">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="180" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="239">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="240" duration="59">
+                            <elements/>
+                        </DOMFrame>
+                        <DOMFrame index="299">
+                            <Actionscript>
+                                <script><![CDATA[stop();]]></script>
+                            </Actionscript>
+                            <elements/>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+                <DOMLayer name="instance">
+                    <frames>
+                        <DOMFrame index="0" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/undamaged" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="60" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage1" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="120" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage2" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="180" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage3" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                        <DOMFrame index="240" duration="60">
+                            <elements>
+                                <DOMSymbolInstance libraryItemName="label/damage4" symbolType="graphic" loop="loop"/>
+                            </elements>
+                        </DOMFrame>
+                    </frames>
+                </DOMLayer>
+            </layers>
+        </DOMTimeline>
+    </timelines>
+</DOMDocument>
